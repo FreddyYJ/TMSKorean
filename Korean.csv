@@ -17,174 +17,174 @@ L_KOREAN*###*한국어
 L_CHINESE*###*Chinese (simplified)
 L_JAPANESE*###*Japanese
 E_PLACEHOLDER*###*Place holder
-E_ACCESSORYGEARCOVER*###*Accessory gear cover
-E_AIRCLEANER*###*Air cleaner
-E_AIRFAN*###*Air fan
-E_AIRFILTER*###*Air filter
-E_AIRFILTER_MOUNT*###*Air filter mount
-E_AIRFILTER_OUTER_FEIFEL*###*Feifel outer air filter
-E_AIRFILTER_EXHAUST*###*Air exhaust
-E_AIRFILTER_INHAUST*###*Air inlet
-E_AIRFILTER_PIPE*###*Airfilter pipe
-E_AIRFLOW*###*Air vent
-E_AIRPIPE*###*Air pipe
-E_AIRINTAKEMANIFOLD*###*Air intake manifold
-E_AIRFILTERCOVER*###*Air filter cover
-E_AIRTRANSMISSION*###*Air transmission
-E_AMMOBOX*###*Ammunition box
-E_AMMOBOX_MG*###*MG Ammo box
-E_AMMOMG*###*MG Ammunition
-E_AMMOCONTAINER*###*Ammo Container
-E_AMMORACK_HULL*###*Hull ammo rack
-E_AMMORACK_TURRET*###*Turret ammo rack
-E_ANTENNA*###*Antenna
-E_ANTENNA_REST*###*Antenna rest
-E_ANTENNA_MOUNT*###*Antenna mount
-E_ARMOR_PLATE_TURRET_LEFT*###*Turret left armor plate
-E_ARMOR_PLATE_TURRET_RIGHT*###*Turret right armor plate
-E_ARMOR_PLATE_FRONT*###*Front armour plate
-E_ARMOR_PLATE*###*Armor plate
-E_AUXILIARY_EXHAUST*###*Auxiliary generator muffler
-E_AUXILIARY_GENERATOR*###*Auxiliary generator
-E_AUXILIARY_GENERATORFUELTANK*###*Auxiliary generator fuel tank
-E_AUXILIARY_EXHAUSTPIPE*###*Auxiliary generator exhaust pipe
-E_AUXILIARY_FRAME*###*Auxiliary generator frame
-E_AXLE*###*Axle
-E_AXLE_DRIVE_FRONT*###*Front drive axle
-E_AXLE_DRIVE_REAR*###*Rear drive axle
-E_AXLE_DRIVE_MIDDLE*###*Middle drive axle
-E_AXLE_REAR_UBOLT*###*Rear axle U-bolt
-E_AXLE_REAR_MOUNT*###*Rear axle mount
-E_BACKLIGHT*###*Rear brake light
-E_BACKSHELF*###*Back shelf
-E_BACKTURRETMG*###*Rear Turret MG
-E_BARREL*###*Barrel
-E_BOXSHEELS*###*Box for ammunition shells
-E_BACKREST*###*Backrest
-E_BACKREST_FRAME*###*Backrest frame
-E_BACKREST_COMMANDER*###*Commander’s backrest
-E_BASE*###*Turret base
-E_BASESEAT*###*Turret base seat
-E_BASKET*###*Turret basket
-E_BASKET_CASE*###*Basket
-E_BATTERYBOX*###*Battery box
-E_BATTERYFRAME*###*Battery frame
-E_BATTERY*###*Battery
-E_BATTERY_SHELF*###*Battery shelf
-E_BATTERY_WIRES*###*Battery wires
-E_BODY*###*Engine mainbody
-E_BOGIE_FRAME*###*Bogie frame
-E_BOGIE_ARM*###*Bogie arm
-E_BOGIE_CRAB*###*Bogie crab
-E_BOGIE_FRAME_BRACKET*###*Bogie frame bracket
-E_BOGIE_TUBE_CROSS*###*Bogie cross tube
-E_BOGIE_LEAF_SPRING*###*Double leaf spring bogie
-E_BOX*###*Box
-E_BOX_LID*###*Box lid
-E_BUFFER*###*Buffer
-E_BRACKET*###*Bracket
-E_BRACKETBOLT*###*Bracket bolt
-E_BRACKETCAP*###*Mounting bracket cap
-E_BRACKETPEDAL*###*Pedal bracket
-E_BRAKEDRUMS*###*Brake drum
-E_BRAKEMECHANISM*###*Brake mechanism
-E_BRAKEPEDAL*###*Brake pedal
-E_BREECHBLOCK*###*Breech block
-E_BREECHRING*###*Breech ring
-E_BUMPER*###*Bumper
-E_BUMPER_FRONT*###*Front bumper
-E_BUMPER_REAR*###*Rear bumper
-E_BUMPSPRING*###*Suspension spring
-E_CABLE_IGNITION*###*Ignition cable
-E_CAMSHAFT*###*Camshaft
-E_CAMSHAFT_BEARING*###*Camshaft bearing cap
-E_CAMSHAFT_HOUSING*###*Camshaft housing
-E_CAMSHAFT_HOUSING_LEFT*###*Left camshaft housing
-E_CAMSHAFT_HOUSING_RIGHT*###*Right camshaft housing
-E_CANISTER*###*Canister
-E_CANISTERS*###*Canisters
-E_CANNONBASE*###*Gun mantlet
-E_CANNONBASEATTACHMENT*###*Cannon base attachment
-E_CANNONBASEHOLDER*###*Turret mantlet holder
-E_CANNONBRAKE*###*Cannon recoil brake
-E_CAP*###*Cap
-E_CARBURETOR*###*Carburetor
-E_CARBURETOR_FRONT*###*Front carburetor
-E_CARBURETOR_REAR*###*Rear carburetor
-E_CARBURETOR_HEATING*###*Carburetor heating lines
-E_CASE*###*Case
-E_CASE_LARGE*###*Large case
-E_CHEST*###*Chest
-E_CLAMPINGDEVICE*###*Clamping device
-E_CLUTCH*###*Clutch
-E_CLUTCH_FLANGE*###*Clutch flange
-E_CLUTCH_GASKET*###*Clutch housing gasket
-E_CLUTCH_HOUSING*###*Clutch housing
-E_CLUTCH_PEDAL*###*Clutch pedal
-E_COCKPIT*###*Cockpit
-E_COFFER*###*Coffer
-E_COMMANDERPERISCOPE*###*Commander's periscope
-E_COMMANDERCUPOLA*###*Commander’s cupola
-E_COMMANDERCUPOLA_RING*###*Commander’s cupola ring
-E_COMMANDERCUPOLA_COVER*###*Commander’s cupola cover
-E_COMMANDER_FOOTREST*###*Commander’s footrest
-E_CONNECTINGHOSE*###*Connecting hose
-E_CONTROL*###*Traverse gearbox
-E_COOLANTFILLER*###*Coolant filler
-E_COOLANT_TANK*###*Coolant tank
-E_COOLANT_TANK_SURGE*###*Coolant surge tank
-E_COVER*###*Cover
-E_COVER_BATTERY*###*Battery cover
-E_COVER_TURRET_LEFT*###*Turret left cover
-E_COVER_TURRET_RIGHT*###*Turret right cover
-E_COVER_GEARBOX*###*Gearbox cover
-E_COVER_GEARBOX_TOP*###*Gearbox top cover
-E_COVER_GEARBOX_FRONT*###*Gearbox front cover
-E_COVER_FLYWHEEL*###*Flywheel cover
-E_COVER_FUELTANK_LEFT*###*Right fuel tank cover
-E_COVER_FUELTANK_RIGHT*###*Left fuel tank cover
-E_COVER_GENERATOR*###*Generator cover
-E_COVER_HULL*###*Hull cover
-E_COVER_MAIN*###*Engine main cover
-E_COVER_PROPELLERSHAFT_INSP*###*Drive shaft inspection cover
-E_COVER_PUSHRODS*###*Pushrods cover
-E_COVER_EXHAUSTMANIFOLD*###*Exhaust manifold cover
-E_COVER_SEAT*###*Seat cover
-E_COVER_DIFFERENTIAL*###*Differential cover
-E_COVER_FINALDRIVE*###*Final drive cover
-E_COVER_FINALDRIVE_PLUG*###*Final drive cover plug
-E_COVER_STEERING*###*Steering mechanism cover
-E_COVER_VIEWER*###*Viewer cover
-E_COVER_VALVES*###*Valves cover
-E_COVER_IGNITION*###*Ignition cables cover
-E_COVERS_ENGINE*###*Engine cover
-E_COVERS_ENGINE_INSP*###*Engine inspection cover
-E_COVERS_FANS*###*Fan air vent cover
-E_COVERS_FUEL*###*Fuel tank cover
-E_COVERS_RADIATOR*###*Radiator cover
-E_CRANKSHAFT*###*Crankshaft
-E_CRANKSHAFT_BEARING_CAP*###*Crankshaft bearing cap
-E_CRATE*###*Crate
-E_CROSSBEAM*###*Crossbeam
-E_CYLINDER*###*Cylinder
-E_DASHBOARD*###*Dashboard
-E_DIFFERENTIAL_GEARS*###*Differential gears
-E_DIFFERENTIAL_HOUSING*###*Differential housing
-E_DIPSTICK*###*Dipstick
-E_DOOR*###*Door
-E_DOOR_DRIVER*###*Driver’s door
-E_DOOR_DRIVER_HATCH*###*Driver’s door hatch
-E_DOOR_DRIVER_SIGHT*###*Driver’s door sight
-E_DOOR_ASSISTANT*###*Assistant’s door
-E_DOOR_ASSISTANT_HATCH*###*Assistant’s door hatch
-E_DOOR_ASSISTANT_SIGHT*###*Assistant’s door sight
-E_DOOR_REAR*###*Rear door
-E_DRIVER_SIGHT*###*Driver sight
-E_DRIVERASSISTANTPERISCOPE*###*Driver Assistant's periscope
-E_DRIVERPERISCOPE*###*Driver's periscope
-E_DRIVECHAIN*###*Drive chain
-E_DRUMBRAKE*###*Drum brake
-E_DUALTRACKSUPPORTROLLER*###*Horizontal volute spring
+E_ACCESSORYGEARCOVER*###*기어 장식 덮개*
+E_AIRCLEANER*###*공기 청정기*
+E_AIRFAN*###*환풍기
+E_AIRFILTER*###*공기 필터
+E_AIRFILTER_MOUNT*###*공기 필터 지지대*
+E_AIRFILTER_OUTER_FEIFEL*###*Feifel 외부 공기 필터
+E_AIRFILTER_EXHAUST*###*공기 배출구
+E_AIRFILTER_INHAUST*###*공기 흡입구
+E_AIRFILTER_PIPE*###*공기 필터 파이프
+E_AIRFLOW*###*공기 환풍구
+E_AIRPIPE*###*공기 파이프
+E_AIRINTAKEMANIFOLD*###*공기 흡입 매니폴드
+E_AIRFILTERCOVER*###*공기 필터 덮개
+E_AIRTRANSMISSION*###*공기 확산기
+E_AMMOBOX*###*탄약상자
+E_AMMOBOX_MG*###*기관총 탄약상자
+E_AMMOMG*###*기관총 탄약
+E_AMMOCONTAINER*###*탄약 적재함
+E_AMMORACK_HULL*###*차체 탄약고
+E_AMMORACK_TURRET*###*포탑 탄약고
+E_ANTENNA*###*안테나
+E_ANTENNA_REST*###*안테나 받침대*
+E_ANTENNA_MOUNT*###*안테나 지지대*
+E_ARMOR_PLATE_TURRET_LEFT*###*포탑 좌측 장갑판
+E_ARMOR_PLATE_TURRET_RIGHT*###*포탑 우측 장갑판
+E_ARMOR_PLATE_FRONT*###*전면 장갑판
+E_ARMOR_PLATE*###*장갑판
+E_AUXILIARY_EXHAUST*###*보조 발전기 머플러
+E_AUXILIARY_GENERATOR*###*보조 발전기
+E_AUXILIARY_GENERATORFUELTANK*###*보조 발전기 연료 탱크
+E_AUXILIARY_EXHAUSTPIPE*###*보조 발전기 배기 파이프
+E_AUXILIARY_FRAME*###*보조 발전기 프레임
+E_AXLE*###*차축
+E_AXLE_DRIVE_FRONT*###*전면 구동축
+E_AXLE_DRIVE_REAR*###*후면 구동축
+E_AXLE_DRIVE_MIDDLE*###*중앙 구동축
+E_AXLE_REAR_UBOLT*###*후면 차축 U-볼트
+E_AXLE_REAR_MOUNT*###*후면 차축 지지대
+E_BACKLIGHT*###*후방 브레이크등
+E_BACKSHELF*###*후면 선반
+E_BACKTURRETMG*###*포탑 후방 기관총
+E_BARREL*###*배럴통
+E_BOXSHEELS*###*탄약 상자
+E_BACKREST*###*등받이
+E_BACKREST_FRAME*###*등받이 프레임
+E_BACKREST_COMMANDER*###*전차장 등받이
+E_BASE*###*포탑 토대
+E_BASESEAT*###*포탑 토대 좌석
+E_BASKET*###*포탑 바구니
+E_BASKET_CASE*###*바구니
+E_BATTERYBOX*###*베터리 상자
+E_BATTERYFRAME*###*베터리 프레임
+E_BATTERY*###*베터리
+E_BATTERY_SHELF*###*베터리 선반
+E_BATTERY_WIRES*###*베터리 전선
+E_BODY*###*엔진 본체
+E_BOGIE_FRAME*###*보기 프레임*
+E_BOGIE_ARM*###*보기 암
+E_BOGIE_CRAB*###*보기 크랩
+E_BOGIE_FRAME_BRACKET*###*보기 프레임 선반
+E_BOGIE_TUBE_CROSS*###*보기 튜브
+E_BOGIE_LEAF_SPRING*###*이중 스프링 보기*
+E_BOX*###*상자
+E_BOX_LID*###*상자 뚜껑
+E_BUFFER*###*완충기
+E_BRACKET*###*선반*
+E_BRACKETBOLT*###*선반 볼트
+E_BRACKETCAP*###*선반 덮개
+E_BRACKETPEDAL*###*페달 선반
+E_BRAKEDRUMS*###*브레이크 드럼
+E_BRAKEMECHANISM*###*브레이크 체계
+E_BRAKEPEDAL*###*브레이크 페달
+E_BREECHBLOCK*###*약실 블록
+E_BREECHRING*###*약실 링
+E_BUMPER*###*범퍼
+E_BUMPER_FRONT*###*전면 범퍼
+E_BUMPER_REAR*###*후면 범퍼
+E_BUMPSPRING*###*서스펜션 스프링
+E_CABLE_IGNITION*###*점화 케이블
+E_CAMSHAFT*###*캠샤프트
+E_CAMSHAFT_BEARING*###*캠샤프트 베어링 덮개
+E_CAMSHAFT_HOUSING*###*캠샤프트 하우징
+E_CAMSHAFT_HOUSING_LEFT*###*캠샤프트 좌측 하우징
+E_CAMSHAFT_HOUSING_RIGHT*###*캠샤프트 우측 하우징
+E_CANISTER*###*연료통
+E_CANISTERS*###*연료통
+E_CANNONBASE*###*주포 지지대
+E_CANNONBASEATTACHMENT*###*주포 지지대 부착물
+E_CANNONBASEHOLDER*###*포탑 지지대 홀더
+E_CANNONBRAKE*###*주포 반동 브레이크
+E_CAP*###*뚜껑
+E_CARBURETOR*###*카뷰레터
+E_CARBURETOR_FRONT*###*전면 카뷰레터
+E_CARBURETOR_REAR*###*후면 카뷰레터
+E_CARBURETOR_HEATING*###*카뷰레터 가열선
+E_CASE*###*케이스
+E_CASE_LARGE*###*대형 케이스
+E_CHEST*###*상자
+E_CLAMPINGDEVICE*###*조임 장치
+E_CLUTCH*###*클러치
+E_CLUTCH_FLANGE*###*클러치 플랜지
+E_CLUTCH_GASKET*###*클러치 하우징 개스킷
+E_CLUTCH_HOUSING*###*클러치 하우징
+E_CLUTCH_PEDAL*###*클러치 페달
+E_COCKPIT*###*조종실
+E_COFFER*###*금고
+E_COMMANDERPERISCOPE*###*전차장 잠망경
+E_COMMANDERCUPOLA*###*전차장 큐폴라
+E_COMMANDERCUPOLA_RING*###*전차장 큐폴라 링
+E_COMMANDERCUPOLA_COVER*###*정차장 큐폴라 덮개
+E_COMMANDER_FOOTREST*###*정차장 발판
+E_CONNECTINGHOSE*###*연결 호스
+E_CONTROL*###*변속기 횡단*
+E_COOLANTFILLER*###*냉각수 충전기
+E_COOLANT_TANK*###*냉각수 탱크
+E_COOLANT_TANK_SURGE*###*냉각수 서지 탱크
+E_COVER*###*덮개
+E_COVER_BATTERY*###*베터리 덮개
+E_COVER_TURRET_LEFT*###*포탑 좌측 덮개
+E_COVER_TURRET_RIGHT*###*포탑 우측 덮개
+E_COVER_GEARBOX*###*변속기 덮개
+E_COVER_GEARBOX_TOP*###*변속기 상단 덮개
+E_COVER_GEARBOX_FRONT*###*변속기 전면 덮개
+E_COVER_FLYWHEEL*###*플라이휠 덮개
+E_COVER_FUELTANK_LEFT*###*우측 연료 탱크 덮개
+E_COVER_FUELTANK_RIGHT*###*좌측 연료 탱크 덮개
+E_COVER_GENERATOR*###*발전기 덮개
+E_COVER_HULL*###*차체 덮개
+E_COVER_MAIN*###*엔진 주 덮개
+E_COVER_PROPELLERSHAFT_INSP*###*구동축 덮개*
+E_COVER_PUSHRODS*###*푸쉬로드 덮개
+E_COVER_EXHAUSTMANIFOLD*###*배기 매니폴드 덮개
+E_COVER_SEAT*###*좌석 덮개
+E_COVER_DIFFERENTIAL*###*차동장치 덮개
+E_COVER_FINALDRIVE*###*최종 구동축 덮개
+E_COVER_FINALDRIVE_PLUG*###*최종 구동축 덮개 플러그
+E_COVER_STEERING*###*조향 체계 덮개
+E_COVER_VIEWER*###*관측창 덮개
+E_COVER_VALVES*###*밸브 덮개
+E_COVER_IGNITION*###*가열 케이블 덮개
+E_COVERS_ENGINE*###*엔진 덮개
+E_COVERS_ENGINE_INSP*###*엔진 덮개*
+E_COVERS_FANS*###*환풍기 덮개
+E_COVERS_FUEL*###*연료 탱크 덮개
+E_COVERS_RADIATOR*###*라디에이터 덮개
+E_CRANKSHAFT*###*크랭크샤프트
+E_CRANKSHAFT_BEARING_CAP*###*크랭크샤프트 베어링 뚜껑
+E_CRATE*###*상자
+E_CROSSBEAM*###*크로스빔
+E_CYLINDER*###*실린더
+E_DASHBOARD*###*계기판
+E_DIFFERENTIAL_GEARS*###*차동 기어
+E_DIFFERENTIAL_HOUSING*###*차동장치 하우징
+E_DIPSTICK*###*계량봉
+E_DOOR*###*문
+E_DOOR_DRIVER*###*조종수 문
+E_DOOR_DRIVER_HATCH*###*조종수 해치
+E_DOOR_DRIVER_SIGHT*###*조종수 문 관측창
+E_DOOR_ASSISTANT*###*무전수 문
+E_DOOR_ASSISTANT_HATCH*###*무전수 해치
+E_DOOR_ASSISTANT_SIGHT*###*무전수 문 관측창
+E_DOOR_REAR*###*후방 문
+E_DRIVER_SIGHT*###*조종수 관측창
+E_DRIVERASSISTANTPERISCOPE*###*운전수/조종수 잠망경
+E_DRIVERPERISCOPE*###*조종수 잠망경
+E_DRIVECHAIN*###*구동 체인
+E_DRUMBRAKE*###*브레이크 드럼
+E_DUALTRACKSUPPORTROLLER*###*수평 나선 스프링
 E_ELECTROSTARTER*###*Electro starter
 E_ELECTRICAL_BOX*###*Electrical box
 E_ELECTRICAL_TERMINAL*###*Electrical terminal
