@@ -185,244 +185,244 @@ E_DRIVERPERISCOPE*###*조종수 잠망경
 E_DRIVECHAIN*###*구동 체인
 E_DRUMBRAKE*###*브레이크 드럼
 E_DUALTRACKSUPPORTROLLER*###*수평 나선 스프링
-E_ELECTROSTARTER*###*Electro starter
-E_ELECTRICAL_BOX*###*Electrical box
-E_ELECTRICAL_TERMINAL*###*Electrical terminal
-E_ELEVATING_HANDWHEEL*###*Elevating handwheel
-E_ENGINE*###*Hydraulic traverse unit
-E_ENGINEHATCH*###*Engine hatch
-E_ENGINEHATCH_FRAME*###*Engine hatch frame
-E_ENGINEHATCH_LARGE*###*Large engine hatch
-E_ENGINEHATCH_SMALL*###*Small engine hatch
-E_ENGINE_HOOD*###*Engine hood
-E_ENGINE_BRACKET*###*Engine bracket
-E_ENGINEMOUNT*###*Engine mount
-E_EQUILIBRATORSPRING*###*Equilibrator Spring
-E_EXHAUST*###*Exhaust
-E_EXHAUSTMUFFLER*###*Muffler
-E_EXHAUSTLEFT*###*Left muffler
-E_EXHAUSTRIGHT*###*Right muffler
-E_EXHAUSTMANIFOLD*###*Exhaust manifold
-E_EXHAUSTMANIFOLD_LEFT*###*Left exhaust manifold
-E_EXHAUSTMANIFOLD_RIGHT*###*Right exhaust manifold
-E_EXHAUSTPIPE*###*Exhaust pipe
-E_EXHAUSTPIPE_LEFT*###*Left exhaust pipe
-E_EXHAUSTPIPE_RIGHT*###*Right exhaust pipe
-E_EXHAUSTPIPECOVER*###*Exhaust pipe cover
-E_EXHAUSTDEFLECTOR*###*Exhaust deflector
-E_EXHAUSTTIP*###*Exhaust tip
-E_EXHAUSTELBOW*###*Exhaust elbow
-E_EXTINGUISHER*###*Extinguisher
-E_FAN*###*Fan
-E_FANS*###*Fans
-E_FAN_HUB*###*Fan hub
-E_FAN_SHROUD*###*Fan shroud
-E_FAN_DRIVE*###*Fan drive
-E_FASTENING*###*Fastening
-E_FENDER*###*Fender
-E_FRONTCOVER*###*Front cover
-E_FRONTDRIVEWHEEL*###*Front drive wheel
-E_FINALDRIVE*###*Final drive
-E_FLOOR*###*Floor
-E_FLYWHEEL*###*Flywheel
-E_FRONTLIGHT*###*Front headlight
-E_FRONTLIGHT_COVER*###*Front light cover
-E_FRONTLIGHT_MOUNT*###*Front light mount
-E_FRONTMOUNT*###*Front mount
-E_FRONTPLATE*###*Front armour plate
-E_FRONTSPRINGARM*###*Front spring arm
-E_FUEL_CAP*###*Fuel tank cap
-E_FUEL_CAP_COVER*###*Fuel tank cap cover
-E_FUELCANISTERSLOT*###*Fuel canister holder
-E_FUELFILLER*###*Fuel filler
-E_FUELFILTER*###*Fuel filter
-E_FUELGAGESENDINGUNIT_LEFT*###*Left fuel gage sending unit
-E_FUELGAGESENDINGUNIT_RIGHT*###*Right fuel gage sending unit
-E_FUELHOSE*###*Fuel hose
-E_FUELPUMP*###*Fuel pump
-E_FUELPUMPHOSE*###*Fuel pump hose
-E_FUELTANK*###*Fuel tank
-E_FUELTANK_LEFT*###*Left fuel tank
-E_FUELTANK_RIGHT*###*Right fuel tank
-E_FUELTANK_HORIZONTRAL*###*Horizontal fuel tank
-E_FUELTANK_VERTICAL*###*Vertical fuel tank
-E_FUELTANK_OUTER*###*Outer fuel tank
-E_FUELTANK_HATCH*###*Fuel tank hatch
-E_FUELTANK_BASE*###*Fuel tank base
-E_GASMASK_BOX*###*Gas mask container
-E_GASPEDAL*###*Gas pedal
-E_GEARBOXMAINBODY*###*Gearbox
-E_GEARCOVER*###*Gear cover
-E_GEARMECHANISM*###*Elevating gear mechanism
-E_GEARMECHANISM_ARM*###*Elevating gear arm
-E_GEAR*###*Tools
-E_GEARS*###*Gear
-E_GEARELEMENT*###*Gear element
-E_GENERATOR*###*Generator
-E_GENERATOR_REGULATOR*###*Generator regulator
-E_GOVERNOR*###*Injection pump governor
-E_GRENADELAUNCHER*###*Grenade launcher
-E_GRENADELAUNCHER_LEFT*###*Left grenade launcher
-E_GRENADELAUNCHER_RIGHT*###*Right grenade launcher
-E_GRILLE_FLAP*###*Grille flap
-E_GUDGEONPIN*###*Gudgeon pin
-E_GUN*###*Gun breech
-E_GUN_2*###*Gun
-E_GUN_CRADLE*###*Cannon cradle
-E_GUN_INTERIOR_MANTLET*###*Gun interior mantlet
-E_GUNATTACHMENT*###*Gun attachment
-E_GUNBRAKE*###*Muzzle brake
-E_GUNCOVER*###*Gun cover
-E_GUNPORT*###*Gun port
-E_GUNSOCKET*###*Gun socket
-E_GUNNEROPTICS*###*Gunner optics
-E_GUNNEROPTICSATTACHMENT*###*Gunner optics attachment
-E_GUNTRAVELLOCK*###*Gun travel lock
-E_GUNCOUNTERBALANCE*###*Gun counterbalance
-E_HAMMER*###*Hammer
-E_HANDBRAKE*###*Handbrake
-E_HANDCRANK*###*Hand crank
-E_HANDCRANK_PORT*###*Hand crank port
-E_HANDLEFANCLUTCH*###*Fan clutch handle
-E_HANDLES*###*Handles
-E_HANDRAIL*###*Handrail
-E_HANDWHEEL_ELEVATING*###*Elevating handwheel
-E_HANDWHEEL_TRAVERSE*###*Traverse handwheel
-E_HATCH*###*Hatch
-E_HATCH_AMMO*###*Ammo hatch
-E_HATCH_BRAKEDRUMS*###*Brake drum hatch
-E_HATCH_COMMANDER*###*Commander’s hatch
-E_HATCH_COMMANDER_COVER*###*Commander’s hatch cover
-E_HATCH_COMMANDER_FLAP*###*Commander’s hatch
-E_HATCH_DRIVER*###*Driver’s hatch
-E_HATCH_DRIVERASSISTANT*###*Assistant's hatch
-E_HATCH_EVACUATION*###*Evacuation hatch
-E_HATCH_GEARBOX*###*Gearbox hatch
-E_HATCH_GUNNER*###*Gunner’s hatch
-E_HATCH_LOADER*###*Loader hatch
-E_HATCH_LOADER_LEFT*###*Left Loader's hatch
-E_HATCH_LOADER_RIGHT*###*Right Loader's hatch
-E_HATCH_RADIOOPERATOR*###*Radio operator’s hatch
-E_HATCH_ROOF*###*Roof hatch
-E_HATCH_REAR*###*Rear hatch
-E_HATCH_PERISCOPE*###*Periscope hatch
-E_HATCH_FAN*###*Fan hatch
-E_HINGE*###*Hinge
-E_HOUSINGCOVER*###*Engine head
-E_HOOK*###*Hook
-E_HORN*###*Horn
-E_HULLMG*###*Hull MG
-E_HYDRAULIC_TRAVERSE*###*Hydraulic traverse foot control
-E_IDLER*###*Idler wheel
-E_IDLER_ARM*###*Idler wheel arm
-E_IDLER_POST_BRACE*###*Idler post brace
-E_IDLER_SHACKLE*###*Idler shackle
-E_IDLER_SPRING*###*Idler spring
-E_IDLER_STOP_SCREW*###*Idler stop screw
-E_IDLER_WHEEL_SHAFT*###*Idler wheel shaft
-E_IDLERTRUNNIONSUPPORT*###*Idler wheel trunnion support
-E_IDLERWHEELTRUNNION*###*Idle wheel trunnion
-E_IGNITION*###*Ignition magneto
-E_IGNITION_COIL*###*Ignition coil
-E_IGNITION_COIL_WIRE*###*Ignition coil wire
-E_IGNITION_WIRES*###*Ignition wires
-E_INJECTIONPUMP*###*Injection pump
-E_INJECTIONPUMP_DRIVE*###*Injection pump drive
-E_INERTIASTARTER*###*Inertia starter
-E_INNERSLEEVE*###*Inner barrel sleeve
-E_INSTRUMENTPANEL*###*Instrument panel
-E_INTAKE_SYSTEM*###*Intake system
-E_JACK*###*Jack
-E_LEAFSPRING*###*Leaf spring
-E_LEAFSPRING_PLATE*###*Leaf spring plate
-E_LEVER*###*Lever
-E_LEVER_GEARBOX*###*Gearbox lever
-E_LEVER_STEERING*###*Steering lever
-E_LEVER_STEERING_BRACKET*###*Steering lever bracket
-E_LEVERS_STEERING*###*Steering levers
-E_LEVERS*###*Levers
-E_LINK_DRAG*###*Drag link
-E_LINK_DRAG_BRACKET*###*Drag link bracket
-E_LOADERSPERISCOPE*###*Loader's periscope
-E_LOADER_CUPOLA*###*Loader’s cupola
-E_LOCK*###*Lock handle
-E_LOCK_UPPER*###*Lock upper rod
-E_LOCK_LOWER*###*Lock lower rod
-E_LOCKER*###*Locker
-E_LOCKERDOOR*###*Locker door
-E_MAGNETO*###*Magneto
-E_MANIFOLDS*###*Manifolds
-E_MASTERCYLINDER*###*Master cylinder
-E_MARKER*###*Position marker
-E_MGFIRINGPEDAL*###*MG Firing pedal
-E_MG_CRADLE*###*MG pintle
-E_MG_MOUNT*###*MG pedestal
-E_MG_SHIELD*###*MG shield
-E_MG_BASE*###*MG base
-E_MG_RIM*###*MG rim
-E_MISSILE*###*Missile
-E_MISSILE_SET*###*Missile set
-E_MISSILESTAND*###*Missiles stand
-E_MISSILESTOWAGE*###*Missile stowage
-E_MOTORSHIELD*###*Motor shield
-E_MOTORSHIELD_TURRET*###*Turret motor shield
-E_MOUNTINGBRACKET*###*Mounting bracket
-E_MUDGUARD*###*Mudguard
-E_MUDGUARD_BACK*###*Rear mudguard
-E_MUDGUARD_FRONT*###*Front mudguard
-E_MUDGUARD_SIDE*###*Side mudguard
-E_MUDCLEANERBLADE*###*Mud cleaner blade
-E_MUZZLE_BRAKE_RING*###*Muzzle brake ring
-E_MOUNT*###*Mounting
-E_OIL_CAP*###*Oil cap
-E_OILCONTAINER*###*Oil tank
-E_OILCOOLER*###*Oil cooler
-E_OILCOOLER_LINE*###*Oil cooler line
-E_OILFILLER*###*Oil filler
-E_OILFILLER_TUBE*###*Oil filler tube
-E_OILFILTER*###*Oil filter
-E_OILPAN*###*Oilpan
-E_OILPAN_BREATHER*###*Oilpan breather
-E_OILPAN_FILTER*###*Oil filter
-E_OILSUPPLYTANK*###*Oil supply tank
-E_OIL_TEMPERATURE_REGULATOR*###*Oil temperature regulator
-E_OUTERJACKET*###*Outer barrel jacket
-E_OUTERSLEEVE*###*Outer gun jacket
-E_OUTERSLEEVECOVER*###*Outer sleeve cover
-E_OUTERSLEEVEJACKET*###*Outer sleeve jacket
-E_PANEL*###*Control panel
-E_PANEL_STAND*###*Panel stand
-E_PANEL_CASE*###*Panel case
-E_PARTITION*###*Partition
-E_PEDAL*###*Pedal
-E_PEDALS*###*Pedals
-E_PERISCOPE*###*Periscope
-E_PICKAXE*###*Pickaxe
-E_PIN*###*Pin
-E_PIN_FUEL*###*Fuel tank cap pin
-E_PISTOLPORT*###*Pistol port
-E_PISTON*###*Piston
-E_PISTON_CAP*###*Conrod cap
-E_PISTON_ROD*###*Piston rod
-E_PLATE*###*Plate
-E_PROPELLERSHAFT*###*Drive shaft
-E_PROPELLERSHAFT_COVER*###*Drive shaft cover
-E_PROTECTIVESLEEVE*###*Mantlet protective sleeve
-E_PULLEY*###*Pulley
-E_PULLEY_CRANKSHAFT*###*Crankshaft pulley
-E_PUSHROD*###*Pushrod
-E_RADIATOR*###*Radiator
-E_RADIATOR_CAP*###*Radiator cap
-E_RADIATOR_INLETCONNECTOR*###*Radiator inlet connector
-E_RADIO*###*Radio
-E_RADIO_TRANSMITTER*###*Radio transmitter
-E_RADIO_RECEIVER*###*Radio receiver
-E_RADIO_CASE*###*Radio case
-E_RADIO_POWER*###*Radio power supply
-E_RADIO_CONNECTOR*###*Radio connector
-E_RADIO_MORSE*###*Telegraph
-E_RADIOOPERATOR_SIGHT*###*Radio operator sight
-E_RAILING*###*Railing
+E_ELECTROSTARTER*###*전자식 스타터
+E_ELECTRICAL_BOX*###*전기박스
+E_ELECTRICAL_TERMINAL*###*전기 터미널
+E_ELEVATING_HANDWHEEL*###*수직 회전기
+E_ENGINE*###*유압식 회전 장치
+E_ENGINEHATCH*###*엔진 해치
+E_ENGINEHATCH_FRAME*###*엔진 해치 프레임
+E_ENGINEHATCH_LARGE*###*대형 엔진 해치
+E_ENGINEHATCH_SMALL*###*소형 엔진 해치
+E_ENGINE_HOOD*###*엔진 후드
+E_ENGINE_BRACKET*###*엔진 지지대
+E_ENGINEMOUNT*###*엔진 지지대
+E_EQUILIBRATORSPRING*###*수평 스프링
+E_EXHAUST*###*배기구
+E_EXHAUSTMUFFLER*###*머플러
+E_EXHAUSTLEFT*###*좌측 머플러
+E_EXHAUSTRIGHT*###*우측 머플러
+E_EXHAUSTMANIFOLD*###*배기 매니폴드
+E_EXHAUSTMANIFOLD_LEFT*###*좌측 배기 매니폴드
+E_EXHAUSTMANIFOLD_RIGHT*###*우측 배기 매니폴드
+E_EXHAUSTPIPE*###*배기 파이프
+E_EXHAUSTPIPE_LEFT*###*죄측 배기 파이프
+E_EXHAUSTPIPE_RIGHT*###*우측 배기 파이프
+E_EXHAUSTPIPECOVER*###*배기 파이프 덮개
+E_EXHAUSTDEFLECTOR*###*배기 디플렉터
+E_EXHAUSTTIP*###*배기구 끝
+E_EXHAUSTELBOW*###*배기구 어깨
+E_EXTINGUISHER*###*소화기
+E_FAN*###*팬
+E_FANS*###*팬
+E_FAN_HUB*###*팬 허브
+E_FAN_SHROUD*###*팬 덮개
+E_FAN_DRIVE*###*팬 구동축
+E_FASTENING*###*잠금장치
+E_FENDER*###*팬더
+E_FRONTCOVER*###*전면 덮개
+E_FRONTDRIVEWHEEL*###*전면 구동축
+E_FINALDRIVE*###*최종 구동축
+E_FLOOR*###*바닥
+E_FLYWHEEL*###*플라이휠
+E_FRONTLIGHT*###*전면 헤드라이트
+E_FRONTLIGHT_COVER*###*전면 헤드라이트 덮개
+E_FRONTLIGHT_MOUNT*###*전면 헤드라이트 지지대
+E_FRONTMOUNT*###*전면 지지대
+E_FRONTPLATE*###*전면 장갑판
+E_FRONTSPRINGARM*###*전면 스프링 암
+E_FUEL_CAP*###*연료 탱크 뚜껑
+E_FUEL_CAP_COVER*###*연료 탱크 뚜껑 덮개
+E_FUELCANISTERSLOT*###*연료통 홀더
+E_FUELFILLER*###*연료 충전기
+E_FUELFILTER*###*연료 필터
+E_FUELGAGESENDINGUNIT_LEFT*###*좌측 연료 게이지 송신 장치
+E_FUELGAGESENDINGUNIT_RIGHT*###*우측 연료 게이지 송신 장치
+E_FUELHOSE*###*연료 호스
+E_FUELPUMP*###*연료 펌프
+E_FUELPUMPHOSE*###*연료 펌프 호스
+E_FUELTANK*###*연료 탱크
+E_FUELTANK_LEFT*###*좌측 연료 탱크
+E_FUELTANK_RIGHT*###*우측 연료 탱크
+E_FUELTANK_HORIZONTRAL*###*수평 연료 탱크
+E_FUELTANK_VERTICAL*###*수직 연료 탱크
+E_FUELTANK_OUTER*###*외부 연료 탱크
+E_FUELTANK_HATCH*###*연료 탱크 해치
+E_FUELTANK_BASE*###*연료 탱크 지지대
+E_GASMASK_BOX*###*방독면 보관함
+E_GASPEDAL*###*가스 페달
+E_GEARBOXMAINBODY*###*변속기
+E_GEARCOVER*###*변속기 덮개
+E_GEARMECHANISM*###*변속 체계
+E_GEARMECHANISM_ARM*###*변속기 암
+E_GEAR*###*도구
+E_GEARS*###*변속기
+E_GEARELEMENT*###*변속기 부품
+E_GENERATOR*###*발전기
+E_GENERATOR_REGULATOR*###*발전기 조절 장치
+E_GOVERNOR*###*주입 펌프 제어기
+E_GRENADELAUNCHER*###*유탄 발사기
+E_GRENADELAUNCHER_LEFT*###*좌측 유탄 발사기
+E_GRENADELAUNCHER_RIGHT*###*우측 유탄 발사기
+E_GRILLE_FLAP*###*그릴 플랩
+E_GUDGEONPIN*###*피스톤 연결 핀
+E_GUN*###*주포 장전대
+E_GUN_2*###*주포
+E_GUN_CRADLE*###*주포 지지대
+E_GUN_INTERIOR_MANTLET*###*내부 주포 포방패
+E_GUNATTACHMENT*###*주포 부착물
+E_GUNBRAKE*###*포구 제퇴기
+E_GUNCOVER*###*주포 덮개
+E_GUNPORT*###*총 사격용 구멍
+E_GUNSOCKET*###*총 소켓
+E_GUNNEROPTICS*###*주포 조준경
+E_GUNNEROPTICSATTACHMENT*###*주포 조준경 부착물
+E_GUNTRAVELLOCK*###*주포 고정 장치
+E_GUNCOUNTERBALANCE*###*주포 수평 장치
+E_HAMMER*###*해머
+E_HANDBRAKE*###*핸드브레이크
+E_HANDCRANK*###*핸드크랭크
+E_HANDCRANK_PORT*###*핸드크랭크 포트
+E_HANDLEFANCLUTCH*###*팬 클러치 핸들
+E_HANDLES*###*손잡이
+E_HANDRAIL*###*난간
+E_HANDWHEEL_ELEVATING*###*수직 회전기
+E_HANDWHEEL_TRAVERSE*###*수평 회전기
+E_HATCH*###*해치
+E_HATCH_AMMO*###*탄약 해치
+E_HATCH_BRAKEDRUMS*###*브레이크 드럼 해치
+E_HATCH_COMMANDER*###*전차장 해치
+E_HATCH_COMMANDER_COVER*###*전차장 해치 덮개
+E_HATCH_COMMANDER_FLAP*###*전차장 해치
+E_HATCH_DRIVER*###*조종수 해치
+E_HATCH_DRIVERASSISTANT*###*무전수 해치
+E_HATCH_EVACUATION*###*대피용 해치
+E_HATCH_GEARBOX*###*변속기 해치
+E_HATCH_GUNNER*###*포수 해치
+E_HATCH_LOADER*###*장전수 해치
+E_HATCH_LOADER_LEFT*###*좌측 장전수 해치
+E_HATCH_LOADER_RIGHT*###*우측 장전수 해치
+E_HATCH_RADIOOPERATOR*###*무전수 해치
+E_HATCH_ROOF*###*상판 해치
+E_HATCH_REAR*###*후방 해치
+E_HATCH_PERISCOPE*###*잠망경 해치
+E_HATCH_FAN*###*환풍기 해치
+E_HINGE*###*경첩
+E_HOUSINGCOVER*###*엔진 헤드
+E_HOOK*###*갈고리
+E_HORN*###*경적
+E_HULLMG*###*차체 기관총
+E_HYDRAULIC_TRAVERSE*###*유압식 회전장치 제어용 발판
+E_IDLER*###*아이들러 휠
+E_IDLER_ARM*###*아이들러 휠 암
+E_IDLER_POST_BRACE*###*아이들러 휠 죔쇠
+E_IDLER_SHACKLE*###*아이들러 휠 샤클
+E_IDLER_SPRING*###*아이들러 휠 스프링
+E_IDLER_STOP_SCREW*###*아이들러 휠 정지 나사*
+E_IDLER_WHEEL_SHAFT*###*아이들러 휠 축
+E_IDLERTRUNNIONSUPPORT*###*아이들러 휠 고정 장치 보조
+E_IDLERWHEELTRUNNION*###*아이들러 휠 고정 장치
+E_IGNITION*###*점화 마그네틱
+E_IGNITION_COIL*###*점화 코일
+E_IGNITION_COIL_WIRE*###*점화 코일 전선
+E_IGNITION_WIRES*###*점화 전선
+E_INJECTIONPUMP*###*주입 펌프
+E_INJECTIONPUMP_DRIVE*###*주입 펌프 구동축
+E_INERTIASTARTER*###*관성 스타터
+E_INNERSLEEVE*###*내부 배럴통
+E_INSTRUMENTPANEL*###*계기판
+E_INTAKE_SYSTEM*###*흡입 체계
+E_JACK*###*잭
+E_LEAFSPRING*###*리프 스프링
+E_LEAFSPRING_PLATE*###*리프 판스프링
+E_LEVER*###*레버
+E_LEVER_GEARBOX*###*변속기 레버
+E_LEVER_STEERING*###*조향 레버
+E_LEVER_STEERING_BRACKET*###*조향 레버 지지대
+E_LEVERS_STEERING*###*조향 레버
+E_LEVERS*###*레버
+E_LINK_DRAG*###*드래그 링크
+E_LINK_DRAG_BRACKET*###*드래그 링크 지지대
+E_LOADERSPERISCOPE*###*장전수 잠망경
+E_LOADER_CUPOLA*###*장전수 큐폴라
+E_LOCK*###*잠금 장치 손잡이
+E_LOCK_UPPER*###*상단 잠금 막대기
+E_LOCK_LOWER*###*하단 잠금 막대기
+E_LOCKER*###*락커
+E_LOCKERDOOR*###*락커 문
+E_MAGNETO*###*자석
+E_MANIFOLDS*###*매니폴드
+E_MASTERCYLINDER*###*주 실린더
+E_MARKER*###*위치 표시기
+E_MGFIRINGPEDAL*###*기관총 사격 페달
+E_MG_CRADLE*###*기관총 핀틀
+E_MG_MOUNT*###*기관총 받침대
+E_MG_SHIELD*###*기관총 포방패
+E_MG_BASE*###*기관총 지지대
+E_MG_RIM*###*기관총 테두리
+E_MISSILE*###*미사일
+E_MISSILE_SET*###*미사일 묶음
+E_MISSILESTAND*###*미사일 거치대
+E_MISSILESTOWAGE*###*미사일 적재함
+E_MOTORSHIELD*###*모터 덮개
+E_MOTORSHIELD_TURRET*###*포탑 모터 덮개
+E_MOUNTINGBRACKET*###*마운팅 브래킷
+E_MUDGUARD*###*머드가드
+E_MUDGUARD_BACK*###*후면 머드가드
+E_MUDGUARD_FRONT*###*전면 머드가드
+E_MUDGUARD_SIDE*###*측면 머드가드
+E_MUDCLEANERBLADE*###*진흙 제거용 날
+E_MUZZLE_BRAKE_RING*###*포구 제퇴기 테두리
+E_MOUNT*###*마운팅
+E_OIL_CAP*###*오일 뚜껑
+E_OILCONTAINER*###*오일 탱크
+E_OILCOOLER*###*오일 냉각기
+E_OILCOOLER_LINE*###*오일 냉각 전선
+E_OILFILLER*###*오일 주입기
+E_OILFILLER_TUBE*###*오일 주입 튜브
+E_OILFILTER*###*오일 필터
+E_OILPAN*###*오일팬
+E_OILPAN_BREATHER*###*오일팬 브리더
+E_OILPAN_FILTER*###*오일 필터
+E_OILSUPPLYTANK*###*오일 공급 탱크
+E_OIL_TEMPERATURE_REGULATOR*###*오일 온도 조절기
+E_OUTERJACKET*###*외부 배럴통 덮개
+E_OUTERSLEEVE*###*외부 기관총 덮개
+E_OUTERSLEEVECOVER*###*외부 슬리브 덮개
+E_OUTERSLEEVEJACKET*###*외부 슬리브 덮개
+E_PANEL*###*제어판
+E_PANEL_STAND*###*패널 스탠드
+E_PANEL_CASE*###*패널 케이스
+E_PARTITION*###*칸막이
+E_PEDAL*###*페달
+E_PEDALS*###*페달
+E_PERISCOPE*###*잠망경
+E_PICKAXE*###*곡괭이
+E_PIN*###*핀
+E_PIN_FUEL*###*연료 탱크 뚜껑 핀
+E_PISTOLPORT*###*권총 포트
+E_PISTON*###*피스톤
+E_PISTON_CAP*###*콘로드 뚜껑
+E_PISTON_ROD*###*피스톤 로드
+E_PLATE*###*판
+E_PROPELLERSHAFT*###*구동축
+E_PROPELLERSHAFT_COVER*###*구동축 덮개
+E_PROTECTIVESLEEVE*###*포방패 보호 슬리브
+E_PULLEY*###*풀리
+E_PULLEY_CRANKSHAFT*###*크랭크샤프트 풀리
+E_PUSHROD*###*푸쉬로드
+E_RADIATOR*###*라디에이터
+E_RADIATOR_CAP*###*라디에이터 뚜껑
+E_RADIATOR_INLETCONNECTOR*###*라디에이터 흡입 커넥터
+E_RADIO*###*무전기
+E_RADIO_TRANSMITTER*###*무선 송신기
+E_RADIO_RECEIVER*###*무선 수신기
+E_RADIO_CASE*###*무전기 케이스
+E_RADIO_POWER*###*무전기 전원 공급기
+E_RADIO_CONNECTOR*###*무전기 커넥터
+E_RADIO_MORSE*###*전신기
+E_RADIOOPERATOR_SIGHT*###*무전수 관측창
+E_RAILING*###*난간
 E_REARDRIVEWHEEL*###*Rear drive wheel
 E_RECOILCYLINDERS*###*Recoil cylinders
 E_RECOVERYHOOK*###*Recovery hook
