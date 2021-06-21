@@ -423,32 +423,32 @@ E_RADIO_CONNECTOR*###*무전기 커넥터
 E_RADIO_MORSE*###*전신기
 E_RADIOOPERATOR_SIGHT*###*무전수 관측창
 E_RAILING*###*난간
-E_REARDRIVEWHEEL*###*Rear drive wheel
-E_RECOILCYLINDERS*###*Recoil cylinders
-E_RECOVERYHOOK*###*Recovery hook
-E_REDUCER*###*Reducer
-E_ROADWHEEL_WIDE*###*Wide road wheel
-E_ROADWHEEL_NARROW*###*Narrow road wheel
-E_ROADWHEEL*###*Road wheel
-E_ROADWHEEL_SINGLE_OUTER*###*Outer road wheel (I)
-E_ROADWHEEL_SINGLE_INNER*###*Inner road wheel (I)
-E_ROADWHEEL_DOUBLE_OUTER*###*Outer road wheel (II)
-E_ROADWHEEL_DOUBLE_INNER*###*Inner road wheel (II)
-E_ROADWHEELARM*###*Road wheel arm
-E_ROADWHEELARM_FRONT*###*Front road wheel arm
-E_ROD*###*Rod
-E_ROD_TIE*###*Tie rod
-E_ROD_THROTTLE*###*Throttle rod
-E_ROLL*###*Roller wheel
-E_ROLL_DUAL*###*Dual rollers
-E_ROLL_SINGLE*###*Single roller
-E_ROLLSUPPORT*###*Roll wheel support
-E_ROLLSUPPORT_DUAL*###*Dual roll support
-E_ROLLSUPPORT_SINGLE*###*Single roll support
-E_ROLLERBEARING*###*Roller bearing
-E_ROTATIONCONTACTDEVICE*###*Rotation contact device
-E_SINGLEWHEELSPACER*###*Single wheel spacer
-E_DOUBLEWHEELSPACER*###*Double wheel spacer
+E_REARDRIVEWHEEL*###*후방 구동륜
+E_RECOILCYLINDERS*###*반동 실린더
+E_RECOVERYHOOK*###*구난 훅
+E_REDUCER*###*환원기
+E_ROADWHEEL_WIDE*###*넓은 보기륜
+E_ROADWHEEL_NARROW*###*얇은 보기륜
+E_ROADWHEEL*###*보기륜
+E_ROADWHEEL_SINGLE_OUTER*###*외부 보기륜 (I)
+E_ROADWHEEL_SINGLE_INNER*###*내부 보기륜 (I)
+E_ROADWHEEL_DOUBLE_OUTER*###*외부 보기륜 (II)
+E_ROADWHEEL_DOUBLE_INNER*###*내부 보기륜 (II)
+E_ROADWHEELARM*###*보기륜 암
+E_ROADWHEELARM_FRONT*###*전면 보기륜 암
+E_ROD*###*로드
+E_ROD_TIE*###*타이 로드
+E_ROD_THROTTLE*###*스로틀 로드
+E_ROLL*###*롤러 휠
+E_ROLL_DUAL*###*두꺼운 롤러
+E_ROLL_SINGLE*###*얇은 롤러
+E_ROLLSUPPORT*###*롤러 휠 부품
+E_ROLLSUPPORT_DUAL*###*두꺼운 롤러 부품
+E_ROLLSUPPORT_SINGLE*###*얇은 롤러 부품
+E_ROLLERBEARING*###*롤러 휠 베어링
+E_ROTATIONCONTACTDEVICE*###*회전 접촉 장치
+E_SINGLEWHEELSPACER*###*얇은 보기륜 스페이서
+E_DOUBLEWHEELSPACER*###*두꺼운 보기륜 스페이서
 E_SAW*###*Saw
 E_SEAT*###*Seat
 E_SEAT_ASSIST*###*Assistant's seat
