@@ -813,7 +813,7 @@ M_HULL*###*차체
 M_HULLINTERIOR*###*차체 내부
 M_TURRET*###*포탑
 M_TURRETINTERIOR*###*포탑 내부
-M_WHEELS*###*기동
+M_WHEELS*###*현가장치
 M_TRACKS*###*궤도
 M_ENGINE*###*엔진
 M_GEARBOX*###*변속기
@@ -849,7 +849,7 @@ M_ANALISYS_CONDITION_GEARBOX*###*변속기 상태:
 M_ANALISYS_CONDITION_ENGINE*###*엔진 상태:
 M_ANALISYS_CONDITION_FUELSYSTEM*###*연료 체계 상태:
 M_ANALISYS_CONDITION_TRACKS*###*궤도 상태:
-M_ANALISYS_CONDITION_WHEELS*###*기동부 상태:
+M_ANALISYS_CONDITION_WHEELS*###*현가장치 상태:
 M_PAINTROOM_PANEL*###*도색 패널
 M_PAINTROOM_DECALS*###*데칼
 M_PAINTROOM_DECORATORS*###*장식
@@ -906,357 +906,357 @@ M_CUSTOMIZER_TOSCALEDECAL*###*데칼 크기 조절
 M_CUSTOMIZER_TOROTATEDECAL*###*데칼 회전
 M_CUSTOMIZER_TOROTATE_LEFT*###*왼쪽으로 회전
 M_CUSTOMIZER_TOROTATE_RIGHT*###*오른쪽으로 회전
-M_DESKTOP_TANKMUSEUM*###*Tank Museum
-M_DESKTOP_MAILBOX*###*Mailbox
-M_DESKTOP_ORGANIZER*###*Organizer
-M_DESKTOP_TANKSPARTSHOP*###*Tank’s Part Shop
-M_DESKTOP_TANKSSHOP*###*Tank’s Shop
-M_DESKTOP_INVENTORYSHOP*###*Inventory Shop
-M_DESKTOP_BANK*###*Bank
-M_DESKTOP_CATEGORIES*###*Categories
-M_DESKTOP_TANKSUMMARY*###*Tank Summary
-M_DESKTOP_CONDITION*###*Condition:
-M_DESKTOP_EXTRA*###*Extras:
-M_DESKTOP_RUSTED*###*Rusted
-M_DESKTOP_DIRTY*###*Dirty
-M_DESKTOP_SANDBLASTED*###*Sandblasted
-M_DESKTOP_PRIMED*###*Primed
-M_DESKTOP_PAINTED*###*Painted
-M_DESKTOP_SHOP_CART*###*Cart
-M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS*###*Renovated tanks
-M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS_DESC*###*Renovated tanks in the museum
-M_DESKTOP_TANKMUSEUM_RENTEDTANKS*###*Rented tanks
-M_DESKTOP_TANKMUSEUM_RENTEDTANKS_DESC*###*Rented tanks to other the museums
-M_DESKTOP_TANKMUSEUM_FINANCIALREPORT*###*Financial report
-M_DESKTOP_TANKMUSEUM_FINANCIALREPORT_DESC*###*Financial report of museum
-M_DESKTOP_TANKMUSEUM_SETTICKETPRICE*###*Set the ticket price ($):
-M_DESKTOP_TANKMUSEUM_SETTICKETPRICE_DESC*###*Please note that if you set the price too high it may affect the number of visitors.
-M_DESKTOP_TANKMUSEUM_TICKETPRICE*###*Ticket price:
-M_DESKTOP_TANKMUSEUM_VISITORSCURRENTLY*###*Museum visitors (currently):
-M_DESKTOP_TANKMUSEUM_VISITORSTOTAL*###*Museum visitors (total):
-M_DESKTOP_TANKMUSEUM_INCOMERENTS*###*Income from rents ($):
-M_DESKTOP_TANKMUSEUM_INCOMETICKETS*###*Income from tickets ($):
-M_DESKTOP_TANKMUSEUM_INCOMESTOTAL*###*Incomes total ($):
-M_DESKTOP_TANKMUSEUM_DAY*###*day
-M_DESKTOP_TANKMUSEUM_TODAY*###*Today
-M_DESKTOP_TANKMUSEUM_REMAININGTIME*###*Remaining time (days):
-M_DESKTOP_TANKMUSEUM_TICKETSALESCHART*###*Ticket sales chart:
-M_DESKTOP_TANKMUSEUM_ACCOUNTINGPERIODS*###*Accounting periods
-M_DESKTOP_TANKMUSEUM_VISITORS*###*Museum visitors
-M_DESKTOP_TANKMUSEUM_NEXTREPORT*###*Next report in: 
-M_DESKTOP_MAIL_SUBJECT*###*Subject
-M_DESKTOP_MAIL_FROM*###*From
-M_DESKTOP_MAIL_DATE*###*Date
-M_DESKTOP_MAIL_FOLDERS*###*Folders
-M_DESKTOP_MAIL_CHECKEMAILS*###*Check for new emails
-M_DESKTOP_MAIL_ALL*###*All contracts
-M_DESKTOP_MAIL_AVAILABLE*###*Available contracts
-M_DESKTOP_MAIL_ACTIVE*###*Active contracts
-M_DESKTOP_MAIL_ACCEPT*###*Accept Job
-M_DESKTOP_MAIL_FINISHED*###*Finished contracts
-M_DESKTOP_MAIL_CANCELLED*###*Cancelled contracts
-M_DESKTOP_MAIL_FAILED*###*Failed contracts
-M_DESKTOP_MAIL_ORDER_ACCEPT*###*Accept the order
-M_DESKTOP_MAIL_ORDER_DECLINE*###*Decline the order
-M_DESKTOP_MAIL_OFFER_ACCEPT*###*Accept the offer
-M_DESKTOP_MAIL_OFFER_DECLINE*###*Decline the offer
-M_DESKTOP_ORGANIZER_ACTIVECONTRACTS*###*Active contracts
-M_DESKTOP_BANK_TAKELOAN*###*Take Loan
-M_DESKTOP_BANK_PAYOFFLOAN*###*Pay Off Loan
-M_DESKTOP_BANK_DESCRIPTION*###*Use the slider below to set the loan amount. At one moment you can have only one loan active. Until you pay off current loan, you cannot take another loan.\n\nTo take loan:\nSet the loan amount and click Take Loan button, when the conditions satisfy your needs.\n\nTo pay off loan:\nIf you have enough money you can pay off the loan by pressing the pay-off loan button.
-M_DESKTOP_BANK_SETLOANAMOUNT*###*Set loan amount
-M_DESKTOP_BANK_LOANAMOUNT*###*Loan amount:
-M_DESKTOP_BANK_LOANPERCENTAGE*###*Loan percentage:
-M_DESKTOP_BANK_PAYOFFAMOUNT*###*Pay off amount:
-M_DESKTOP_INVENTORYSHOP_BRANCH_TOOLS*###*Tools
-M_DESKTOP_INVENTORYSHOP_BRANCH_BUSINESS*###*Business
-M_DESKTOP_INVENTORYSHOP_BRANCH_PASSIVE*###*Passive
-M_DESKTOP_INVENTORYSHOP_UPGRADE_UNLOCK*###*Unlock upgrade
-M_DESKTOP_INVENTORYSHOP_UPGRADE_COST*###*Upgrade reputation cost
-M_DESKTOP_INVENTORYSHOP_UPGRADE_REPUTATION*###*Available reputation
-M_DESKTOP_INVENTORYSHOP_UPGRADE_PANEL*###*Upgrade panel
-M_DESKTOP_INVENTORYSHOP_FLASHLIGHT_DESC*###*Flashlight allows you to see your surroundings in areas without light.
-M_DESKTOP_INVENTORYSHOP_SHOVEL_DESC*###*One of the required extraction tools. Allows digging in ground without any money requirement.
-M_DESKTOP_INVENTORYSHOP_METALDETECTOR_DESC*###*One of the required extraction tools. Allows detecting any metal object hidden underneath the ground.
-M_DESKTOP_INVENTORYSHOP_TABLET_DESC*###*Tablet allows you to quickly access the control panel remotely.
-M_DESKTOP_INVENTORYSHOP_ANGLEGRINDER_DESC*###*Angle grinder allows you to merge 2 tools into one - cutting off elements with rusted bolts and grinding the rust off the elements.
-M_DESKTOP_INVENTORYSHOP_PISTOLWRENCH_DESC*###*Pistol wrench allows you to assemble or disassemble element screws faster. It also allows unscrewing rusted bolts.
-M_DESKTOP_INVENTORYSHOP_OFFROADVEHICLE_DESC*###*One of the required extraction vehicles. Allows movement in harsh terrain with all required extraction tools during the extraction mission.
-M_DESKTOP_INVENTORYSHOP_QUAD_DESC*###*Quad allows even faster and more agile movement in the extraction missions.
-M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_TITLE*###*Magnetometer
-M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_DESC*###*Magnetometer allows more ground scanning techniques and features.
-M_DESKTOP_INVENTORYSHOP_DRONE_DESC*###*Drone allows scanning the ground from the air, using magnetometer techniques.
-M_DESKTOP_INVENTORYSHOP_TOOLBELT_TITLE*###*Tool belt
-M_DESKTOP_INVENTORYSHOP_TOOLBELT_DESC*###*Allows to use the workshop tools without picking them up.
-M_DESKTOP_INVENTORYSHOP_PAINTROOM_DESC*###*Paint room allows you to paint the tank, select camouflage patterns, apply decals and decorators onto the tank.
-M_DESKTOP_INVENTORYSHOP_PARKING_I_TITLE*###*Parking level 1
-M_DESKTOP_INVENTORYSHOP_PARKING_II_TITLE*###*Parking level 2
-M_DESKTOP_INVENTORYSHOP_PARKING_I_DESC*###*Parking level 1 allows more tank slots in your warehouse (+2).
-M_DESKTOP_INVENTORYSHOP_PARKING_II_DESC*###*Parking level 2 allows even more tank slots in your warehouse (+4).
-M_DESKTOP_INVENTORYSHOP_MUSEUM_I_TITLE*###*Museum level 1
-M_DESKTOP_INVENTORYSHOP_MUSEUM_II_TITLE*###*Museum level 2
-M_DESKTOP_INVENTORYSHOP_MUSEUM_III_TITLE*###*Museum level 3
-M_DESKTOP_INVENTORYSHOP_MUSEUM_I_DESC*###*Museum level 1 allows you to show your tanks to the public! This museum level has slots for 4 tanks.
-M_DESKTOP_INVENTORYSHOP_MUSEUM_II_DESC*###*Museum level 2 allows even more slots for your tanks to be shown to the public! This museum level has slots for 8 tanks.
-M_DESKTOP_INVENTORYSHOP_MUSEUM_III_DESC*###*Museum level 3 is the final version of first museum room, with 4 more tank slots (12 total).
-M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_TITLE*###*Tank Warehouse
-M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_DESC*###*A place where you can park your tanks, each level has 6 slots. Max unlock level is 100, your level is {0}.
-M_DESKTOP_INVENTORYSHOP_TESTDRIVEYARD_DESC*###*Test drive yard allows you to take your tanks to a test drive on a special obstacle course.
-M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_TITLE*###*Crafting table
-M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_DESC*###*The crafting table allows you to craft new parts for the tanks. Each part has its own crafting parts number requirement.
-M_DESKTOP_INVENTORYSHOP_AUTOPAINT_TITLE*###*Auto-paint
-M_DESKTOP_INVENTORYSHOP_AUTOPAINT_DESC*###*Auto-paint allows you to automaticly paint a tank without the need of manual work with sandblaster or paint gun.
-M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_TITLE*###*Workshop level 2
-M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_DESC*###*Workshop level 2 allows you to have more tanks being repaired at the same time by adding more workspace and tank slots in the warehouse (+2).
-M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_TITLE*###*Proving Grounds
-M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_DESC*###*Allows to take tank to a shooting range
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_I_TITLE*###*Winter 1941 Sale
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_II_TITLE*###*Summer 1942 Sale
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_III_TITLE*###*Autumn 1943 Sale
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_DESC*###*All shop transactions have a discount of: {0} %
-M_DESKTOP_INVENTORYSHOP_QUICKHANDS_TITLE*###*Quick hands
-M_DESKTOP_INVENTORYSHOP_QUICKHANDS_DESC*###*Screwing bolts is now faster by: {0} %
-M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_TITLE*###*Better repairs
-M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_DESC*###*All outsource repairs are done quicker and with lower cost of: {0} %
-M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_TITLE*###*Professional Restorer
-M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_DESC*###*Reputation gained is increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_TITLE*###*Move like Panzerjaeger
-M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_DESC*###*Movement speed increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_TITLE*###*Tools proficiency
-M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_DESC*###*All tools efficiency is increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_RECYCLING_TITLE*###*Recycling
-M_DESKTOP_INVENTORYSHOP_RECYCLING_DESC*###*Crafting parts gained increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_MONEY_TITLE*###*Increased Money
-M_DESKTOP_INVENTORYSHOP_MONEY_DESC*###*Gained money increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_OWNED*###*Owned
-M_DESKTOP_INVENTORYSHOP_EXTRACTIONONLY*###*(extraction missions)
-M_SAVE_NAME*###*Save name
-M_SAVE_COLORSWATCH*###*Save color swatch
-M_SAVE_PAINTSCHEME*###*Save paint scheme
-M_SAVE_TYPE_FILENAME*###*Type a file name
-M_SAVE_AUTO*###*Auto save
-M_SAVE_CUSTOM*###*Custom save
-M_SAVE_QUICK*###*Quick save
-M_LOAD_QUICK*###*Quick load
-M_MANUAL_1_TITLE*###*HOW TO BE SUCCESSFULL TANK RESTORER
-M_MANUAL_2_TITLE*###*GAME FLOW
-M_MANUAL_3_TITLE*###*TANK RESTORATION PROCESS
-M_MANUAL_4_TITLE*###*INTERACTION SYSTEM
-M_MANUAL_5_TITLE*###*SHOVEL DIGGING
-M_MANUAL_6_TITLE*###*METAL DETECTING
-M_MANUAL_7_TITLE*###*MAGNETOMETER
-M_MANUAL_8_TITLE*###*DRONE
-M_MANUAL_9_TITLE*###*OFFROAD VEHICLE
-M_MANUAL_10_TITLE*###*QUAD
-M_MANUAL_11_TITLE*###*GRINDER
-M_MANUAL_12_TITLE*###*HAMMER
-M_MANUAL_13_TITLE*###*RUST REMOVAL TOOL
-M_MANUAL_14_TITLE*###*WRENCH PISTOL
-M_MANUAL_1_FIELD_1*###*Accept contracts
-M_MANUAL_1_FIELD_2*###*Renovate vehicles
-M_MANUAL_1_FIELD_3*###*Profit
-M_MANUAL_2_FIELD_1*###*Check mail for potential contracts
-M_MANUAL_2_FIELD_2*###*Accept or decline any contract
-M_MANUAL_2_FIELD_3*###*Types of contracts
-M_MANUAL_2_FIELD_4*###*Renovate tank in workshop
-M_MANUAL_2_FIELD_5*###*Finish the contract
-M_MANUAL_3_FIELD_1*###*Disassemble all tank elements
-M_MANUAL_3_FIELD_2*###*Repair tank elements
-M_MANUAL_3_FIELD_3*###*Buy or craft missing tank elements
-M_MANUAL_3_FIELD_4*###*Assemble all elements
-M_MANUAL_3_FIELD_5*###*Remove rust from tank
-M_MANUAL_3_FIELD_6*###*Apply Primer / Paint / Camo
-M_MANUAL_3_FIELD_7*###*Finish the restoration process
-M_MANUAL_4_FIELD_1*###*Pick up interactable object
-M_MANUAL_4_FIELD_2*###*Leave the interactable object
-M_MANUAL_4_FIELD_3*###*Selecting tank element
-M_MANUAL_4_FIELD_4*###*Disassembling tank element
-M_MANUAL_4_FIELD_5*###*Move the object
-M_MANUAL_4_FIELD_6*###*Interactive menu (radial)
-M_MANUAL_5_FIELD_1*###*Pick up Shovel
-M_MANUAL_5_FIELD_2*###*Dig
-M_MANUAL_6_FIELD_1*###*Pick up Metal Detector
-M_MANUAL_6_FIELD_2*###*Detecting
-M_MANUAL_7_FIELD_1*###*Pick up a Magnetometer
-M_MANUAL_7_FIELD_2*###*Scan area in search of a potential tank
-M_MANUAL_8_FIELD_1*###*Use Tablet to control Drone
-M_MANUAL_8_FIELD_2*###*Use Drone to scan area to find a tank
-M_MANUAL_11_FIELD_1*###*Pick up grinder
-M_MANUAL_11_FIELD_2*###*Grinding
-M_MANUAL_11_FIELD_3*###*Switching grinding mode
-M_MANUAL_12_FIELD_1*###*Pick up hammer
-M_MANUAL_12_FIELD_2*###*Hammer time
-M_MANUAL_12_FIELD_3*###*Hit until element falls off
-M_MANUAL_13_FIELD_1*###*Pick up Rust removal tool
-M_MANUAL_13_FIELD_2*###*Brushing
-M_MANUAL_14_FIELD_1*###*Pick up Wrench Pistol
-M_MANUAL_14_FIELD_2*###*Removing the screws
-M_MANUAL_INFO_1*###*Each contract has full restoration purpose or repairs only a few parts.
-M_MANUAL_INFO_2*###*When contract is completed restored tank depends of contract type is yours or it gets back to the contractor.
-M_MANUAL_INFO_3*###*Finish the contract and the tank gets back to the contractor
-M_MANUAL_INFO_4*###*Put the tank into the museum
-M_MANUAL_INFO_5*###*Sell the tank
-M_MANUAL_INFO_6*###*Aim at any object
-M_MANUAL_INFO_7*###*Use LMB
-M_MANUAL_INFO_8*###*Use RMB
-M_MANUAL_INFO_9*###*Aim at any tank element
-M_MANUAL_INFO_10*###*Hold RMB
-M_MANUAL_INFO_11*###*Aim at any point on terrain
-M_MANUAL_INFO_12*###*While using metal detector keep a closer at pointer position and detector sound.
-M_MANUAL_INFO_13*###*No metal object around
-M_MANUAL_INFO_14*###*Metal object detected
-M_MANUAL_INFO_15*###*Metal object is very close
-M_MANUAL_INFO_16*###*Click on map to send Drone to position
-M_MANUAL_INFO_17*###*Legend
-M_MANUAL_INFO_18*###*Prexx X button to swtich grinding mode
-M_MANUAL_INFO_19*###*Cutting
-M_MANUAL_INFO_20*###*Grinding and removing rust
-M_MANUAL_INFO_21*###*While the tank element is selected
-M_MANUAL_INFO_22*###*With a Wrench Pistol screws can be removed faster. Rusty bolts can also be unscrewed.
-M_MANUAL_INFO_23*###*Aim at the screw
-M_MANUAL_REPEAT*###*REPEAT
-M_MANUAL_BEFORE*###*BEFORE
-M_MANUAL_AFTER*###*AFTER
-M_MENU_START*###*Start
-M_MENU_OVERVIEW*###*Overview
-M_MENU_LOCATIONS*###*Locations
-M_MENU_EXTRAS*###*Extras
-M_MENU_MANUAL*###*Manual
-M_MENU_CREDITS*###*Credits
+M_DESKTOP_TANKMUSEUM*###*전차 박물관
+M_DESKTOP_MAILBOX*###*메일함
+M_DESKTOP_ORGANIZER*###*작업
+M_DESKTOP_TANKSPARTSHOP*###*전차 부품 상점
+M_DESKTOP_TANKSSHOP*###*전차 상점
+M_DESKTOP_INVENTORYSHOP*###*스킬 상점
+M_DESKTOP_BANK*###*은행
+M_DESKTOP_CATEGORIES*###*카테고리
+M_DESKTOP_TANKSUMMARY*###*전차 요약
+M_DESKTOP_CONDITION*###*상태:
+M_DESKTOP_EXTRA*###*기타:
+M_DESKTOP_RUSTED*###*때 제거 완료
+M_DESKTOP_DIRTY*###*더러움
+M_DESKTOP_SANDBLASTED*###*모래 분사 완료
+M_DESKTOP_PRIMED*###*프라이머칠 완료
+M_DESKTOP_PAINTED*###*도색 완료
+M_DESKTOP_SHOP_CART*###*장바구니
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS*###*재생된 전차
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS_DESC*###*박물관에 보관된 재생된 전차
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS*###*대여한 전차
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS_DESC*###*다른 박물관에 대여한 전차
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT*###*재무 보고
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT_DESC*###*박물관 재무 보고
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE*###*표 가격 설정($):
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE_DESC*###*표 가격을 너무 올리면 방문객들의 수에 영향을 미칠 겁니다.
+M_DESKTOP_TANKMUSEUM_TICKETPRICE*###*표 가격:
+M_DESKTOP_TANKMUSEUM_VISITORSCURRENTLY*###*박물관 방문객 (현재):
+M_DESKTOP_TANKMUSEUM_VISITORSTOTAL*###*박물관 방문객 (총합):
+M_DESKTOP_TANKMUSEUM_INCOMERENTS*###*대여 수익($):
+M_DESKTOP_TANKMUSEUM_INCOMETICKETS*###*매표 수익($):
+M_DESKTOP_TANKMUSEUM_INCOMESTOTAL*###*수익 총합($):
+M_DESKTOP_TANKMUSEUM_DAY*###*한나절
+M_DESKTOP_TANKMUSEUM_TODAY*###*오늘
+M_DESKTOP_TANKMUSEUM_REMAININGTIME*###*남은 시간(일):
+M_DESKTOP_TANKMUSEUM_TICKETSALESCHART*###*매표 차트:
+M_DESKTOP_TANKMUSEUM_ACCOUNTINGPERIODS*###*회계 기간
+M_DESKTOP_TANKMUSEUM_VISITORS*###*박물관 방문객
+M_DESKTOP_TANKMUSEUM_NEXTREPORT*###*다음 보고까지 남은 시간: 
+M_DESKTOP_MAIL_SUBJECT*###*제목
+M_DESKTOP_MAIL_FROM*###*보낸 사람
+M_DESKTOP_MAIL_DATE*###*날짜
+M_DESKTOP_MAIL_FOLDERS*###*폴더
+M_DESKTOP_MAIL_CHECKEMAILS*###*새 이메일 확인하기
+M_DESKTOP_MAIL_ALL*###*모든 의뢰
+M_DESKTOP_MAIL_AVAILABLE*###*가능한 의뢰
+M_DESKTOP_MAIL_ACTIVE*###*활성화된 의뢰
+M_DESKTOP_MAIL_ACCEPT*###*작업 수락
+M_DESKTOP_MAIL_FINISHED*###*완료한 의뢰
+M_DESKTOP_MAIL_CANCELLED*###*취소된 의뢰
+M_DESKTOP_MAIL_FAILED*###*실패한 의뢰
+M_DESKTOP_MAIL_ORDER_ACCEPT*###*주문 수락
+M_DESKTOP_MAIL_ORDER_DECLINE*###*주문 거절
+M_DESKTOP_MAIL_OFFER_ACCEPT*###*제안 수락
+M_DESKTOP_MAIL_OFFER_DECLINE*###*제안 거절
+M_DESKTOP_ORGANIZER_ACTIVECONTRACTS*###*의뢰 수락
+M_DESKTOP_BANK_TAKELOAN*###*대출
+M_DESKTOP_BANK_PAYOFFLOAN*###*대출 상환
+M_DESKTOP_BANK_DESCRIPTION*###*대출할 돈을 설정하려면 아래 슬라이더를 이용하세요. 한 번에 하나의 대출만 가능합니다. 즉, 현재 대출을 모두 상환할 때까지 다른 대출을 받을 수 없습니다. 대출을 받으려면:\n당신의 상황과 필요에 따라, 대출할 돈을 설정하고 대출 버튼을 누르세요.\n\n대출을 상환하려면:\n충분한 돈이 있다면, 대출 상환 버튼을 눌러 대출을 상환할 수 있습니다.
+M_DESKTOP_BANK_SETLOANAMOUNT*###*대출할 돈 설정
+M_DESKTOP_BANK_LOANAMOUNT*###*대출한 돈:
+M_DESKTOP_BANK_LOANPERCENTAGE*###*대출 비율:
+M_DESKTOP_BANK_PAYOFFAMOUNT*###*상환한 돈:
+M_DESKTOP_INVENTORYSHOP_BRANCH_TOOLS*###*도구
+M_DESKTOP_INVENTORYSHOP_BRANCH_BUSINESS*###*사업
+M_DESKTOP_INVENTORYSHOP_BRANCH_PASSIVE*###*패시브
+M_DESKTOP_INVENTORYSHOP_UPGRADE_UNLOCK*###*업그레이드 해제
+M_DESKTOP_INVENTORYSHOP_UPGRADE_COST*###*경험치 소모량 업그레이드
+M_DESKTOP_INVENTORYSHOP_UPGRADE_REPUTATION*###*경험치 업그레이드
+M_DESKTOP_INVENTORYSHOP_UPGRADE_PANEL*###*업그레이드 패널
+M_DESKTOP_INVENTORYSHOP_FLASHLIGHT_DESC*###*플래시라이트는 조명 없이 주변을 볼 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_SHOVEL_DESC*###*필수적인 발굴 도구 중 하나입니다. 아무 비용 없이 땅을 팔 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_METALDETECTOR_DESC*###*필수적인 발굴 도구 중 하나입니다. 땅 속에 숨어있는 아무 금속이든 탐지할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_TABLET_DESC*###*태블릿은 어디서든지 쉽게 컨트롤 패널에 접근할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_ANGLEGRINDER_DESC*###*각진 그라인더는 2가지 도구를 하나로 합쳤습니다-부품을 잘라내거나 부품에서 흙을 제거할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_PISTOLWRENCH_DESC*###*피스톨 렌치는 나사를 더 빠르게 조이거나 풀 수 있습니다. 또 녹슬어서 풀리지 않는 나사를 풀 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_OFFROADVEHICLE_DESC*###*발굴에 필수적인 차량입니다. 발굴 임무 동안 모든 도구들을 싣고 거친 지형도 이동할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_QUAD_DESC*###*쿼드는 발굴 임무 동안 더 빠르고 민첩하게 이동할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_TITLE*###*자기 탐지기
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_DESC*###*자기 탐지기는 땅 속을 탐지할 수 있는 더 나은 새로운 방법을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_DRONE_DESC*###*드론은 자기 탐지 기술을 활용하여, 공중에서 탐지합니다.
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_TITLE*###*도구 벨트
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_DESC*###*작업장 도구를 직접 들지 않고도 사용할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_PAINTROOM_DESC*###*도색실은 전차를 도색하고, 위장 패턴을 선택하고, 데칼과 장식을 적용할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_PARKING_I_TITLE*###*주차장 레벨 1
+M_DESKTOP_INVENTORYSHOP_PARKING_II_TITLE*###*주차장 레벨 2
+M_DESKTOP_INVENTORYSHOP_PARKING_I_DESC*###*주차장 레벨 1은 차고에 전차 슬롯을 제공합니다(+2).
+M_DESKTOP_INVENTORYSHOP_PARKING_II_DESC*###*주차장 레벨 2는 차고에 더 많은 전차 슬롯을 제공합니다(+4).
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_TITLE*###*박물관 레벨 1
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_TITLE*###*박물관 레벨 2
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_TITLE*###*박물관 레벨 3
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_DESC*###*박물관 레벨 1은 당신의 전차를 대중에 전시할 수 있게 해줍니다! 이 박물관 레벨은 4대의 전차를 위한 슬롯을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_DESC*###*박물관 레벨 2는 더 많은 전차를 대중에 전시할 수 있게 해줍니다! 이 박물관 레벨은 8대의 전차를 위한 슬롯을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_DESC*###*박물관 레벨 3은 첫 번째 박물관의 마지막 버전으로, 슬롯 4개를 추가합니다(총합 12개).
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_TITLE*###*전차 차고
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_DESC*###*전차를 주차할 수 있는 공간으로 각 레벨은 6개의 슬롯이 있습니다. 최대 레벨은 100이고, 현재 레벨은 {0}입니다.
+M_DESKTOP_INVENTORYSHOP_TESTDRIVEYARD_DESC*###*운전 시험장은 전차를 특별한 코스를 운전하여 시험 운전을 해볼 수 있는 공간입니다.
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_TITLE*###*제작대
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_DESC*###*제작대는 전차를 위한 부품을 제작할 수 있게 해줍니다. 각 부품을 제작하려면 정해진 양의 부품 조각이 필요합니다.
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_TITLE*###*자동 도색
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_DESC*###*자동 도색은 직접 모래 분사나 도색 없이 전차를 자동으로 도색해 줍니다.
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_TITLE*###*작업장 레벨 2
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_DESC*###*작업장 레벨 2은 작업장에 추가 공간과 전차 슬롯을 제공하여 더 많은 전차를 작업할 수 있게 해줍니다(+2).
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_TITLE*###*사격 시험장
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_DESC*###*전차를 사격 시험장에 가져갈 수 있게 됩니다.
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_I_TITLE*###*1941년 겨울 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_II_TITLE*###*1942년 여름 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_III_TITLE*###*1943년 가을 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_DESC*###*상점의 모든 물건 할인율: {0} %
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_TITLE*###*빠른손
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_DESC*###*{0}%만큼 나사를 빠르게 조일 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_TITLE*###*더 나은 수리
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_DESC*###*모든 부품 수리는 더 빨라지고 {0}%만큼 더 저렴해집니다.
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_TITLE*###*프로 정비공
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_DESC*###*{0}%만큼 경험치 획득량이 증가합니다.
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_TITLE*###*구축전차처럼
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_DESC*###*{0}%만큼 이동 속도가 증가합니다.
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_TITLE*###*도구 효율
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_DESC*###*{0}%만큼 도구 효율이 증가합니다.
+M_DESKTOP_INVENTORYSHOP_RECYCLING_TITLE*###*재활용
+M_DESKTOP_INVENTORYSHOP_RECYCLING_DESC*###*{0}%만큼 부품 조각 획득량이 증가합니다.
+M_DESKTOP_INVENTORYSHOP_MONEY_TITLE*###*늘어난 자금
+M_DESKTOP_INVENTORYSHOP_MONEY_DESC*###*{0}%만큼 작업 수익이 증가합니다.
+M_DESKTOP_INVENTORYSHOP_OWNED*###*보유함
+M_DESKTOP_INVENTORYSHOP_EXTRACTIONONLY*###*(발굴 임무용)
+M_SAVE_NAME*###*세이브 이름
+M_SAVE_COLORSWATCH*###*색 견본 저장
+M_SAVE_PAINTSCHEME*###*도안 저장
+M_SAVE_TYPE_FILENAME*###*파일 이름 입력
+M_SAVE_AUTO*###*자동 저장
+M_SAVE_CUSTOM*###*커스텀 저장
+M_SAVE_QUICK*###*빠른 저장
+M_LOAD_QUICK*###*빠른 불러오기
+M_MANUAL_1_TITLE*###*성공적인 전차 수리공이 되려면
+M_MANUAL_2_TITLE*###*게임 흐름
+M_MANUAL_3_TITLE*###*전차 복원 순서
+M_MANUAL_4_TITLE*###*상호작용 시스템
+M_MANUAL_5_TITLE*###*삽으로 파기
+M_MANUAL_6_TITLE*###*금속 탐지
+M_MANUAL_7_TITLE*###*자기 탐지기
+M_MANUAL_8_TITLE*###*드론
+M_MANUAL_9_TITLE*###*오프로드 차량
+M_MANUAL_10_TITLE*###*쿼드
+M_MANUAL_11_TITLE*###*그라인더
+M_MANUAL_12_TITLE*###*해머
+M_MANUAL_13_TITLE*###*흙 제거 도구
+M_MANUAL_14_TITLE*###*피스톨 렌치
+M_MANUAL_1_FIELD_1*###*의뢰 수락하기
+M_MANUAL_1_FIELD_2*###*전차 복원하기
+M_MANUAL_1_FIELD_3*###*수익 남기기
+M_MANUAL_2_FIELD_1*###*의뢰를 확인하기 위해 이메일 확인하기
+M_MANUAL_2_FIELD_2*###*의뢰 수락 혹은 거절하기
+M_MANUAL_2_FIELD_3*###*의뢰의 종류
+M_MANUAL_2_FIELD_4*###*작업장에서 전차 복원하기
+M_MANUAL_2_FIELD_5*###*의뢰 완료하기
+M_MANUAL_3_FIELD_1*###*모든 전차 부품 해체하기
+M_MANUAL_3_FIELD_2*###*전차 부품 수리하기
+M_MANUAL_3_FIELD_3*###*없는 전차 부품은 구매하거나 제작하기
+M_MANUAL_3_FIELD_4*###*모든 부품 조립하기
+M_MANUAL_3_FIELD_5*###*전차에서 흙 제거하기
+M_MANUAL_3_FIELD_6*###*프라이머/도색/위장 적용하기
+M_MANUAL_3_FIELD_7*###*복원 순서 완료하기
+M_MANUAL_4_FIELD_1*###*상호작용 가능한 물체 줍기
+M_MANUAL_4_FIELD_2*###*상호작용 가능한 물체 놓기
+M_MANUAL_4_FIELD_3*###*전차 부품 선택하기
+M_MANUAL_4_FIELD_4*###*전차 부품 해체하기
+M_MANUAL_4_FIELD_5*###*물체 이동하기
+M_MANUAL_4_FIELD_6*###*상호작용 메뉴(방사형)
+M_MANUAL_5_FIELD_1*###*삽 줍기
+M_MANUAL_5_FIELD_2*###*파기
+M_MANUAL_6_FIELD_1*###*금속 탐지기 줍기
+M_MANUAL_6_FIELD_2*###*탐지하기
+M_MANUAL_7_FIELD_1*###*자기 탐지기 줍기
+M_MANUAL_7_FIELD_2*###*전차가 있을 만한 곳 스캔하기
+M_MANUAL_8_FIELD_1*###*태블릿을 사용하여 드론 제어하기
+M_MANUAL_8_FIELD_2*###*드론을 이용하여 지역을 탐색하여 전차 찾기
+M_MANUAL_11_FIELD_1*###*그라인더 줍기
+M_MANUAL_11_FIELD_2*###*그라인딩하기
+M_MANUAL_11_FIELD_3*###*그라인드 모드 바꾸기
+M_MANUAL_12_FIELD_1*###*해머 들기
+M_MANUAL_12_FIELD_2*###*휘두를 준비하기
+M_MANUAL_12_FIELD_3*###*부품이 떨어질 때까지 때리기
+M_MANUAL_13_FIELD_1*###*흙 제거 도구 들기
+M_MANUAL_13_FIELD_2*###*흙 제거하기
+M_MANUAL_14_FIELD_1*###*피스톨 렌치 들기
+M_MANUAL_14_FIELD_2*###*나사 제거하기
+M_MANUAL_INFO_1*###*각 의뢰는 모두 복원해야 할 수도 있고, 몇몇 부품만 수리해도 될 수도 있습니다.
+M_MANUAL_INFO_2*###*의뢰를 완료하려면 전차를 완전히 복원해야 하는데, 당신이나 의뢰인이 정한 의뢰 종류에 따라 다릅니다.
+M_MANUAL_INFO_3*###*의뢰를 완료하면 전차는 다시 의뢰인에게 돌아갑니다.
+M_MANUAL_INFO_4*###*전차를 박물관에 전시
+M_MANUAL_INFO_5*###*전차 판매
+M_MANUAL_INFO_6*###*아무 물체나 조준
+M_MANUAL_INFO_7*###*마우스 좌클릭
+M_MANUAL_INFO_8*###*마우스 우클릭
+M_MANUAL_INFO_9*###*아무 전차 부품이나 조준
+M_MANUAL_INFO_10*###*마우스 우클릭 유지
+M_MANUAL_INFO_11*###*지표면 아무 곳이나 조준
+M_MANUAL_INFO_12*###*금속 탐지기를 쓸 때는 계기판 바늘과 탐지 소리에 집중하세요.
+M_MANUAL_INFO_13*###*주변에 금속 물체 없음
+M_MANUAL_INFO_14*###*금속 물체 탐지됨
+M_MANUAL_INFO_15*###*금속 물체가 매우 가까움
+M_MANUAL_INFO_16*###*맵을 클릭해 위치로 드론 보내기
+M_MANUAL_INFO_17*###*볌례
+M_MANUAL_INFO_18*###*그라인드 모드를 전환하려면 X 누르기
+M_MANUAL_INFO_19*###*자르기
+M_MANUAL_INFO_20*###*그라인딩해서 흙 제거
+M_MANUAL_INFO_21*###*전차 부품이 선택된 동안
+M_MANUAL_INFO_22*###*피스톨 렌치를 사용하면 더 빠르게 나사를 제거할 수 있습니다. 녹슨 나사도 제거할 수 있습니다.
+M_MANUAL_INFO_23*###*나사 조준
+M_MANUAL_REPEAT*###*다시시작
+M_MANUAL_BEFORE*###*이전으로
+M_MANUAL_AFTER*###*다음으로
+M_MENU_START*###*시작
+M_MENU_OVERVIEW*###*개요
+M_MENU_LOCATIONS*###*위치
+M_MENU_EXTRAS*###*기타
+M_MENU_MANUAL*###*메뉴얼
+M_MENU_CREDITS*###*크레딧
 M_MENU_GAMECREDITS*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
-M_MENU_SETTINGS*###*Settings
-M_MENU_PATCHNOTES*###*Patch notes
-M_MENU_CHECKOUT*###*Check out this projects
-M_MENU_EXIT*###*Exit
-M_MENU_PROFILES*###*Profiles
-M_MENU_PROFILE_NEW*###*New profile
-M_MENU_PROFILE_DELETE*###*Do you really want to delete {0} profile?
-M_MENU_PROFILE_MONEY*###*Money: {0}
-M_MENU_PROFILE_REPUTATION*###*Reputation: {0}
-M_MENU_PROFILE_TANKS*###*Tanks: {0}
-M_MENU_PROFILE_LASTSAVEDATE*###*Last Save: {0}
-M_MENU_PROFILE_DEFAULT*###*Dev profile
-M_MENU_PROFILE_RESET*###*Do you really want to reset {0} profile?
-M_MENU_SUPPORT*###*Support
-M_MENU_SUPPORT_STEAMCOMMUNITYDESC*###*If you have a suggestion and you would like to share your thoughs. Visit our steam discussions page:
-M_MENU_SUPPORT_STEAMCLICK*###*Click here to open Steam Discussions
-M_MENU_SUPPORT_MAILDESC*###*You can also write to us. We will be happy to hear your comments and critics.
-M_MENU_SUPPORT_TMSDISCORDDESC*###*If you want to meet more Tank Mechanics consider joining to our Official Tank Mechanic Simulator Community Discord:
-M_MENU_SUPPORT_TMSDISCORD*###*Tank Mechanic Simulator Official Discord
-M_MENU_SUPPORT_TMSFEEDBACKDESC*###*If you found a bug or have a suggestion / feature wish / request. Please report it on our tracker page.
-M_MENU_SUPPORT_TMSFEEDBACK*###*Tank Mechanic Simulator Feedback Tracker
-M_MENU_POINTS*###*Points:
-M_MENU_ACCEPT*###*Accept
-M_MENU_CANCEL*###*Cancel
-M_MENU_QUIT_QUESTION*###*Do you really want to quit?
-M_OVERVIEW_TITLE*###*Content
-M_OVERVIEW_VEHICLES*###*Vehicles
-M_OVERVIEW_INSPECTOR*###*Inspector
-M_OVERVIEW_LIGHTING*###*Lighting
-M_OVERVIEW_LIGHTINGCAMERA*###*Lighting & Camera
-M_OVERVIEW_DIRLIGHT*###*Directional light
-M_OVERVIEW_ROTATION*###*Rotation
-M_OVERVIEW_INTERIORLIGHTS*###*Interior lights
-M_OVERVIEW_BOTTOMHINT*###*PRESS SPACEBAR TO TOGGLE UI ON/OFF
-M_OVERVIEW_INTERFACE*###*Interface
-M_OVERVIEW_CAMERA*###*Camera
-M_OVERVIEW_CAMERAFOV*###*Field of view
-M_OVERVIEW_TURNON*###*Turn on/off
-M_OVERVIEW_SEARCHBYNAME*###*Search by name....
-M_OVERVIEW_MATERIALS*###*Materials
-M_OVERVIEW_OBJECTS*###*Objects
-M_OVERVIEW_ENVIRONMENT*###*Environment
-M_OVERVIEW_LANDSCAPE*###*Landscape
-M_OVERVIEW_MUD*###*Mud
-M_OVERVIEW_TOGGLE*###*Toggle
-M_OVERVIEW_PROPS*###*Props
-M_OVERVIEW_EXTRACTION*###*Extraction
-M_OVERVIEW_WORKSHOP*###*Workshop
-M_OVERVIEW_MUSEUM*###*Museum
-M_OVERVIEW_TRANSPARENT*###*Transparent
-M_OVERVIEW_MUDTORUST*###*Mud to Rust
-M_OVERVIEW_RUSTTODIRT*###*Rust to Dirt
-M_OVERVIEW_DIRTTOSANDING*###*Dirt to Sanding
-M_OVERVIEW_SANDINGTOPRIMER*###*Sanding to Primer
-M_OVERVIEW_PRIMERTOPAINT*###*Primer to Paint
-M_OVERVIEW_TANKMODULES*###*Tank Module
-M_OVERVIEW_DRIVE*###*Drive system
-M_OVERVIEW_WHEELS*###*Wheels
-M_OVERVIEW_TRACKS*###*Tracks
-M_OVERVIEW_HULLEXTERIOR*###*Hull Exterior
-M_OVERVIEW_HULLINTERIOR*###*Hull Interior
-M_OVERVIEW_TURRETEXTERIOR*###*Turret Exterior
-M_OVERVIEW_TURRETINTERIOR*###*Turret Interior
-M_OVERVIEW_TANKS*###*Tanks
-M_OVERVIEW_WW2*###*World War II
-M_OVERVIEW_ENG*###*United Kingdom
-M_OVERVIEW_GER*###*Germany
-M_OVERVIEW_USA*###*USA
-M_OVERVIEW_SOV*###*Soviet Union
-M_LOCATIONS_TITLE*###*Select location
-M_LOCATIONS_BEGIN*###*Begin
-M_LOCATIONS_BASICINFO*###*Basic information:
-M_LOCATIONS_PLACE*###*Place:
-M_LOCATIONS_VEHICLETYPE*###*Vehicle type:
-M_LOCATIONS_VEHICLEBRAND*###*Vehicle brand:
-M_LOCATIONS_UNKNOWN*###*Unknown
-M_LOCATIONS_SELECTVEHICLE*###*Choose a vehicle
-M_LOCATIONS_SELECTVEHICLE_DESC*###*Choose the vehicle that you want to use at this location.
-M_SETTINGS_SOFTPARTICLES*###*Soft particles
-M_SETTINGS_TEXTURESTREAMING*###*Texture streaming
-M_SETTINGS_VIDEO*###*Video
-M_SETTINGS_AUDIO*###*Audio
-M_SETTINGS_GAME*###*Game
-M_SETTINGS_DISPLAY*###*Display
-M_SETTINGS_OVERALLSETTINGS*###*Overall settings
-M_SETTINGS_ASPECTRATIO*###*Aspect ratio
-M_SETTINGS_RESOLUTION*###*Resolution
-M_SETTINGS_DISPLAYMODE*###*Display mode
-M_SETTINGS_QUALITY*###*Quality
-M_SETTINGS_VERTICALSYNC*###*Vertical sync
-M_SETTINGS_SHADOWQUALITY*###*Shadow quality
-M_SETTINGS_TEXTUREQUALITY*###*Texture quality
-M_SETTINGS_LOD*###*Level of details
-M_SETTINGS_SHADOWDISTANCE*###*Shadow distance
-M_SETTINGS_SHADOWRESOLUTION*###*Shadow resolution
-M_SETTINGS_POSTPROCESS*###*Post process
-M_SETTINGS_AO*###*Ambient Occlusion
-M_SETTINGS_AA*###*Antialiasing
-M_SETTINGS_AF*###*Anisotropic filtering
-M_SETTINGS_SCREENSPACEREFLECTIONS*###*Screen Space Reflections
-M_SETTINGS_MOTIONBLUR*###*Motion blur
-M_SETTINGS_BLOOM*###*Bloom
-M_SETTINGS_CHROMATICABERRATION*###*Chromatic Aberration
-M_SETTINGS_VIGNETTE*###*Vignette
-M_SETTINGS_DEFORMATIONSYSTEM*###*Deformation System
-M_SETTINGS_TESSELATIONFACTOR*###*Tesselation Factor
-M_SETTINGS_TESSELATIONDISTANCE*###*Tesselation Distance
-M_SETTINGS_TERRAINSETTINGS*###*Terrain settings
-M_SETTINGS_TERRAINQUALITY*###*Terrain quality
-M_SETTINGS_TREEDISTANCE*###*Tree distance
-M_SETTINGS_DETAILSDISTANCE*###*Details distance
-M_SETTINGS_SOUNDSETTINGS*###*Sound settings
-M_SETTINGS_MASTERVOLUME*###*Master volume
-M_SETTINGS_MUSIC*###*Music
-M_SETTINGS_EFFECTS*###*Effects
-M_SETTINGS_LANGUAGESETTINGS*###*Language Settings
-M_SETTINGS_SELECTLANGUAGE*###*Select language
-M_SETTINGS_OTHER*###*Other
-M_SETTINGS_PAUSEWHENMINIMIZED*###*Pause game when minimized
-M_SETTINGS_USEHEADBOB*###*Use head bob
-M_SETTINGS_INVERTAXIS_Y_FPP*###*Invert Y Axis (FPP)
-M_SETTINGS_INVERTAXIS_Y_TPP*###*Invert Y Axis (TPP)
-M_SETTINGS_INVERTAXIS_Y_AIM*###*Invert Y Axis (Aiming mode)
-M_SETTINGS_USE_ASSEMBLYMENU*###*Use Assembly Menu
-M_SETTINGS_USE_SIMPLETANKCONTROLS*###*Use Simple Tank Controls
-M_SETTINGS_BLOCK_SCREWCURSOR*###*Block Screw Cursor
-M_SETTINGS_MOUSESMOOTHING*###*Mouse smoothing
-M_SETTINGS_MOUSESENSITIVITY*###*Mouse sensitivity
-M_SETTINGS_CONTROLS_SCHEME_TITLE*###*Control scheme
-M_SETTINGS_CONTROLS_SCHEME_KEYBOARD*###*Mouse & Keyboard
-M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_PS4*###*PlayStation 4 Controller
-M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_XONE*###*Xbox One Controller
-M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_DEFAULT*###*Default Controller
+M_MENU_SETTINGS*###*설정
+M_MENU_PATCHNOTES*###*패치 노트
+M_MENU_CHECKOUT*###*또 다른 프로젝트
+M_MENU_EXIT*###*나가기
+M_MENU_PROFILES*###*프로필
+M_MENU_PROFILE_NEW*###*새 프로필
+M_MENU_PROFILE_DELETE*###*정말로 {0} 프로필을 삭제하시겠습니까?
+M_MENU_PROFILE_MONEY*###*돈: {0}
+M_MENU_PROFILE_REPUTATION*###*경험치: {0}
+M_MENU_PROFILE_TANKS*###*전차: {0}
+M_MENU_PROFILE_LASTSAVEDATE*###*최근 저장: {0}
+M_MENU_PROFILE_DEFAULT*###*개발 프로필
+M_MENU_PROFILE_RESET*###*정말로 {0} 프로필을 초기화하시겠습니까?
+M_MENU_SUPPORT*###*지원
+M_MENU_SUPPORT_STEAMCOMMUNITYDESC*###*건의할 것이나 공유할 것이 있다면, 스팀 토론 페이지를 방문해 보세요:
+M_MENU_SUPPORT_STEAMCLICK*###*스팀 토론을 여려면 클릭
+M_MENU_SUPPORT_MAILDESC*###*또 저희에게 직접 이메일을 보내셔도 됩니다. 저희는 당신의 말이나 제안을 들을 준비가 되어 있습니다.
+M_MENU_SUPPORT_TMSDISCORDDESC*###*더 많은 전차 수리공들을 만나려면 Tank Mechanic Simulator 공식 디스코드 커뮤니티에 참여해 보세요:
+M_MENU_SUPPORT_TMSDISCORD*###*Tank Mechanic Simulator 공식 디스코드
+M_MENU_SUPPORT_TMSFEEDBACKDESC*###*건의/제안/요청 사항이나 버그를 발견했다면, 저희 트래커 페이지에 신고해 주세요.
+M_MENU_SUPPORT_TMSFEEDBACK*###*Tank Mechanic Simulator 피드백 트래커
+M_MENU_POINTS*###*점수:
+M_MENU_ACCEPT*###*확인
+M_MENU_CANCEL*###*취소
+M_MENU_QUIT_QUESTION*###*정말로 종료하시겠습니까?
+M_OVERVIEW_TITLE*###*컨텐츠
+M_OVERVIEW_VEHICLES*###*차량
+M_OVERVIEW_INSPECTOR*###*조사*
+M_OVERVIEW_LIGHTING*###*조명
+M_OVERVIEW_LIGHTINGCAMERA*###*조명과 시점
+M_OVERVIEW_DIRLIGHT*###*방향이 있는 조명
+M_OVERVIEW_ROTATION*###*회전
+M_OVERVIEW_INTERIORLIGHTS*###*내부 조명
+M_OVERVIEW_BOTTOMHINT*###*UI 토글하려면 스페이스바 누르기
+M_OVERVIEW_INTERFACE*###*인터페이스
+M_OVERVIEW_CAMERA*###*시점
+M_OVERVIEW_CAMERAFOV*###*FOV
+M_OVERVIEW_TURNON*###*켜기/끄기
+M_OVERVIEW_SEARCHBYNAME*###*이름으로 검색....
+M_OVERVIEW_MATERIALS*###*재질
+M_OVERVIEW_OBJECTS*###*물체
+M_OVERVIEW_ENVIRONMENT*###*환경
+M_OVERVIEW_LANDSCAPE*###*풍경*
+M_OVERVIEW_MUD*###*진흙
+M_OVERVIEW_TOGGLE*###*토글
+M_OVERVIEW_PROPS*###*부착물
+M_OVERVIEW_EXTRACTION*###*발굴
+M_OVERVIEW_WORKSHOP*###*작업장
+M_OVERVIEW_MUSEUM*###*박물관
+M_OVERVIEW_TRANSPARENT*###*투명
+M_OVERVIEW_MUDTORUST*###*진흙을 때로
+M_OVERVIEW_RUSTTODIRT*###*때를 흙으로
+M_OVERVIEW_DIRTTOSANDING*###*흙을 모래로 
+M_OVERVIEW_SANDINGTOPRIMER*###*모래를 프라이머로
+M_OVERVIEW_PRIMERTOPAINT*###*프라이머를 도색으로
+M_OVERVIEW_TANKMODULES*###*전차 모듈
+M_OVERVIEW_DRIVE*###*기동 체계
+M_OVERVIEW_WHEELS*###*현가장치 체계
+M_OVERVIEW_TRACKS*###*궤도
+M_OVERVIEW_HULLEXTERIOR*###*차체 외부
+M_OVERVIEW_HULLINTERIOR*###*차체 내부
+M_OVERVIEW_TURRETEXTERIOR*###*포탑 외부
+M_OVERVIEW_TURRETINTERIOR*###*포탑 내부
+M_OVERVIEW_TANKS*###*전차
+M_OVERVIEW_WW2*###*2차 세계 대전
+M_OVERVIEW_ENG*###*영구
+M_OVERVIEW_GER*###*독일
+M_OVERVIEW_USA*###*미국
+M_OVERVIEW_SOV*###*소련
+M_LOCATIONS_TITLE*###*위치 선택
+M_LOCATIONS_BEGIN*###*시작
+M_LOCATIONS_BASICINFO*###*기본 정보:
+M_LOCATIONS_PLACE*###*장소:
+M_LOCATIONS_VEHICLETYPE*###*차량 종류:
+M_LOCATIONS_VEHICLEBRAND*###*차량 브랜드:
+M_LOCATIONS_UNKNOWN*###*알려지지 않음
+M_LOCATIONS_SELECTVEHICLE*###*차량 선택
+M_LOCATIONS_SELECTVEHICLE_DESC*###*이 위치에서 보고 싶은 차량을 선택하세요.
+M_SETTINGS_SOFTPARTICLES*###*부드러운 파티클
+M_SETTINGS_TEXTURESTREAMING*###*질감
+M_SETTINGS_VIDEO*###*비디오
+M_SETTINGS_AUDIO*###*오디오
+M_SETTINGS_GAME*###*게임
+M_SETTINGS_DISPLAY*###*디스플레이
+M_SETTINGS_OVERALLSETTINGS*###*모든 설정
+M_SETTINGS_ASPECTRATIO*###*종횡비
+M_SETTINGS_RESOLUTION*###*해상도
+M_SETTINGS_DISPLAYMODE*###*디스플레이 모드
+M_SETTINGS_QUALITY*###*품질
+M_SETTINGS_VERTICALSYNC*###*수직 동기화
+M_SETTINGS_SHADOWQUALITY*###*그림자 품질
+M_SETTINGS_TEXTUREQUALITY*###*텍스쳐 품질
+M_SETTINGS_LOD*###*섬세함 레벨
+M_SETTINGS_SHADOWDISTANCE*###*그림자 거리
+M_SETTINGS_SHADOWRESOLUTION*###*그림자 해상도
+M_SETTINGS_POSTPROCESS*###*후처리
+M_SETTINGS_AO*###*주변 폐색
+M_SETTINGS_AA*###*계단 현상 완화
+M_SETTINGS_AF*###*비등방성 필터링
+M_SETTINGS_SCREENSPACEREFLECTIONS*###*화면 공간 반사(SSR)
+M_SETTINGS_MOTIONBLUR*###*움직임 블러 효과
+M_SETTINGS_BLOOM*###*쉐이더 효과
+M_SETTINGS_CHROMATICABERRATION*###*수차 효과(CA)
+M_SETTINGS_VIGNETTE*###*비네팅
+M_SETTINGS_DEFORMATIONSYSTEM*###*그래픽 변형
+M_SETTINGS_TESSELATIONFACTOR*###*테셀레이션 계수
+M_SETTINGS_TESSELATIONDISTANCE*###*테셀레이션 거리
+M_SETTINGS_TERRAINSETTINGS*###*지표면 설정
+M_SETTINGS_TERRAINQUALITY*###*지표면 품질
+M_SETTINGS_TREEDISTANCE*###*나무 거리
+M_SETTINGS_DETAILSDISTANCE*###*섬세함 거리
+M_SETTINGS_SOUNDSETTINGS*###*소리 설정
+M_SETTINGS_MASTERVOLUME*###*주 볼륨
+M_SETTINGS_MUSIC*###*음악
+M_SETTINGS_EFFECTS*###*효과음
+M_SETTINGS_LANGUAGESETTINGS*###*언어 설정
+M_SETTINGS_SELECTLANGUAGE*###*언어 선택
+M_SETTINGS_OTHER*###*기타
+M_SETTINGS_PAUSEWHENMINIMIZED*###*최소화하면 게임 일시정지
+M_SETTINGS_USEHEADBOB*###*이동 시 머리 흔들림
+M_SETTINGS_INVERTAXIS_Y_FPP*###*Y축 반전 (1인칭)
+M_SETTINGS_INVERTAXIS_Y_TPP*###*Y축 반전 (3인칭)
+M_SETTINGS_INVERTAXIS_Y_AIM*###*Y축 반전 (조준 모드)
+M_SETTINGS_USE_ASSEMBLYMENU*###*조립 메뉴 사용
+M_SETTINGS_USE_SIMPLETANKCONTROLS*###*간단한 전차 조종 사용
+M_SETTINGS_BLOCK_SCREWCURSOR*###*나사 커서 사용하지 않음
+M_SETTINGS_MOUSESMOOTHING*###*마우스 부드럽게
+M_SETTINGS_MOUSESENSITIVITY*###*마우스 감도
+M_SETTINGS_CONTROLS_SCHEME_TITLE*###*키 설정
+M_SETTINGS_CONTROLS_SCHEME_KEYBOARD*###*마우스와 키보드
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_PS4*###*플레이스테이션 4 컨트롤러
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_XONE*###*Xbox One 컨트롤러
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_DEFAULT*###*기본 컨트롤러
 M_INFO_NOTENOUGHMONEY_TITLE*###*Not enough money
 M_INFO_NOTENOUGHMONEY_DESC*###*You do not have enough money for this operation. You need: {0}$
 M_INFO_CANNOTDELETE_LASTPROFILE_TITLE*###*Cannot delete profile
