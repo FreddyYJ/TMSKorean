@@ -1257,157 +1257,157 @@ M_SETTINGS_CONTROLS_SCHEME_KEYBOARD*###*마우스와 키보드
 M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_PS4*###*플레이스테이션 4 컨트롤러
 M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_XONE*###*Xbox One 컨트롤러
 M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_DEFAULT*###*기본 컨트롤러
-M_INFO_NOTENOUGHMONEY_TITLE*###*Not enough money
-M_INFO_NOTENOUGHMONEY_DESC*###*You do not have enough money for this operation. You need: {0}$
-M_INFO_CANNOTDELETE_LASTPROFILE_TITLE*###*Cannot delete profile
-M_INFO_CANNOTDELETE_LASTPROFILE_DESC*###*You cannot delete the last profile!
-M_INFO_EMPTYNAME_TITLE*###*Cannot create profile
-M_INFO_EMPTYNAME_DESC*###*Cannot create a new profile with no name specified.
-M_INFO_CONTRACT_LITTLETIME_TITLE*###*Little time
-M_INFO_CONTRACT_LITTLETIME_DESC*###*One of your contracts has little time to finish.
-M_INFO_TESTDRIVE_ENGINE_CANNOTSTART*###*Cannot start engine
-M_INFO_TESTDRIVE_CANNOTSTART*###*Cannot start test drive mode
-M_INFO_TESTDRIVE_NOTASSEMBLED*###*{0} is not assembled
-M_INFO_TESTDRIVE_NOTREPAIRED*###*{0} is not repaired
-M_INFO_TESTDRIVE_FLUIDNEEDSFILL*###*{0} is not filled
-M_INFO_TESTDRIVE_NOTMOUNTED*###*{0} is not in tank
-M_INFO_PROVINGGROUNDS_CANNOTSTART*###*Cannot start Proving Grounds mode
-M_INFO_CANNOT_CHANGEROOM_TITLE*###*Cannot enter: {0}
-M_INFO_CANNOT_CHANGEROOM_DESC*###*Room has not yet been unlocked.
-M_INFO_CANNOT_STARTPAINTROOM_TITLE*###*Cannot open paint room panel
-M_INFO_CANNOT_STARTPAINTROOM_DESC*###*The paint room is empty. Move a tank inside first.
-M_INFO_ROOM_EMPTY*###*The room is empty.
-M_INFO_CANNOT_MOVEMODULE_TITLE*###*Cannot move module
-M_INFO_CANNOT_MOVEMODULE_DESC*###*The tank is outside workshop.
-M_INFO_ASSEMBLY_NOPARTSAVAILABLE_TITLE*###*No parts available
-M_INFO_ASSEMBLY_NOPARTSAVAILABLE_DESC*###*There are no compatible parts available. Buy (in tank parts shop) or craft (using crafting table) compatible parts first.
-M_INFO_DELETEDATA_DESC*###*This option deletes all data for the game and restarts it. 
-M_INFO_UNLOCK_TABLET_TITLE*###*Cannot use tablet
-M_INFO_UNLOCK_TABLET_DESC*###*You have to unlock it first in the Upgrade Menu.
-M_INFO_UNLOCK_CRAFTING_TITLE*###*Cannot open crafting menu
-M_INFO_UNLOCK_CRAFTING_DESC*###*You have to unlock the crafting table first in Upgrade Menu
-M_INFO_TOOLBELT_TITLE*###*Tool Belt unlocked
-M_INFO_TOOLBELT_DESC*###*Now the workshop room tools are always with you. By default, you can select them by keys: Alphanumeric 3-7.
-M_INFO_KEYTAKEN_TITLE*###*Select different button
-M_INFO_KEYTAKEN_DESC*###*Selected button is assigned to: {0}
-M_INFO_MEMORY*###*Texture memory exceeds 4GB. To avoid system instability, we suggest to limit textures amount in StreamingAssets or uninstall some Steam Workshop mods.
-M_ANALISYS_FUELSYSTEM*###*Fuel System
-M_ANALISYS_GEARBOX*###*Gearbox
-M_ANALISYS_ENGINE*###*Engine
-M_ANALISYS_TRACKS*###*Tracks
-M_ANALISYS_WHEELS*###*Wheels
-M_ANALISYS_TURRET*###*Turret
-M_ANALISYS_FLUID_OIL*###*Oil
-M_ANALISYS_FLUID_FUEL*###*Fuel
-M_ANALISYS_FLUID_COOLANT*###*Coolant
-M_ANALISYS_LEVEL*###*Level of {0}:
-M_POPUP_MODE_GRINDER_CUTTING*###*Cutting mode
-M_POPUP_MODE_GRINDER_GRINDING*###*Grinding mode
-M_POPUP_MODE_PAINTGUN_PAINTING*###*Painting mode
-M_POPUP_MODE_PAINTGUN_PRIMER*###*Primer mode
-M_POPUP_WARNING_MODULENOTONSTAND*###*To assemble or disassemble this element the parent module needs to be placed on stand.
-M_RADIOMENU_RADIOSTATIONS*###*Radio stations
-M_RADIOMENU_NOWPLAYING*###*Now playing:
-M_ORGANIZER_ORDERSUMMARY*###*Summary of the contract order
-M_ORGANIZER_OFFERSUMMARY*###*Summary of the conract offer
-M_ORGANIZER_JOBSUMMARY*###*Job Summary
-M_ORGANIZER_STARTEXTRACTION*###*Start extraction
-M_ORGANIZER_FINISHORDER*###*Finish order
-M_ORGANIZER_FINISHOFFER*###*Finish offer
-M_ORGANIZER_FINISHJOB*###*Finish job
-M_ORGANIZER_WARNING_TITLE*###*Warning
-M_ORGANIZER_WARNING_DESC*###*If you end this contract now, you will have to pay fine. Do you wish to proceed?
-M_ORGANIZER_VEHICLESELECTOR_TITLE*###*Select the vehicle you want to use during this mission.
-M_ORGANIZER_WARNING_FINEAMOUNT*###*Fine amount
-M_ORGANIZER_CHECKLIST*###*List of tasks
-M_ORGANIZER_TASK_CHECKINITIAL*###*Restore the initial state
-M_TANKMANAGER_TITLE*###*Tank Manager
-M_CONSOLE*###*Console
+M_INFO_NOTENOUGHMONEY_TITLE*###*돈 부족
+M_INFO_NOTENOUGHMONEY_DESC*###*이 작업을 하기에는 돈이 부족합니다. 현재 돈: {0}$
+M_INFO_CANNOTDELETE_LASTPROFILE_TITLE*###*프로필 삭제 불가
+M_INFO_CANNOTDELETE_LASTPROFILE_DESC*###*마지막 프로필은 삭제할 수 없습니다!
+M_INFO_EMPTYNAME_TITLE*###*프로필 생성 불가
+M_INFO_EMPTYNAME_DESC*###*이름을 짓지 않고 새 프로필을 생성할 수 없습니다.
+M_INFO_CONTRACT_LITTLETIME_TITLE*###*시간 임박
+M_INFO_CONTRACT_LITTLETIME_DESC*###*의뢰 중 하나가 제한 시간이 임박했습니다.
+M_INFO_TESTDRIVE_ENGINE_CANNOTSTART*###*엔진 시동 불가
+M_INFO_TESTDRIVE_CANNOTSTART*###*시험 운전 모드 시작 불가
+M_INFO_TESTDRIVE_NOTASSEMBLED*###*{0}이(가) 없음
+M_INFO_TESTDRIVE_NOTREPAIRED*###*{0}이(가) 수리되지 않음
+M_INFO_TESTDRIVE_FLUIDNEEDSFILL*###*{0}이(가) 채워지지 않음
+M_INFO_TESTDRIVE_NOTMOUNTED*###*{0}이(가) 전차에 없음
+M_INFO_PROVINGGROUNDS_CANNOTSTART*###*시험 사격 모드 시작 불가
+M_INFO_CANNOT_CHANGEROOM_TITLE*###*들어갈 수 없음: {0}
+M_INFO_CANNOT_CHANGEROOM_DESC*###*이 방은 아직 열리지 않았습니다.
+M_INFO_CANNOT_STARTPAINTROOM_TITLE*###*페인트실 패널 열 수 없음
+M_INFO_CANNOT_STARTPAINTROOM_DESC*###*페인트실이 비었습니다. 전차를 먼저 옮기세요.
+M_INFO_ROOM_EMPTY*###*방이 비었습니다.
+M_INFO_CANNOT_MOVEMODULE_TITLE*###*모듈 이동 불가
+M_INFO_CANNOT_MOVEMODULE_DESC*###*전차가 작업장 밖에 있습니다.
+M_INFO_ASSEMBLY_NOPARTSAVAILABLE_TITLE*###*사용가능한 부품 없음
+M_INFO_ASSEMBLY_NOPARTSAVAILABLE_DESC*###*호환되는 부품이 없습니다. 먼저 호환되는 부품을 구매하거나(전차 부품 상점에서) 제작하세요(제작대에서).
+M_INFO_DELETEDATA_DESC*###*이 옵션은 모든 게임 데이터를 삭제하고 재시작할 것입니다. 
+M_INFO_UNLOCK_TABLET_TITLE*###*태블릿 사용 불가
+M_INFO_UNLOCK_TABLET_DESC*###*업그레이드 메뉴에서 먼저 업그레이드해야 합니다.
+M_INFO_UNLOCK_CRAFTING_TITLE*###*제작 메뉴 사용 불가
+M_INFO_UNLOCK_CRAFTING_DESC*###*업그레이드 메뉴에서 먼저 업그레이드해야 합니다.
+M_INFO_TOOLBELT_TITLE*###*도구 벨트 잠금 해제
+M_INFO_TOOLBELT_DESC*###*이제 작업장 도구는 항상 당신 곁에 있을 것입니다. 기본값으로, 이 키들로 사용할 수 있습니다: 숫자 키 3-7.
+M_INFO_KEYTAKEN_TITLE*###*다른 키를 선택하세요
+M_INFO_KEYTAKEN_DESC*###*이 키는 이곳에 할당되어 있습니다: {0}
+M_INFO_MEMORY*###*그래픽 메모리가 4GB를 초과했습니다. 시스템 불안정을 피하려면, StreamingAssets에 있는 개수를 줄이거나 스팀 워크샵 모드를 삭제하세요.
+M_ANALISYS_FUELSYSTEM*###*연료 체계
+M_ANALISYS_GEARBOX*###*변속기
+M_ANALISYS_ENGINE*###*엔진
+M_ANALISYS_TRACKS*###*궤도
+M_ANALISYS_WHEELS*###*현가장치
+M_ANALISYS_TURRET*###*포탑
+M_ANALISYS_FLUID_OIL*###*오일
+M_ANALISYS_FLUID_FUEL*###*연료
+M_ANALISYS_FLUID_COOLANT*###*냉각수
+M_ANALISYS_LEVEL*###*{0} 수치:
+M_POPUP_MODE_GRINDER_CUTTING*###*자르기 모드
+M_POPUP_MODE_GRINDER_GRINDING*###*그라인드 모드
+M_POPUP_MODE_PAINTGUN_PAINTING*###*도색 모드
+M_POPUP_MODE_PAINTGUN_PRIMER*###*프라이머 모드
+M_POPUP_WARNING_MODULENOTONSTAND*###*이 부품을 조립하거나 해제하려면 먼저 이 모듈을 거치대에 거치해야 합니다.
+M_RADIOMENU_RADIOSTATIONS*###*라디오 방송국
+M_RADIOMENU_NOWPLAYING*###*현재:
+M_ORGANIZER_ORDERSUMMARY*###*주문 의뢰 요약
+M_ORGANIZER_OFFERSUMMARY*###*제안 의뢰 요약
+M_ORGANIZER_JOBSUMMARY*###*작업 요약
+M_ORGANIZER_STARTEXTRACTION*###*발굴 시작
+M_ORGANIZER_FINISHORDER*###*주문 끝내기
+M_ORGANIZER_FINISHOFFER*###*제안 끝내기
+M_ORGANIZER_FINISHJOB*###*작업 끝내기
+M_ORGANIZER_WARNING_TITLE*###*경고
+M_ORGANIZER_WARNING_DESC*###*이 의뢰를 지금 끝내면, 벌금을 내야 합니다. 계속하시겠습니까?
+M_ORGANIZER_VEHICLESELECTOR_TITLE*###*이 임무 동안 사용할 차량을 고르세요.
+M_ORGANIZER_WARNING_FINEAMOUNT*###*벌금
+M_ORGANIZER_CHECKLIST*###*작업 목록
+M_ORGANIZER_TASK_CHECKINITIAL*###*초기 상태 복구하기
+M_TANKMANAGER_TITLE*###*전차 관리자
+M_CONSOLE*###*콘솔
 M_INTRO_DESC*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
-M_INTRO_ANYKEY*###*Press any key…
-M_INTRO_LOADING*###*Loading main menu…
-M_DEMO*###*DEMO VERSION
-M_INFO_DEMO_TITLE*###*Unavailable in demo
-M_INFO_DEMO_DESC*###*This option is not available in demo :(
-M_TUTORIAL_STATUS_TOOLS*###*Available tools:\n{0}\n{1}
-M_TUTORIAL_STATUS_REMOVERUST*###*Remove rust from the tank
-M_TUTORIAL_STATUS_SANDBLAST*###*Sandblast the tank
-M_TUTORIAL_STATUS_PRIMER*###*Apply primer to the tank
-M_TUTORIAL_STATUS_PAINT*###*Apply final paint to the tank
-M_TUTORIAL_EMAIL_CHECK_DESC*###*Open computer and then check emails.
-M_TUTORIAL_EMAIL_ACCEPT_DESC*###*Select email and accept contract
-M_TUTORIAL_FINISH_DESC*###*Open computer and end contract in organizer.
-H_INTERACTION_BASICS*###*To select/pick up - LMB. To assemble/disassemble/pick up- RMB. To open up the radial menu - MMB.
-H_CONTRACTS_FINISH*###*Finish contracts to gain reputation and money.
-H_CONTRACTS_EMAIL*###*You can always find new contracts in the email box by pressing SEARCH NEW CONTACT button
-H_EXTRACTION_MAP*###*Use tablet to order excavations (LMB on a point on the map)
-H_EXTRACTION_TANK*###*To finish the extraction mission dig tank out, wash it with the pressure washer, select the load tank on trailer option from radial menu (opened with MMB while looking at the tank) and finally end the mission by clicking Back to base button in tablet.
-H_STORE*###*Use the tank part store to buy missing parts.
-H_ACTIVECONTRACTS*###*In the same time you can have maximum 3 active contracts.
-H_TANK_1*###*PzKpfw VI Tiger I Ausf. H1
-H_TANK_2*###*M4A3E8 Sherman
-H_TANK_3*###*PzKpfw III Ausf. M
+M_INTRO_ANYKEY*###*아무 키나 누르세요…
+M_INTRO_LOADING*###*메인 메뉴 로딩중…
+M_DEMO*###*데모 버전
+M_INFO_DEMO_TITLE*###*데모에서는 불가능합니다
+M_INFO_DEMO_DESC*###*이 옵션은 데모에서 사용할 수 없습니다. :(
+M_TUTORIAL_STATUS_TOOLS*###*가능한 도구:\n{0}\n{1}
+M_TUTORIAL_STATUS_REMOVERUST*###*전차에서 흙을 제거하세요.
+M_TUTORIAL_STATUS_SANDBLAST*###*전차에 모래를 분사하세요.
+M_TUTORIAL_STATUS_PRIMER*###*전차에 프라이머를 칠하세요.
+M_TUTORIAL_STATUS_PAINT*###*전차에 최종 도색을 칠하세요.
+M_TUTORIAL_EMAIL_CHECK_DESC*###*컴퓨터를 열고 이메일함을 확인하세요.
+M_TUTORIAL_EMAIL_ACCEPT_DESC*###*이메일을 선택하고 의뢰를 수락하세요.
+M_TUTORIAL_FINISH_DESC*###*컴퓨터를 열고 작업에서 의뢰를 끝내세요.
+H_INTERACTION_BASICS*###*선택/줍기 - 마우스 좌클릭. 조립/해체/줍기 - 마우스 우클릭. 방사 메뉴 열기 - 마우스 가운데 클릭.
+H_CONTRACTS_FINISH*###*경험치와 돈을 벌려면 의뢰를 완료하세요.
+H_CONTRACTS_EMAIL*###*새 의뢰 검색 버튼을 눌러 언제든지 새 의뢰를 받을 수 있습니다.
+H_EXTRACTION_MAP*###*태블릿을 사용해 발굴을 요청하세요(지도에서 위치 좌클릭).
+H_EXTRACTION_TANK*###*발굴 임무를 끝내려면 전차를 파내고, 압력 워셔로 청소하고, 방사 메뉴에서 전차 트레일러에 싣기 버튼을 클릭하고(전차를 바라본 상태로 마우스 가운데 클릭) 태블릿에서 작업장으로 복귀 버튼을 클릭해 임무를 끝낼 수 있습니다.
+H_STORE*###*없는 부품을 구매하려면 전차 부품 상점을 이용하세요.
+H_ACTIVECONTRACTS*###*동시에 최대 3개의 의뢰를 받을 수 있습니다.
+H_TANK_1*###*6호전차 티거 I H1형
+H_TANK_2*###*M4A3E8 셔먼
+H_TANK_3*###*3호전차 M형
 H_TANK_4*###*KV-1
-H_TANK_5*###*M26 Pershing
+H_TANK_5*###*M26 퍼싱
 H_TANK_6*###*KV-2
 H_TANK_7*###*T-34/85
 H_TANK_8*###*T-34/76
-H_TANK_9*###*PzKpfw III Ausf. J
-H_TANK_10*###*StuG III 40 Ausf. G
-H_TANK_11*###*PzKpfw IV Ausf. G
-H_TANK_12*###*M10 Wolverine
-H_TANK_13*###*PzKpfw. V Panther Ausf. A
-H_TANK_14*###*SdKfz 251/1 Ausf. C
-H_TANK_15*###*M3 Half-track
-H_TANK_16*###*M20 Armored Utility Car
-H_TANK_17*###*M8 Greyhound
-H_TANK_18*###*Little Willie
-H_TANK_19*###*Vickers E
-H_TANK_20*###*PzKpfw II Ausf. C
-H_APC_1*###*SdKfz 251/1 Ausf. C
-H_DEMO*###*In demo version you can expect 3 highly detailed tanks ready to be extracted or repaired.
-H_FULL*###*In full game there are more game modes, tools, maps and most importantly, tanks ;)
-H_DEMO_WHATISIN*###*WHAT IS IN THE DEMO?
-H_DEMO_TEXT_1*###*Extraction Missions
-H_DEMO_TEXT_2*###*Paint Room
-H_DEMO_TEXT_3*###*Unlocking System
-H_DEMO_TEXT_4*###*Variety of offroad vehicles on extraction missions
-H_DEMO_TEXT_5*###*Tank museum
-H_DEMO_TEXT_6*###*Parking for tanks
-H_FULL_WHATISIN*###*WHAT TO EXPECT IN FULL GAME?
-H_FULL_TEXT_1*###*Proving Grounds (Firing Range)
-H_FULL_TEXT_2*###*Crafting table
-H_FULL_TEXT_3*###*Overview mode
-H_FULL_TEXT_4*###*Magnetometer
-H_FULL_TEXT_5*###*Test drive
-A_SELECT*###*to select part
-A_ASSEMBLE*###*to assemble part
-A_DISASSEMBLE*###*to disassemble part
-A_PICKUP*###*to pick up
-A_USE*###*to use
-A_HOLD*###*to hold
-A_MENU*###*to open radial
-A_DROP*###*to drop
-A_HAMMER*###*to hit
-A_GRINDER*###*to grind
-A_CUT*###*to cut
-A_ENTER*###*to enter
-A_PLACE*###*to place
-A_FILL*###*to fill
-A_DIG*###*to dig
-A_CONTAINER*###*to switch container
-A_OPEN*###*to open
-A_CLOSE*###*to close
-A_OPEN_MENU*###*to open panel
-A_TOGGLE*###*to toggle
-A_TOGGLE_RUSTREMOVAL*###*to toggle rust removal
-A_TOGGLE_SANDBLASTER*###*to toggle sand blaster
-A_TOGGLE_PAINTGUN*###*to toggle paintgun
-A_TOGGLE_WATERHOSE*###*to toggle pressure washer
-P_GUN_MG34*###*MG 34 (7,92x57mm Mauser)
+H_TANK_9*###*3호전차 J형
+H_TANK_10*###*3호 돌격포 40 G형
+H_TANK_11*###*4호전차 G형
+H_TANK_12*###*M10 울버린
+H_TANK_13*###*5호전차 판터 A형
+H_TANK_14*###*SdKfz 251/1 C형
+H_TANK_15*###*M3 하프트랙
+H_TANK_16*###*M20 다목적 장갑차
+H_TANK_17*###*M8 그레이하운드
+H_TANK_18*###*리틀 윌리
+H_TANK_19*###*빅커스 E
+H_TANK_20*###*2호전차 C형
+H_APC_1*###*SdKfz 251/1 C형
+H_DEMO*###*데모 버전에서는 3대의 자세히 구현된 전차를 수리하거나 발굴할 수 있습니다.
+H_FULL*###*원래 게임에는 다양한 게임 모드, 도구, 맵과, 가장 중요한 전차를 즐길 수 있습니다 ;)
+H_DEMO_WHATISIN*###*데모에 포함된 것은 뭘까요?
+H_DEMO_TEXT_1*###*발굴 임무
+H_DEMO_TEXT_2*###*도색실
+H_DEMO_TEXT_3*###*잠금 해제 시스템
+H_DEMO_TEXT_4*###*발굴 임무에서 다양한 오프로드 차량들
+H_DEMO_TEXT_5*###*전차 박물관
+H_DEMO_TEXT_6*###*전차를 위한 주차장
+H_FULL_WHATISIN*###*원래 게임에 포함된 것은 뭘까요?
+H_FULL_TEXT_1*###*시험 사격장 (직접 사격할 수 있음)
+H_FULL_TEXT_2*###*제작대
+H_FULL_TEXT_3*###*개요 모드
+H_FULL_TEXT_4*###*자기 탐지기
+H_FULL_TEXT_5*###*시험 운전장
+A_SELECT*###*부품 선택
+A_ASSEMBLE*###*부품 조립
+A_DISASSEMBLE*###*부품 해체
+A_PICKUP*###*줍기
+A_USE*###*사용
+A_HOLD*###*들기
+A_MENU*###*방사 메뉴 열기
+A_DROP*###*놓기
+A_HAMMER*###*때리기
+A_GRINDER*###*그라인드
+A_CUT*###*자르기
+A_ENTER*###*들어가기
+A_PLACE*###*설치하기
+A_FILL*###*채우기
+A_DIG*###*파기
+A_CONTAINER*###*탱크 바꾸기
+A_OPEN*###*열기
+A_CLOSE*###*닫기
+A_OPEN_MENU*###*패널 열기
+A_TOGGLE*###*토글
+A_TOGGLE_RUSTREMOVAL*###*흙 제거기 토글
+A_TOGGLE_SANDBLASTER*###*모래 분사기 토글
+A_TOGGLE_PAINTGUN*###*페인트총 토글
+A_TOGGLE_WATERHOSE*###*압력 워셔 토글
+P_GUN_MG34*###*MG-34 (7,92x57mm 마우져)
 P_GUN_DT*###*DT (7,62x54 mmR)
-P_GUN_M1919BROWNING*###*M1919 Browning (.30-06 Springfield)
-P_GUN_M2BROWNING*###*M2 Browning (.50 BMG)
+P_GUN_M1919BROWNING*###*M1919 브라우닝 (.30-06 스프링필드)
+P_GUN_M2BROWNING*###*M2 브라우닝 (.50 BMG)
 P_GUN_20_KWK30L55*###*20 mm KwK 30 L/55
 P_GUN_88_KWK36L56*###*88 mm KwK 36 L/56
 P_GUN_76_GUNM1*###*76 mm gun M1
@@ -1421,79 +1421,79 @@ P_GUN_76_M1940L11*###*76 mm M1940 L-11
 P_GUN_75_KWK40L43*###*75 mm KwK 40 L/43
 P_GUN_75_KWK40L48*###*75 mm KwK 40 L/48
 P_GUN_75_KWK42L70*###*75 mm KwK 42 L/70
-P_GUN_76_GUNM7*###*76 mm gun M7 variant
-P_GUN_37_GUNM6*###*37 mm gun M6 variant
-P_GUN_47_OQF_3_PDR*###*47 mm gun OQF 3 PDR
-P_EXPLOSIVE_BOMB*###*Bomb
-P_RND_37_M51_AP*###*M51 AP
-P_RND_37_M38A1_HE*###*M37A1 HE
-P_RND_37_M74B1_AP*###*M74B1 AP
-P_RND_37_M63_HE*###*M63 HE
-P_RND_47_186R_AP*###*186R AP
-P_RND_47_186R_HE*###*186R HE
-P_RND_88_PZGR39_APCBCHE*###*PzGr.39 APCBC-HE
-P_RND_88_SPRGRL45_HE*###*Sprgr.L/45 HE
-P_RND_76_M79_AP*###*M79 AP
-P_RND_76_M42A1_HE*###*M42A1 HE
-P_RND_50_PZGR39_APC*###*PzGr.39 APC
-P_RND_50_SPRGR38_HE*###*Sprgr.38 HE
-P_RND_76_BR350A_APHEBC*###*BR-350A APHEBC
-P_RND_76_OF350M_HE*###*OF-350M HE
-P_RND_90_M77_AP*###*M77 AP
-P_RND_90_M71_HE*###*M71 HE
+P_GUN_76_GUNM7*###*76 mm gun M7형
+P_GUN_37_GUNM6*###*37 mm gun M6형
+P_GUN_47_OQF_3_PDR*###*47 mm gun OQF 3 파운더
+P_EXPLOSIVE_BOMB*###*폭탄
+P_RND_37_M51_AP*###*M51 철갑탄
+P_RND_37_M38A1_HE*###*M37A1 고폭탄
+P_RND_37_M74B1_AP*###*M74B1 철갑탄
+P_RND_37_M63_HE*###*M63 고폭탄
+P_RND_47_186R_AP*###*186R 철갑탄
+P_RND_47_186R_HE*###*186R 고폭탄
+P_RND_88_PZGR39_APCBCHE*###*PzGr.39 피모철갑유탄
+P_RND_88_SPRGRL45_HE*###*Sprgr.L/45 고폭탄
+P_RND_76_M79_AP*###*M79 철갑탄
+P_RND_76_M42A1_HE*###*M42A1 고폭탄
+P_RND_50_PZGR39_APC*###*PzGr.39 철갑탄
+P_RND_50_SPRGR38_HE*###*Sprgr.38 철갑탄
+P_RND_76_BR350A_APHEBC*###*BR-350A 철갑유탄
+P_RND_76_OF350M_HE*###*OF-350M 고폭탄
+P_RND_90_M77_AP*###*M77 철갑탄
+P_RND_90_M71_HE*###*M71 고폭탄
 P_RND_152_G530_AC*###*G-530 AC
-P_RND_152_OF530_HE*###*OF-530 HE
-P_RND_85_BR365K_APHE*###*BR-365K APHE
-P_RND_85_O365K_HE*###*O-365K HE
-P_RND_75_PZGR39_APCBC*###*PzGr.39 APCBC
-P_RND_75_GR38HLB_HEAT*###*Gr.38 HL/B HEAT
-P_RND_75_PZGR3942_APCBCHE*###*PzGr.39/42 APCBC-HE
-P_RND_75_SPRGR42_HE*###*Sprgr.42 HE
-P_RND_75_SPRGR34_HE*###*Sprgr.34 HE
-P_RND_20_PZGR39_API*###*PzGr.39 API
-P_RND_20_SPRGR39_HE*###*SprGr.39 HE
+P_RND_152_OF530_HE*###*OF-530 고폭탄
+P_RND_85_BR365K_APHE*###*BR-365K 철갑고폭탄
+P_RND_85_O365K_HE*###*O-365K 고폭탄
+P_RND_75_PZGR39_APCBC*###*PzGr.39 피모철갑탄
+P_RND_75_GR38HLB_HEAT*###*Gr.38 HL/B 성형작약탄
+P_RND_75_PZGR3942_APCBCHE*###*PzGr.39/42 피모철갑유탄
+P_RND_75_SPRGR42_HE*###*Sprgr.42 고폭탄
+P_RND_75_SPRGR34_HE*###*Sprgr.34 고폭탄
+P_RND_20_PZGR39_API*###*PzGr.39 철갑소이탄
+P_RND_20_SPRGR39_HE*###*SprGr.39 고폭탄
 P_CMG_762_54_DT*###*7,62x54 mmR
-P_CMG_792_57_MG34*###*7,92x57mm Mauser
-P_CMG_762_63_M1919*###*.30-06 Springfield
+P_CMG_792_57_MG34*###*7,92x57mm 마우져
+P_CMG_762_63_M1919*###*.30-06 스프링필드
 P_CMG_127_99_M2*###*.50 BMG
-P_CMG_303_BRITISH*###*.303 British 
-P_AMMOTYPE_STANDARD*###*Standard
-P_AMMOTYPE_INCENDIARY*###*Incendiary
-C_PLACEMARKER*###*Place marker
-C_SHOWCONTROLS*###*Show controls
-C_OFFROADVEHICLE_THROTTLE*###*Throttle
-C_OFFROADVEHICLE_GEARREDUCTION*###*Gear Reduction
-C_OFFROADVEHICLE_BRAKE*###*Brake
-C_OFFROADVEHICLE_TURNLEFT*###*Turn left
-C_OFFROADVEHICLE_TURNRIGHT*###*Turn right
-C_OFFROADVEHICLE_HANDBRAKE*###*Handbrake
-C_OFFROADVEHICLE_EXITVEHICLE*###*Exit vehicle
-C_OFFROADVEHICLE_FREECAMERA*###*Free camera
-C_OFFROADVEHICLE_SWITCHAMMOTYPE*###*Switch ammo type
-C_OFFROADVEHICLE_TOGGLECAMERA*###*Toggle camera
-C_OFFROADVEHICLE_TOGGLELIGHTS*###*Toggle lights
-C_OFFROADVEHICLE_TOGGLERADIO*###*Toggle radio
-C_OFFROADVEHICLE_TOGGLEWINDSCREEN*###*Toggle windscreen
-C_GRINDER_TOGGLECONTROLMODE*###*Toggle grinding mode
-C_PAINTGUN_TOGGLEPAINTMODE*###*Toggle painting mode
-C_GPR_TOGGLEMODE*###*Toggle GPR screen mode
-C_COMPASS_TOGGLE*###*Toggle compass
-C_HINT_TOGGLE*###*Toggle controls hint
-C_TANKCONTROLS*###*Tank controls
-C_TANKCONTROLS_SHOOT_PRIMARY*###*Shoot primary weapon
-C_TANKCONTROLS_SHOOT_SECONDARY*###*Shoot secondary weapon
-S_VERYLOW*###*Very low
-S_LOW*###*Low
-S_NORMAL*###*Normal
-S_HIGH*###*High
-S_VERYHIGH*###*Very high
-S_VERYSHORT*###*Very short
-S_SHORT*###*Short
-S_LONG*###*Long
-S_VERYLONG*###*Very long
-S_ON*###*On
-S_OFF*###*Off
-S_RESOLUTION_NATIVE*###*Native
+P_CMG_303_BRITISH*###*.303 브리티시 
+P_AMMOTYPE_STANDARD*###*표준
+P_AMMOTYPE_INCENDIARY*###*소이탄
+C_PLACEMARKER*###*마커 설치
+C_SHOWCONTROLS*###*컨트롤 보기
+C_OFFROADVEHICLE_THROTTLE*###*가속
+C_OFFROADVEHICLE_GEARREDUCTION*###*기어 감소
+C_OFFROADVEHICLE_BRAKE*###*브레이크
+C_OFFROADVEHICLE_TURNLEFT*###*좌회전
+C_OFFROADVEHICLE_TURNRIGHT*###*우회전
+C_OFFROADVEHICLE_HANDBRAKE*###*핸드브레이크
+C_OFFROADVEHICLE_EXITVEHICLE*###*차량 나가기
+C_OFFROADVEHICLE_FREECAMERA*###*자유 시점
+C_OFFROADVEHICLE_SWITCHAMMOTYPE*###*탄종 교체
+C_OFFROADVEHICLE_TOGGLECAMERA*###*시점 토글
+C_OFFROADVEHICLE_TOGGLELIGHTS*###*조명 토글
+C_OFFROADVEHICLE_TOGGLERADIO*###*라디오 토글
+C_OFFROADVEHICLE_TOGGLEWINDSCREEN*###*창문 토글
+C_GRINDER_TOGGLECONTROLMODE*###*그라인더 모드 토글
+C_PAINTGUN_TOGGLEPAINTMODE*###*페인트 모드 토글
+C_GPR_TOGGLEMODE*###*화면 모드 토글
+C_COMPASS_TOGGLE*###*나침반 토글
+C_HINT_TOGGLE*###*컨트롤 힌트 토글
+C_TANKCONTROLS*###*전차 컨트롤
+C_TANKCONTROLS_SHOOT_PRIMARY*###*주무장 발사
+C_TANKCONTROLS_SHOOT_SECONDARY*###*부무장 발사
+S_VERYLOW*###*매우 낮음
+S_LOW*###*낮음
+S_NORMAL*###*보통
+S_HIGH*###*높음
+S_VERYHIGH*###*매우 높음
+S_VERYSHORT*###*매우 짧음
+S_SHORT*###*짧음
+S_LONG*###*긺
+S_VERYLONG*###*매우 긺
+S_ON*###*켜기
+S_OFF*###*끄기
+S_RESOLUTION_NATIVE*###*컴퓨터 설정에 따름
 S_RESOLUTION_800x600*###*800x600
 S_RESOLUTION_1024x768*###*1024x768
 S_RESOLUTION_1176x664*###*1176x664
@@ -1523,222 +1523,222 @@ S_RESOLUTIONRATIO_21x9*###*21:9
 S_RESOLUTIONRATIO_32x9*###*32:9
 S_RESOLUTIONRATIO_5x4*###*5:4
 S_RESOLUTIONRATIO_3x2*###*3:2
-S_DISPLAYMODE_FULLSCREEN_WINDOWED*###*Fullscreen Windowed
-S_DISPLAYMODE_MAXIMIZED_WINDOW*###*Maximized Window
-S_DISPLAYMODE_EXCLUSIVE_FULLSCREEN*###*Exclusive Fullscreen
-S_DISPLAYMODE_WINDOWED*###*Windowed
-S_FASTEST*###*Fastest
-S_FAST*###*Fast
-S_SIMPLE*###*Simple
-S_GOOD*###*Good
-S_BEAUTIFUL*###*Beautiful
-S_FANTASTIC*###*Fantastic
-S_CUSTOM*###*Custom
+S_DISPLAYMODE_FULLSCREEN_WINDOWED*###*전체 화면 창모드
+S_DISPLAYMODE_MAXIMIZED_WINDOW*###*최대화된 창모드
+S_DISPLAYMODE_EXCLUSIVE_FULLSCREEN*###*전체 화면
+S_DISPLAYMODE_WINDOWED*###*창모드
+S_FASTEST*###*가장 빠름
+S_FAST*###*빠름
+S_SIMPLE*###*단순함
+S_GOOD*###*좋음
+S_BEAUTIFUL*###*화려하게
+S_FANTASTIC*###*환상적으로
+S_CUSTOM*###*커스텀
 S_AA_FXAA*###*FXAA
 S_AA_SMAA*###*SMAA
 S_AA_TAA*###*TAA
-T_FLASHLIGHT*###*Flashlight
-T_GRINDER*###*Angle grinder
-T_AXE*###*Axe
-T_HAMMER*###*Hammer
-T_WRENCHPISTOL*###*Wrench Pistol
-T_SHOVEL*###*Shovel
-T_METALDETECTOR*###*Metal Detector
-T_RUSTREMOVAL*###*Rust Removal Tool
-T_WATERHOSE*###*Pressure washer
-T_PAINTGUN*###*Paint gun
-T_PRIMERGUN*###*Primer gun
-T_SANDBLASTER*###*Sand blaster
-T_WELDER*###*Welder
-X_CANDIG_INFO*###*You have selected an area to start the excavation process.
-X_CANNOTDIG_INFO*###*The area you have selected is not suitable for the excavation process.
-X_CANNOTDIG_REASON_TITLE*###*Reason:
-X_CANNOTDIG_REASON_TERRAIN*###*The terrain is not fit for excavation.
-X_CANNOTDIG_REASON_OBSTACLES*###*There are obstacles in the area: {0}
-X_CANNOTDIG_REASON_TANK*###*The tank has been already dug out.
-X_SUMMARY_DESC*###*You have clicked Return to workshop button.
-X_STATE_NOTSTARTED*###*Not started
-X_STATE_STARTED*###*Started
-X_STATE_TANKFOUND*###*Tank found
-X_STATE_EXCAVATIONREQUIRED*###*Excavation required
-X_STATE_TANKDUGOUT*###*Tank dug out
-X_STATE_EXTRACTED*###*Extracted
-X_CANNOT_EXTRACT_TITLE*###*Cannot extract tank
-X_CANNOT_EXTRACT_WATERINTANK*###*There is water inside the tank. Please pump it out.
-X_CANNOT_EXTRACT_TANKNOTCLEANED*###*The tank is not clean.\nCurrent state: {0}%\nRequired state: {1}%
-X_CANNOT_EXTRACT_TANKNOTDUGOUT*###*The tank has not yet been fully dug out. Return to the tablet and order further digging in this location.
-X_CANNOT_CLEAN_TITLE*###*Cannot clean tank
-X_CANNOT_CLEAN_TANKCLEANED*###*The tank is already clean.
-X_RETURNTOMISSIONAREA*###*Return to mission area
-R_TABLET_TITLE*###*Tablet
-R_TABLET_DESC*###*Quick access to workshop tablet
-R_INVENTORY_TITLE*###*Inventory
-R_INVENTORY_DESC*###*Browse and select equipment and tools
-R_STORAGE_TITLE*###*Storage
-R_STORAGE_DESC*###*Browse, search and sell parts
-R_RESET_TOOLS_TITLE*###*Reset tools
-R_RESET_TOOLS_DESC*###*Reset tools to its initial state
-R_RESET_PLAYER_TITLE*###*Reset position
-R_RESET_PLAYER_DESC*###*Reset position to it initial state
-R_MOVETANK_TITLE*###*Move tank
-R_MOVETANK_DESC*###*Move tank to different locations
-R_GETINSIDE_TITLE*###*Get inside
-R_GETINSIDE_DESC*###*Get inside to restore interior parts
-R_SELECTCREWSLOT_TITLE*###*{0} slot
-R_SELECTCREWSLOT_DESC*###*Take selected crew slot
-R_OVERVIEWMODE_TITLE*###*Overview mode
-R_OVERVIEWMODE_DESC*###*Enter tank overview mode
-R_INTERACTIONMODETOGGLE_TITLE*###*{0} mode
-R_INTERACTIONMODETOGGLE_DESC*###*Switch to {0} mode
-R_ASSEMBLYMODE*###*Assembly
-R_DISASSEMBLYMODE*###*Disassembly
-R_MOVETANKTOAREA_TITLE*###*Move tank to {0}
-R_MOVETANKTOAREA_DESC*###*Select an area to move the tank
-R_MOVETANKTOSLOT_TITLE*###*Move tank to {0}
-R_MOVETANKTOSLOT_DESC*###*Select a slot to move the tank
-R_MOVETANKTOSLOT_TAKEN*###*Slot is taken by: {0}
-R_MOVEMODULEOPEN_TITLE*###*Module menu
-R_MOVEMODULEOPEN_DESC*###*Opens menu with tank modules
-R_MOVEMODULESELECTMODULE_TITLE*###*Select module: {0}
-R_MOVEMODULESELECTMODULE_DESC*###*Opens menu with stands for selected module
-R_MOVEMODULETOSTAND_TITLE*###*Select stand: {0}
-R_MOVEMODULETOSTAND_DESC*###*Move selected module to selected stand
-R_MOVEMODULEBACKTOTANK_TITLE*###*Module back to tank
-R_MOVEMODULEBACKTOTANK_DESC*###*Move the module back
-R_BACKOUT_TITLE*###*Back
-R_BACKOUT_DESC*###*Return to the previous menu
-R_NEXT_TITLE*###*Next
-R_NEXT_DESC*###*Move to next menu
-R_MOVETO_TANKGRAVEYARD_DESC*###*Move to tank graveyard.
-R_MOVETO_WORKSHOP_DESC*###*Move back to workshop.
-R_TANK_STATUS_TITLE*###*Tank status menu
-R_TANK_STATUS_DESC*###*Opens the tank status radial menu
-R_TANK_ANALISYS_TITLE*###*Tank analysis
-R_TANK_ANALISYS_DESC*###*Opens the tank analysis menu
-R_TANK_INTERIOROPTIONS_TITLE*###*Interior options
-R_TANK_INTERIOROPTIONS_DESC*###*Show options for tank interior
-R_TANK_TESTDRIVE_SHOWOPTIONS_TITLE*###*Test drive options
-R_TANK_TESTDRIVE_SHOWOPTIONS_DESC*###*Open test drive options
-R_TANK_TESTDRIVE_START_TITLE*###*Test drive
-R_TANK_TESTDRIVE_START_DESC*###*Starts test drive mode
-R_TANK_TESTDRIVE_FLUIDMENU_TITLE*###*Fluid Menu
-R_TANK_TESTDRIVE_FLUIDMENU_DESC*###*Opens menu with fluid filling options
-R_TANK_TESTDRIVE_FLUID_MENU_TITLE*###*Open {0} container menu
-R_TANK_TESTDRIVE_FLUID_MENU_DESC*###*Opens selected fluid type menu
-R_TANK_TESTDRIVE_FLUID_FILL_TITLE*###*Fill {0} container n. 
-R_TANK_TESTDRIVE_FLUID_FILL_DESC*###*Begins the fluid filling process
-R_TANK_PROVINGGROUNDS_START_TITLE*###*Proving Grounds
-R_TANK_PROVINGGROUNDS_START_DESC*###*Starts proving grounds mode
-R_TANK_MANAGER_DESC*###*Opens the tank manager menu
-R_EXTERIORVISUALSTOGGLE_TITLE*###*Tank exterior
-R_EXTERIORVISUALSTOGGLE_DESC*###*Toggle visibily of tank exterior parts
-R_EXAMINEMODETOGGLE_TITLE*###*Examine mode
-R_EXAMINEMODETOGGLE_DESC*###*Toggle examine mode
-R_EXTRACTIONTANKTOTRAILER_TITLE*###*Tank on trailer
-R_EXTRACTIONTANKTOTRAILER_DESC*###*Load the tank onto the truck trailer
-R_EXTRACTION_CLEANTANK_TITLE*###*Clean tank
-R_EXTRACTION_CLEANTANK_DESC*###*Order tank cleaning for 500 $.
-R_EXTRACTION_BACKTOBASE_DESC*###*Leave extraction mission.
-R_VEHICLEENTEREXITTOGGLE_TITLE*###*{0} vehicle
-R_VEHICLEENTEREXITTOGGLE_DESC*###*Enter or exit the vehicle
-R_ENTER*###*Enter
-R_EXIT*###*Exit
-R_VEHICLETOGGLEENGINE_TITLE*###*Toggle engine
-R_VEHICLETOGGLEENGINE_DESC*###*Toggle vehicle engine on or off
-R_VEHICLETOGGLELIGHTS_TITLE*###*Toggle lights
-R_VEHICLETOGGLELIGHTS_DESC*###*Toggle vehicle lights on or off
-R_VEHICLETOWINGSERVICE_TITLE*###*Call towing service
-R_VEHICLETOWINGSERVICE_DESC*###*Towing service tows vehicle out
-R_VEHICLEHOOKMAGNETOMETER_TITLE*###*Hook magnetometer
-R_VEHICLEHOOKMAGNETOMETER_DESC*###*Hooks a magnetometer on or off this vehicle.
-R_VEHICLERADIOTOGGLE_TITLE*###*Toggle Radio
-R_VEHICLERADIOTOGGLE_DESC*###*Toggles the car radio on or off
-R_USABLE_PICKUP_TITLE*###*Pick up
-R_USABLE_PICKUP_DESC*###*Picks up this item
-R_USABLE_USE_TITLE*###*Use
-R_USABLE_USE_DESC*###*Uses this usable item
-R_RADIO_NEXT_TITLE*###*Next song
-R_RADIO_NEXT_DESC*###*Next Song
-R_RADIO_PREVIOUS_TITLE*###*Previous song
-R_RADIO_PREVIOUS_DESC*###*Selects previous song
-R_RADIO_STATIONS_TITLE*###*Select station
-R_RADIO_STATIONS_DESC*###*Opens up a station selection menu
-R_RADIO_STATIONS_TOGGLE_TITLE*###*Turn on/off radio
-R_RADIO_STATIONS_TOGGLE_DESC*###*Turn on or off radio
-R_TOOLBELT_DESC*###*Opens tool belt menu
-W_TANKCREW_COMMANDER*###*Commander
-W_TANKCREW_GUNNER*###*Gunner
-W_TANKCREW_LOADER*###*Loader
-W_TANKCREW_DRIVER*###*Driver
-W_TANKCREW_RADIOOPERATOR*###*Radio operator
-W_CANNOT_BUYTANK_TITLE*###*Cannot buy tank
-W_CANNOT_MOVETOMUSEUM_TITLE*###*Cannot move tank to museum
-W_CANNOT_MOVETOMUSEUM_REASON_UNASSEMBLED*###*The tank is not assembled enough. Try to assemble it at least in 80%
-W_CANNOT_MOVETOMUSEUM_REASON_NOTREPAIRED*###*The tank is not repaired enough. Try to repair it at least in 80%
-W_CANNOT_ACCEPTNEWJOB_TITLE*###*Cannot accept new job
-W_CANNOT_STARTEXTRACTION_TITLE*###*Cannot start extraction mission
-W_CANNOT_REASON_NOSLOTS*###*There are no free tank slots available. Free a tank slot first.
-W_CANNOT_REASON_TOOLS*###*Not all required tools/vehicles are unlocked. You need to unlock {0} first in Upgrade Panel.
-W_CANNOT_REASON_MAXACTIVE*###*The maximum number of active contracts equals 3
-D_JOBTO*###*To:
-D_JOBTITLE*###*Title:
-D_JOBLOCATION*###*Location:
-D_JOB_MONEY_POTENTIAL*###*Potential money:
-D_JOB_MONEY_RECEIVED*###*Received money:
-D_JOBREPUTATION*###*Reputation:
-D_JOB_TIME_MAX*###*Max time:
-D_JOB_TIME_REMAINING*###*Remaining time:
-D_JOB_TIME_AVAILABILITY*###*Availability time:
-D_JOB_REQUIRED_ASSEMBLY*###*Required assembly:
-D_JOB_REQUIRED_REPAIRS*###*Required repairs:
-D_JOB_REQUIRED_CONDITION*###*Required condition:
-D_JOB_REQUIRED_TESTRUN*###*Test run completed
-D_JOB_RENOVATE_MODULE*###*Module renovation: {0}
-D_TANK_COMPLETION_ASSEMBLY*###*Tank assembly completion:
-D_TANK_COMPLETION_REPAIRS*###*Tank repairs completion:
-D_TANK_CONDITION*###*Tank overall condition
-D_JOBNODATA*###*No data available
-D_JOBTYPE*###*Type:
-D_JOBPURPOSE*###*Purpose:
-D_TANK_STATUS_REPAIRS*###*Tank repairs:
-D_TANK_STATUS_ASSEMBLY*###*Tank assembly:
-D_TANK_STATUS_CLEANED*###*Cleaned:
-D_TANK_STATUS_RUSTREMOVAL*###*Rust removal:
-D_TANK_STATUS_SANDING*###*Sanding:
-D_TANK_STATUS_PRIMER*###*Primer:
-D_TANK_STATUS_PAINT*###*Paint:
-D_TANK_STATUS_TOOLPROOF*###*Replaceable only
-D_ELEMENT_STATUS_CLEANED*###*Cleaned
-D_ELEMENT_STATUS_FINISHED*###*Finished
-T_LIST_TITLE*###*Tutorials List
-T_HELPLABELS*###*{0} - Open Tutorial List | {1} - Highlight interesting objects 
-T_TUTORIALLIST*###*Open Tutorial List
-T_HIGHLIGHT*###*Highlight interesting objects 
-T_RESET*###*Reset
-T_TUTORIAL*###*Tutorial
-T_DISABLE*###*Disable
-T_INSTRUCTION_GUI_DESKTOP_TITLE*###*Desktop Panel
-T_INSTRUCTION_GUI_DESKTOP_DESC*###*This panel allows to open:\n\n- E-mail manager (manage new contracts)\n- Organizer (manage current contracts)\n- Tank Part Shop (buy tank parts or tank blueprints)\n- Bank (take loans)
-T_INSTRUCTION_GUI_EMAIL_TITLE*###*E-mail Panel
-T_INSTRUCTION_GUI_EMAIL_DESC*###*This panel allows to manage received e-mails.\n\nPlayer can open the e-mails by clicking on them (on the mail list).\nWhen e-mail is selected, player can accept a contract or decline it. Additionaly, player can filter the e-mails by their state (f.e. all archived e-mails filter). By pressing X button on e-mail player can delete this e-mail.
-T_INSTRUCTION_GUI_ORGANIZER_TITLE*###*Organizer Panel
-T_INSTRUCTION_GUI_ORGANIZER_DESC*###*This panel allows to manage currently active contracts.\n\nPlayer can terminate any contract at any time. If the contract is an extraction mission, player can start the mission here.\n\nRemember, that terminating a contract before reaching it’s goals will result in a fee.
-T_INSTRUCTION_GUI_PARTSSHOP_TITLE*###*Parts Shop Panel
-T_INSTRUCTION_GUI_PARTSSHOP_DESC*###*This panel allows to buy new parts for selected tank.\n\nPlayer can select a tank mark he’s interested in, then select available parts of the tank. Additionaly, player can filter the parts by their module (f.e. only wheels parts).\n\nPlayer also can buy tank blueprints that can be used in crafting panel to craft new parts.
-T_INSTRUCTION_GUI_BANK_TITLE*###*Bank Panel
-T_INSTRUCTION_GUI_BANK_DESC*###*This panel allows to take a bank loan of selected amount. To take a loan, player sets a loan amount and clicks the Take Loan button. At any point player can pay off the loan here with Pay Off Loan button, when he has enough money to do it.
-T_INSTRUCTION_GUI_UPGRADE_TITLE*###*Upgrade Panel
-T_INSTRUCTION_GUI_UPGRADE_DESC*###*This panel allows to unlock various upgrades of 3 types:\n\n- Tools (new tools and vehicles, f.e. grinder)\n- Business (f.e. paint room)\n- Passives (f.e. cheaper prices in parts shop).\n\nTo unlock an upgrade, select an upgrade and then press Unlock button.
-T_INSTRUCTION_GUI_CUSTOMIZER_TITLE*###*Customizer Panel
-T_INSTRUCTION_GUI_CUSTOMIZER_DESC*###*This panel allows to customize various elements of a room (f.e. museum room). Available rooms to customize:\n- Workshop\n- Office Room\n- Crafting Room\n- Paint Room\n- Museum Room\n\nAvailable Customizations:\n- room walls/roof/floor materials\n- room posters\n- (museum) stands\n- (museum) prop stands
-T_INSTRUCTION_GUI_RADIAL_TITLE*###*Radial Panel
-T_INSTRUCTION_GUI_RADIAL_DESC*###*This panel shows various options when player presses Middle Mouse Button while looking at object (f.e. at a tank).
-T_INSTRUCTION_GUI_PAINTROOM_TITLE*###*Paint Room Panel
-T_INSTRUCTION_GUI_PAINTROOM_DESC*###*This panel allows to customize the visuals of currently stationed tank in the paint room. Using various options player can:\n- change tank color\n- apply tank decals\n- switch tank camouflage\n\nPlayer can reset the changes by click on Reset button (this option will revert all changes and return the tank visuals to it’s factory/default state).\n\nRemember, to be able to change the visuals of the tank the tank needs to be renovated (have the paint applied with paint gun).
-T_INSTRUCTION_GUI_CRAFTING_TITLE*###*Crafting Panel
-T_INSTRUCTION_GUI_CRAFTING_DESC*###*This panel allows to craft new parts of selected tank (if the player had previously bought tank blueprints in the tank parts shop). Player can craft items by:\n- selecting a tank mark (f.e. Tiger I)\n- selecting parts he wants to craft (player can select the same part multiple times)\n- if player has enough crafting parts, and the player clicks on Craft Parts button, the parts will be crafted
-T_INSTRUCTION_GUI_STORAGE_TITLE*###*Storage Panel
-T_INSTRUCTION_GUI_STORAGE_DESC*###*This panel allows to control the tank parts the player had:\n- disassembled from a tank\n- crafted in crafting panel\n- bought in tank parts shop\n\nWhen player selects a tank mark all free parts that are compatible with this tank are listed.\n\nAvailable options for selects parts:\n- Recycle (dispose selected parts and get crafting parts in exchange)\n- Sell (dispose selected parts and get money in exchange)\n- Repair (send selected parts to be repaired)
+T_FLASHLIGHT*###*플래시라이트
+T_GRINDER*###*각진 그라인더
+T_AXE*###*도끼
+T_HAMMER*###*해머
+T_WRENCHPISTOL*###*피스톨 렌치
+T_SHOVEL*###*삽
+T_METALDETECTOR*###*금속 탐지기
+T_RUSTREMOVAL*###*흙 제거 도구
+T_WATERHOSE*###*압력 워셔
+T_PAINTGUN*###*페인트총
+T_PRIMERGUN*###*프라이머총
+T_SANDBLASTER*###*모래 분사기
+T_WELDER*###*용접기
+X_CANDIG_INFO*###*발굴 작업을 시작하려면 지점을 먼저 지정해야 합니다.
+X_CANNOTDIG_INFO*###*선택하신 지점은 발굴 작업에 적합하지 않습니다.
+X_CANNOTDIG_REASON_TITLE*###*이유:
+X_CANNOTDIG_REASON_TERRAIN*###*발굴할 수 있는 토양이 아닙니다.
+X_CANNOTDIG_REASON_OBSTACLES*###*지점에 물체가 있습니다: {0}
+X_CANNOTDIG_REASON_TANK*###*전차를 이미 파냈습니다.
+X_SUMMARY_DESC*###*작업장으로 돌아가기 버튼을 눌렀습니다.
+X_STATE_NOTSTARTED*###*시작되지 않음
+X_STATE_STARTED*###*시작됨
+X_STATE_TANKFOUND*###*전차 발견함
+X_STATE_EXCAVATIONREQUIRED*###*발굴 필요함
+X_STATE_TANKDUGOUT*###*전차를 파냄
+X_STATE_EXTRACTED*###*발굴함
+X_CANNOT_EXTRACT_TITLE*###*전차 발굴 불가
+X_CANNOT_EXTRACT_WATERINTANK*###*전차 내부에 물이 있습니다. 먼저 뽑아내세요.
+X_CANNOT_EXTRACT_TANKNOTCLEANED*###*전차가 깨끗하지 않습니다.\n현재 상태: {0}%\n필요한 상태: {1}%
+X_CANNOT_EXTRACT_TANKNOTDUGOUT*###*전차를 완전히 파내지 않았습니다. 태블릿으로 돌아가 전차 발굴을 요청하세요.
+X_CANNOT_CLEAN_TITLE*###*전차 청소 불가
+X_CANNOT_CLEAN_TANKCLEANED*###*전차가 이미 깨끗합니다.
+X_RETURNTOMISSIONAREA*###*임무 지역으로 돌아가기
+R_TABLET_TITLE*###*태블릿
+R_TABLET_DESC*###*작업장 태블릿에 접근
+R_INVENTORY_TITLE*###*인벤토리
+R_INVENTORY_DESC*###*장비와 도구 탐색, 선택
+R_STORAGE_TITLE*###*창고
+R_STORAGE_DESC*###*부품 탐색, 선택, 판매
+R_RESET_TOOLS_TITLE*###*도구 초기화
+R_RESET_TOOLS_DESC*###*도구를 초기 상태로 초기화
+R_RESET_PLAYER_TITLE*###*위치 초기화
+R_RESET_PLAYER_DESC*###*초기 위치로 초기화
+R_MOVETANK_TITLE*###*전차 이동
+R_MOVETANK_DESC*###*다른 곳으로 전차 이동
+R_GETINSIDE_TITLE*###*안으로 들어가기
+R_GETINSIDE_DESC*###*안으로 들어가 내부 부픔 접근
+R_SELECTCREWSLOT_TITLE*###*{0}번 슬롯
+R_SELECTCREWSLOT_DESC*###*선택한 승무원석으로 이동
+R_OVERVIEWMODE_TITLE*###*개요 모드
+R_OVERVIEWMODE_DESC*###*전차 개요 모드 토글
+R_INTERACTIONMODETOGGLE_TITLE*###*{0}모드
+R_INTERACTIONMODETOGGLE_DESC*###*{0} 모드로 전환
+R_ASSEMBLYMODE*###*조립
+R_DISASSEMBLYMODE*###*해체
+R_MOVETANKTOAREA_TITLE*###*{0}로 전차 이동
+R_MOVETANKTOAREA_DESC*###*전차를 이동할 위치 선택
+R_MOVETANKTOSLOT_TITLE*###*{0}로 전차 이동
+R_MOVETANKTOSLOT_DESC*###*전차를 이동할 슬롯 선택
+R_MOVETANKTOSLOT_TAKEN*###*슬롯에 있는 전차: {0}
+R_MOVEMODULEOPEN_TITLE*###*모듈 메뉴
+R_MOVEMODULEOPEN_DESC*###*전차 메뉴 모듈 열기
+R_MOVEMODULESELECTMODULE_TITLE*###*모듈 선택: {0}
+R_MOVEMODULESELECTMODULE_DESC*###*선택한 모듈과 거치대 메뉴 열기
+R_MOVEMODULETOSTAND_TITLE*###*선택한 거치대: {0}
+R_MOVEMODULETOSTAND_DESC*###*선택한 모듈을 선택한 거치대로 이동
+R_MOVEMODULEBACKTOTANK_TITLE*###*모듈을 전차로 복귀
+R_MOVEMODULEBACKTOTANK_DESC*###*모듈 되돌리기
+R_BACKOUT_TITLE*###*뒤로
+R_BACKOUT_DESC*###*이전 메뉴로 이동
+R_NEXT_TITLE*###*다음
+R_NEXT_DESC*###*다음 메뉴로 이동
+R_MOVETO_TANKGRAVEYARD_DESC*###*전차 폐차장으로 이동.
+R_MOVETO_WORKSHOP_DESC*###*작업장으로 돌아가기.
+R_TANK_STATUS_TITLE*###*전차 상태 메뉴
+R_TANK_STATUS_DESC*###*전차 상태 방사 메뉴 열기
+R_TANK_ANALISYS_TITLE*###*전차 분석
+R_TANK_ANALISYS_DESC*###*전차 분석 메뉴 열기
+R_TANK_INTERIOROPTIONS_TITLE*###*내부 옵션
+R_TANK_INTERIOROPTIONS_DESC*###*전차 내부 옵션 보기
+R_TANK_TESTDRIVE_SHOWOPTIONS_TITLE*###*시험 운전 옵션
+R_TANK_TESTDRIVE_SHOWOPTIONS_DESC*###*시험 운전 옵션 보기
+R_TANK_TESTDRIVE_START_TITLE*###*시험 운전
+R_TANK_TESTDRIVE_START_DESC*###*시험 운전 모드 시작
+R_TANK_TESTDRIVE_FLUIDMENU_TITLE*###*액체 메뉴
+R_TANK_TESTDRIVE_FLUIDMENU_DESC*###*액체 채우기 옵션 보기
+R_TANK_TESTDRIVE_FLUID_MENU_TITLE*###*{0} 탱크 메뉴 열기
+R_TANK_TESTDRIVE_FLUID_MENU_DESC*###*선택한 액체 종류 열기
+R_TANK_TESTDRIVE_FLUID_FILL_TITLE*###*{0} 탱크 채우기 
+R_TANK_TESTDRIVE_FLUID_FILL_DESC*###*액체 채우기 작업 시작
+R_TANK_PROVINGGROUNDS_START_TITLE*###*사격장
+R_TANK_PROVINGGROUNDS_START_DESC*###*사격장 모드 시작
+R_TANK_MANAGER_DESC*###*전차 관리자 메뉴 열기
+R_EXTERIORVISUALSTOGGLE_TITLE*###*전차 외부
+R_EXTERIORVISUALSTOGGLE_DESC*###*전차 외부 부품 보기 토글
+R_EXAMINEMODETOGGLE_TITLE*###*검토 모드
+R_EXAMINEMODETOGGLE_DESC*###*검토 모드 토글
+R_EXTRACTIONTANKTOTRAILER_TITLE*###*트레일러에 전차 싣기
+R_EXTRACTIONTANKTOTRAILER_DESC*###*트럭 트레일러에 전차 싣기
+R_EXTRACTION_CLEANTANK_TITLE*###*전차 청소
+R_EXTRACTION_CLEANTANK_DESC*###*500 $로 전차를 청소합니다.
+R_EXTRACTION_BACKTOBASE_DESC*###*발굴 임무를 떠납니다.
+R_VEHICLEENTEREXITTOGGLE_TITLE*###*차량 {0}
+R_VEHICLEENTEREXITTOGGLE_DESC*###*차량에 들어가거나 나가기
+R_ENTER*###*들어가기
+R_EXIT*###*나가기
+R_VEHICLETOGGLEENGINE_TITLE*###*엔진 토글
+R_VEHICLETOGGLEENGINE_DESC*###*차량 엔진의 시동을 켜거나 끄기
+R_VEHICLETOGGLELIGHTS_TITLE*###*조명 토글
+R_VEHICLETOGGLELIGHTS_DESC*###*차량 조명 켜거나 끄기
+R_VEHICLETOWINGSERVICE_TITLE*###*견인 서비스 요청
+R_VEHICLETOWINGSERVICE_DESC*###*견인 서비스로 차량 빼내기
+R_VEHICLEHOOKMAGNETOMETER_TITLE*###*자기 탐지기 연결
+R_VEHICLEHOOKMAGNETOMETER_DESC*###*차량에 자기 탐지기를 연결하거나 제거합니다.
+R_VEHICLERADIOTOGGLE_TITLE*###*라디오 토글
+R_VEHICLERADIOTOGGLE_DESC*###*차량 라디오 켜거나 끄기
+R_USABLE_PICKUP_TITLE*###*줍기
+R_USABLE_PICKUP_DESC*###*이 아이템 줍기
+R_USABLE_USE_TITLE*###*사용
+R_USABLE_USE_DESC*###*이 아이템 사용
+R_RADIO_NEXT_TITLE*###*다음 노래
+R_RADIO_NEXT_DESC*###*다음 노래로
+R_RADIO_PREVIOUS_TITLE*###*이전 노래
+R_RADIO_PREVIOUS_DESC*###*이전 노래로
+R_RADIO_STATIONS_TITLE*###*방송국 선택
+R_RADIO_STATIONS_DESC*###*방송국 선택 메뉴 열기
+R_RADIO_STATIONS_TOGGLE_TITLE*###*라디오 켜기/끄기
+R_RADIO_STATIONS_TOGGLE_DESC*###*라디오 켜거나 끄기
+R_TOOLBELT_DESC*###*도구 벨트 메뉴 열기
+W_TANKCREW_COMMANDER*###*전차장
+W_TANKCREW_GUNNER*###*포수
+W_TANKCREW_LOADER*###*장전수
+W_TANKCREW_DRIVER*###*조종수
+W_TANKCREW_RADIOOPERATOR*###*무전수
+W_CANNOT_BUYTANK_TITLE*###*전차 구매 불가
+W_CANNOT_MOVETOMUSEUM_TITLE*###*전차 박물관으로 이동 불가
+W_CANNOT_MOVETOMUSEUM_REASON_UNASSEMBLED*###*전차가 충분히 조립되지 않았습니다. 최소 80%만큼 조립하세요.
+W_CANNOT_MOVETOMUSEUM_REASON_NOTREPAIRED*###*전차가 충분히 수리되지 않았습니다. 최소 80%만큼 수리하세요.
+W_CANNOT_ACCEPTNEWJOB_TITLE*###*새 작업 수락 불가
+W_CANNOT_STARTEXTRACTION_TITLE*###*새 발굴 임무 수락 불가
+W_CANNOT_REASON_NOSLOTS*###*빈 전차 슬롯이 없습니다. 먼저 전차 슬롯을 비우세요.
+W_CANNOT_REASON_TOOLS*###*필요한 도구/차량이 모두 잠금 해제되지 않았습니다. 업그레이드 패널에서 먼저 {0}을(를) 잠금 해제하세요.
+W_CANNOT_REASON_MAXACTIVE*###*활성화할 수 있는 의뢰는 최대 3개
+D_JOBTO*###*받는사람:
+D_JOBTITLE*###*제목:
+D_JOBLOCATION*###*위치:
+D_JOB_MONEY_POTENTIAL*###*받을 수 있는 돈:
+D_JOB_MONEY_RECEIVED*###*받은 돈:
+D_JOBREPUTATION*###*경험치:
+D_JOB_TIME_MAX*###*최대 시간:
+D_JOB_TIME_REMAINING*###*남은 시간:
+D_JOB_TIME_AVAILABILITY*###*사용할 수 있는 시간:
+D_JOB_REQUIRED_ASSEMBLY*###*필요한 조립:
+D_JOB_REQUIRED_REPAIRS*###*필요한 수리:
+D_JOB_REQUIRED_CONDITION*###*필요한 상태:
+D_JOB_REQUIRED_TESTRUN*###*시운전 완료됨
+D_JOB_RENOVATE_MODULE*###*모듈 복원: {0}
+D_TANK_COMPLETION_ASSEMBLY*###*전차 조립 완료:
+D_TANK_COMPLETION_REPAIRS*###*전차 수리 완료:
+D_TANK_CONDITION*###*전차 전체 상태
+D_JOBNODATA*###*데이터 없음
+D_JOBTYPE*###*종류:
+D_JOBPURPOSE*###*목적:
+D_TANK_STATUS_REPAIRS*###*전차 수리:
+D_TANK_STATUS_ASSEMBLY*###*전차 조립:
+D_TANK_STATUS_CLEANED*###*청소됨:
+D_TANK_STATUS_RUSTREMOVAL*###*흙 제거됨:
+D_TANK_STATUS_SANDING*###*모래 분사됨:
+D_TANK_STATUS_PRIMER*###*프라이머칠함:
+D_TANK_STATUS_PAINT*###*도색함:
+D_TANK_STATUS_TOOLPROOF*###*교체만 가능
+D_ELEMENT_STATUS_CLEANED*###*청소됨
+D_ELEMENT_STATUS_FINISHED*###*완료됨
+T_LIST_TITLE*###*튜토리얼 목록
+T_HELPLABELS*###*{0} 튜토리얼 목록 열기 | {1} 관심있는 아이템 하이라이트 
+T_TUTORIALLIST*###*튜토리얼 목록 열기
+T_HIGHLIGHT*###*관심있는 아이템 하이라이트 
+T_RESET*###*초기화
+T_TUTORIAL*###*튜토리얼
+T_DISABLE*###*비활성화
+T_INSTRUCTION_GUI_DESKTOP_TITLE*###*데스크탑 패널
+T_INSTRUCTION_GUI_DESKTOP_DESC*###*이 패널은 이메일 관리자(새 의뢰 관리), 작업(현재 의뢰 관리), 전차 부품 상점(전차 부품이나 설계도 구매), 은행(대출)을 열 수 있게 해줍니다.
+T_INSTRUCTION_GUI_EMAIL_TITLE*###*이메일 패널
+T_INSTRUCTION_GUI_EMAIL_DESC*###*이 패널은 받은 이메일을 관리할 수 있게 해줍니다. 플레이어는 이메일 목록에서 이메일을 선택해서 열 수 있습니다. 이메일을 받으면, 플레이어는 의뢰를 수락하거나 거절할 수 잇습니다. 또, 플레이어는 이메일을 그들의 상태로 필터링할 수 있습니다. 이메일에서 X버튼을 누르면 이메일을 삭제할 수 있습니다.
+T_INSTRUCTION_GUI_ORGANIZER_TITLE*###*작업 패널
+T_INSTRUCTION_GUI_ORGANIZER_DESC*###*이 패널은 현재 활성화된 의뢰를 관리할 수 있게 해줍니다. 플레이어는 아무 의뢰나 언제든지 끝낼 수 있습니다. 의뢰가 발굴 임무면, 플레이어는 여기서 임무를 시작할 수 있습니다. 기억하세요, 목표를 달성하기 전에 의뢰를 끝내면 벌금이 부과됩니다.
+T_INSTRUCTION_GUI_PARTSSHOP_TITLE*###*부품 상점 패널
+T_INSTRUCTION_GUI_PARTSSHOP_DESC*###*이 패널은 전차를 선택하여 새 부품을 살 수 있게 해줍니다. 플레이어가 전차를 선택하고 그 전차에 사용할 부품을 선택할 수 있습니다. 또, 플레이어는 모듈에 따라 부품을 필터링할 수 있습니다(예: 포탑 부분만 선택 가능). 플레이어는 또 제작대에서 새 부품을 제작할 수 있도록 전차 설계도를 구매할 수 있습니다.
+T_INSTRUCTION_GUI_BANK_TITLE*###*은행 패널
+T_INSTRUCTION_GUI_BANK_DESC*###*이 패널은 원하는 돈을 대출할 수 있게 해줍니다. 대출을 받으려면, 플레이어가 얼마나 대출을 받을 건지 설정하고 대출하기 버튼을 누르면 됩니다. 플레이어는 충분한 돈이 있다먼, 언제든지 상환하기 버튼을 눌러 대출을 상환할 수 있습니다.
+T_INSTRUCTION_GUI_UPGRADE_TITLE*###*업그레이드 패널
+T_INSTRUCTION_GUI_UPGRADE_DESC*###*이 패널은 3가지 종류의 다양한 업그레이드를 잠금 해제할 수 있습니다: 도구(새 도구와 차량), 사업(도색실), 패시브(부품 구매시 할인). 업그레이드를 잠금 해제하려면, 업그레이드를 선택하고 잠금 해제 버튼을 누르세요.
+T_INSTRUCTION_GUI_CUSTOMIZER_TITLE*###*커스터마이징 패널
+T_INSTRUCTION_GUI_CUSTOMIZER_DESC*###*이 패널은 방에서 다양한 부분을 커스터마이징할 수 있습니다(예: 박물관). 커스터마이징할 수 있는 방: 작업장, 사무실, 제작실, 도색실, 박물관. 가능한 커스터마이징: 벽, 천장, 바닥 재질, 포스터, 박물관 스탠드, 박물관 전시대.
+T_INSTRUCTION_GUI_RADIAL_TITLE*###*방사 패널
+T_INSTRUCTION_GUI_RADIAL_DESC*###*이 패널은 플레이어가 물체를 바라보고(예: 전차) 마우스 가운데 버튼을 누르면 여러 옵션들을 볼 수 있습니다.
+T_INSTRUCTION_GUI_PAINTROOM_TITLE*###*도색실 패널
+T_INSTRUCTION_GUI_PAINTROOM_DESC*###*이 패널은 도색실 안에 현재 지정된 전차에 커스터마이징할 수 있게 해줍니다. 가능한 옵션: 전차 색 변경, 전차 데칼 적용, 전차 위장 변경. 플레이어는 초기화 버튼을 눌러 변경 사항을 초기화할 수 있습니다(이 옵션은 모든 변경을 제거하고 전차 외관을 공장/기본 상태로 되돌립니다). 기억하세요, 전차 외관을 변경하려면 전차를 복원해야 합니다(페인트총으로 도색해야 합니다).
+T_INSTRUCTION_GUI_CRAFTING_TITLE*###*제작 패널
+T_INSTRUCTION_GUI_CRAFTING_DESC*###*이 패널은 선택한 전차의 새 부품을 제작할 수 있게 해줍니다(플레이어가 이전에 전차 부품 상점에서 전차 설계도를 구매했다면). 플레이어는 전차를 선택하고, 제작하고 싶은 부품 선택(같은 부품 여러번 선택 가능), 플레이어가 충분한 부품 조각이 있다면 플레이어가 부품 제작 버튼을 누르면 부품을 제작할 수 있습니다.
+T_INSTRUCTION_GUI_STORAGE_TITLE*###*창고 패널
+T_INSTRUCTION_GUI_STORAGE_DESC*###*T이 패널은 플레이어가 가지고 있는 전차 부품을 제어할 수 있게 해줍니다: 전차에서 해체하거나, 제작대에서 제작하거나, 전차 부품 상점에서 구매했거나. 플레이어가 전차를 선택하면, 호환되는 모든 부품이 표시됩니다. 선택한 부품에 가능한 옵션: 재활용(부품을 분해해서 부품 조각 획득), 판매(부품 판매), 수리(부품 수리).
 T_INSTRUCTION_GUI_ASSEMBLY_TITLE*###*Assembly Panel
 T_INSTRUCTION_GUI_ASSEMBLY_DESC*###*This panel allows to select a part that the player wants to install in place of currently selected tank part. The parts listed in this panel are of the same type as the selected tank part. Additionaly, parts that are compatible but originaly are from other tanks will also be listed here.
 T_INSTRUCTION_GUI_EXTRACTION_MAP_TITLE*###*Extraction Map
