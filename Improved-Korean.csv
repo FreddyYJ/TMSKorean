@@ -1739,25 +1739,25 @@ T_INSTRUCTION_GUI_CRAFTING_TITLE*###*제작 패널
 T_INSTRUCTION_GUI_CRAFTING_DESC*###*이 패널은 선택한 전차의 새 부품을 제작할 수 있게 해줍니다(플레이어가 이전에 전차 부품 상점에서 전차 설계도를 구매했다면). 플레이어는 전차를 선택하고, 제작하고 싶은 부품 선택(같은 부품 여러번 선택 가능), 플레이어가 충분한 부품 조각이 있다면 플레이어가 부품 제작 버튼을 누르면 부품을 제작할 수 있습니다.
 T_INSTRUCTION_GUI_STORAGE_TITLE*###*창고 패널
 T_INSTRUCTION_GUI_STORAGE_DESC*###*T이 패널은 플레이어가 가지고 있는 전차 부품을 제어할 수 있게 해줍니다: 전차에서 해체하거나, 제작대에서 제작하거나, 전차 부품 상점에서 구매했거나. 플레이어가 전차를 선택하면, 호환되는 모든 부품이 표시됩니다. 선택한 부품에 가능한 옵션: 재활용(부품을 분해해서 부품 조각 획득), 판매(부품 판매), 수리(부품 수리).
-T_INSTRUCTION_GUI_ASSEMBLY_TITLE*###*Assembly Panel
-T_INSTRUCTION_GUI_ASSEMBLY_DESC*###*This panel allows to select a part that the player wants to install in place of currently selected tank part. The parts listed in this panel are of the same type as the selected tank part. Additionaly, parts that are compatible but originaly are from other tanks will also be listed here.
-T_INSTRUCTION_GUI_EXTRACTION_MAP_TITLE*###*Extraction Map
-T_INSTRUCTION_GUI_EXTRACTION_MAP_DESC*###*This panel allows the player to control the extraction mission by:\n- switching between contracting out excavation works at selected map location or controlling drone movement (only available when the player has drone unlocked)\n- switching between satellite map and ground penetrating radar scan (only available if player has magnetometer or drone)
-T_INSTRUCTION_USABLE_TITLE*###*Usable objects
-T_INSTRUCTION_USABLE_DESC*###*There are various usable objects in Tank Mechanic Simulator. Some of them are pickable (like tools, lamps etc.), some are toggles (like doors, radio), some are panel openers (like upgrade panel, paint room panel, crafting panel etc.) To highlight all interesting usables in area, press {0}.
-T_INSTRUCTION_TOOLS_HAMMER_TITLE*###*Hammer
-T_INSTRUCTION_TOOLS_HAMMER_DESC*###*Hammer allows to disassemble tank part with a single direct hit on it. Any tank part that is targeted by the player (with the pointer) that is hit by the hammer (after clicking left mouse button) will fall off.\n\nRemember, each struck tank part condition gets decreased on hit.
-T_INSTRUCTION_TOOLS_RUSTREMOVAL_TITLE*###*Rust Removal Tool
-T_INSTRUCTION_TOOLS_RUSTREMOVAL_DESC*###*Rust Removal tool allows to remove rust from tank parts, in order to renovate the tank.\n\nRenovation Scheme:\n- Rust Removal\n- Sand Blasting\n- Applying Primer Paint\n- Applying Standard Paint\n\nIf player targets a tank part while holding the tool, and the tool is on (toggled on or off by pressing left mouse button) the rust will decrease.\n\nAll parts in close vicinity to the targeted tank part area de-rusted (the pointer is the place, where a sphere is casted, all parts that are touched by this sphere are de-rusting). This is useful when player wants to remove rust from hard-to-reach tank parts.
-T_INSTRUCTION_TOOLS_SANDBLASTER_TITLE*###*Sand Blaster
-T_INSTRUCTION_TOOLS_SANDBLASTER_DESC*###*Sand Blaster tool allows to blast sand with very high pressure against targeted tank parts, in order to renovate the tank.\n\nRenovation Scheme:\n- Rust Removal\n- Sand Blasting\n- Applying Primer Paint\n- Applying Standard Paint\n\nIf player targets a tank part while holding the tool, and the tool is on (toggled on or off by pressing left mouse button) the sand will be blasted.\n\nAll parts in close vicinity to the targeted tank part are sand blasted (the pointer is the place, where a sphere is casted, all parts that are touched by this sphere are sand blasted). This is useful when player wants to sand blast hard-to-reach tank parts.
-T_INSTRUCTION_TOOLS_PAINTGUN_TITLE*###*Paint Gun
-T_INSTRUCTION_TOOLS_PAINTGUN_DESC*###*Paint gun tool allows to paint the targeted tank part, in order to renovate the tank.\n\nRenovation Scheme:\n- Rust Removal\n- Sand Blasting\n- Applying Primer Paint\n- Applying Standard Paint\n\nIf player targets a tank part while holding the tool, and the tool is on (toggled on or off by pressing left mouse button) the paint or primer will be applied (depending on current paint mode - toggled by pressing {0} key).\n\nAll parts in close vicinity to the targeted tank parts are painted (the pointer is the place, where a sphere is casted, all parts that are touched by this sphere are painted). This is useful when player wants to paint hard-to-reach tank parts.
-T_INSTRUCTION_TOOLS_GRINDER_TITLE*###*Grinder
-T_INSTRUCTION_TOOLS_GRINDER_DESC*###*Grinder tool allows to grind (de-rust) or cut (disassemble) the targeted tank part, depending on current grinder mode, switchable by pressing {0} key.\n\nIf player targets a tank part while holding the tool, and the tool is on (by holding left mouse button) the part gets cut or grinded.
-T_INSTRUCTION_TOOLS_MAGNETOMETER_TITLE*###*Magnetometer
-T_INSTRUCTION_TOOLS_MAGNETOMETER_DESC*###*Magnetometer allows to scan the ground during the extraction missions, providing that the player had previously unlocked this tool in the upgrade panel.\n\nHow to use:\n- Pick the magnetometer by clicking on it\n- Move around the area where you want to scan the ground\n- The display mounted in the magnetometer shows any metal object it scans\n\nWhen you’re finished with scanning, go to the tablet and switch the map mode, from satellite to GPR scan. The scan should show the results (path and found objects) of your scanning.
-T_INSTRUCTION_TOOLS_SHOVEL_TITLE*###*Shovel
+T_INSTRUCTION_GUI_ASSEMBLY_TITLE*###*조립 패널
+T_INSTRUCTION_GUI_ASSEMBLY_DESC*###*이 패널은 플레이어가 현재 선택된 전차 부품에 설치할 수 있는 부품을 선택할 수 있게 해줍니다. 이 패널에 나열된 부품들은 선택한 전차 부품과 같은 종류입니다. 또, 호환되지만 다른 전차에서 온 부품도 여기에 나열됩니다.
+T_INSTRUCTION_GUI_EXTRACTION_MAP_TITLE*###*발굴 지도
+T_INSTRUCTION_GUI_EXTRACTION_MAP_DESC*###*이 패널은 플레이어가 발굴 미션을 제어할 수 있게 해줍니다: 발굴 작업 요청과 드론 제어(드론을 잠금 해제했다면)를 전환하거나, 위성 시점과 지하 레이더 스캔(자기 탐지기나 드론을 잠금 해제했다면)을 전환할 수 있습니다.
+T_INSTRUCTION_USABLE_TITLE*###*사용 가능한 물체
+T_INSTRUCTION_USABLE_DESC*###*Tank Mechanic Simulator에는 다양한 사용 가능한 물체들이 있습니다. 그들 중 일부는 주울 수 있고(도구, 전등 등), 또 일부는 토글할 수 있고(문, 도구 등), 또 일부는 패널을 열 수 있습니다(업그레이드 패널, 도색실 패널, 제작대 등). 모든 사용 가능한 물체를 하이라이트하려면, {0}을 누르세요.
+T_INSTRUCTION_TOOLS_HAMMER_TITLE*###*해머
+T_INSTRUCTION_TOOLS_HAMMER_DESC*###*해머는 단 한번의 타격으로 전차 부품을 해체할 수 있습니다. 플레이어가 바라보고 있는(포인터로 가리키는) 모든 전차 부품을 해머로 때리면(마우스 좌클릭을 하면) 떨어질 겁니다. 기억하세요, 때릴 때마다 전차 부품의 상태는 나빠집니다.
+T_INSTRUCTION_TOOLS_RUSTREMOVAL_TITLE*###*흙 제거 도구
+T_INSTRUCTION_TOOLS_RUSTREMOVAL_DESC*###*흙 제거 도구는 전차 부품에서 흙을 제거해서, 전차 복원을 할 수 있게 해줍니다.\n\n복원 순서: 흙 제거, 모래 분사, 프라이머칠, 표준 도색.\n\n플레이어가 도구를 든 상태로 전차 부품을 바라보고, 도구가 켜져 있다면(마우스 좌클릭으로 켜기/끄기) 부품의 흙은 줄어들 겁니다.\n\n바라보고 있는 전차 부품의 근처 부품들의 흙도 제거됩니다(포인터 기준으로, 원을 그려서, 원 안에 있는 모든 부품의 흙이 제거됩니다). 이것은 접근하기 어려운 전차 부품의 흙을 제거할 수 있게 해줍니다.
+T_INSTRUCTION_TOOLS_SANDBLASTER_TITLE*###*모래 분사
+T_INSTRUCTION_TOOLS_SANDBLASTER_DESC*###*모래 분사 도구는 바라보고 있는 전차 부품에 매우 높은 압력으로 모래를 분사하며, 전차 복원의 한 과정입니다.\n\n복원 순서: 흙 제거, 모래 분사, 프라이머칠, 표준 도색.\n\n플레이어가 도구를 든 상태로 전차 부품을 바라보고, 도구가 켜져 있다면(마우스 좌클릭으로 켜기/끄기) 모래가 분사될 겁니다.\n\n바라보고 있는 전차 부품의 근처 부품들에도 모래를 분사합니다(포인터 기준으로, 원을 그려서, 원 안에 있는 모든 부품에 분사합니다). 이것은 접근하기 어려운 전차 부품에 모래를 분사할 수 있게 해줍니다.
+T_INSTRUCTION_TOOLS_PAINTGUN_TITLE*###*페인트총
+T_INSTRUCTION_TOOLS_PAINTGUN_DESC*###*페인트 총 도구는 바라보고 있는 전차 부품을 도색하며, 전차 복원의 한 과정입니다.\n\n복원 순서: 흙 제거, 모래 분사, 프라이머칠, 표준 도색.\n\n플레이어가 도구를 든 상태로 전차 부품을 바라보고, 도구가 켜져 있다면(마우스 좌클릭으로 켜기/끄기) 페인트 혹은 프라이머를 칠할 수 있습니다.(현재 모드에 따라 다름: {0}키로 토글)\n\n바라보고 있는 전차 부품의 근처 부품들도 칠할 수 있습니다(포인터 기준으로, 원을 그려서, 원 안에 있는 모든 부품에 칠합니다). 이것은 접근하기 어려운 전차 부품에 칠할 수 있게 해줍니다.
+T_INSTRUCTION_TOOLS_GRINDER_TITLE*###*그라인더
+T_INSTRUCTION_TOOLS_GRINDER_DESC*###*그라인더 도구는 전차 부품을 그라인드(흙 제거) 또는 자르기(부품 해체)을 할 수 있게 해주며, 현재 모드에 따라 다릅니다({0}키로 전환). \n\n플레이어가 도구를 든 상태로 전차 부품을 바라보고, 도구가 켜져 있다면(마우스 좌클릭 유지) 부품이 잘리거나 그라인드됩니다.
+T_INSTRUCTION_TOOLS_MAGNETOMETER_TITLE*###*자기 탐지기
+T_INSTRUCTION_TOOLS_MAGNETOMETER_DESC*###*자기 탐지기는 플레이어가 업그레이드 패널에서 잠금 해제했다면 제공되며, 발굴 임무 동안 땅을 스캔할 수 있게 해줍니다.\n\n사용법: 자기 탐지기를 클릭하여 줍기, 스캔할 땅을 돌아다니기, 자기 탐지기의 디스플레이에 금속 물체 탐지.\n\n스캔이 끝나면, 태블릿으로 가서 위성 모드에서 GPR로 지도 모드를 바꾸세요. 스캔 결과가 거기 나타날 겁니다.
+T_INSTRUCTION_TOOLS_SHOVEL_TITLE*###*삽
 T_INSTRUCTION_TOOLS_SHOVEL_DESC*###*Shovel allows to dig a small hole in terrains during extraction missions. It is one of the essential tools required to start an extraction mission. The shovel might be a useful tool to use when tou’re not sure if you’ve found a tank - might be cheaper to dig a hole first, before calling in big tools (excavation from tablet).
 T_INSTRUCTION_TOOLS_METALDETECTOR_TITLE*###*Metal Detector
 T_INSTRUCTION_TOOLS_METALDETECTOR_DESC*###*Metal detector allows to detect any metal object hidden under the ground. When player has the metal detector in hand and a metal object is close, the metal detector will make a notification sound. The frequency of the sound is higher as the player is closer to the detected metal object.
