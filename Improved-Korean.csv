@@ -1758,47 +1758,47 @@ T_INSTRUCTION_TOOLS_GRINDER_DESC*###*그라인더 도구는 전차 부품을 그
 T_INSTRUCTION_TOOLS_MAGNETOMETER_TITLE*###*자기 탐지기
 T_INSTRUCTION_TOOLS_MAGNETOMETER_DESC*###*자기 탐지기는 플레이어가 업그레이드 패널에서 잠금 해제했다면 제공되며, 발굴 임무 동안 땅을 스캔할 수 있게 해줍니다.\n\n사용법: 자기 탐지기를 클릭하여 줍기, 스캔할 땅을 돌아다니기, 자기 탐지기의 디스플레이에 금속 물체 탐지.\n\n스캔이 끝나면, 태블릿으로 가서 위성 모드에서 GPR로 지도 모드를 바꾸세요. 스캔 결과가 거기 나타날 겁니다.
 T_INSTRUCTION_TOOLS_SHOVEL_TITLE*###*삽
-T_INSTRUCTION_TOOLS_SHOVEL_DESC*###*Shovel allows to dig a small hole in terrains during extraction missions. It is one of the essential tools required to start an extraction mission. The shovel might be a useful tool to use when tou’re not sure if you’ve found a tank - might be cheaper to dig a hole first, before calling in big tools (excavation from tablet).
-T_INSTRUCTION_TOOLS_METALDETECTOR_TITLE*###*Metal Detector
-T_INSTRUCTION_TOOLS_METALDETECTOR_DESC*###*Metal detector allows to detect any metal object hidden under the ground. When player has the metal detector in hand and a metal object is close, the metal detector will make a notification sound. The frequency of the sound is higher as the player is closer to the detected metal object.
-T_INSTRUCTION_TOOLS_WATERHOSE_TITLE*###*Pressure washer
-T_INSTRUCTION_TOOLS_WATERHOSE_DESC*###*Pressure washer allows player to clean the tank from mud and dirt. This is required to put the tank on truck trailer on extraction mission.
-T_INSTRUCTION_TOOLS_PUMP_TITLE*###*Pump
-T_INSTRUCTION_TOOLS_PUMP_DESC*###*Pump allows player to pump out the water and mud from the surroundings of the tank. This is required to clean the tank with the pressure washer on extraction mission.
-T_INSTRUCTION_AREA_WORKSHOP_TITLE*###*Workshop Area
-T_INSTRUCTION_AREA_WORKSHOP_DESC*###*Welcome to your workshop!\n\nIn this area player can renovate the tank, that is currently stationed inside the area (or tanks, if player unlocks level 2 of the workshop with multiple tank slots).
-T_INSTRUCTION_AREA_YARD_TITLE*###*Yard Area
-T_INSTRUCTION_AREA_YARD_DESC*###*In this area player can park tanks (the area has more tank slots than workshop area does).\n\nAdditionaly, there are trash/scrap molds in this area, allowing the player to grind some crafting parts after clicking on them (untill depletion).
-T_INSTRUCTION_AREA_MUSEUM_TITLE*###*Museum Area
-T_INSTRUCTION_AREA_MUSEUM_DESC*###*In this area player can put tanks and found collectibles from extraction missions on display (to gain reputation, spent in upgrade panel).
-T_INSTRUCTION_AREA_TESTDRIVEYARD_TITLE*###*Test Drive Yard Area
-T_INSTRUCTION_AREA_TESTDRIVEYARD_DESC*###*In this area player can put tanks to the test by driving them around the special obstacle course. Player can get inside the tank using the radial menu, as well as start or stop the tank engine.
-T_INSTRUCTION_AREA_TANKGRAVEYARD_TITLE*###*Tank Grave Yard Area
-T_INSTRUCTION_AREA_TANKGRAVEYARD_DESC*###*In this area player can find tanks to buy or find scrap parts.\n\nTanks found here are mostly in very bad shape, much worse state than any contract tank is.
-T_INSTRUCTION_AREA_EXTRACTION_TITLE*###*Extraction Area
-T_INSTRUCTION_AREA_EXTRACTION_DESC*###*This is the area where the extraction mission gets done. Player’s task is to find a tank with tools such as:\n- Shovel\n- Metal Detector\n- Magnetometer\n- Drone\n- Vehicles (off-road car or quad)\n\nScheme to complete the extraction mission:\n- check map (tablet in selected vehicle)\n- get to the probable tank area\n- use metal detector or magnetometer\drone to pin point the position of the tank (use {0} key to put map markers)\n- use shovel to find the tank position\n- when tank is found, call for excavation in the tablet\n- when tank is dug out, pump out the water/mud out with the pump (turn it on and get the pipe inside the mud)\n- clean the tank with ressure washer\n- load the tank onto the trailer (with radial menu)\n- return to workshop (from pause menu)
-T_INSTRUCTION_TESTDRIVE_TITLE*###*Test Drive
-T_INSTRUCTION_TESTDRIVE_DESC*###*To put the tank to the test drive few requirements must be fulfilled:\n- Tank modules: engine and turret have to be mounted\n- Tank parts have to be fixed and mounted from modules:\n- Engine\n- Tracks\n- Wheels\n- Fuel system\n- Gearbox\n\nTo start the test drive, approach a tank and open radial menu on it. Select Test Drive Options, then select Start Test Drive.\n\nTo start the tank engine these parts need to be mounted and fixed first:\n- Engine\n- Fuel system\n- Gearbox\n\nAdditionaly, to start the engine, fluids need to be filled:\n- Coolant\n- Fuel\n- Oil\n\nTo start the engine approach the tank, open radial menu, select Test Drive Options and select Start Engine. To fill fluids, select Fill Fluids radial option in the Test Drive Options radial menu.
-T_INSTRUCTION_FLUIDS_TITLE*###*Fluids
-T_INSTRUCTION_FLUIDS_DESC*###*To start the tank engine, it requires all fluids to be filled. Oil, coolant and fuel container can be filled individually using the radial menu.\n\nHow to fill the fluids:\n- Select a fluid containter you want to fill (from radial menu, first select a fluid type, then container - when there are more than 1 containers available)\n- With container selected, hold left mouse button to fill the container\n With container selected, click right mouse button to switch currently selected fluid containter (that is of the same type)
-T_INSTRUCTION_STANDS_TITLE*###*Stands
-T_INSTRUCTION_STANDS_DESC*###*Some tank modules require to place them on special stands in order to be able to renovate them. To renovate engine or turret interior:\n- Approach the tank and open radial menu\n- Select Open Tank Modules Options\n- Select the module you want to move\n- Select the stand\n\nWith module on stand you can finally renovate it.
-T_INSTRUCTION_DISASSEMBLY_TITLE*###*Disassembly
-T_INSTRUCTION_DISASSEMBLY_DESC*###*To disassemble tank parts you need to:\n- Target a tank part\n- While aiming with pointer at the tank part, press and hold right mouse button\n- If the tank part has any screws, all of them need to be also unscrewed\n\nAll disassembled parts are put in the Storage panel.
-T_INSTRUCTION_ASSEMBLY_TITLE*###*Assembly
-T_INSTRUCTION_ASSEMBLY_DESC*###*To assemble tank parts you need to:\n- Switch to Assembly mode (using the radial menu while pointing at the tank)\n- Target a disassembled part\n- Click and hold right mouse button while aiming at the tank part\n- When Assembly Panel shows up, select a part you want to mount\n\nMounted parts are removed from the Storage Panel.
-T_INSTRUCTION_SCREWS_TITLE*###*Screws
-T_INSTRUCTION_SCREWS_DESC*###*Some tank parts have screws attached to them. If you want to disassemble or assemble such part, the screws need to be unscrewed or screwed in with the part. Some screws are rusted, and need special treatment when interacting with them. To be able to remove rusted screws, player can use:\n- Hammer (direct hit)\n- Grinder (cutting mode)\n- Wrench pistol (standard right mouse button interaction)
-T_INSTRUCTION_TANKINTERIOR_TITLE*###*Tank Interior
-T_INSTRUCTION_TANKINTERIOR_DESC*###*While inside the tank, player can switch his current position with radial menu (most of tanks have the same set of crew positions):\n- Commander\n- Gunner\n- Loader\n- Driver\n- Radio Operator
-T_INSTRUCTION_OFFROADVEHICLE_TITLE*###*Offroad Vehicle
-T_INSTRUCTION_OFFROADVEHICLE_DESC*###*Offroad vehicle allows player to roam around the extraction missions. The vehicle has place for all required tools on extraction mission.\n\nTo pick up tools from the trunk or put tools inside, approach the vehicle and left click the tool in a trunk, or approach the vehicle with a tool and drop the tool. If the tool hits the vehicle, the tool will be added to the trunk of the vehicle.
-T_INSTRUCTION_DRONE_TITLE*###*Drone
-T_INSTRUCTION_DRONE_DESC*###*Drone allows player to scan the ground on extraction missions. If the player has the drone unlocked, the drone will appear on the extraction missions. To control the drone:\n- Approach the tablet in the offroad vehicle\n- Open the tablet and click the Drone Control Mode button (switches the controls between drone controls and excavations)\n- Click left mouse button on the tablet map to order the drone to fly to the designated location\n- Check drone scan results in the GPR Map mode
-T_INSTRUCTION_MAPMARKERS_TITLE*###*Map Markers
-T_INSTRUCTION_MAPMARKERS_DESC*###*Map markers allow player to map any position on the map during extraction missions. To put a marker, press M key. This will place a marker on your map and a little flag directly where the player is standing.
-T_DEMO_WELCOME_01*###*Welcome to the demo version of Tank Mechanic Simulator. We hope that you will have a good time with our game :) 
-T_DEMO_WELCOME_02*###*In the demo you can expect 3 tanks ready to be extracted or repaired.\n- German legendary PzKpfw VI Tiger I Ausf. H1\n- American famous  M4A3E8 Sherman\n- Soviet steel beast KV-1. 
+T_INSTRUCTION_TOOLS_SHOVEL_DESC*###*삽은 발굴 임무 동안 지표면에 작은 구멍을 팔 수 있게 해줍니다. 발굴 임무를 시작하면 필수적인 도구 중 하나입니다. 삽은 당신이 전차를 찾았는지 확실하지 않을 때 유용합니다-거대한 도구(태블릿에서 발굴 요청)를 사용하기 전에 좀 더 저렴한 구멍을 파보세요.
+T_INSTRUCTION_TOOLS_METALDETECTOR_TITLE*###*금속 탐지기
+T_INSTRUCTION_TOOLS_METALDETECTOR_DESC*###*금속 탐지기는 지하에 숨겨진 어떤 금속 물체든 찾아냅니다. 플레이어가 금속 탐지기를 들고 금속 물체가 근처에 있으면, 금속 탐지기가 알림음을 냅니다. 플레이어가 금속 물체에 더 가까워질수록 소리는 더 잦아집니다.
+T_INSTRUCTION_TOOLS_WATERHOSE_TITLE*###*압력 워셔
+T_INSTRUCTION_TOOLS_WATERHOSE_DESC*###*압력 워셔는 플레이어가 전차에 묻은 진흙과 때를 청소할 수 있도록 해줍니다. 이것은 발굴 임무에서 전차를 트레일러에 싣기 전에 필수적입니다.
+T_INSTRUCTION_TOOLS_PUMP_TITLE*###*펌프
+T_INSTRUCTION_TOOLS_PUMP_DESC*###*펌프는 플레이어가 전차 주변의 물과 진흙을 뽑아낼 수 있도록 해줍니다. 이것은 발굴 임무에서 압력 워셔와 함께 전차를 청소하는 데 필수적입니다.
+T_INSTRUCTION_AREA_WORKSHOP_TITLE*###*작업장 구역
+T_INSTRUCTION_AREA_WORKSHOP_DESC*###*작업장에 오신 것을 환영합니다!\n\n이 구역에서는 플레이어가 현재 이 구역에 배치된 전차를 복원할 수 있습니다(작업장 레벨 2를 잠금 해제하면 슬롯이 추가됩니다).
+T_INSTRUCTION_AREA_YARD_TITLE*###*마당 구역
+T_INSTRUCTION_AREA_YARD_DESC*###*이 구역에서는 플레이어가 전차를 주차할 수 있습니다(작업장보다 더 많은 전차 슬롯).\n\n또, 이 구역에는 쓰레기/고철 처리장이 있어서, 플레이어가 부품 조각을 클릭하고 그라인드할 수 있습니다(소모성).
+T_INSTRUCTION_AREA_MUSEUM_TITLE*###*박물관 구역
+T_INSTRUCTION_AREA_MUSEUM_DESC*###*이 구역에서는 전차와 발굴 임무에서 찾은 수집품들을 배치하여 전시할 수 있습니다(경험치를 얻어서, 업그레이드 패널에서 사용).
+T_INSTRUCTION_AREA_TESTDRIVEYARD_TITLE*###*시험 운전 구역
+T_INSTRUCTION_AREA_TESTDRIVEYARD_DESC*###*이 구역에서는 플레이어가 전차를 특별한 코스를 운전하여 시험할 수 있게 해줍니다. 플레이어는 방사 메뉴를 이용하여 전차 내부에 들어가거나, 엔진 시동을 걸거나 끌 수 있습니다.
+T_INSTRUCTION_AREA_TANKGRAVEYARD_TITLE*###*전차 폐차장 구역
+T_INSTRUCTION_AREA_TANKGRAVEYARD_DESC*###*이 구역에서는 플레이어가 전차를 찾아서 구매하거나 고철 부품들을 발견할 수 있습니다.\n\n여기서 찾은 전차는 대부분 의뢰에서 주는 전차보다 매우 나쁜 상태입니다.
+T_INSTRUCTION_AREA_EXTRACTION_TITLE*###*발굴 구역
+T_INSTRUCTION_AREA_EXTRACTION_DESC*###*이 구역은 발굴 임무가 이루어지는 곳입니다. 플레이어가 할 일은 도구들로 전차를 찾는 것입니다: 삽, 금속 탐지기, 자기 탐지기, 드론, 차량(오프로드 차량이나 쿼드)으로요.\n\n발굴 임무를 완료하려면: 지도를 확인하고(차량의 태블릿에서), 전차 구역으로 이동, 금속 탐지기/자기 탐지기/드론을 이용해서 전차의 위치 지정({0}키로 마커 설치), 삽으로 정확한 위치 발견, 전차를 발견하면 태블릿에서 발굴 요청, 전차를 파내면 펌프로 물/진흙 뽑아내기, 압력 워셔로 전차 청소, 트레일러에 전차 싣기(방사 메뉴에서), 작업장으로 복귀(일시정지 메뉴에서).
+T_INSTRUCTION_TESTDRIVE_TITLE*###*시험 운전
+T_INSTRUCTION_TESTDRIVE_DESC*###*전차를 시험 운전에 투입하려면 몇 가지 필요 사항이 있습니다: 전차 모듈: 엔진과 포탑 설치, 전차 부품 설치: 엔진/궤도/현가장치/연료 체계/변속기.\n\n전차 엔진에 시동을 걸려면 이 부품들을 수리해야 합니다: 엔진/연료 체계/변속기.\n\n시험 운전을 시작하려면, 전차에 접근해서 방사 메뉴를 여세요. 시험 운전 옵션 메뉴를 선택하고, 시험 운전 시작 메뉴를 선택하세요.\n\n또, 엔진에 시동을 거려면, 액체들을 채워야 합니다: 냉각수, 연료, 오일.\n\n엔진에 시동을 거려면, 전차에 접근해서 방사 메뉴를 열고, 시험 운전 옵션을 선택하고 엔진 시동을 선택하세요. 액체를 채우려면, 방사 메뉴의 시험 운전 옵션에서 액체 채우기를 선택하세요.
+T_INSTRUCTION_FLUIDS_TITLE*###*액체
+T_INSTRUCTION_FLUIDS_DESC*###*전차 시동을 거려면, 모든 액체들이 채워져 있어야 합니다. 오일, 냉각수와 연료 탱크는 방사 메뉴에서 각각 채울 수 있습니다.\n\n연료를 채우려면: 채우려는 액체 탱크 선택(방사 메뉴에서, 액체 종류 선택, 탱크 선택-탱크가 여러 개라면). 탱크를 선택하면, 마우스 좌클릭을 유지해서 탱크를 채우세요. 탱크를 선택하고, 마우스 우클릭을 하면, 현재 선택된 액체의 다른 탱크로 전환합니다.
+T_INSTRUCTION_STANDS_TITLE*###*거치대
+T_INSTRUCTION_STANDS_DESC*###*몇몇 전차 모듈들은 복원하려면 특별한 거치대로 옮겨야 합니다. 엔진이나 포탑 내부를 복원하려면: 전차에 접근해서 방사 메뉴 열기, 전차 모듈 옵션 선택, 옮기려는 모듈 선택, 거치대 선택.\n\n모듈을 거치대로 옮기면 복원할 준비가 끝납니다.
+T_INSTRUCTION_DISASSEMBLY_TITLE*###*해체
+T_INSTRUCTION_DISASSEMBLY_DESC*###*전차 부품을 해체하려면: 해체할 전차 부품을 포인터로 바라보기, 마우스 우클릭 유지, 전차 부품에 나사가 있다면 모든 나사 풀기.\n\n해체한 부품은 창고 패널로 이동합니다.
+T_INSTRUCTION_ASSEMBLY_TITLE*###*조립
+T_INSTRUCTION_ASSEMBLY_DESC*###*전차 부품을 조립하려면: 조립 모드로 전환(전차를 바라보고 방사 메뉴), 조립할 부품 선택, 마우스 우클릭을 유지, 조립 패널이 나오면 설치할 부품 선택.\n\n설치한 부품은 창고 패널에서 제거됩니다.
+T_INSTRUCTION_SCREWS_TITLE*###*나사
+T_INSTRUCTION_SCREWS_DESC*###*몇몇 전차 부품들은 나사가 필요합니다. 그런 부품들을 해체하거나 조립하려면, 나사를 풀거나 조여야 합니다. 녹슨 나사들은, 특별한 처리가 필요합니다. 녹슨 나사를 제거하려면: 해머(직접 타격), 그라인더(자르기 모드), 피스톨 렌치(단순한 마우스 우클릭 상호작용).
+T_INSTRUCTION_TANKINTERIOR_TITLE*###*전차 내부
+T_INSTRUCTION_TANKINTERIOR_DESC*###*전차 내부에서, 플레이어는 방사 메뉴에서 현재 위치를 옮길 수 있습니다(대부분 전차는 같은 승무원 위치를 가지고 있습니다): 전차장, 포수, 장전수, 조종수, 무전수.
+T_INSTRUCTION_OFFROADVEHICLE_TITLE*###*오프로드 차량
+T_INSTRUCTION_OFFROADVEHICLE_DESC*###*오프로드 차량은 플레이어는가 발굴 임무에서 돌아다닐 수 있게 해줍니다. 차량은 발굴 임무에 필요한 모든 도구를 갖추고 있습니다.\n\n트렁크에서 도구를 들거나 도구를 넣으려면, 차량에 접근해서 도구를 마우스 좌클릭하거나, 차량에 접근해서 도구를 놓으세요. 도구가 차량을 치면, 도구는 자동으로 차량의 트렁크로 들어갑니다.
+T_INSTRUCTION_DRONE_TITLE*###*드론
+T_INSTRUCTION_DRONE_DESC*###*드론은 발굴 임무에서 플레이어가 땅을 스캔할 수 있게 해줍니다. 플레이어가 드론을 잠금 해제하면, 발굴 임무에서 드론이 나타납니다. 드론을 조종하려면: 오프로드 챠량의 태블릿에 접근, 태블릿을 열고 드론 조종 모드 버튼 클릭(드론 조종과 발굴 요청 모드가 있음), 태블릿 지도에서 마우스 좌클릭해서 드론의 목표 지점 선택, GPR지도 모드에서 스캔 결과 확인.
+T_INSTRUCTION_MAPMARKERS_TITLE*###*지도 마커
+T_INSTRUCTION_MAPMARKERS_DESC*###*지도 마커는 발굴 임무에서 플레이어가 맵의 어느 지점이든지 표시할 수 있게 해줍니다. 마커를 설치하려면, M 키를 누르세요. 이것은 플레이어가 서있는 곳에 작은 깃발을 설치해 지도에 마커를 표시해 줍니다.
+T_DEMO_WELCOME_01*###*Tank Mechanic Simulator의 데모 버전에 오신 것을 환영합니다. 저희 게임과 재밌는 시간을 보내기를 희망합니다:)
+T_DEMO_WELCOME_02*###*데모에서는 3대의 전차를 발굴하거나 수리할 수 있습니다: 독일의 전설적인 6호전차 티거 I H1형, 미국의 유명한 M4A3E8 셔먼, 소련의 강철 짐승 KV-1.
 T_STORY_OBJECTIVE_ASSEMBLEPART_TITLE*###*Assemble highlighted parts
 T_STORY_OBJECTIVE_ASSEMBLEPART_DESC*###*Click and hold RMB on selected part to assemble it.
 T_STORY_OBJECTIVE_BUY_FINALIZE_TITLE*###*Accept Checkout
