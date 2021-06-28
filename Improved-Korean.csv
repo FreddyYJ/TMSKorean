@@ -1799,134 +1799,134 @@ T_INSTRUCTION_MAPMARKERS_TITLE*###*지도 마커
 T_INSTRUCTION_MAPMARKERS_DESC*###*지도 마커는 발굴 임무에서 플레이어가 맵의 어느 지점이든지 표시할 수 있게 해줍니다. 마커를 설치하려면, M 키를 누르세요. 이것은 플레이어가 서있는 곳에 작은 깃발을 설치해 지도에 마커를 표시해 줍니다.
 T_DEMO_WELCOME_01*###*Tank Mechanic Simulator의 데모 버전에 오신 것을 환영합니다. 저희 게임과 재밌는 시간을 보내기를 희망합니다:)
 T_DEMO_WELCOME_02*###*데모에서는 3대의 전차를 발굴하거나 수리할 수 있습니다: 독일의 전설적인 6호전차 티거 I H1형, 미국의 유명한 M4A3E8 셔먼, 소련의 강철 짐승 KV-1.
-T_STORY_OBJECTIVE_ASSEMBLEPART_TITLE*###*Assemble highlighted parts
-T_STORY_OBJECTIVE_ASSEMBLEPART_DESC*###*Click and hold RMB on selected part to assemble it.
-T_STORY_OBJECTIVE_BUY_FINALIZE_TITLE*###*Accept Checkout
-T_STORY_OBJECTIVE_BUY_FINALIZE_DESC*###*Click highlighted button to accept the transaction and buy previously selected tank parts.
-T_STORY_OBJECTIVE_BUY_PARTS_TITLE*###*Buy parts
-T_STORY_OBJECTIVE_BUY_PARTS_DESC*###*To buy a new tank part, select it from the list, then click Checkout button.
-T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_TITLE*###*Check missing parts
-T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_DESC*###*Find greyed out parts on the list. These are missing parts that you need to buy and assemble. Remember their names and close this menu.
-T_STORY_OBJECTIVE_DISASSEMBLEPART_TITLE*###*Disassemble highlighted parts
-T_STORY_OBJECTIVE_DISASSEMBLEPART_DESC*###*Click and hold RMB on selected part to disassemble it.
-T_STORY_OBJECTIVE_FINISHCONTRACT_TITLE*###*Finish contract
-T_STORY_OBJECTIVE_FINISHCONTRACT_DESC*###*Select contract from the list and click the highlighted button to finish the contract.
-T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_TITLE*###*Finish contract
-T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_DESC*###*Open organizer Menu and finish the contract.
-T_STORY_OBJECTIVE_MOVE_TANK_TITLE*###*Move tank
-T_STORY_OBJECTIVE_MOVE_TANK_DESC*###*Reposition the tank to the Workshop. To do this, approach the tank and open the radial menu (MMB) while looking at tank.
-T_STORY_OBJECTIVE_MOVE_TOTANK_TITLE*###*Switch rooms
-T_STORY_OBJECTIVE_MOVE_TOTANK_DESC*###*Move to tank {0}. It is positioned in room: {1}.
-T_STORY_OBJECTIVE_OPEN_RADIALMENU_TITLE*###*Open Radial Menu
-T_STORY_OBJECTIVE_OPEN_RADIALMENU_DESC*###*Click MMB to open Radial Menu.
-T_STORY_OBJECTIVE_OPEN_STORAGEMENU_TITLE*###*Open Storage Menu
-T_STORY_OBJECTIVE_OPEN_STORAGEMENU_DESC*###*Select highlighted radial menu option to open Storage Menu.
-T_STORY_OBJECTIVE_OPEN_TANKANALISYS_TITLE*###*Open Tank Analysis Menu
-T_STORY_OBJECTIVE_OPEN_TANKANALISYS_DESC*###*Approach tank and open the Radial Menu with MMB, while looking at tank.
-T_STORY_OBJECTIVE_OPEN_PC_TITLE*###*Open computer
-T_STORY_OBJECTIVE_OPEN_PC_DESC*###*Approach and click LMB on highlighted PC.
-T_STORY_OBJECTIVE_OPEN_ORGANIZER_TITLE*###*Open Organizer Menu
-T_STORY_OBJECTIVE_OPEN_ORGANIZER_DESC*###*Select highlighted button to open Organizer Menu.
-T_STORY_OBJECTIVE_OPEN_SHOP_TITLE*###*Open Shop Menu
-T_STORY_OBJECTIVE_OPEN_SHOP_DESC*###*Select highlighted button to open Shop Menu.
-T_STORY_OBJECTIVE_ORDERREPAIRS_TITLE*###*Order repairs
-T_STORY_OBJECTIVE_ORDERREPAIRS_DESC*###*Click the highlighted button to order the selected parts for a repairs.
-T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_TITLE*###*Repair parts
-T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_DESC*###*Select (LMB) parts that you want to repair, and then click highlited button.
-T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_TITLE*###*Select part
-T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_DESC*###*Approach and select (click LMB) any of the highlighted tank parts.
-T_STORY_OBJECTIVE_SELECT_RADIALOPTION_TITLE*###*Select option
-T_STORY_OBJECTIVE_SELECT_RADIALOPTION_DESC*###*Select highlighted option to proceed.
-T_STORY_OBJECTIVE_SELECTTANK_STORAGE_TITLE*###*Select tank from list
-T_STORY_OBJECTIVE_SELECTTANK_STORAGE_DESC*###*Click highlighted button to open tank list. Select {0}.
-T_STORY_OBJECTIVE_SELECTTANK_SHOP_TITLE*###*Select tank
-T_STORY_OBJECTIVE_SELECTTANK_SHOP_DESC*###*Select the highlighted tank to open tank part menu for selected tank.
-T_STORY_OBJECTIVE_START_EXTRACTION_TITLE*###*Start Extraction mission
-T_STORY_OBJECTIVE_START_EXTRACTION_DESC*###*Click highlighted button to start the extraction mission.
-T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_TITLE*###*Switch to disassembly mode
-T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_DESC*###*In order to disassemble a tank part, you need to be in disassembly mode.
-T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_TITLE*###*Switch to assembly mode
-T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_DESC*###*In order to assemble a tank part, you need to be in assembly mode.
-T_STORY_OBJECTIVE_WAITFORREPAIRS_TITLE*###*Wait for repairs
-T_STORY_OBJECTIVE_WAITFORREPAIRS_DESC*###*Now wait untill the parts are repaired. You can close the storage menu and work during repairs.
-T_STORY_OBJECTIVE_SKIPTUTORIAL*###*Skip tutorial
-J_STORY_TITLE_01*###*New start
-J_STORY_TITLE_02*###*Shopping time
-J_STORY_TITLE_03*###*Find and extract tank
-J_STORY_TITLE_04*###*Tank requires de-rusting
-J_STORY_TITLE_05*###*Help us with sand blasting
-J_STORY_TITLE_06*###*Put primer on our tank
-J_STORY_TITLE_07*###*Repair and test the tank
-J_STORY_TITLE_08*###*Fix and put the tank into museum
-J_STORY_TITLE_09*###*Take the tank to proving grounds
-J_STORY_DESC_01*###*I have heard, that you have taken over the tank business after your father. I’m sending my condolences, he was my dear friend.\n\n Now, I want to help you start, here is my proposition:\n- disassemble and repair broken parts in my KV-1, then assemble the repaired parts back.\nGood luck.
-J_STORY_DESC_02*###*Nice job!\n\nI have another tank, this time to be assembled.\nYou need to buy missing parts for my T34-76 in the online shop, and then assemble them.\nGood luck.
-J_STORY_DESC_03*###*Great work!\n\nI don’t have any tanks for you right now.\nBut I know about a place, where you can find and dig out a tank – it will be yours.\nGood luck.
-J_STORY_DESC_04*###*Your uncle, Tom, has recommended you to us.\nWe would like to order de-rusting of the turret and hull exterior.\nWith respect,
-J_STORY_DESC_05*###*We have a bigger request.\nWe would like to order to de-rust as well as sand blast the exterior of the tank.\n\nGood luck.
-J_STORY_DESC_06*###*We would like to order a tank repairs\nFinal goal would be to apply primer to the whole tank.Additionally, we would like you to replace parts that cannot be repaired by tools.\n\nWith respect,
-J_STORY_DESC_07*###*I see that you are doing well, congrats :)\nI would like to ask you for a little favor.\nOne of the tank from my collection requires its drive system and engine to be fixed. Afterwards, take the tank to a test drive, please.\n\nWIth regards,
-J_STORY_DESC_08*###*You’ve done great with last tank, but I have yet another request.\nI would like you to renovate this tank fully, and put it in your museum for some time.\n\nJust remember to give it back to me ;)\n\nWith regards,
-J_STORY_DESC_09*###*I have a nice treat for you.\nI want to to mount the missing tank parts and then take the tank to the Proving Grounds.\n\nHave fun.
-J_NAME_1*###*Alexander
-J_NAME_2*###*Adam
-J_NAME_3*###*Sebastian
-J_NAME_4*###*Miro
-J_NAME_5*###*Lech
-J_NAME_6*###*John
-J_NAME_7*###*Ivan
-J_NAME_8*###*Igor
-J_NAME_9*###*Robert
-J_NAME_10*###*Mike
-J_NAME_11*###*Peter
-J_NAME_12*###*Pat
-J_NAME_13*###*Peter
-J_NAME_14*###*Mark
-J_NAME_15*###*Scott
-J_NAME_16*###*Fred
-J_NAME_17*###*Bill
-J_NAME_18*###*Bob
-J_NAME_19*###*Jason
-J_NAME_20*###*Greg
-J_NAME_21*###*Adrian
-J_NAME_22*###*Chris
-J_NAME_23*###*Natalie
-J_NAME_24*###*Joanne
-J_NAME_25*###*Susan
-J_NAME_26*###*Evelin
-J_NAME_27*###*Ann
-J_NAME_28*###*Tania
-J_NAME_29*###*Maria
-J_NAME_30*###*Stephanie
-J_NAME_31*###*Uncle Tom
-J_NAME_32*###*Tanks Inc.
-J_TUTORIAL_TITLE*###*Your first contract
-J_TUTORIAL_DESC*###*Dear nephew,\n\ncongratulations on opening the museum.\nI know your business will be successful.\nAs you know, I have a {0} waiting for renovation.\nI would like to hire you for this job.\nAre you interested?\n\nYour {1}
-J_DESC_REPAIR_1*###*Hey,\n\nI have a {0} in need of renovation.\n\nCan you help me?\n\nSincerely,\n{1}
-J_DESC_REPAIR_2*###*Hello there,\n\nI have available {0} and it need some renovation to be in perfect condition.\n\nLet me know. Bye\n{1} 
-J_DESC_REPAIR_3*###*Hey!\n\nNeed urgent help with {0} Let me know quickly, this is really urgent!\n\n{1} 
-J_DESC_REPAIR_4*###*Very nice {0} need few things to be replaced 
-J_DESC_EXTRACT_1*###*Hey,\n\nwe have run into information, that there is a tank ready to be extracted.\n\nAre you interested?\n\nSincerely,\n{0}
-J_DESC_EXTRACT_2*###*Hey there,\n\nwe know where a hidden tank is!\n\nWe won’t make it though, can you help us?\n\n{0}
-J_DESC_EXTRACT_3*###*Dear Sir or Madame,\n\nthere is an abandoned World War II tank in our national park.\n\nWe ask for help in extraction of this tank.\n\nWith regards,\n{0}
-J_TITLE_REPAIR_1*###*Repair contract offer
-J_TITLE_REPAIR_2*###*Need some help with renovation
-J_TITLE_REPAIR_3*###*NEED HELP! 
-J_TITLE_REPAIR_4*###*Nice tank need some work 
-J_TITLE_EXTRACT_1*###*Tank extraction opportunity
-J_TITLE_EXTRACT_2*###*We have found a tank!
-J_TITLE_EXTRACT_3*###*Grab your shovel, we found something.
-J_TITLE_EXTRACT_4*###*Info about tank
-J_TITLE_EXTRACT_5*###*Forgotten tank
-STEAM_ABOUT_GAME_1*###*Tank Mechanic Simulator is a game about World War II tanks, their crews and their contribution in military history. 
-STEAM_ABOUT_GAME_2*###*As a tank museum owner your task is to recover destroyed or abandoned tanks and renovate them. 
-STEAM_ABOUT_GAME_3*###*Use your offroad vehicle to locate forgotten tanks. With final area found, determine the exact position of the tank by using special equipment like metal detector. Set up excavation area and extract the tank!
-STEAM_ABOUT_GAME_4*###*Transport freshly extracted tank to your warehouse. Then start working on renovation process. Detach rusted elements and replace them with new parts. Buy them or fix them by yourself!
-STEAM_ABOUT_GAME_5*###*Tank Mechanic Simulator contain physical terrain deformation system, player will have to mind where and how does he want to travel and excavate.
-STEAM_ABOUT_GAME_6*###*"Perform the entire renovation program starting from:
-[*###*] cleaning tank from mud
-[*###*] removing rust
-[*###*] sand blasting the tank
-[*###*] placing a primer coat
-[*###*] painting tank with final paint "
-STEAM_ABOUT_GAME_7*###*You can excavate even when the night comes! The game extraction missions have full night and day cycle implemented.
+T_STORY_OBJECTIVE_ASSEMBLEPART_TITLE*###*하이라이트된 부품 조립
+T_STORY_OBJECTIVE_ASSEMBLEPART_DESC*###*선택한 부품을 조립하려면 마우스 우클릭을 유지하세요.
+T_STORY_OBJECTIVE_BUY_FINALIZE_TITLE*###*결제 확인
+T_STORY_OBJECTIVE_BUY_FINALIZE_DESC*###*결제를 확인하고 이전에 선택한 부품을 구매하려면 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_BUY_PARTS_TITLE*###*부품 구매
+T_STORY_OBJECTIVE_BUY_PARTS_DESC*###*새 전차 부품을 구매하려면, 목록에서 선택하고, 결제 버튼을 누르세요.
+T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_TITLE*###*없는 부품 확인
+T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_DESC*###*목록에서 회색으로 표시된 부품을 찾으세요. 이 부품들은 없어진 부픔들이고 새로 구매해서 조립해야 합니다. 이 이름들을 기억하고 메뉴를 닫으세요.
+T_STORY_OBJECTIVE_DISASSEMBLEPART_TITLE*###*하이라이트된 부품 해체
+T_STORY_OBJECTIVE_DISASSEMBLEPART_DESC*###*선택한 부품을 해체하려면 마우스 우클릭을 유지하세요.
+T_STORY_OBJECTIVE_FINISHCONTRACT_TITLE*###*의뢰 종료
+T_STORY_OBJECTIVE_FINISHCONTRACT_DESC*###*의뢰를 완료하려면 목록에서 의뢰를 누르고 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_TITLE*###*의뢰 완료
+T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_DESC*###*작업 메뉴를 열고 의뢰를 완료하세요.
+T_STORY_OBJECTIVE_MOVE_TANK_TITLE*###*전차 이동
+T_STORY_OBJECTIVE_MOVE_TANK_DESC*###*작업장으로 전차를 이동하세요. 이를 위해서는, 전차에 접근해서 전차를 바라보고 방사 메뉴(마우스 가운데 버튼)를 여세요.
+T_STORY_OBJECTIVE_MOVE_TOTANK_TITLE*###*방 전환
+T_STORY_OBJECTIVE_MOVE_TOTANK_DESC*###*전차 {0}로 이동하세요. {1}에 있습니다.
+T_STORY_OBJECTIVE_OPEN_RADIALMENU_TITLE*###*방사 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_RADIALMENU_DESC*###*방사 메뉴를 여려면 마우스 가운데 버튼을 클릭하세요.
+T_STORY_OBJECTIVE_OPEN_STORAGEMENU_TITLE*###*창고 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_STORAGEMENU_DESC*###*창고 메뉴를 여려면 하이라이트된 방사 메뉴 옵션을 누르세요.
+T_STORY_OBJECTIVE_OPEN_TANKANALISYS_TITLE*###*전차 분석 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_TANKANALISYS_DESC*###*전차에 접근해서 전차를 바라본 상태로 방사 메뉴를 여세요.
+T_STORY_OBJECTIVE_OPEN_PC_TITLE*###*컴퓨터 열기
+T_STORY_OBJECTIVE_OPEN_PC_DESC*###*하이라이트된 컴퓨터에 접근해서 마우스 좌클릭으로 여세요.
+T_STORY_OBJECTIVE_OPEN_ORGANIZER_TITLE*###*작업 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_ORGANIZER_DESC*###*작업 메뉴를 여려면 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_OPEN_SHOP_TITLE*###*상점 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_SHOP_DESC*###*상점 메뉴를 여려면 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_ORDERREPAIRS_TITLE*###*수리
+T_STORY_OBJECTIVE_ORDERREPAIRS_DESC*###*선택한 부품을 수리하려면 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_TITLE*###*부품 수리
+T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_DESC*###*수리하고 싶은 부품을 클릭하고(마우스 좌클릭), 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_TITLE*###*부품 선택
+T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_DESC*###*하이라이트된 부품 중 하나에 접근해서 선택하세요(마우스 좌클릭).
+T_STORY_OBJECTIVE_SELECT_RADIALOPTION_TITLE*###*옵션 선택
+T_STORY_OBJECTIVE_SELECT_RADIALOPTION_DESC*###*진행하려면 하이라이트된 옵션을 누르세요.
+T_STORY_OBJECTIVE_SELECTTANK_STORAGE_TITLE*###*목록에서 전차 선택
+T_STORY_OBJECTIVE_SELECTTANK_STORAGE_DESC*###*전차 목록을 여려면 하이라이트된 보튼을 누르세요. {0}을(를) 선택하세요.
+T_STORY_OBJECTIVE_SELECTTANK_SHOP_TITLE*###*전차 선택
+T_STORY_OBJECTIVE_SELECTTANK_SHOP_DESC*###*선택한 전차의 전차 부품 메뉴를 여려면 하이라이트된 전차를 선택하세요.
+T_STORY_OBJECTIVE_START_EXTRACTION_TITLE*###*발굴 임무 시작
+T_STORY_OBJECTIVE_START_EXTRACTION_DESC*###*발굴 임무를 시작하려면 하이라이트된 버튼을 누르세요.
+T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_TITLE*###*해체 모드로 전환
+T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_DESC*###*전차 부품을 해체하려면, 해체 메뉴에 있어야 합니다.
+T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_TITLE*###*조립 모드로 전환
+T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_DESC*###*전차 부품을 조립하려면, 조립 메뉴에 있어야 합니다.
+T_STORY_OBJECTIVE_WAITFORREPAIRS_TITLE*###*수리 대기
+T_STORY_OBJECTIVE_WAITFORREPAIRS_DESC*###*이제 부품이 수리될 때까지 기다리세요. 창고 메뉴를 닫고 다른 작업을 할 수 있습니다.
+T_STORY_OBJECTIVE_SKIPTUTORIAL*###*튜토리얼 건너뛰기
+J_STORY_TITLE_01*###*새로운 시작
+J_STORY_TITLE_02*###*쇼핑 시간
+J_STORY_TITLE_03*###*전차 발견 및 발굴
+J_STORY_TITLE_04*###*전차 흙 제거
+J_STORY_TITLE_05*###*모래 분사
+J_STORY_TITLE_06*###*프라이머 칠
+J_STORY_TITLE_07*###*전차 수리 및 시험
+J_STORY_TITLE_08*###*전차 박물관 전시
+J_STORY_TITLE_09*###*전차 사격 시험
+J_STORY_DESC_01*###*제가 듣기로, 아버지의 전차 사업을 물려받으셨다고요. 진심으로 애도를 표합니다, 그는 제일 친한 친구였어요.\n\n이제, 제가 당신이 시작할 수 있도록 도와드리고자, 여기 제 제안이 있습니다: 제 KV-1을 해체하고 고장난 부품을 수리하고, 수리한 부품을 다시 조립해 주세요.\n행운을 빕니다.
+J_STORY_DESC_02*###*아주 좋아요!\n\n제게 또 다른 전차가 있는데, 이번에는 조립해야 합니다.\n온라인 상점에서 제 T-34/76의 없어진 부품을 구매해서, 조립해 주세요.\n행운을 빕니다.
+J_STORY_DESC_03*###*좋은 작업이었어요!\n\n지금은 당신을 위한 남은 전차가 없네요.\n하지만, 전차를 찾고 파낼 수 있는 장소를 알고 있어요-그 전차는 당신 겁니다.\n행운을 빕니다.
+J_STORY_DESC_04*###*당신의 삼촌, 톰이 당신을 우리에게 추천했습니다.\n전차의 포탑과 차체 외부의 흙 제거를 주문하려고 합니다.\n존경하는,
+J_STORY_DESC_05*###*저희가 더 큰 요청을 가지고 왔습니다.\n전차 차체 외부의 흙을 제거하고 모래를 분사해 주세요.\n\n행운을 빕니다.
+J_STORY_DESC_06*###*전차 수리를 맡기고 싶습니다.\n최종 목표는 전차 전체에 프라이머를 칠하는 것입니다. 또, 도구로 수리할 수 없는 부품들을 교체해 주세요.\n\n존경하는,
+J_STORY_DESC_07*###*제가 볼 때 아주 잘 해내시는 것 같습니다, 감사합니다:)\n작은 부탁을 드리려고 합니다.\n제 전차 컬렉션 중 하나가 조종 계통과 엔진이 수리가 필요합니다. 그 후에, 전차를 시험 운전 해주세요.\n\n존경을 담아,
+J_STORY_DESC_08*###*마지막 전차로 잘 해주셨지만, 또 다른 요청이 있습니다.\n이 전차를 완전히 복원하고, 시간이 될 때 박물관에 전시해 주세요.\n\n그냥 저에게 되돌려 주시는 것을 잊지 마세요 ;)\n\n존경을 담아,
+J_STORY_DESC_09*###*제가 당신을 위한 좋은 것이 있습니다.\n없어진 전차 부품을 설치하고 전차를 사격장에 보내 주세요.\n\n즐거운 시간 되세요.
+J_NAME_1*###*알렉산더
+J_NAME_2*###*애덤
+J_NAME_3*###*세바스찬
+J_NAME_4*###*미로
+J_NAME_5*###*렉
+J_NAME_6*###*존
+J_NAME_7*###*이반
+J_NAME_8*###*이고르
+J_NAME_9*###*로버트
+J_NAME_10*###*마이크
+J_NAME_11*###*피터
+J_NAME_12*###*팻
+J_NAME_13*###*피터
+J_NAME_14*###*마크
+J_NAME_15*###*스콧
+J_NAME_16*###*프레드
+J_NAME_17*###*빌
+J_NAME_18*###*밥
+J_NAME_19*###*제이슨
+J_NAME_20*###*그렉
+J_NAME_21*###*아드리안
+J_NAME_22*###*크리스
+J_NAME_23*###*나탈리
+J_NAME_24*###*조안
+J_NAME_25*###*수잔
+J_NAME_26*###*에벌린
+J_NAME_27*###*안
+J_NAME_28*###*타니야
+J_NAME_29*###*마리아
+J_NAME_30*###*스테파니
+J_NAME_31*###*톰 삼촌
+J_NAME_32*###*(주)전차
+J_TUTORIAL_TITLE*###*첫 번째 의뢰
+J_TUTORIAL_DESC*###*조카에게,\n\n박물관을 연 것을 축하한다.\n난 너의 사업이 성공적일 것이라는 것을 알고 있지.\n알다시피, 나에게는 복원할 {0}가 있다.\n이 작업을 위해 너를 고용하고 싶구나.\n흥미가 있니?\n\n너의 {1}이
+J_DESC_REPAIR_1*###*안녕하세요,\n\n제 {0}가 복원이 필요해요.\n\n도와주실 수 있나요?\n\n진심을 담아,\n{1}
+J_DESC_REPAIR_2*###*안녕하신가요,\n\n저에게 {0}가 있는데, 완벽한 상태로 복원이 필요해요.\n\n가능한지 알려주세요. 안녕히.\n\n{1}
+J_DESC_REPAIR_3*###*안녕하세요!\n\n{0}에 급한 도움이 필요해요. 최대한 빨리 알려 주세요, 이건 엄청 급하다고요!\n\n{1}
+J_DESC_REPAIR_4*###*엄청난 {0}에 교체할 것 몇 개가 있어요.
+J_DESC_EXTRACT_1*###*안녕하세요,\n\n저희가, 발굴할 만한 전차가 있다는 정보를 입수했습니다.\n\n흥미가 있나요?\n\n진심을 담아,\n{0}
+J_DESC_EXTRACT_2*###*안녕하신가요,\n\n저희가 숨겨진 전차가 어디 있는지 알아냈어요!\n\n저희끼리는 불가능해서, 도와주실 수 있나요?\n\n{0}
+J_DESC_EXTRACT_3*###*신사/숙녀분께,\n\n국립공원 내에 파괴된 2차 세계 대전 당시의 전차가 있습니다.\n\n이 전차를 발굴하는 데 도움을 요청하고자 합니다.\n\n존경을 담아,\n{0}
+J_TITLE_REPAIR_1*###*수리 의뢰 제안
+J_TITLE_REPAIR_2*###*복원에 도움 필요
+J_TITLE_REPAIR_3*###*도움 필요!
+J_TITLE_REPAIR_4*###*엄창난 전차에 도움 필요 
+J_TITLE_EXTRACT_1*###*전차 발굴 기회
+J_TITLE_EXTRACT_2*###*전차를 찾았어요!
+J_TITLE_EXTRACT_3*###*삽을 챙기세요, 뭔가 찾았거든요.
+J_TITLE_EXTRACT_4*###*전차 정보
+J_TITLE_EXTRACT_5*###*잊힌 전차
+STEAM_ABOUT_GAME_1*###*Tank Mechanic Simulator는 2차 세계대전의 전차, 승무원과 전쟁사에서 그들의 기여에 대한 좋은 게임입니다. 
+STEAM_ABOUT_GAME_2*###*전차 박물관의 소유자로서 당신의 일은 파괴되거나 버려진 전차를 가져와 복원하는 것입니다. 
+STEAM_ABOUT_GAME_3*###*잊힌 전차를 찾으려면 당신의 오프로드 차량을 이용하세요. 최종 위치를 찾으면, 금속 탐지기 같은 특별한 장비로 전차의 정확한 위치를 결정하세요. 발굴 구역을 지정하고 전차를 발굴하세요!
+STEAM_ABOUT_GAME_4*###*금방 발굴한 전차를 차고로 운송하세요. 그리고 복원 작업을 시작하세요. 녹슨 부품을 제거하고 새 부품으로 교체하세요. 직접 구매하거나 수리하세요!
+STEAM_ABOUT_GAME_5*###*Tank Mechanic Simulator는 물리적으로 지표면을 변형시키는 시스템을 포함하고 있어, 플레이어는 어디로 이동해서 어디를 발굴할지 생각해야 합니다.
+STEAM_ABOUT_GAME_6*###*"전체 복원 절차:
+[*###*] 전차의 진흙 제거
+[*###*] 흙 제거
+[*###*] 전차에 모래 분사
+[*###*] 프라이머 칠
+[*###*] 전차 최종 도색 "
+STEAM_ABOUT_GAME_7*###*밤이 와도 계속 발굴할 수 있습니다! 게임의 발굴 임무는 완벽한 낮과 밤이 구현되어 있습니다.
