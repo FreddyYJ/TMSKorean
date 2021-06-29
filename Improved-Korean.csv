@@ -17,16 +17,16 @@ L_KOREAN*###*한국어
 L_CHINESE*###*Chinese (simplified)
 L_JAPANESE*###*Japanese
 E_PLACEHOLDER*###*Place holder
-E_ACCESSORYGEARCOVER*###*기어 장식 덮개*
+E_ACCESSORYGEARCOVER*###*기어 덮개
 E_AIRCLEANER*###*공기 청정기*
 E_AIRFAN*###*환풍기
 E_AIRFILTER*###*공기 필터
-E_AIRFILTER_MOUNT*###*공기 필터 지지대*
+E_AIRFILTER_MOUNT*###*공기 필터 지지대
 E_AIRFILTER_OUTER_FEIFEL*###*Feifel 외부 공기 필터
 E_AIRFILTER_EXHAUST*###*공기 배출구
 E_AIRFILTER_INHAUST*###*공기 흡입구
 E_AIRFILTER_PIPE*###*공기 필터 파이프
-E_AIRFLOW*###*공기 환풍구
+E_AIRFLOW*###*환풍구
 E_AIRPIPE*###*공기 파이프
 E_AIRINTAKEMANIFOLD*###*공기 흡입 매니폴드
 E_AIRFILTERCOVER*###*공기 필터 덮개
@@ -38,8 +38,8 @@ E_AMMOCONTAINER*###*탄약 적재함
 E_AMMORACK_HULL*###*차체 탄약고
 E_AMMORACK_TURRET*###*포탑 탄약고
 E_ANTENNA*###*안테나
-E_ANTENNA_REST*###*안테나 받침대*
-E_ANTENNA_MOUNT*###*안테나 지지대*
+E_ANTENNA_REST*###*안테나 받침대
+E_ANTENNA_MOUNT*###*안테나 지지대
 E_ARMOR_PLATE_TURRET_LEFT*###*포탑 좌측 장갑판
 E_ARMOR_PLATE_TURRET_RIGHT*###*포탑 우측 장갑판
 E_ARMOR_PLATE_FRONT*###*전면 장갑판
@@ -52,13 +52,13 @@ E_AUXILIARY_FRAME*###*보조 발전기 프레임
 E_AXLE*###*차축
 E_AXLE_DRIVE_FRONT*###*전면 구동축
 E_AXLE_DRIVE_REAR*###*후면 구동축
-E_AXLE_DRIVE_MIDDLE*###*중앙 구동축
+E_AXLE_DRIVE_MIDDLE*###*중앙 구동축 
 E_AXLE_REAR_UBOLT*###*후면 차축 U-볼트
 E_AXLE_REAR_MOUNT*###*후면 차축 지지대
 E_BACKLIGHT*###*후방 브레이크등
 E_BACKSHELF*###*후면 선반
 E_BACKTURRETMG*###*포탑 후방 기관총
-E_BARREL*###*배럴통
+E_BARREL*###*포열 
 E_BOXSHEELS*###*탄약 상자
 E_BACKREST*###*등받이
 E_BACKREST_FRAME*###*등받이 프레임
@@ -73,19 +73,19 @@ E_BATTERY*###*베터리
 E_BATTERY_SHELF*###*베터리 선반
 E_BATTERY_WIRES*###*베터리 전선
 E_BODY*###*엔진 본체
-E_BOGIE_FRAME*###*보기 프레임*
+E_BOGIE_FRAME*###*보기 프레임
 E_BOGIE_ARM*###*보기 암
 E_BOGIE_CRAB*###*보기 크랩
 E_BOGIE_FRAME_BRACKET*###*보기 프레임 선반
 E_BOGIE_TUBE_CROSS*###*보기 튜브
-E_BOGIE_LEAF_SPRING*###*이중 스프링 보기*
+E_BOGIE_LEAF_SPRING*###*이중 스프링 보기
 E_BOX*###*상자
 E_BOX_LID*###*상자 뚜껑
 E_BUFFER*###*완충기
-E_BRACKET*###*선반*
-E_BRACKETBOLT*###*선반 볼트
-E_BRACKETCAP*###*선반 덮개
-E_BRACKETPEDAL*###*페달 선반
+E_BRACKET*###*브래킷
+E_BRACKETBOLT*###*브래킷 볼트
+E_BRACKETCAP*###*브래킷 덮개
+E_BRACKETPEDAL*###*브래킷 페달
 E_BRAKEDRUMS*###*브레이크 드럼
 E_BRAKEMECHANISM*###*브레이크 체계
 E_BRAKEPEDAL*###*브레이크 페달
@@ -146,7 +146,7 @@ E_COVER_FUELTANK_RIGHT*###*좌측 연료 탱크 덮개
 E_COVER_GENERATOR*###*발전기 덮개
 E_COVER_HULL*###*차체 덮개
 E_COVER_MAIN*###*엔진 주 덮개
-E_COVER_PROPELLERSHAFT_INSP*###*구동축 덮개*
+E_COVER_PROPELLERSHAFT_INSP*###*구동축 덮개
 E_COVER_PUSHRODS*###*푸쉬로드 덮개
 E_COVER_EXHAUSTMANIFOLD*###*배기 매니폴드 덮개
 E_COVER_SEAT*###*좌석 덮개
@@ -218,7 +218,7 @@ E_FANS*###*팬
 E_FAN_HUB*###*팬 허브
 E_FAN_SHROUD*###*팬 덮개
 E_FAN_DRIVE*###*팬 구동축
-E_FASTENING*###*고정 장치
+E_FASTENING*###*손잡이
 E_FENDER*###*팬더
 E_FRONTCOVER*###*전면 덮개
 E_FRONTDRIVEWHEEL*###*전면 구동축
@@ -296,7 +296,7 @@ E_HATCH_COMMANDER_COVER*###*전차장 해치 덮개
 E_HATCH_COMMANDER_FLAP*###*전차장 해치
 E_HATCH_DRIVER*###*조종수 해치
 E_HATCH_DRIVERASSISTANT*###*무전수 해치
-E_HATCH_EVACUATION*###*대피용 해치
+E_HATCH_EVACUATION*###*후방 탑승문
 E_HATCH_GEARBOX*###*변속기 해치
 E_HATCH_GUNNER*###*포수 해치
 E_HATCH_LOADER*###*장전수 해치
@@ -318,7 +318,7 @@ E_IDLER_ARM*###*아이들러 휠 암
 E_IDLER_POST_BRACE*###*아이들러 휠 죔쇠
 E_IDLER_SHACKLE*###*아이들러 휠 샤클
 E_IDLER_SPRING*###*아이들러 휠 스프링
-E_IDLER_STOP_SCREW*###*아이들러 휠 정지 나사*
+E_IDLER_STOP_SCREW*###*아이들러 휠 정지 나사
 E_IDLER_WHEEL_SHAFT*###*아이들러 휠 축
 E_IDLERTRUNNIONSUPPORT*###*아이들러 휠 고정 장치 보조
 E_IDLERWHEELTRUNNION*###*아이들러 휠 고정 장치
@@ -382,14 +382,14 @@ E_OILFILLER*###*오일 주입기
 E_OILFILLER_TUBE*###*오일 주입 튜브
 E_OILFILTER*###*오일 필터
 E_OILPAN*###*오일팬
-E_OILPAN_BREATHER*###*오일팬 브리더
+E_OILPAN_BREATHER*###*오일 분배기
 E_OILPAN_FILTER*###*오일 필터
 E_OILSUPPLYTANK*###*오일 공급 탱크
 E_OIL_TEMPERATURE_REGULATOR*###*오일 온도 조절기
-E_OUTERJACKET*###*외부 배럴통 덮개
-E_OUTERSLEEVE*###*외부 기관총 덮개
-E_OUTERSLEEVECOVER*###*외부 슬리브 덮개
-E_OUTERSLEEVEJACKET*###*외부 슬리브 덮개
+E_OUTERJACKET*###*외부 포열 덮개
+E_OUTERSLEEVE*###*외부 포열 덮개
+E_OUTERSLEEVECOVER*###*외부 포열 덮개
+E_OUTERSLEEVEJACKET*###*외부 포열 덮개
 E_PANEL*###*제어판
 E_PANEL_STAND*###*패널 스탠드
 E_PANEL_CASE*###*패널 케이스
@@ -428,7 +428,7 @@ E_RECOILCYLINDERS*###*반동 실린더
 E_RECOVERYHOOK*###*구난 훅
 E_REDUCER*###*환원기
 E_ROADWHEEL_WIDE*###*넓은 보기륜
-E_ROADWHEEL_NARROW*###*얇은 보기륜
+E_ROADWHEEL_NARROW*###*좁은 보기륜
 E_ROADWHEEL*###*보기륜
 E_ROADWHEEL_SINGLE_OUTER*###*외부 보기륜 (I)
 E_ROADWHEEL_SINGLE_INNER*###*내부 보기륜 (I)
@@ -442,9 +442,9 @@ E_ROD_THROTTLE*###*스로틀 로드
 E_ROLL*###*롤러 휠
 E_ROLL_DUAL*###*두꺼운 롤러
 E_ROLL_SINGLE*###*얇은 롤러
-E_ROLLSUPPORT*###*롤러 휠 부품
-E_ROLLSUPPORT_DUAL*###*두꺼운 롤러 부품
-E_ROLLSUPPORT_SINGLE*###*얇은 롤러 부품
+E_ROLLSUPPORT*###*롤러 휠 지지대
+E_ROLLSUPPORT_DUAL*###*두꺼운 롤러 지지대
+E_ROLLSUPPORT_SINGLE*###*얇은 롤러 지지대
 E_ROLLERBEARING*###*롤러 휠 베어링
 E_ROTATIONCONTACTDEVICE*###*회전 장치
 E_SINGLEWHEELSPACER*###*얇은 보기륜 스페이서
@@ -703,7 +703,7 @@ M_EXTRACTION_NOTIFICATION_DESC*###*발굴을 진행할 구역을 지정했습니
 M_EXTRACTION_DIG*###*발굴
 M_EXTRACTION_DRONE*###*드론
 M_EXTRACTION_SATELITE*###*위성지도
-M_EXTRACTION_GPR*###*지표 투과 레이더
+M_EXTRACTION_GPR*###*GPR
 M_EXTRACTION_BACKTOBASE*###*작업장으로 복귀
 M_EXTRACTION_TANKSTATE*###*전차 상태:
 M_EXTRACTION_MISSIONSTATE*###*임무 상태:
@@ -715,8 +715,8 @@ M_EXTRACTION_SHALLOW*###*얕은 지하
 M_EXTRACTION_UNDERGROUND*###*깊은 지하
 M_EXTRACTION_DEEP*###*깊음
 M_EXTRACTION_VERYDEEP*###*매우 깊음
-M_EXTRACTION_ACTIVECONTROLS*###*컨트롤 모드 활성화됨:
-M_EXTRACTION_ACTIVEMAP*###*맵 모드 활성화됨:
+M_EXTRACTION_ACTIVECONTROLS*###*컨트롤 모드:
+M_EXTRACTION_ACTIVEMAP*###*맵 모드:
 M_EXTRACTION_STATUS_CHECKMAP_TITLE*###*맵 확인
 M_EXTRACTION_STATUS_CHECKMAP_DESC*###*맵을 확인하세요 (선택한 차량에서 태블릿 사용)
 M_EXTRACTION_STATUS_FINDTANK_TITLE*###*전차 탐색
@@ -1902,11 +1902,11 @@ J_NAME_31*###*톰 삼촌
 J_NAME_32*###*(주)전차
 J_TUTORIAL_TITLE*###*첫 번째 의뢰
 J_TUTORIAL_DESC*###*조카에게,\n\n박물관을 연 것을 축하한다.\n난 너의 사업이 성공적일 것이라는 것을 알고 있지.\n알다시피, 나에게는 복원할 {0}가 있다.\n이 작업을 위해 너를 고용하고 싶구나.\n흥미가 있니?\n\n너의 {1}이
-J_DESC_REPAIR_1*###*안녕하세요,\n\n제 {0}가 복원이 필요해요.\n\n도와주실 수 있나요?\n\n진심을 담아,\n{1}
-J_DESC_REPAIR_2*###*안녕하신가요,\n\n저에게 {0}가 있는데, 완벽한 상태로 복원이 필요해요.\n\n가능한지 알려주세요. 안녕히.\n\n{1}
+J_DESC_REPAIR_1*###*안녕하세요,\n\n제 {0}이(가) 복원이 필요해요.\n\n도와주실 수 있나요?\n\n진심을 담아,\n{1}
+J_DESC_REPAIR_2*###*안녕하신가요,\n\n저에게 {0}이(가) 있는데, 완벽한 상태로 복원이 필요해요.\n\n가능한지 알려주세요. 안녕히.\n\n{1}
 J_DESC_REPAIR_3*###*안녕하세요!\n\n{0}에 급한 도움이 필요해요. 최대한 빨리 알려 주세요, 이건 엄청 급하다고요!\n\n{1}
 J_DESC_REPAIR_4*###*엄청난 {0}에 교체할 것 몇 개가 있어요.
-J_DESC_EXTRACT_1*###*안녕하세요,\n\n저희가, 발굴할 만한 전차가 있다는 정보를 입수했습니다.\n\n흥미가 있나요?\n\n진심을 담아,\n{0}
+J_DESC_EXTRACT_1*###*안녕하세요,\n\n저희가 발굴할 만한 전차가 있다는 정보를 입수했습니다.\n\n흥미가 있나요?\n\n진심을 담아,\n{0}
 J_DESC_EXTRACT_2*###*안녕하신가요,\n\n저희가 숨겨진 전차가 어디 있는지 알아냈어요!\n\n저희끼리는 불가능해서, 도와주실 수 있나요?\n\n{0}
 J_DESC_EXTRACT_3*###*신사/숙녀분께,\n\n국립공원 내에 파괴된 2차 세계 대전 당시의 전차가 있습니다.\n\n이 전차를 발굴하는 데 도움을 요청하고자 합니다.\n\n존경을 담아,\n{0}
 J_TITLE_REPAIR_1*###*수리 의뢰 제안
