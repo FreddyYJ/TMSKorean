@@ -22,7 +22,7 @@ E_AIRCLEANER*###*공기 청정기*
 E_AIRFAN*###*환풍기
 E_AIRFILTER*###*공기 필터
 E_AIRFILTER_MOUNT*###*공기 필터 지지대
-E_AIRFILTER_OUTER_FEIFEL*###*Feifel 외부 공기 필터
+E_AIRFILTER_OUTER_FEIFEL*###*외부 공기 필터
 E_AIRFILTER_EXHAUST*###*공기 배출구
 E_AIRFILTER_INHAUST*###*공기 흡입구
 E_AIRFILTER_PIPE*###*공기 필터 파이프
@@ -103,8 +103,8 @@ E_CAMSHAFT_HOUSING_LEFT*###*캠샤프트 좌측 하우징
 E_CAMSHAFT_HOUSING_RIGHT*###*캠샤프트 우측 하우징
 E_CANISTER*###*연료통
 E_CANISTERS*###*연료통
-E_CANNONBASE*###*주포 지지대
-E_CANNONBASEATTACHMENT*###*주포 지지대 부착물
+E_CANNONBASE*###*포방패
+E_CANNONBASEATTACHMENT*###*포방패 부착물
 E_CANNONBASEHOLDER*###*포탑 지지대 홀더
 E_CANNONBRAKE*###*주포 반동 브레이크
 E_CAP*###*뚜껑
@@ -141,7 +141,8 @@ E_COVER_GEARBOX*###*변속기 덮개
 E_COVER_GEARBOX_TOP*###*변속기 상단 덮개
 E_COVER_GEARBOX_FRONT*###*변속기 전면 덮개
 E_COVER_FLYWHEEL*###*플라이휠 덮개
-E_COVER_FUELTANK_LEFT*###*우측 연료 탱크 덮개
+E_COVER_FUELTANK_LEFT*###*우측 
+ 덮개
 E_COVER_FUELTANK_RIGHT*###*좌측 연료 탱크 덮개
 E_COVER_GENERATOR*###*발전기 덮개
 E_COVER_HULL*###*차체 덮개
