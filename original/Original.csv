@@ -1,0 +1,1931 @@
+*###*Custom
+Flag*###*Flag-CU
+Language*###*Custom
+*###*
+L_ENGLISH*###*English
+L_POLISH*###*Polski
+L_SPANISH*###*Espanol
+L_ITALIAN*###*Italiano
+L_FRENCH*###*Français
+L_RUSSIAN*###*Russian
+L_GERMAN*###*Deutsch
+L_TURKISH*###*Türkçe
+L_HUNGARIAN*###*Magyar
+L_CZECH*###*Čeština
+L_PORTUGESE*###*Portugues
+L_KOREAN*###*Korean
+L_CHINESE*###*Chinese (simplified)
+L_JAPANESE*###*Japanese
+E_PLACEHOLDER*###*Place holder
+E_ACCESSORYGEARCOVER*###*Accessory gear cover
+E_AIRCLEANER*###*Air cleaner
+E_AIRFAN*###*Air fan
+E_AIRFILTER*###*Air filter
+E_AIRFILTER_MOUNT*###*Air filter mount
+E_AIRFILTER_OUTER_FEIFEL*###*Feifel outer air filter
+E_AIRFILTER_EXHAUST*###*Air exhaust
+E_AIRFILTER_INHAUST*###*Air inlet
+E_AIRFILTER_PIPE*###*Airfilter pipe
+E_AIRFLOW*###*Air vent
+E_AIRPIPE*###*Air pipe
+E_AIRINTAKEMANIFOLD*###*Air intake manifold
+E_AIRFILTERCOVER*###*Air filter cover
+E_AIRTRANSMISSION*###*Air transmission
+E_AMMOBOX*###*Ammunition box
+E_AMMOBOX_MG*###*MG Ammo box
+E_AMMOMG*###*MG Ammunition
+E_AMMOCONTAINER*###*Ammo Container
+E_AMMORACK_HULL*###*Hull ammo rack
+E_AMMORACK_TURRET*###*Turret ammo rack
+E_ANTENNA*###*Antenna
+E_ANTENNA_REST*###*Antenna rest
+E_ANTENNA_MOUNT*###*Antenna mount
+E_ARMOR_PLATE_TURRET_LEFT*###*Turret left armor plate
+E_ARMOR_PLATE_TURRET_RIGHT*###*Turret right armor plate
+E_ARMOR_PLATE_FRONT*###*Front armour plate
+E_ARMOR_PLATE*###*Armor plate
+E_AUXILIARY_EXHAUST*###*Auxiliary generator muffler
+E_AUXILIARY_GENERATOR*###*Auxiliary generator
+E_AUXILIARY_GENERATORFUELTANK*###*Auxiliary generator fuel tank
+E_AUXILIARY_EXHAUSTPIPE*###*Auxiliary generator exhaust pipe
+E_AUXILIARY_FRAME*###*Auxiliary generator frame
+E_AXLE*###*Axle
+E_AXLE_DRIVE_FRONT*###*Front drive axle
+E_AXLE_DRIVE_REAR*###*Rear drive axle
+E_AXLE_DRIVE_MIDDLE*###*Middle drive axle
+E_AXLE_REAR_UBOLT*###*Rear axle U-bolt
+E_AXLE_REAR_MOUNT*###*Rear axle mount
+E_BACKLIGHT*###*Rear brake light
+E_BACKSHELF*###*Back shelf
+E_BACKTURRETMG*###*Rear Turret MG
+E_BARREL*###*Barrel
+E_BOXSHEELS*###*Box for ammunition shells
+E_BACKREST*###*Backrest
+E_BACKREST_FRAME*###*Backrest frame
+E_BACKREST_COMMANDER*###*Commander’s backrest
+E_BASE*###*Turret base
+E_BASESEAT*###*Turret base seat
+E_BASKET*###*Turret basket
+E_BASKET_CASE*###*Basket
+E_BATTERYBOX*###*Battery box
+E_BATTERYFRAME*###*Battery frame
+E_BATTERY*###*Battery
+E_BATTERY_SHELF*###*Battery shelf
+E_BATTERY_WIRES*###*Battery wires
+E_BODY*###*Engine mainbody
+E_BOGIE_FRAME*###*Bogie frame
+E_BOGIE_ARM*###*Bogie arm
+E_BOGIE_CRAB*###*Bogie crab
+E_BOGIE_FRAME_BRACKET*###*Bogie frame bracket
+E_BOGIE_TUBE_CROSS*###*Bogie cross tube
+E_BOGIE_LEAF_SPRING*###*Double leaf spring bogie
+E_BOX*###*Box
+E_BOX_LID*###*Box lid
+E_BUFFER*###*Buffer
+E_BRACKET*###*Bracket
+E_BRACKETBOLT*###*Bracket bolt
+E_BRACKETCAP*###*Mounting bracket cap
+E_BRACKETPEDAL*###*Pedal bracket
+E_BRAKEDRUMS*###*Brake drum
+E_BRAKEMECHANISM*###*Brake mechanism
+E_BRAKEPEDAL*###*Brake pedal
+E_BREECHBLOCK*###*Breech block
+E_BREECHRING*###*Breech ring
+E_BUMPER*###*Bumper
+E_BUMPER_FRONT*###*Front bumper
+E_BUMPER_REAR*###*Rear bumper
+E_BUMPSPRING*###*Suspension spring
+E_CABLE_IGNITION*###*Ignition cable
+E_CAMSHAFT*###*Camshaft
+E_CAMSHAFT_BEARING*###*Camshaft bearing cap
+E_CAMSHAFT_HOUSING*###*Camshaft housing
+E_CAMSHAFT_HOUSING_LEFT*###*Left camshaft housing
+E_CAMSHAFT_HOUSING_RIGHT*###*Right camshaft housing
+E_CANISTER*###*Canister
+E_CANISTERS*###*Canisters
+E_CANNONBASE*###*Gun mantlet
+E_CANNONBASEATTACHMENT*###*Cannon base attachment
+E_CANNONBASEHOLDER*###*Turret mantlet holder
+E_CANNONBRAKE*###*Cannon recoil brake
+E_CAP*###*Cap
+E_CARBURETOR*###*Carburetor
+E_CARBURETOR_FRONT*###*Front carburetor
+E_CARBURETOR_REAR*###*Rear carburetor
+E_CARBURETOR_HEATING*###*Carburetor heating lines
+E_CASE*###*Case
+E_CASE_LARGE*###*Large case
+E_CHEST*###*Chest
+E_CLAMPINGDEVICE*###*Clamping device
+E_CLUTCH*###*Clutch
+E_CLUTCH_FLANGE*###*Clutch flange
+E_CLUTCH_GASKET*###*Clutch housing gasket
+E_CLUTCH_HOUSING*###*Clutch housing
+E_CLUTCH_PEDAL*###*Clutch pedal
+E_COCKPIT*###*Cockpit
+E_COFFER*###*Coffer
+E_COMMANDERPERISCOPE*###*Commander's periscope
+E_COMMANDERCUPOLA*###*Commander’s cupola
+E_COMMANDERCUPOLA_RING*###*Commander’s cupola ring
+E_COMMANDERCUPOLA_COVER*###*Commander’s cupola cover
+E_COMMANDER_FOOTREST*###*Commander’s footrest
+E_CONNECTINGHOSE*###*Connecting hose
+E_CONTROL*###*Traverse gearbox
+E_COOLANTFILLER*###*Coolant filler
+E_COOLANT_TANK*###*Coolant tank
+E_COOLANT_TANK_SURGE*###*Coolant surge tank
+E_COVER*###*Cover
+E_COVER_BATTERY*###*Battery cover
+E_COVER_TURRET_LEFT*###*Turret left cover
+E_COVER_TURRET_RIGHT*###*Turret right cover
+E_COVER_GEARBOX*###*Gearbox cover
+E_COVER_GEARBOX_TOP*###*Gearbox top cover
+E_COVER_GEARBOX_FRONT*###*Gearbox front cover
+E_COVER_FLYWHEEL*###*Flywheel cover
+E_COVER_FUELTANK_LEFT*###*Right fuel tank cover
+E_COVER_FUELTANK_RIGHT*###*Left fuel tank cover
+E_COVER_GENERATOR*###*Generator cover
+E_COVER_HULL*###*Hull cover
+E_COVER_MAIN*###*Engine main cover
+E_COVER_PROPELLERSHAFT_INSP*###*Drive shaft inspection cover
+E_COVER_PUSHRODS*###*Pushrods cover
+E_COVER_EXHAUSTMANIFOLD*###*Exhaust manifold cover
+E_COVER_SEAT*###*Seat cover
+E_COVER_DIFFERENTIAL*###*Differential cover
+E_COVER_FINALDRIVE*###*Final drive cover
+E_COVER_FINALDRIVE_PLUG*###*Final drive cover plug
+E_COVER_STEERING*###*Steering mechanism cover
+E_COVER_VIEWER*###*Viewer cover
+E_COVER_VALVES*###*Valves cover
+E_COVER_IGNITION*###*Ignition cables cover
+E_COVERS_ENGINE*###*Engine cover
+E_COVERS_ENGINE_INSP*###*Engine inspection cover
+E_COVERS_FANS*###*Fan air vent cover
+E_COVERS_FUEL*###*Fuel tank cover
+E_COVERS_RADIATOR*###*Radiator cover
+E_CRANKSHAFT*###*Crankshaft
+E_CRANKSHAFT_BEARING_CAP*###*Crankshaft bearing cap
+E_CRATE*###*Crate
+E_CROSSBEAM*###*Crossbeam
+E_CYLINDER*###*Cylinder
+E_DASHBOARD*###*Dashboard
+E_DIFFERENTIAL_GEARS*###*Differential gears
+E_DIFFERENTIAL_HOUSING*###*Differential housing
+E_DIPSTICK*###*Dipstick
+E_DOOR*###*Door
+E_DOOR_DRIVER*###*Driver’s door
+E_DOOR_DRIVER_HATCH*###*Driver’s door hatch
+E_DOOR_DRIVER_SIGHT*###*Driver’s door sight
+E_DOOR_ASSISTANT*###*Assistant’s door
+E_DOOR_ASSISTANT_HATCH*###*Assistant’s door hatch
+E_DOOR_ASSISTANT_SIGHT*###*Assistant’s door sight
+E_DOOR_REAR*###*Rear door
+E_DRIVER_SIGHT*###*Driver sight
+E_DRIVERASSISTANTPERISCOPE*###*Driver Assistant's periscope
+E_DRIVERPERISCOPE*###*Driver's periscope
+E_DRIVECHAIN*###*Drive chain
+E_DRUMBRAKE*###*Drum brake
+E_DUALTRACKSUPPORTROLLER*###*Horizontal volute spring
+E_ELECTROSTARTER*###*Electro starter
+E_ELECTRICAL_BOX*###*Electrical box
+E_ELECTRICAL_TERMINAL*###*Electrical terminal
+E_ELEVATING_HANDWHEEL*###*Elevating handwheel
+E_ENGINE*###*Hydraulic traverse unit
+E_ENGINEHATCH*###*Engine hatch
+E_ENGINEHATCH_FRAME*###*Engine hatch frame
+E_ENGINEHATCH_LARGE*###*Large engine hatch
+E_ENGINEHATCH_SMALL*###*Small engine hatch
+E_ENGINE_HOOD*###*Engine hood
+E_ENGINE_BRACKET*###*Engine bracket
+E_ENGINEMOUNT*###*Engine mount
+E_EQUILIBRATORSPRING*###*Equilibrator Spring
+E_EXHAUST*###*Exhaust
+E_EXHAUSTMUFFLER*###*Muffler
+E_EXHAUSTLEFT*###*Left muffler
+E_EXHAUSTRIGHT*###*Right muffler
+E_EXHAUSTMANIFOLD*###*Exhaust manifold
+E_EXHAUSTMANIFOLD_LEFT*###*Left exhaust manifold
+E_EXHAUSTMANIFOLD_RIGHT*###*Right exhaust manifold
+E_EXHAUSTPIPE*###*Exhaust pipe
+E_EXHAUSTPIPE_LEFT*###*Left exhaust pipe
+E_EXHAUSTPIPE_RIGHT*###*Right exhaust pipe
+E_EXHAUSTPIPECOVER*###*Exhaust pipe cover
+E_EXHAUSTDEFLECTOR*###*Exhaust deflector
+E_EXHAUSTTIP*###*Exhaust tip
+E_EXHAUSTELBOW*###*Exhaust elbow
+E_EXTINGUISHER*###*Extinguisher
+E_FAN*###*Fan
+E_FANS*###*Fans
+E_FAN_HUB*###*Fan hub
+E_FAN_SHROUD*###*Fan shroud
+E_FAN_DRIVE*###*Fan drive
+E_FASTENING*###*Fastening
+E_FENDER*###*Fender
+E_FRONTCOVER*###*Front cover
+E_FRONTDRIVEWHEEL*###*Front drive wheel
+E_FINALDRIVE*###*Final drive
+E_FLOOR*###*Floor
+E_FLYWHEEL*###*Flywheel
+E_FRONTLIGHT*###*Front headlight
+E_FRONTLIGHT_COVER*###*Front light cover
+E_FRONTLIGHT_MOUNT*###*Front light mount
+E_FRONTMOUNT*###*Front mount
+E_FRONTPLATE*###*Front armour plate
+E_FRONTSPRINGARM*###*Front spring arm
+E_FUEL_CAP*###*Fuel tank cap
+E_FUEL_CAP_COVER*###*Fuel tank cap cover
+E_FUELCANISTERSLOT*###*Fuel canister holder
+E_FUELFILLER*###*Fuel filler
+E_FUELFILTER*###*Fuel filter
+E_FUELGAGESENDINGUNIT_LEFT*###*Left fuel gage sending unit
+E_FUELGAGESENDINGUNIT_RIGHT*###*Right fuel gage sending unit
+E_FUELHOSE*###*Fuel hose
+E_FUELPUMP*###*Fuel pump
+E_FUELPUMPHOSE*###*Fuel pump hose
+E_FUELTANK*###*Fuel tank
+E_FUELTANK_LEFT*###*Left fuel tank
+E_FUELTANK_RIGHT*###*Right fuel tank
+E_FUELTANK_HORIZONTRAL*###*Horizontal fuel tank
+E_FUELTANK_VERTICAL*###*Vertical fuel tank
+E_FUELTANK_OUTER*###*Outer fuel tank
+E_FUELTANK_HATCH*###*Fuel tank hatch
+E_FUELTANK_BASE*###*Fuel tank base
+E_GASMASK_BOX*###*Gas mask container
+E_GASPEDAL*###*Gas pedal
+E_GEARBOXMAINBODY*###*Gearbox
+E_GEARCOVER*###*Gear cover
+E_GEARMECHANISM*###*Elevating gear mechanism
+E_GEARMECHANISM_ARM*###*Elevating gear arm
+E_GEAR*###*Tools
+E_GEARS*###*Gear
+E_GEARELEMENT*###*Gear element
+E_GENERATOR*###*Generator
+E_GENERATOR_REGULATOR*###*Generator regulator
+E_GOVERNOR*###*Injection pump governor
+E_GRENADELAUNCHER*###*Grenade launcher
+E_GRENADELAUNCHER_LEFT*###*Left grenade launcher
+E_GRENADELAUNCHER_RIGHT*###*Right grenade launcher
+E_GRILLE_FLAP*###*Grille flap
+E_GUDGEONPIN*###*Gudgeon pin
+E_GUN*###*Gun breech
+E_GUN_2*###*Gun
+E_GUN_CRADLE*###*Cannon cradle
+E_GUN_INTERIOR_MANTLET*###*Gun interior mantlet
+E_GUNATTACHMENT*###*Gun attachment
+E_GUNBRAKE*###*Muzzle brake
+E_GUNCOVER*###*Gun cover
+E_GUNPORT*###*Gun port
+E_GUNSOCKET*###*Gun socket
+E_GUNNEROPTICS*###*Gunner optics
+E_GUNNEROPTICSATTACHMENT*###*Gunner optics attachment
+E_GUNTRAVELLOCK*###*Gun travel lock
+E_GUNCOUNTERBALANCE*###*Gun counterbalance
+E_HAMMER*###*Hammer
+E_HANDBRAKE*###*Handbrake
+E_HANDCRANK*###*Hand crank
+E_HANDCRANK_PORT*###*Hand crank port
+E_HANDLEFANCLUTCH*###*Fan clutch handle
+E_HANDLES*###*Handles
+E_HANDRAIL*###*Handrail
+E_HANDWHEEL_ELEVATING*###*Elevating handwheel
+E_HANDWHEEL_TRAVERSE*###*Traverse handwheel
+E_HATCH*###*Hatch
+E_HATCH_AMMO*###*Ammo hatch
+E_HATCH_BRAKEDRUMS*###*Brake drum hatch
+E_HATCH_COMMANDER*###*Commander’s hatch
+E_HATCH_COMMANDER_COVER*###*Commander’s hatch cover
+E_HATCH_COMMANDER_FLAP*###*Commander’s hatch
+E_HATCH_DRIVER*###*Driver’s hatch
+E_HATCH_DRIVERASSISTANT*###*Assistant's hatch
+E_HATCH_EVACUATION*###*Evacuation hatch
+E_HATCH_GEARBOX*###*Gearbox hatch
+E_HATCH_GUNNER*###*Gunner’s hatch
+E_HATCH_LOADER*###*Loader hatch
+E_HATCH_LOADER_LEFT*###*Left Loader's hatch
+E_HATCH_LOADER_RIGHT*###*Right Loader's hatch
+E_HATCH_RADIOOPERATOR*###*Radio operator’s hatch
+E_HATCH_ROOF*###*Roof hatch
+E_HATCH_REAR*###*Rear hatch
+E_HATCH_PERISCOPE*###*Periscope hatch
+E_HATCH_FAN*###*Fan hatch
+E_HINGE*###*Hinge
+E_HOUSINGCOVER*###*Engine head
+E_HOOK*###*Hook
+E_HORN*###*Horn
+E_HULLMG*###*Hull MG
+E_HYDRAULIC_TRAVERSE*###*Hydraulic traverse foot control
+E_IDLER*###*Idler wheel
+E_IDLER_ARM*###*Idler wheel arm
+E_IDLER_POST_BRACE*###*Idler post brace
+E_IDLER_SHACKLE*###*Idler shackle
+E_IDLER_SPRING*###*Idler spring
+E_IDLER_STOP_SCREW*###*Idler stop screw
+E_IDLER_WHEEL_SHAFT*###*Idler wheel shaft
+E_IDLERTRUNNIONSUPPORT*###*Idler wheel trunnion support
+E_IDLERWHEELTRUNNION*###*Idle wheel trunnion
+E_IGNITION*###*Ignition magneto
+E_IGNITION_COIL*###*Ignition coil
+E_IGNITION_COIL_WIRE*###*Ignition coil wire
+E_IGNITION_WIRES*###*Ignition wires
+E_INJECTIONPUMP*###*Injection pump
+E_INJECTIONPUMP_DRIVE*###*Injection pump drive
+E_INERTIASTARTER*###*Inertia starter
+E_INNERSLEEVE*###*Inner barrel sleeve
+E_INSTRUMENTPANEL*###*Instrument panel
+E_INTAKE_SYSTEM*###*Intake system
+E_JACK*###*Jack
+E_LEAFSPRING*###*Leaf spring
+E_LEAFSPRING_PLATE*###*Leaf spring plate
+E_LEVER*###*Lever
+E_LEVER_GEARBOX*###*Gearbox lever
+E_LEVER_STEERING*###*Steering lever
+E_LEVER_STEERING_BRACKET*###*Steering lever bracket
+E_LEVERS_STEERING*###*Steering levers
+E_LEVERS*###*Levers
+E_LINK_DRAG*###*Drag link
+E_LINK_DRAG_BRACKET*###*Drag link bracket
+E_LOADERSPERISCOPE*###*Loader's periscope
+E_LOADER_CUPOLA*###*Loader’s cupola
+E_LOCK*###*Lock handle
+E_LOCK_UPPER*###*Lock upper rod
+E_LOCK_LOWER*###*Lock lower rod
+E_LOCKER*###*Locker
+E_LOCKERDOOR*###*Locker door
+E_MAGNETO*###*Magneto
+E_MANIFOLDS*###*Manifolds
+E_MASTERCYLINDER*###*Master cylinder
+E_MARKER*###*Position marker
+E_MGFIRINGPEDAL*###*MG Firing pedal
+E_MG_CRADLE*###*MG pintle
+E_MG_MOUNT*###*MG pedestal
+E_MG_SHIELD*###*MG shield
+E_MG_BASE*###*MG base
+E_MG_RIM*###*MG rim
+E_MISSILE*###*Missile
+E_MISSILE_SET*###*Missile set
+E_MISSILESTAND*###*Missiles stand
+E_MISSILESTOWAGE*###*Missile stowage
+E_MOTORSHIELD*###*Motor shield
+E_MOTORSHIELD_TURRET*###*Turret motor shield
+E_MOUNTINGBRACKET*###*Mounting bracket
+E_MUDGUARD*###*Mudguard
+E_MUDGUARD_BACK*###*Rear mudguard
+E_MUDGUARD_FRONT*###*Front mudguard
+E_MUDGUARD_SIDE*###*Side mudguard
+E_MUDCLEANERBLADE*###*Mud cleaner blade
+E_MUZZLE_BRAKE_RING*###*Muzzle brake ring
+E_MOUNT*###*Mounting
+E_OIL_CAP*###*Oil cap
+E_OILCONTAINER*###*Oil tank
+E_OILCOOLER*###*Oil cooler
+E_OILCOOLER_LINE*###*Oil cooler line
+E_OILFILLER*###*Oil filler
+E_OILFILLER_TUBE*###*Oil filler tube
+E_OILFILTER*###*Oil filter
+E_OILPAN*###*Oilpan
+E_OILPAN_BREATHER*###*Oilpan breather
+E_OILPAN_FILTER*###*Oil filter
+E_OILSUPPLYTANK*###*Oil supply tank
+E_OIL_TEMPERATURE_REGULATOR*###*Oil temperature regulator
+E_OUTERJACKET*###*Outer barrel jacket
+E_OUTERSLEEVE*###*Outer gun jacket
+E_OUTERSLEEVECOVER*###*Outer sleeve cover
+E_OUTERSLEEVEJACKET*###*Outer sleeve jacket
+E_PANEL*###*Control panel
+E_PANEL_STAND*###*Panel stand
+E_PANEL_CASE*###*Panel case
+E_PARTITION*###*Partition
+E_PEDAL*###*Pedal
+E_PEDALS*###*Pedals
+E_PERISCOPE*###*Periscope
+E_PICKAXE*###*Pickaxe
+E_PIN*###*Pin
+E_PIN_FUEL*###*Fuel tank cap pin
+E_PISTOLPORT*###*Pistol port
+E_PISTON*###*Piston
+E_PISTON_CAP*###*Conrod cap
+E_PISTON_ROD*###*Piston rod
+E_PLATE*###*Plate
+E_PROPELLERSHAFT*###*Drive shaft
+E_PROPELLERSHAFT_COVER*###*Drive shaft cover
+E_PROTECTIVESLEEVE*###*Mantlet protective sleeve
+E_PULLEY*###*Pulley
+E_PULLEY_CRANKSHAFT*###*Crankshaft pulley
+E_PUSHROD*###*Pushrod
+E_RADIATOR*###*Radiator
+E_RADIATOR_CAP*###*Radiator cap
+E_RADIATOR_INLETCONNECTOR*###*Radiator inlet connector
+E_RADIO*###*Radio
+E_RADIO_TRANSMITTER*###*Radio transmitter
+E_RADIO_RECEIVER*###*Radio receiver
+E_RADIO_CASE*###*Radio case
+E_RADIO_POWER*###*Radio power supply
+E_RADIO_CONNECTOR*###*Radio connector
+E_RADIO_MORSE*###*Telegraph
+E_RADIOOPERATOR_SIGHT*###*Radio operator sight
+E_RAILING*###*Railing
+E_REARDRIVEWHEEL*###*Rear drive wheel
+E_RECOILCYLINDERS*###*Recoil cylinders
+E_RECOVERYHOOK*###*Recovery hook
+E_REDUCER*###*Reducer
+E_ROADWHEEL_WIDE*###*Wide road wheel
+E_ROADWHEEL_NARROW*###*Narrow road wheel
+E_ROADWHEEL*###*Road wheel
+E_ROADWHEEL_SINGLE_OUTER*###*Outer road wheel (I)
+E_ROADWHEEL_SINGLE_INNER*###*Inner road wheel (I)
+E_ROADWHEEL_DOUBLE_OUTER*###*Outer road wheel (II)
+E_ROADWHEEL_DOUBLE_INNER*###*Inner road wheel (II)
+E_ROADWHEELARM*###*Road wheel arm
+E_ROADWHEELARM_FRONT*###*Front road wheel arm
+E_ROD*###*Rod
+E_ROD_TIE*###*Tie rod
+E_ROD_THROTTLE*###*Throttle rod
+E_ROLL*###*Roller wheel
+E_ROLL_DUAL*###*Dual rollers
+E_ROLL_SINGLE*###*Single roller
+E_ROLLSUPPORT*###*Roll wheel support
+E_ROLLSUPPORT_DUAL*###*Dual roll support
+E_ROLLSUPPORT_SINGLE*###*Single roll support
+E_ROLLERBEARING*###*Roller bearing
+E_ROTATIONCONTACTDEVICE*###*Rotation contact device
+E_SINGLEWHEELSPACER*###*Single wheel spacer
+E_DOUBLEWHEELSPACER*###*Double wheel spacer
+E_SAW*###*Saw
+E_SEAT*###*Seat
+E_SEAT_ASSIST*###*Assistant's seat
+E_SEAT_COMMANDER*###*Commander’s seat
+E_SEAT_DRIVER*###*Driver's seat
+E_SEAT_GUNNER*###*Gunner’s seat
+E_SEAT_LOADER*###*Loader’s seat
+E_SEAT_RADIOOPERATOR*###*Radio operator’s seat
+E_SHACKLE*###*Shackle
+E_SHAFT*###*Transmission shaft
+E_SHAFT_DRIVE_FRONT*###*Front drive shaft
+E_SHAFT_DRIVE_REAR*###*Rear drive shaft
+E_SHAFT_DRIVE_MIDDLE*###*Middle drive shaft
+E_SHEARS*###*Shears
+E_SHELF*###*Shelf
+E_SHOCKABSORBER*###*Shock absorber
+E_SHOVEL*###*Shovel
+E_SHOVELS*###*Shovels
+E_SIDEPLATE*###*Side armour plate
+E_SIDESKIRT*###*Side skirt
+E_SIDESKIRT_RACK*###*Side skirt rack
+E_SIGHTINGDEVICE*###*Sighting device
+E_SIGHT*###*Sight
+E_SIGHT_ROD*###*Sight rod
+E_SIGHT_ASSISTANT*###*Assistant’s sight
+E_SPARKPLUG*###*Sparkplug
+E_SPEAKER*###*Speaker
+E_SPOTLIGHTATTACHMENT*###*Spotlight attachment
+E_SPRINGSEATPIN*###*Spring seat pin
+E_SPRING_VOLUTE_VERTICAL*###*Vertical volute spring
+E_SPROCKET*###*Sprocket wheel
+E_SPROCKETWHEELTRUNNION*###*Sprocket wheel trunnion
+E_SPROCKETWHEEL_COVER*###*Sprocket wheel cover
+E_STAND*###*Engine stand
+E_STARTER*###*Generator
+E_STARTER_WIRES*###*Starter wires
+E_STARTER_PNEUMATIC*###*Pneumatic starter
+E_STARTER_MAGNET*###*Starter electromagnet
+E_STEERING_KNUCKLE*###*Steering knuckle
+E_STEERING_GEAR*###*Steering gear
+E_STEERING_MECHANISM*###*Steering mechanism
+E_STEERINGCARRIAGE_MOUNT*###*Steering carriage mount
+E_STEERINGCARRIAGE_MECHANISM*###*Hydraulic steering mechanism
+E_STEERINGCARRIAGE_OILTANK*###*Hydraulic oil tank
+E_STEERINGCARRIAGE_PIPE*###*Steering mechanism pipe
+E_STEERINGCARRIAGE_BASE*###*Steering mechanism base
+E_STEERINGWHEEL*###*Steering wheel
+E_STEP*###*Step
+E_SUPERSTRUCTURE*###*Superstructure
+E_SUSPCOVER*###*Suspension cover
+E_SUSPENSION*###*Suspension
+E_SUSPENSIONARM*###*Suspension arm
+E_SUSPENSIONARMPIN*###*Suspension arm pin
+E_SUSPENSIONLEVER*###*Suspension lever
+E_SUSPENSIONMOUNT*###*Suspension mount
+E_SYNCHRO*###*Synchronizator
+E_TACHOMETER_ADAPTER*###*Tachometer adapter
+E_TACHOMETERDRIVE*###*Tachometer drive
+E_THERMOSTAT*###*Thermostat
+E_TOWINGHOOK*###*Towing hook
+E_TOOLBOX*###*Toolbox
+E_TOOLBAG*###*Tool bag
+E_TORSIONBAR*###*Torsion bar
+E_TORQUE_ROD_UPPER*###*Upper torque rod
+E_TORQUE_ROD_LOWER*###*Lower torque rod
+E_TOWROPE_SIDE*###*Track tow rope
+E_TOWROPE_TOP*###*Top tow rope
+E_TOWROPE_BRACKET*###*Tow rope bracket
+E_TOWROPE*###*Tow rope
+E_TRACKS*###*Track
+E_TRACKS_BELT*###*Track Belt
+E_TRACKS_FRONT*###*Front track
+E_TRACKS_REAR*###*Rear track
+E_TRANSFER_CASE*###*Transfer case
+E_TRANSMCOVERHATCH*###*Transmission cover hatch
+E_TRANSMISSION*###*Transmission
+E_TRANSMISSION_FRONTCOVER*###*Transmission rear cover
+E_TRANSMISSION_MAINCOVER*###*Transmission main housing
+E_TRANSMISSION_SHAFT*###*Gearbox shaft
+E_TRACKSKID*###*Track skid
+E_TRACKFRAME*###*Track frame
+E_TRACKFRAME_MOUNT*###*Track frame mount
+E_TRACKFRAME_BRACKET*###*Track frame bracket
+E_TURRETCONTROL*###*Turret control
+E_TURRETENGINE*###*Turret engine
+E_TURRET_MANTLET*###*Turret mantlet
+E_TURRET_MANTLET_BASE*###*Turret mantlet base
+E_TENSIONMECHANISM*###*Tension mechanism
+E_TIMINGCHAIN*###*Timing chain
+E_TIMINGGEAR*###*Timing gear
+E_TIMINGSLEEVE*###*Timing sleeve
+E_TIMINGCOVER_TOP*###*Timing cover
+E_TIMINGCOVER*###*Timing housing
+E_TRAVERSE_MECHANISM*###*Traverse mechanism
+E_UNBASE_ENGINE*###*Engine block
+E_UNBASE_HULL_EXTERIOR*###*Hull
+E_UNBASE_HULL_INTERIOR*###*Hull interior
+E_UNBASE_TURRET_EXTERIOR*###*Turret
+E_UNBASE_TURRET_INTERIOR*###*Turret interior
+E_UNBASE_GEARBOX*###*Gearbox base
+E_VBELT*###*V-belt
+E_VALVE*###*Valve
+E_VALVE_ARM*###*Valve arm
+E_VENTCOVER*###*Fan cover
+E_VIBRATIONDAMPER*###*Vibration damper
+E_VIEWER*###*Viewer
+E_VIEWERCOVER*###*Optic cover
+E_VISION*###*Visor
+E_VVSS*###*Vertical volute springs
+E_WATER_BYPASS*###*Water by-pass pipe
+E_WATERMANIFOLD*###*Water manifold
+E_WATEROUTLET*###*Cooling water outlet
+E_WATERPUMP*###*Water pump
+E_WHEELPLACE*###*Wheel place
+E_WHEELS*###*Wheel
+E_WHEELTIRE*###*Tire
+E_WHEELRIM*###*Rim
+E_WOODENSHELF*###*Wooden shelf
+E_WRENCH*###*Wrench
+U_PREFIX_SELECT*###*Select
+U_PREFIX_TURN_ON*###*Turn on
+U_PREFIX_TURN_OFF*###*Turn off
+U_PREFIX_ENTER*###*Use
+U_PUMP*###*Pump
+U_PUMP_PIPE*###*Pump pipe
+U_EXCAVATOR*###*Excavator
+U_OFFROADVEHICLE*###*Offroad Vehicle
+U_QUAD*###*Quad
+U_TANK*###*Tank
+U_MAGNETOMETER*###*Magnetometer
+U_DRONE*###*Drone
+U_LAPTOP*###*Laptop
+U_COMPUTER*###*Computer
+U_LAMP*###*Lamp
+U_STEPS*###*Steps
+U_UPGRADEPANEL*###*Upgrade panel
+U_GOTO*###*Go to: {0}
+U_GOTO_NOPARAMETER*###*Go to
+U_WORKSHOP*###*Workshop
+U_MUSEUM*###*Museum
+U_YARD*###*Yard
+U_PARKING*###*Parking
+U_STORAGE*###*Storage
+U_PAINTROOM*###*Paint Room
+U_TANKGRAVEYARD*###*Tank graveyard
+U_TANKWAREHOUSE*###*Tank Warehouse
+U_TRASH*###*Trash
+U_STAND_TURRET*###*Turret Stand
+U_STAND_ENGINE*###*Engine stand
+U_METALOBJECT*###*Metal Object
+U_METALOBJECT_BADGE_GER_ASSAULT*###*Assault Badge
+U_METALOBJECT_BADGE_GER_COMBAT*###*Combat Badge
+U_METALOBJECT_BADGE_GER_IRONCROSS*###*Iron Cross Badge
+U_METALOBJECT_BADGE_GER_KNIGHTCROSS*###*Knight Cross Badge
+U_METALOBJECT_BADGE_GER_WOUNDED*###*Wounded Badge
+U_METALOBJECT_GER_MP40*###*MP-40
+U_METALOBJECT_GER_LUGER*###*Luger
+U_METALOBJECT_GER_MG34*###*MG-34
+U_METALOBJECT_GER_MG42*###*MG-42
+U_METALOBJECT_GER_HELMET*###*Wehrmacht Helmet
+U_METALOBJECT_USSR_PPSH*###*PPSH
+U_METALOBJECT_USSR_TT*###*TT
+U_METALOBJECT_USSR_DT*###*DT
+U_METALOBJECT_USSR_MOSINNAGANT_M38*###*Mosin Nagant M38
+U_METALOBJECT_USSR_MOSINNAGANT_9130*###*Mosin Nagant 91-30 
+U_METALOBJECT_USSR_MOSINNAGANT_1891*###*Mosin Nagant 1891
+U_METALOBJECT_USA_COLT1911*###*Colt 1911
+U_METALOBJECT_USA_M2*###*M2 Browning
+U_METALOBJECT_USA_M3GREASEGUN*###*M3 Grease Gun
+U_METALOBJECT_USA_M1919BROWNING*###*M1919 Browning
+U_METALOBJECT_USA_THOMPSON*###*Thompson submachine gun
+U_METALOBJECT_USA_M1CARBINE*###*M1 Carbine
+U_METALOBJECT_USA_M1GARAND*###*M1 Garand
+U_METALOBJECT_USA_BAR*###*Browning Automatic Rifle
+U_METALOBJECT_USA_M1A1BAZOOKA*###*M1A1 Bazooka
+U_METALOBJECT_ENG_STENMKII*###*Sten Mk II
+U_METALOBJECT_ENG_BESA*###*Besa
+U_METALOBJECT_ENG_FAIRBAIRNSYKES*###*Fairbairn–Sykes fighting knife
+U_METALOBJECT_ENG_VICKERS_MMG*###*Vickers MMG
+U_METALOBJECT_BINOC*###*Binoculars
+M_SIDE_GER*###*GER
+M_SIDE_USSR*###*USSR
+M_SIDE_USA*###*USA
+M_SIDE_UK*###*UK
+M_PROP_TYPE_MACHINEGUN*###*Machine gun
+M_PROP_TYPE_PERSONALWEAPON*###*Personal weapon
+M_PROP_TYPE_BADGE*###*Badge
+M_PROP_TYPE_EQUIPMENT*###*Equipment
+M_PROP_TYPE_AMMO*###*Ammo
+M_PROP_RARITY_COMMON*###*Common
+M_PROP_RARITY_RARE*###*Rare
+M_PROP_RARITY_VERYRARE*###*Very rare
+M_PROP_RARITY*###*Rarity
+M_MONEY*###*Money:
+M_TANKMUSEUM*###*Tank museum
+M_ENTER*###*Enter
+M_TANKWIKI*###*Tank wikipedia
+M_TANK_SELECTOR_TITLE*###*Tank:
+M_TANK_SELECTOR_SELECT*###*Select tank...
+M_OTHERS*###*Others
+M_MODES*###*Modes
+M_MOVEMENT*###*Movement
+M_MOVEMENT_FORWARD*###*Move forward
+M_MOVEMENT_BACKWARD*###*Move backward
+M_MOVEMENT_LEFT*###*Move left
+M_MOVEMENT_RIGHT*###*Move right
+M_MOVEMENT_JUMP*###*Jump
+M_MOVEMENT_SPRINT*###*Sprint
+M_MOVEMENT_CROUCH*###*Crouch
+M_SETTINGS*###*Settings
+M_CREDIT*###*Credits
+M_EXIT*###*Exit
+M_CLOSE*###*Close
+M_CREATE*###*Create
+M_DELETEDATA*###*Delete Data
+M_FORCEQUIT*###*Force Quit
+M_CLICKHERETOTYPE*###*Click here to type…
+M_DECISIONSCREENTITLE*###*Decision screen
+M_WARNINGTITLE*###*Warning!
+M_CONFIRMATION*###*Confirmation
+M_WARNINGMESSAGE*###*Warning: {0}
+M_CONTINUE*###*Continue
+M_CLICK*###*Click
+M_TOSELECTELEMENT*###*to select element
+M_TODISASSEMBLE*###*to disassemble
+M_HOLD*###*Hold
+M_YES*###*Yes
+M_NO*###*No
+M_EMPTY*###*Empty
+M_SAVE*###*Save
+M_LOAD*###*Load
+M_GAME*###*Game
+M_MENU*###*Menu
+M_MODE*###*Mode
+M_LEVEL*###*Level
+M_BACK*###*Back
+M_LOADING*###*Loading
+M_SAVING*###*Saving
+M_PLEASEWAIT*###*{0} {1}, please wait…
+M_MANAGERS*###*Managers
+M_FINISHED*###*Finished
+M_SAVES*###*Saves
+M_PLAYER*###*Player
+M_EXTRACTIONAREA*###*Extraction Area
+M_MARKERS*###*Markers
+M_TARGET*###*Target
+M_EXTRACTION_TOGGLE_CONTROLS*###*Toggle drone/excavation
+M_EXTRACTION_TOGGLE_MAP*###*Toggle magnetometer/satalite map
+M_EXTRCATION_NOTIFICTAION*###*Extraction Notification
+M_EXTRACTION_NOTIFICATION_DESC*###*You have selected an area to start the excavation process.\n\nDo you wish to continue?
+M_EXTRACTION_DIG*###*Dig
+M_EXTRACTION_DRONE*###*Drone
+M_EXTRACTION_SATELITE*###*Satelite
+M_EXTRACTION_GPR*###*GPR
+M_EXTRACTION_BACKTOBASE*###*Back to Workshop
+M_EXTRACTION_TANKSTATE*###*Tank State:
+M_EXTRACTION_MISSIONSTATE*###*Mission State:
+M_EXTRACTION_MONEYSPENT*###*Money Spent:
+M_EXTRACTION_GPRMAPSCALE*###*Scale
+M_EXTRACTION_ABOVE*###*Above surface
+M_EXTRACTION_GROUND*###*Ground
+M_EXTRACTION_SHALLOW*###*Shallow
+M_EXTRACTION_UNDERGROUND*###*Underground
+M_EXTRACTION_DEEP*###*Deep
+M_EXTRACTION_VERYDEEP*###*Very deep
+M_EXTRACTION_ACTIVECONTROLS*###*Active controls mode:
+M_EXTRACTION_ACTIVEMAP*###*Active map mode:
+M_EXTRACTION_STATUS_CHECKMAP_TITLE*###*Check map
+M_EXTRACTION_STATUS_CHECKMAP_DESC*###*Check map (tablet in selected vehicle)
+M_EXTRACTION_STATUS_FINDTANK_TITLE*###*Find tank
+M_EXTRACTION_STATUS_FINDTANK_DESC*###*Use metal detector, magnetometer or drone if they are unlocked. Mark the place by putting a marker (M).
+M_EXTRACTION_STATUS_DIGTANK_TITLE*###*Dig out tank
+M_EXTRACTION_STATUS_DIGTANK_DESC*###*Use shovel and/or call excavations using tablet.
+M_EXTRACTION_STATUS_EXCAVATETANK_TITLE*###*Excavate tank
+M_EXTRACTION_STATUS_EXCAVATETANK_DESC*###*Return to tablet and call the excavation crew to extract the tank.
+M_EXTRACTION_STATUS_PUMPMUD_TITLE*###*Pump out mud
+M_EXTRACTION_STATUS_PUMPMUD_DESC*###*Start the pump.
+M_EXTRACTION_STATUS_CLEANTANK_TITLE*###*Clean tank
+M_EXTRACTION_STATUS_CLEANTANK_DESC*###*Use pressure washer.\nRequired clean state: {0}%\nCurrent clean state: {1}%
+M_EXTRACTION_STATUS_LOADTANK_TITLE*###*Load tank
+M_EXTRACTION_STATUS_LOADTANK_DESC*###*By opening radial menu on tank to load it on the truck trailer.
+M_EXTRACTION_STATUS_BACKTOBASE_TITLE*###*Back to workshop
+M_EXTRACTION_STATUS_BACKTOBASE_DESC*###*Get back to workshop using radial menu.
+M_EXTRACTION_EXCAVATION_RESULT*###*Excavations result
+M_EXTRACTION_EXCAVATION_SUCCESS*###*We have found something!
+M_EXTRACTION_EXCAVATION_MUD*###*\nWe have ran into water source. Pump it out.
+M_EXTRACTION_EXCAVATION_FAIL*###*Unfortunately, nothing was found.
+M_PROVINGGROUNDS_RESTARTTARGETS*###*Restart Targets
+M_PROVINGGROUNDS_RESTARTTARGETS_DESC*###*Do you want to restart targets position and their state?
+M_PROVINGGROUNDS_RESUPPLY*###*Resupply
+M_PROVINGGROUNDS_RESUPPLY_DESC*###*Do you want to resupply your tank?
+M_PROVINGGROUNDS_SELECTCHALLENGE*###*Select Challenge
+M_PROVINGGROUNDS_SELECTCHALLENGE_DESC*###*Select challenge type you want to play:
+M_PROVINGGROUNDS_SELECTTANK*###*Select Tank
+M_PROVINGGROUNDS_SELECTTANK_DESC*###*Which tank would you like to select?
+M_PROVINGGROUNDS_MISSIONSETTINGS*###*Mission Settings
+M_PROVINGGROUNDS_CURRENTCHALLENGE*###*Current challenge:
+M_PROVINGGROUNDS_CURRENTTANK*###*Current tank:
+M_PROVINGGROUNDS_TIMEOFDAY*###*Time of day:
+M_PROVINGGROUNDS_STATUS_GETINTANK_TITLE*###*Get into tank
+M_PROVINGGROUNDS_STATUS_GETINTANK_DESC*###*Approach the tank and take the driver slot.
+M_PROVINGGROUNDS_STATUS_TAKEPOSITION_TITLE*###*Take position
+M_PROVINGGROUNDS_STATUS_TAKEPOSITION_DESC*###*Move to highlighted area with your tank.
+M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_TITLE*###*Switch to gunner
+M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_DESC*###*In order to shoot, you need to switch to gunner position
+M_PROVINGGROUNDS_STATUS_SHOOTTARGET_TITLE*###*Shoot target
+M_PROVINGGROUNDS_STATUS_SHOOTTARGET_DESC*###*Aim and shoot the highlighted target.
+M_PROVINGGROUNDS_STATUS_OPENTABLET_TITLE*###*Open tablet
+M_PROVINGGROUNDS_STATUS_OPENTABLET_DESC*###*Exit the tank and use the highlighted tablet.
+M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_TITLE*###*Start challenge
+M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_DESC*###*Select and then start a shooting challenge.
+M_LEGEND*###*Legend
+M_LOADING_GAMEMODE*###*Game mode
+M_LOADING_PLAYERDATA*###*Player data
+M_LOADING_TANKS*###*Tanks
+M_MAINMENU*###*Main menu
+M_DATA*###*Data
+M_TANKS*###*Tanks
+M_STATS*###*Stats
+M_UPGRADES*###*Upgrades
+M_INHOUSE*###*In-House
+M_OUTSOURCE*###*Outsource
+M_RECYCLE*###*Recycle
+M_SELL*###*Sell
+M_MOUNT*###*Mount
+M_DISMOUNT*###*Dismount
+M_REPAIRS*###*Repairs
+M_SUMMARY*###*Summary
+M_CHECKOUT*###*Checkout
+M_DOCONTINUE*###*Do you wish to continue?
+M_COST*###*Cost of operation:
+M_PROFIT*###*Profit of operation:
+M_TIMEREQUIRED*###*Max time required:
+M_CRAFTINGPARTS*###*Crafting parts gained:
+M_XPGAINED*###*Gained XP:
+M_TOOLS*###*Tools
+M_EQUIPABLES*###*Equipables
+M_METALOBJECTS*###*Metal Objects
+M_APPLY*###*Apply
+M_BACKTOMENU*###*Back To Main Menu
+M_ASSEMBLYMENU*###*Assembly Menu
+M_STORAGEPANEL*###*Storage Panel
+M_PROPPANEL*###*Prop Panel
+M_CRAFTING_PANEL*###*Crafting panel
+M_CRAFTING_PARTS*###*Crafting parts:
+M_CRAFTING_CRAFTELEMENTS*###*Craft Elements
+M_CRAFTING_REPAIRELEMENTS*###*Repair Elements
+M_CRAFTING_REQUIRED_CRAFTINGPARTS*###*Required crafting parts:
+M_CRAFTING_REQUIRED_MONEY*###*Required money:
+M_CRAFTING_BUYBLUEPRINTS*###*BUY TANK BLUEPRINTS
+M_CRAFTING_BUYNEWTANK*###*BUY NEW TANK
+M_CRAFTING_CANNOT_TITLE*###*Cannot craft parts
+M_CRAFTING_CANNOT_DESC*###*You are too low on crafting parts.\nRequired amount: {0}, owned amount: {1}.
+M_CRAFTING_CANNOT_NOBLUEPRINT*###*You do not have the blueprint for this tank.
+M_CRAFTING_BUYBLUEPRINTS_HINT*###*Can be used in crafting panel to craft new parts.
+M_DESCRIPTION*###*Description
+M_DIRECTION*###*DIRECTION
+M_TOTAL*###*Total:
+M_ALL*###*All
+M_HULL*###*Hull
+M_HULLINTERIOR*###*Hull Interior
+M_TURRET*###*Turret
+M_TURRETINTERIOR*###*Turret Interior
+M_WHEELS*###*Wheels
+M_TRACKS*###*Tracks
+M_ENGINE*###*Engine
+M_GEARBOX*###*Gearbox
+M_FUELSYSTEM*###*Fuel System
+M_SELECTALL*###*Select all
+M_ORDERMISSINGPARTS*###*Order missing parts
+M_OUTSOURCEREPAIRS*###*Outsource Repairs
+M_SELLSELECTED*###*Sell
+M_RECYCLESELECTED*###*Recycle
+M_SPAWNINGTANK*###*Spawning tank, please wait…
+M_COSTMODIFIER*###*Cost multiplier:
+M_ANALISYS_BUYTANK*###*Buy tank
+M_ANALISYS_SELLTANK*###*Sell tank
+M_ANALISYS_BUYMISSINGPARTS*###*Buy missing parts
+M_ANALISYS_TITLE*###*Tank Analysis
+M_ANALISYS_DETAILS*###*Tank Details:
+M_ANALISYS_ORIGIN*###*Origin:
+M_ANALISYS_NAME*###*Name:
+M_ANALISYS_OWNER*###*Owner:
+M_ANALISYS_ELEMENT_LIST*###*List of tank elements:
+M_ANALISYS_ELEMENT_NAME*###*Element name
+M_ANALISYS_TANKVALUE*###*Tank Value:
+M_ANALISYS_PAINT_CAMO*###*Paint & Camo
+M_ANALISYS_FACTORY_PAINT*###*Factory Paint
+M_ANALISYS_CONDITION_REPAIRS*###*Tank overall repairs:
+M_ANALISYS_CONDITION_ASSEMBLY*###*Tank overall assembly:
+M_ANALISYS_CONDITION_OVERALL*###*Tank overall condition:
+M_ANALISYS_CONDITION_HULLEXTERIOR*###*Hull exterior condition:
+M_ANALISYS_CONDITION_HULLINTERIOR*###*Hull interior condition:
+M_ANALISYS_CONDITION_TURRETEXTERIOR*###*Turret exterior condition:
+M_ANALISYS_CONDITION_TURRETINTERIOR*###*Turret interior condition:
+M_ANALISYS_CONDITION_GEARBOX*###*Gearbox condition:
+M_ANALISYS_CONDITION_ENGINE*###*Engine condition:
+M_ANALISYS_CONDITION_FUELSYSTEM*###*Fuel system condition:
+M_ANALISYS_CONDITION_TRACKS*###*Tracks condition:
+M_ANALISYS_CONDITION_WHEELS*###*Wheels condition:
+M_PAINTROOM_PANEL*###*Paint Room Panel
+M_PAINTROOM_DECALS*###*Decals
+M_PAINTROOM_DECORATORS*###*Decorators
+M_PAINTROOM_CAMO*###*Camo
+M_PAINTROOM_UNDO*###*Undo
+M_PAINTROOM_RESET*###*Reset
+M_PAINTROOM_PAINT*###*Paint
+M_PAINTROOM_COLOR_PICKER*###*Color Picker
+M_PAINTROOM_COLOR_CAMO*###*Camouflage color
+M_PAINTROOM_COLOR_PALETTE*###*Color Palette
+M_PAINTROOM_COLOR_SWATCHES*###*Color Swatches
+M_PAINTROOM_CONTROLCAMOUFLAGE*###*Camouflage controls
+M_PAINTROOM_CONTROLDECALS*###*Decals controls
+M_PAINTROOM_SELECTIONGRID*###*Selection Grid
+M_PAINTROOM_SCALE*###*Scale
+M_PAINTROOM_ROTATION*###*Rotation
+M_PAINTROOM_STATE*###*State
+M_PAINTROOM_PAINTSCHEME*###*Paint Scheme
+M_CUSTOMIZER_LOCKED*###*LOCKED
+M_CUSTOMIZER_WORKSHOP_PANEL*###*Workshop Customizer Panel
+M_CUSTOMIZER_MUSEUM_PANEL*###*Museum Customizer Panel
+M_CUSTOMIZER_MUSEUM*###*Museum
+M_CUSTOMIZER_WORKSHOP*###*Workshop
+M_CUSTOMIZER_OFFICE*###*Office
+M_CUSTOMIZER_CRAFTINGROOM*###*Crafting Room
+M_CUSTOMIZER_PAINTROOM*###*Paint Shop
+M_CUSTOMIZER_TURRETSTANDSLOT*###*Turret Stand Slot
+M_CUSTOMIZER_ENGINESTANDSLOT*###*Engine Stand Slot
+M_CUSTOMIZER_FLOOR*###*Floor
+M_CUSTOMIZER_WALLS*###*Walls
+M_CUSTOMIZER_WALL1*###*Wall #1
+M_CUSTOMIZER_WALL2*###*Wall #2
+M_CUSTOMIZER_CEILING*###*Ceiling
+M_CUSTOMIZER_ROOF*###*Roof
+M_CUSTOMIZER_PILLARS*###*Pillars
+M_CUSTOMIZER_AVAILABLECOLLECTABLES*###*Available Collectables
+M_CUSTOMIZER_EXHIBITEDCOLLECTABLES*###*Exhibited Collectables
+M_CUSTOMIZER_COLLECTABLESSTANDS*###*Collectables Stands
+M_CUSTOMIZER_COLLECTABLESSTAND*###*Collectables Stand
+M_CUSTOMIZER_MUSEUMROOM1*###*Museum Room 1
+M_CUSTOMIZER_MUSEUMROOM2*###*Museum Room 2
+M_CUSTOMIZER_WORKSHOPROOM1*###*Workshop Room 1
+M_CUSTOMIZER_WORKSHOPROOM2*###*Workshop Room 2
+M_CUSTOMIZER_TOCHANGECAMERA*###*to change camera
+M_CUSTOMIZER_MATERIALS*###*Materials
+M_CUSTOMIZER_STANDS*###*Stands
+M_CUSTOMIZER_MUSEUMSTANDS*###*Museum Stands
+M_CUSTOMIZER_COLLECTABLES*###*Collectables
+M_CUSTOMIZER_FLAGS*###*Flags
+M_CUSTOMIZER_POSTERS*###*Posters
+M_CUSTOMIZER_POSTER*###*Poster
+M_CUSTOMIZER_MUSEUM_TANKSLOT*###*Tank Slot
+M_CUSTOMIZER_TOSCALEDECAL*###*to scale decal
+M_CUSTOMIZER_TOROTATEDECAL*###*to rotate decal
+M_CUSTOMIZER_TOROTATE_LEFT*###*to rotate left
+M_CUSTOMIZER_TOROTATE_RIGHT*###*to rotate right
+M_DESKTOP_TANKMUSEUM*###*Tank Museum
+M_DESKTOP_MAILBOX*###*Mailbox
+M_DESKTOP_ORGANIZER*###*Organizer
+M_DESKTOP_TANKSPARTSHOP*###*Tank’s Part Shop
+M_DESKTOP_TANKSSHOP*###*Tank’s Shop
+M_DESKTOP_INVENTORYSHOP*###*Inventory Shop
+M_DESKTOP_BANK*###*Bank
+M_DESKTOP_CATEGORIES*###*Categories
+M_DESKTOP_TANKSUMMARY*###*Tank Summary
+M_DESKTOP_CONDITION*###*Condition:
+M_DESKTOP_EXTRA*###*Extras:
+M_DESKTOP_RUSTED*###*Rusted
+M_DESKTOP_DIRTY*###*Dirty
+M_DESKTOP_SANDBLASTED*###*Sandblasted
+M_DESKTOP_PRIMED*###*Primed
+M_DESKTOP_PAINTED*###*Painted
+M_DESKTOP_SHOP_CART*###*Cart
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS*###*Renovated tanks
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS_DESC*###*Renovated tanks in the museum
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS*###*Rented tanks
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS_DESC*###*Rented tanks to other the museums
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT*###*Financial report
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT_DESC*###*Financial report of museum
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE*###*Set the ticket price ($):
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE_DESC*###*Please note that if you set the price too high it may affect the number of visitors.
+M_DESKTOP_TANKMUSEUM_TICKETPRICE*###*Ticket price:
+M_DESKTOP_TANKMUSEUM_VISITORSCURRENTLY*###*Museum visitors (currently):
+M_DESKTOP_TANKMUSEUM_VISITORSTOTAL*###*Museum visitors (total):
+M_DESKTOP_TANKMUSEUM_INCOMERENTS*###*Income from rents ($):
+M_DESKTOP_TANKMUSEUM_INCOMETICKETS*###*Income from tickets ($):
+M_DESKTOP_TANKMUSEUM_INCOMESTOTAL*###*Incomes total ($):
+M_DESKTOP_TANKMUSEUM_DAY*###*day
+M_DESKTOP_TANKMUSEUM_TODAY*###*Today
+M_DESKTOP_TANKMUSEUM_REMAININGTIME*###*Remaining time (days):
+M_DESKTOP_TANKMUSEUM_TICKETSALESCHART*###*Ticket sales chart:
+M_DESKTOP_TANKMUSEUM_ACCOUNTINGPERIODS*###*Accounting periods
+M_DESKTOP_TANKMUSEUM_VISITORS*###*Museum visitors
+M_DESKTOP_TANKMUSEUM_NEXTREPORT*###*Next report in: 
+M_DESKTOP_MAIL_SUBJECT*###*Subject
+M_DESKTOP_MAIL_FROM*###*From
+M_DESKTOP_MAIL_DATE*###*Date
+M_DESKTOP_MAIL_FOLDERS*###*Folders
+M_DESKTOP_MAIL_CHECKEMAILS*###*Check for new emails
+M_DESKTOP_MAIL_ALL*###*All contracts
+M_DESKTOP_MAIL_AVAILABLE*###*Available contracts
+M_DESKTOP_MAIL_ACTIVE*###*Active contracts
+M_DESKTOP_MAIL_ACCEPT*###*Accept Job
+M_DESKTOP_MAIL_FINISHED*###*Finished contracts
+M_DESKTOP_MAIL_CANCELLED*###*Cancelled contracts
+M_DESKTOP_MAIL_FAILED*###*Failed contracts
+M_DESKTOP_MAIL_ORDER_ACCEPT*###*Accept the order
+M_DESKTOP_MAIL_ORDER_DECLINE*###*Decline the order
+M_DESKTOP_MAIL_OFFER_ACCEPT*###*Accept the offer
+M_DESKTOP_MAIL_OFFER_DECLINE*###*Decline the offer
+M_DESKTOP_ORGANIZER_ACTIVECONTRACTS*###*Active contracts
+M_DESKTOP_BANK_TAKELOAN*###*Take Loan
+M_DESKTOP_BANK_PAYOFFLOAN*###*Pay Off Loan
+M_DESKTOP_BANK_DESCRIPTION*###*Use the slider below to set the loan amount. At one moment you can have only one loan active. Until you pay off current loan, you cannot take another loan.\n\nTo take loan:\nSet the loan amount and click Take Loan button, when the conditions satisfy your needs.\n\nTo pay off loan:\nIf you have enough money you can pay off the loan by pressing the pay-off loan button.
+M_DESKTOP_BANK_SETLOANAMOUNT*###*Set loan amount
+M_DESKTOP_BANK_LOANAMOUNT*###*Loan amount:
+M_DESKTOP_BANK_LOANPERCENTAGE*###*Loan percentage:
+M_DESKTOP_BANK_PAYOFFAMOUNT*###*Pay off amount:
+M_DESKTOP_INVENTORYSHOP_BRANCH_TOOLS*###*Tools
+M_DESKTOP_INVENTORYSHOP_BRANCH_BUSINESS*###*Business
+M_DESKTOP_INVENTORYSHOP_BRANCH_PASSIVE*###*Passive
+M_DESKTOP_INVENTORYSHOP_UPGRADE_UNLOCK*###*Unlock upgrade
+M_DESKTOP_INVENTORYSHOP_UPGRADE_COST*###*Upgrade reputation cost
+M_DESKTOP_INVENTORYSHOP_UPGRADE_REPUTATION*###*Available reputation
+M_DESKTOP_INVENTORYSHOP_UPGRADE_PANEL*###*Upgrade panel
+M_DESKTOP_INVENTORYSHOP_FLASHLIGHT_DESC*###*Flashlight allows you to see your surroundings in areas without light.
+M_DESKTOP_INVENTORYSHOP_SHOVEL_DESC*###*One of the required extraction tools. Allows digging in ground without any money requirement.
+M_DESKTOP_INVENTORYSHOP_METALDETECTOR_DESC*###*One of the required extraction tools. Allows detecting any metal object hidden underneath the ground.
+M_DESKTOP_INVENTORYSHOP_TABLET_DESC*###*Tablet allows you to quickly access the control panel remotely.
+M_DESKTOP_INVENTORYSHOP_ANGLEGRINDER_DESC*###*Angle grinder allows you to merge 2 tools into one - cutting off elements with rusted bolts and grinding the rust off the elements.
+M_DESKTOP_INVENTORYSHOP_PISTOLWRENCH_DESC*###*Pistol wrench allows you to assemble or disassemble element screws faster. It also allows unscrewing rusted bolts.
+M_DESKTOP_INVENTORYSHOP_OFFROADVEHICLE_DESC*###*One of the required extraction vehicles. Allows movement in harsh terrain with all required extraction tools during the extraction mission.
+M_DESKTOP_INVENTORYSHOP_QUAD_DESC*###*Quad allows even faster and more agile movement in the extraction missions.
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_TITLE*###*Magnetometer
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_DESC*###*Magnetometer allows more ground scanning techniques and features.
+M_DESKTOP_INVENTORYSHOP_DRONE_DESC*###*Drone allows scanning the ground from the air, using magnetometer techniques.
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_TITLE*###*Tool belt
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_DESC*###*Allows to use the workshop tools without picking them up.
+M_DESKTOP_INVENTORYSHOP_PAINTROOM_DESC*###*Paint room allows you to paint the tank, select camouflage patterns, apply decals and decorators onto the tank.
+M_DESKTOP_INVENTORYSHOP_PARKING_I_TITLE*###*Parking level 1
+M_DESKTOP_INVENTORYSHOP_PARKING_II_TITLE*###*Parking level 2
+M_DESKTOP_INVENTORYSHOP_PARKING_I_DESC*###*Parking level 1 allows more tank slots in your warehouse (+2).
+M_DESKTOP_INVENTORYSHOP_PARKING_II_DESC*###*Parking level 2 allows even more tank slots in your warehouse (+4).
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_TITLE*###*Museum level 1
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_TITLE*###*Museum level 2
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_TITLE*###*Museum level 3
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_DESC*###*Museum level 1 allows you to show your tanks to the public! This museum level has slots for 4 tanks.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_DESC*###*Museum level 2 allows even more slots for your tanks to be shown to the public! This museum level has slots for 8 tanks.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_DESC*###*Museum level 3 is the final version of first museum room, with 4 more tank slots (12 total).
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_TITLE*###*Tank Warehouse
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_DESC*###*A place where you can park your tanks, each level has 6 slots. Max unlock level is 100, your level is {0}.
+M_DESKTOP_INVENTORYSHOP_TESTDRIVEYARD_DESC*###*Test drive yard allows you to take your tanks to a test drive on a special obstacle course.
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_TITLE*###*Crafting table
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_DESC*###*The crafting table allows you to craft new parts for the tanks. Each part has its own crafting parts number requirement.
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_TITLE*###*Auto-paint
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_DESC*###*Auto-paint allows you to automaticly paint a tank without the need of manual work with sandblaster or paint gun.
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_TITLE*###*Workshop level 2
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_DESC*###*Workshop level 2 allows you to have more tanks being repaired at the same time by adding more workspace and tank slots in the warehouse (+2).
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_TITLE*###*Proving Grounds
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_DESC*###*Allows to take tank to a shooting range
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_I_TITLE*###*Winter 1941 Sale
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_II_TITLE*###*Summer 1942 Sale
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_III_TITLE*###*Autumn 1943 Sale
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_DESC*###*All shop transactions have a discount of: {0} %
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_TITLE*###*Quick hands
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_DESC*###*Screwing bolts is now faster by: {0} %
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_TITLE*###*Better repairs
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_DESC*###*All outsource repairs are done quicker and with lower cost of: {0} %
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_TITLE*###*Professional Restorer
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_DESC*###*Reputation gained is increased by: {0} %
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_TITLE*###*Move like Panzerjaeger
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_DESC*###*Movement speed increased by: {0} %
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_TITLE*###*Tools proficiency
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_DESC*###*All tools efficiency is increased by: {0} %
+M_DESKTOP_INVENTORYSHOP_RECYCLING_TITLE*###*Recycling
+M_DESKTOP_INVENTORYSHOP_RECYCLING_DESC*###*Crafting parts gained increased by: {0} %
+M_DESKTOP_INVENTORYSHOP_MONEY_TITLE*###*Increased Money
+M_DESKTOP_INVENTORYSHOP_MONEY_DESC*###*Gained money increased by: {0} %
+M_DESKTOP_INVENTORYSHOP_OWNED*###*Owned
+M_DESKTOP_INVENTORYSHOP_EXTRACTIONONLY*###*(extraction missions)
+M_SAVE_NAME*###*Save name
+M_SAVE_COLORSWATCH*###*Save color swatch
+M_SAVE_PAINTSCHEME*###*Save paint scheme
+M_SAVE_TYPE_FILENAME*###*Type a file name
+M_SAVE_AUTO*###*Auto save
+M_SAVE_CUSTOM*###*Custom save
+M_SAVE_QUICK*###*Quick save
+M_LOAD_QUICK*###*Quick load
+M_MANUAL_1_TITLE*###*HOW TO BE SUCCESSFULL TANK RESTORER
+M_MANUAL_2_TITLE*###*GAME FLOW
+M_MANUAL_3_TITLE*###*TANK RESTORATION PROCESS
+M_MANUAL_4_TITLE*###*INTERACTION SYSTEM
+M_MANUAL_5_TITLE*###*SHOVEL DIGGING
+M_MANUAL_6_TITLE*###*METAL DETECTING
+M_MANUAL_7_TITLE*###*MAGNETOMETER
+M_MANUAL_8_TITLE*###*DRONE
+M_MANUAL_9_TITLE*###*OFFROAD VEHICLE
+M_MANUAL_10_TITLE*###*QUAD
+M_MANUAL_11_TITLE*###*GRINDER
+M_MANUAL_12_TITLE*###*HAMMER
+M_MANUAL_13_TITLE*###*RUST REMOVAL TOOL
+M_MANUAL_14_TITLE*###*WRENCH PISTOL
+M_MANUAL_1_FIELD_1*###*Accept contracts
+M_MANUAL_1_FIELD_2*###*Renovate vehicles
+M_MANUAL_1_FIELD_3*###*Profit
+M_MANUAL_2_FIELD_1*###*Check mail for potential contracts
+M_MANUAL_2_FIELD_2*###*Accept or decline any contract
+M_MANUAL_2_FIELD_3*###*Types of contracts
+M_MANUAL_2_FIELD_4*###*Renovate tank in workshop
+M_MANUAL_2_FIELD_5*###*Finish the contract
+M_MANUAL_3_FIELD_1*###*Disassemble all tank elements
+M_MANUAL_3_FIELD_2*###*Repair tank elements
+M_MANUAL_3_FIELD_3*###*Buy or craft missing tank elements
+M_MANUAL_3_FIELD_4*###*Assemble all elements
+M_MANUAL_3_FIELD_5*###*Remove rust from tank
+M_MANUAL_3_FIELD_6*###*Apply Primer / Paint / Camo
+M_MANUAL_3_FIELD_7*###*Finish the restoration process
+M_MANUAL_4_FIELD_1*###*Pick up interactable object
+M_MANUAL_4_FIELD_2*###*Leave the interactable object
+M_MANUAL_4_FIELD_3*###*Selecting tank element
+M_MANUAL_4_FIELD_4*###*Disassembling tank element
+M_MANUAL_4_FIELD_5*###*Move the object
+M_MANUAL_4_FIELD_6*###*Interactive menu (radial)
+M_MANUAL_5_FIELD_1*###*Pick up Shovel
+M_MANUAL_5_FIELD_2*###*Dig
+M_MANUAL_6_FIELD_1*###*Pick up Metal Detector
+M_MANUAL_6_FIELD_2*###*Detecting
+M_MANUAL_7_FIELD_1*###*Pick up a Magnetometer
+M_MANUAL_7_FIELD_2*###*Scan area in search of a potential tank
+M_MANUAL_8_FIELD_1*###*Use Tablet to control Drone
+M_MANUAL_8_FIELD_2*###*Use Drone to scan area to find a tank
+M_MANUAL_11_FIELD_1*###*Pick up grinder
+M_MANUAL_11_FIELD_2*###*Grinding
+M_MANUAL_11_FIELD_3*###*Switching grinding mode
+M_MANUAL_12_FIELD_1*###*Pick up hammer
+M_MANUAL_12_FIELD_2*###*Hammer time
+M_MANUAL_12_FIELD_3*###*Hit until element falls off
+M_MANUAL_13_FIELD_1*###*Pick up Rust removal tool
+M_MANUAL_13_FIELD_2*###*Brushing
+M_MANUAL_14_FIELD_1*###*Pick up Wrench Pistol
+M_MANUAL_14_FIELD_2*###*Removing the screws
+M_MANUAL_INFO_1*###*Each contract has full restoration purpose or repairs only a few parts.
+M_MANUAL_INFO_2*###*When contract is completed restored tank depends of contract type is yours or it gets back to the contractor.
+M_MANUAL_INFO_3*###*Finish the contract and the tank gets back to the contractor
+M_MANUAL_INFO_4*###*Put the tank into the museum
+M_MANUAL_INFO_5*###*Sell the tank
+M_MANUAL_INFO_6*###*Aim at any object
+M_MANUAL_INFO_7*###*Use LMB
+M_MANUAL_INFO_8*###*Use RMB
+M_MANUAL_INFO_9*###*Aim at any tank element
+M_MANUAL_INFO_10*###*Hold RMB
+M_MANUAL_INFO_11*###*Aim at any point on terrain
+M_MANUAL_INFO_12*###*While using metal detector keep a closer at pointer position and detector sound.
+M_MANUAL_INFO_13*###*No metal object around
+M_MANUAL_INFO_14*###*Metal object detected
+M_MANUAL_INFO_15*###*Metal object is very close
+M_MANUAL_INFO_16*###*Click on map to send Drone to position
+M_MANUAL_INFO_17*###*Legend
+M_MANUAL_INFO_18*###*Prexx X button to swtich grinding mode
+M_MANUAL_INFO_19*###*Cutting
+M_MANUAL_INFO_20*###*Grinding and removing rust
+M_MANUAL_INFO_21*###*While the tank element is selected
+M_MANUAL_INFO_22*###*With a Wrench Pistol screws can be removed faster. Rusty bolts can also be unscrewed.
+M_MANUAL_INFO_23*###*Aim at the screw
+M_MANUAL_REPEAT*###*REPEAT
+M_MANUAL_BEFORE*###*BEFORE
+M_MANUAL_AFTER*###*AFTER
+M_MENU_START*###*Start
+M_MENU_OVERVIEW*###*Overview
+M_MENU_LOCATIONS*###*Locations
+M_MENU_EXTRAS*###*Extras
+M_MENU_MANUAL*###*Manual
+M_MENU_CREDITS*###*Credits
+M_MENU_GAMECREDITS*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
+M_MENU_SETTINGS*###*Settings
+M_MENU_PATCHNOTES*###*Patch notes
+M_MENU_CHECKOUT*###*Check out this projects
+M_MENU_EXIT*###*Exit
+M_MENU_PROFILES*###*Profiles
+M_MENU_PROFILE_NEW*###*New profile
+M_MENU_PROFILE_DELETE*###*Do you really want to delete {0} profile?
+M_MENU_PROFILE_MONEY*###*Money: {0}
+M_MENU_PROFILE_REPUTATION*###*Reputation: {0}
+M_MENU_PROFILE_TANKS*###*Tanks: {0}
+M_MENU_PROFILE_LASTSAVEDATE*###*Last Save: {0}
+M_MENU_PROFILE_DEFAULT*###*Dev profile
+M_MENU_PROFILE_RESET*###*Do you really want to reset {0} profile?
+M_MENU_SUPPORT*###*Support
+M_MENU_SUPPORT_STEAMCOMMUNITYDESC*###*If you have a suggestion and you would like to share your thoughs. Visit our steam discussions page:
+M_MENU_SUPPORT_STEAMCLICK*###*Click here to open Steam Discussions
+M_MENU_SUPPORT_MAILDESC*###*You can also write to us. We will be happy to hear your comments and critics.
+M_MENU_SUPPORT_TMSDISCORDDESC*###*If you want to meet more Tank Mechanics consider joining to our Official Tank Mechanic Simulator Community Discord:
+M_MENU_SUPPORT_TMSDISCORD*###*Tank Mechanic Simulator Official Discord
+M_MENU_SUPPORT_TMSFEEDBACKDESC*###*If you found a bug or have a suggestion / feature wish / request. Please report it on our tracker page.
+M_MENU_SUPPORT_TMSFEEDBACK*###*Tank Mechanic Simulator Feedback Tracker
+M_MENU_POINTS*###*Points:
+M_MENU_ACCEPT*###*Accept
+M_MENU_CANCEL*###*Cancel
+M_MENU_QUIT_QUESTION*###*Do you really want to quit?
+M_OVERVIEW_TITLE*###*Content
+M_OVERVIEW_VEHICLES*###*Vehicles
+M_OVERVIEW_INSPECTOR*###*Inspector
+M_OVERVIEW_LIGHTING*###*Lighting
+M_OVERVIEW_LIGHTINGCAMERA*###*Lighting & Camera
+M_OVERVIEW_DIRLIGHT*###*Directional light
+M_OVERVIEW_ROTATION*###*Rotation
+M_OVERVIEW_INTERIORLIGHTS*###*Interior lights
+M_OVERVIEW_BOTTOMHINT*###*PRESS SPACEBAR TO TOGGLE UI ON/OFF
+M_OVERVIEW_INTERFACE*###*Interface
+M_OVERVIEW_CAMERA*###*Camera
+M_OVERVIEW_CAMERAFOV*###*Field of view
+M_OVERVIEW_TURNON*###*Turn on/off
+M_OVERVIEW_SEARCHBYNAME*###*Search by name....
+M_OVERVIEW_MATERIALS*###*Materials
+M_OVERVIEW_OBJECTS*###*Objects
+M_OVERVIEW_ENVIRONMENT*###*Environment
+M_OVERVIEW_LANDSCAPE*###*Landscape
+M_OVERVIEW_MUD*###*Mud
+M_OVERVIEW_TOGGLE*###*Toggle
+M_OVERVIEW_PROPS*###*Props
+M_OVERVIEW_EXTRACTION*###*Extraction
+M_OVERVIEW_WORKSHOP*###*Workshop
+M_OVERVIEW_MUSEUM*###*Museum
+M_OVERVIEW_TRANSPARENT*###*Transparent
+M_OVERVIEW_MUDTORUST*###*Mud to Rust
+M_OVERVIEW_RUSTTODIRT*###*Rust to Dirt
+M_OVERVIEW_DIRTTOSANDING*###*Dirt to Sanding
+M_OVERVIEW_SANDINGTOPRIMER*###*Sanding to Primer
+M_OVERVIEW_PRIMERTOPAINT*###*Primer to Paint
+M_OVERVIEW_TANKMODULES*###*Tank Module
+M_OVERVIEW_DRIVE*###*Drive system
+M_OVERVIEW_WHEELS*###*Wheels
+M_OVERVIEW_TRACKS*###*Tracks
+M_OVERVIEW_HULLEXTERIOR*###*Hull Exterior
+M_OVERVIEW_HULLINTERIOR*###*Hull Interior
+M_OVERVIEW_TURRETEXTERIOR*###*Turret Exterior
+M_OVERVIEW_TURRETINTERIOR*###*Turret Interior
+M_OVERVIEW_TANKS*###*Tanks
+M_OVERVIEW_WW2*###*World War II
+M_OVERVIEW_ENG*###*United Kingdom
+M_OVERVIEW_GER*###*Germany
+M_OVERVIEW_USA*###*USA
+M_OVERVIEW_SOV*###*Soviet Union
+M_LOCATIONS_TITLE*###*Select location
+M_LOCATIONS_BEGIN*###*Begin
+M_LOCATIONS_BASICINFO*###*Basic information:
+M_LOCATIONS_PLACE*###*Place:
+M_LOCATIONS_VEHICLETYPE*###*Vehicle type:
+M_LOCATIONS_VEHICLEBRAND*###*Vehicle brand:
+M_LOCATIONS_UNKNOWN*###*Unknown
+M_LOCATIONS_SELECTVEHICLE*###*Choose a vehicle
+M_LOCATIONS_SELECTVEHICLE_DESC*###*Choose the vehicle that you want to use at this location.
+M_SETTINGS_SOFTPARTICLES*###*Soft particles
+M_SETTINGS_TEXTURESTREAMING*###*Texture streaming
+M_SETTINGS_VIDEO*###*Video
+M_SETTINGS_AUDIO*###*Audio
+M_SETTINGS_GAME*###*Game
+M_SETTINGS_DISPLAY*###*Display
+M_SETTINGS_OVERALLSETTINGS*###*Overall settings
+M_SETTINGS_ASPECTRATIO*###*Aspect ratio
+M_SETTINGS_RESOLUTION*###*Resolution
+M_SETTINGS_DISPLAYMODE*###*Display mode
+M_SETTINGS_QUALITY*###*Quality
+M_SETTINGS_VERTICALSYNC*###*Vertical sync
+M_SETTINGS_SHADOWQUALITY*###*Shadow quality
+M_SETTINGS_TEXTUREQUALITY*###*Texture quality
+M_SETTINGS_LOD*###*Level of details
+M_SETTINGS_SHADOWDISTANCE*###*Shadow distance
+M_SETTINGS_SHADOWRESOLUTION*###*Shadow resolution
+M_SETTINGS_POSTPROCESS*###*Post process
+M_SETTINGS_AO*###*Ambient Occlusion
+M_SETTINGS_AA*###*Antialiasing
+M_SETTINGS_AF*###*Anisotropic filtering
+M_SETTINGS_SCREENSPACEREFLECTIONS*###*Screen Space Reflections
+M_SETTINGS_MOTIONBLUR*###*Motion blur
+M_SETTINGS_BLOOM*###*Bloom
+M_SETTINGS_CHROMATICABERRATION*###*Chromatic Aberration
+M_SETTINGS_VIGNETTE*###*Vignette
+M_SETTINGS_DEFORMATIONSYSTEM*###*Deformation System
+M_SETTINGS_TESSELATIONFACTOR*###*Tesselation Factor
+M_SETTINGS_TESSELATIONDISTANCE*###*Tesselation Distance
+M_SETTINGS_TERRAINSETTINGS*###*Terrain settings
+M_SETTINGS_TERRAINQUALITY*###*Terrain quality
+M_SETTINGS_TREEDISTANCE*###*Tree distance
+M_SETTINGS_DETAILSDISTANCE*###*Details distance
+M_SETTINGS_SOUNDSETTINGS*###*Sound settings
+M_SETTINGS_MASTERVOLUME*###*Master volume
+M_SETTINGS_MUSIC*###*Music
+M_SETTINGS_EFFECTS*###*Effects
+M_SETTINGS_LANGUAGESETTINGS*###*Language Settings
+M_SETTINGS_SELECTLANGUAGE*###*Select language
+M_SETTINGS_OTHER*###*Other
+M_SETTINGS_PAUSEWHENMINIMIZED*###*Pause game when minimized
+M_SETTINGS_USEHEADBOB*###*Use head bob
+M_SETTINGS_INVERTAXIS_Y_FPP*###*Invert Y Axis (FPP)
+M_SETTINGS_INVERTAXIS_Y_TPP*###*Invert Y Axis (TPP)
+M_SETTINGS_INVERTAXIS_Y_AIM*###*Invert Y Axis (Aiming mode)
+M_SETTINGS_USE_ASSEMBLYMENU*###*Use Assembly Menu
+M_SETTINGS_USE_SIMPLETANKCONTROLS*###*Use Simple Tank Controls
+M_SETTINGS_BLOCK_SCREWCURSOR*###*Block Screw Cursor
+M_SETTINGS_MOUSESMOOTHING*###*Mouse smoothing
+M_SETTINGS_MOUSESENSITIVITY*###*Mouse sensitivity
+M_SETTINGS_CONTROLS_SCHEME_TITLE*###*Control scheme
+M_SETTINGS_CONTROLS_SCHEME_KEYBOARD*###*Mouse & Keyboard
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_PS4*###*PlayStation 4 Controller
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_XONE*###*Xbox One Controller
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_DEFAULT*###*Default Controller
+M_INFO_NOTENOUGHMONEY_TITLE*###*Not enough money
+M_INFO_NOTENOUGHMONEY_DESC*###*You do not have enough money for this operation. You need: {0}$
+M_INFO_CANNOTDELETE_LASTPROFILE_TITLE*###*Cannot delete profile
+M_INFO_CANNOTDELETE_LASTPROFILE_DESC*###*You cannot delete the last profile!
+M_INFO_EMPTYNAME_TITLE*###*Cannot create profile
+M_INFO_EMPTYNAME_DESC*###*Cannot create a new profile with no name specified.
+M_INFO_CONTRACT_LITTLETIME_TITLE*###*Little time
+M_INFO_CONTRACT_LITTLETIME_DESC*###*One of your contracts has little time to finish.
+M_INFO_TESTDRIVE_ENGINE_CANNOTSTART*###*Cannot start engine
+M_INFO_TESTDRIVE_CANNOTSTART*###*Cannot start test drive mode
+M_INFO_TESTDRIVE_NOTASSEMBLED*###*{0} is not assembled
+M_INFO_TESTDRIVE_NOTREPAIRED*###*{0} is not repaired
+M_INFO_TESTDRIVE_FLUIDNEEDSFILL*###*{0} is not filled
+M_INFO_TESTDRIVE_NOTMOUNTED*###*{0} is not in tank
+M_INFO_PROVINGGROUNDS_CANNOTSTART*###*Cannot start Proving Grounds mode
+M_INFO_CANNOT_CHANGEROOM_TITLE*###*Cannot enter: {0}
+M_INFO_CANNOT_CHANGEROOM_DESC*###*Room has not yet been unlocked.
+M_INFO_CANNOT_STARTPAINTROOM_TITLE*###*Cannot open paint room panel
+M_INFO_CANNOT_STARTPAINTROOM_DESC*###*The paint room is empty. Move a tank inside first.
+M_INFO_ROOM_EMPTY*###*The room is empty.
+M_INFO_CANNOT_MOVEMODULE_TITLE*###*Cannot move module
+M_INFO_CANNOT_MOVEMODULE_DESC*###*The tank is outside workshop.
+M_INFO_ASSEMBLY_NOPARTSAVAILABLE_TITLE*###*No parts available
+M_INFO_ASSEMBLY_NOPARTSAVAILABLE_DESC*###*There are no compatible parts available. Buy (in tank parts shop) or craft (using crafting table) compatible parts first.
+M_INFO_DELETEDATA_DESC*###*This option deletes all data for the game and restarts it. 
+M_INFO_UNLOCK_TABLET_TITLE*###*Cannot use tablet
+M_INFO_UNLOCK_TABLET_DESC*###*You have to unlock it first in the Upgrade Menu.
+M_INFO_UNLOCK_CRAFTING_TITLE*###*Cannot open crafting menu
+M_INFO_UNLOCK_CRAFTING_DESC*###*You have to unlock the crafting table first in Upgrade Menu
+M_INFO_TOOLBELT_TITLE*###*Tool Belt unlocked
+M_INFO_TOOLBELT_DESC*###*Now the workshop room tools are always with you. By default, you can select them by keys: Alphanumeric 3-7.
+M_INFO_KEYTAKEN_TITLE*###*Select different button
+M_INFO_KEYTAKEN_DESC*###*Selected button is assigned to: {0}
+M_INFO_MEMORY*###*Texture memory exceeds 4GB. To avoid system instability, we suggest to limit textures amount in StreamingAssets or uninstall some Steam Workshop mods.
+M_ANALISYS_FUELSYSTEM*###*Fuel System
+M_ANALISYS_GEARBOX*###*Gearbox
+M_ANALISYS_ENGINE*###*Engine
+M_ANALISYS_TRACKS*###*Tracks
+M_ANALISYS_WHEELS*###*Wheels
+M_ANALISYS_TURRET*###*Turret
+M_ANALISYS_FLUID_OIL*###*Oil
+M_ANALISYS_FLUID_FUEL*###*Fuel
+M_ANALISYS_FLUID_COOLANT*###*Coolant
+M_ANALISYS_LEVEL*###*Level of {0}:
+M_POPUP_MODE_GRINDER_CUTTING*###*Cutting mode
+M_POPUP_MODE_GRINDER_GRINDING*###*Grinding mode
+M_POPUP_MODE_PAINTGUN_PAINTING*###*Painting mode
+M_POPUP_MODE_PAINTGUN_PRIMER*###*Primer mode
+M_POPUP_WARNING_MODULENOTONSTAND*###*To assemble or disassemble this element the parent module needs to be placed on stand.
+M_RADIOMENU_RADIOSTATIONS*###*Radio stations
+M_RADIOMENU_NOWPLAYING*###*Now playing:
+M_ORGANIZER_ORDERSUMMARY*###*Summary of the contract order
+M_ORGANIZER_OFFERSUMMARY*###*Summary of the conract offer
+M_ORGANIZER_JOBSUMMARY*###*Job Summary
+M_ORGANIZER_STARTEXTRACTION*###*Start extraction
+M_ORGANIZER_FINISHORDER*###*Finish order
+M_ORGANIZER_FINISHOFFER*###*Finish offer
+M_ORGANIZER_FINISHJOB*###*Finish job
+M_ORGANIZER_WARNING_TITLE*###*Warning
+M_ORGANIZER_WARNING_DESC*###*If you end this contract now, you will have to pay fine. Do you wish to proceed?
+M_ORGANIZER_VEHICLESELECTOR_TITLE*###*Select the vehicle you want to use during this mission.
+M_ORGANIZER_WARNING_FINEAMOUNT*###*Fine amount
+M_ORGANIZER_CHECKLIST*###*List of tasks
+M_ORGANIZER_TASK_CHECKINITIAL*###*Restore the initial state
+M_TANKMANAGER_TITLE*###*Tank Manager
+M_CONSOLE*###*Console
+M_INTRO_DESC*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
+M_INTRO_ANYKEY*###*Press any key…
+M_INTRO_LOADING*###*Loading main menu…
+M_DEMO*###*DEMO VERSION
+M_INFO_DEMO_TITLE*###*Unavailable in demo
+M_INFO_DEMO_DESC*###*This option is not available in demo :(
+M_TUTORIAL_STATUS_TOOLS*###*Available tools:\n{0}\n{1}
+M_TUTORIAL_STATUS_REMOVERUST*###*Remove rust from the tank
+M_TUTORIAL_STATUS_SANDBLAST*###*Sandblast the tank
+M_TUTORIAL_STATUS_PRIMER*###*Apply primer to the tank
+M_TUTORIAL_STATUS_PAINT*###*Apply final paint to the tank
+M_TUTORIAL_EMAIL_CHECK_DESC*###*Open computer and then check emails.
+M_TUTORIAL_EMAIL_ACCEPT_DESC*###*Select email and accept contract
+M_TUTORIAL_FINISH_DESC*###*Open computer and end contract in organizer.
+H_INTERACTION_BASICS*###*To select/pick up - LMB. To assemble/disassemble/pick up- RMB. To open up the radial menu - MMB.
+H_CONTRACTS_FINISH*###*Finish contracts to gain reputation and money.
+H_CONTRACTS_EMAIL*###*You can always find new contracts in the email box by pressing SEARCH NEW CONTACT button
+H_EXTRACTION_MAP*###*Use tablet to order excavations (LMB on a point on the map)
+H_EXTRACTION_TANK*###*To finish the extraction mission dig tank out, wash it with the pressure washer, select the load tank on trailer option from radial menu (opened with MMB while looking at the tank) and finally end the mission by clicking Back to base button in tablet.
+H_STORE*###*Use the tank part store to buy missing parts.
+H_ACTIVECONTRACTS*###*In the same time you can have maximum 3 active contracts.
+H_TANK_1*###*PzKpfw VI Tiger I Ausf. H1
+H_TANK_2*###*M4A3E8 Sherman
+H_TANK_3*###*PzKpfw III Ausf. M
+H_TANK_4*###*KV-1
+H_TANK_5*###*M26 Pershing
+H_TANK_6*###*KV-2
+H_TANK_7*###*T-34/85
+H_TANK_8*###*T-34/76
+H_TANK_9*###*PzKpfw III Ausf. J
+H_TANK_10*###*StuG III 40 Ausf. G
+H_TANK_11*###*PzKpfw IV Ausf. G
+H_TANK_12*###*M10 Wolverine
+H_TANK_13*###*PzKpfw. V Panther Ausf. A
+H_TANK_14*###*SdKfz 251/1 Ausf. C
+H_TANK_15*###*M3 Half-track
+H_TANK_16*###*M20 Armored Utility Car
+H_TANK_17*###*M8 Greyhound
+H_TANK_18*###*Little Willie
+H_TANK_19*###*Vickers E
+H_TANK_20*###*PzKpfw II Ausf. C
+H_APC_1*###*SdKfz 251/1 Ausf. C
+H_DEMO*###*In demo version you can expect 3 highly detailed tanks ready to be extracted or repaired.
+H_FULL*###*In full game there are more game modes, tools, maps and most importantly, tanks ;)
+H_DEMO_WHATISIN*###*WHAT IS IN THE DEMO?
+H_DEMO_TEXT_1*###*Extraction Missions
+H_DEMO_TEXT_2*###*Paint Room
+H_DEMO_TEXT_3*###*Unlocking System
+H_DEMO_TEXT_4*###*Variety of offroad vehicles on extraction missions
+H_DEMO_TEXT_5*###*Tank museum
+H_DEMO_TEXT_6*###*Parking for tanks
+H_FULL_WHATISIN*###*WHAT TO EXPECT IN FULL GAME?
+H_FULL_TEXT_1*###*Proving Grounds (Firing Range)
+H_FULL_TEXT_2*###*Crafting table
+H_FULL_TEXT_3*###*Overview mode
+H_FULL_TEXT_4*###*Magnetometer
+H_FULL_TEXT_5*###*Test drive
+A_SELECT*###*to select part
+A_ASSEMBLE*###*to assemble part
+A_DISASSEMBLE*###*to disassemble part
+A_PICKUP*###*to pick up
+A_USE*###*to use
+A_HOLD*###*to hold
+A_MENU*###*to open radial
+A_DROP*###*to drop
+A_HAMMER*###*to hit
+A_GRINDER*###*to grind
+A_CUT*###*to cut
+A_ENTER*###*to enter
+A_PLACE*###*to place
+A_FILL*###*to fill
+A_DIG*###*to dig
+A_CONTAINER*###*to switch container
+A_OPEN*###*to open
+A_CLOSE*###*to close
+A_OPEN_MENU*###*to open panel
+A_TOGGLE*###*to toggle
+A_TOGGLE_RUSTREMOVAL*###*to toggle rust removal
+A_TOGGLE_SANDBLASTER*###*to toggle sand blaster
+A_TOGGLE_PAINTGUN*###*to toggle paintgun
+A_TOGGLE_WATERHOSE*###*to toggle pressure washer
+P_GUN_MG34*###*MG 34 (7,92x57mm Mauser)
+P_GUN_DT*###*DT (7,62x54 mmR)
+P_GUN_M1919BROWNING*###*M1919 Browning (.30-06 Springfield)
+P_GUN_M2BROWNING*###*M2 Browning (.50 BMG)
+P_GUN_20_KWK30L55*###*20 mm KwK 30 L/55
+P_GUN_88_KWK36L56*###*88 mm KwK 36 L/56
+P_GUN_76_GUNM1*###*76 mm gun M1
+P_GUN_50_KWK39L60*###*50 mm KwK 39 L/60
+P_GUN_76_M1941ZIS5*###*76 mm M1941 ZiS-5
+P_GUN_76_M1940F34*###*76 mm M1940 F-34
+P_GUN_90_GUNM3*###*90 mm gun M3
+P_GUN_152_M1938M10*###*152 mm M1938 M-10
+P_GUN_85_D5T*###*85 mm D-5T
+P_GUN_76_M1940L11*###*76 mm M1940 L-11
+P_GUN_75_KWK40L43*###*75 mm KwK 40 L/43
+P_GUN_75_KWK40L48*###*75 mm KwK 40 L/48
+P_GUN_75_KWK42L70*###*75 mm KwK 42 L/70
+P_GUN_76_GUNM7*###*76 mm gun M7 variant
+P_GUN_37_GUNM6*###*37 mm gun M6 variant
+P_GUN_47_OQF_3_PDR*###*47 mm gun OQF 3 PDR
+P_EXPLOSIVE_BOMB*###*Bomb
+P_RND_37_M51_AP*###*M51 AP
+P_RND_37_M38A1_HE*###*M37A1 HE
+P_RND_37_M74B1_AP*###*M74B1 AP
+P_RND_37_M63_HE*###*M63 HE
+P_RND_47_186R_AP*###*186R AP
+P_RND_47_186R_HE*###*186R HE
+P_RND_88_PZGR39_APCBCHE*###*PzGr.39 APCBC-HE
+P_RND_88_SPRGRL45_HE*###*Sprgr.L/45 HE
+P_RND_76_M79_AP*###*M79 AP
+P_RND_76_M42A1_HE*###*M42A1 HE
+P_RND_50_PZGR39_APC*###*PzGr.39 APC
+P_RND_50_SPRGR38_HE*###*Sprgr.38 HE
+P_RND_76_BR350A_APHEBC*###*BR-350A APHEBC
+P_RND_76_OF350M_HE*###*OF-350M HE
+P_RND_90_M77_AP*###*M77 AP
+P_RND_90_M71_HE*###*M71 HE
+P_RND_152_G530_AC*###*G-530 AC
+P_RND_152_OF530_HE*###*OF-530 HE
+P_RND_85_BR365K_APHE*###*BR-365K APHE
+P_RND_85_O365K_HE*###*O-365K HE
+P_RND_75_PZGR39_APCBC*###*PzGr.39 APCBC
+P_RND_75_GR38HLB_HEAT*###*Gr.38 HL/B HEAT
+P_RND_75_PZGR3942_APCBCHE*###*PzGr.39/42 APCBC-HE
+P_RND_75_SPRGR42_HE*###*Sprgr.42 HE
+P_RND_75_SPRGR34_HE*###*Sprgr.34 HE
+P_RND_20_PZGR39_API*###*PzGr.39 API
+P_RND_20_SPRGR39_HE*###*SprGr.39 HE
+P_CMG_762_54_DT*###*7,62x54 mmR
+P_CMG_792_57_MG34*###*7,92x57mm Mauser
+P_CMG_762_63_M1919*###*.30-06 Springfield
+P_CMG_127_99_M2*###*.50 BMG
+P_CMG_303_BRITISH*###*.303 British 
+P_AMMOTYPE_STANDARD*###*Standard
+P_AMMOTYPE_INCENDIARY*###*Incendiary
+C_PLACEMARKER*###*Place marker
+C_SHOWCONTROLS*###*Show controls
+C_OFFROADVEHICLE_THROTTLE*###*Throttle
+C_OFFROADVEHICLE_GEARREDUCTION*###*Gear Reduction
+C_OFFROADVEHICLE_BRAKE*###*Brake
+C_OFFROADVEHICLE_TURNLEFT*###*Turn left
+C_OFFROADVEHICLE_TURNRIGHT*###*Turn right
+C_OFFROADVEHICLE_HANDBRAKE*###*Handbrake
+C_OFFROADVEHICLE_EXITVEHICLE*###*Exit vehicle
+C_OFFROADVEHICLE_FREECAMERA*###*Free camera
+C_OFFROADVEHICLE_SWITCHAMMOTYPE*###*Switch ammo type
+C_OFFROADVEHICLE_TOGGLECAMERA*###*Toggle camera
+C_OFFROADVEHICLE_TOGGLELIGHTS*###*Toggle lights
+C_OFFROADVEHICLE_TOGGLERADIO*###*Toggle radio
+C_OFFROADVEHICLE_TOGGLEWINDSCREEN*###*Toggle windscreen
+C_GRINDER_TOGGLECONTROLMODE*###*Toggle grinding mode
+C_PAINTGUN_TOGGLEPAINTMODE*###*Toggle painting mode
+C_GPR_TOGGLEMODE*###*Toggle GPR screen mode
+C_COMPASS_TOGGLE*###*Toggle compass
+C_HINT_TOGGLE*###*Toggle controls hint
+C_TANKCONTROLS*###*Tank controls
+C_TANKCONTROLS_SHOOT_PRIMARY*###*Shoot primary weapon
+C_TANKCONTROLS_SHOOT_SECONDARY*###*Shoot secondary weapon
+S_VERYLOW*###*Very low
+S_LOW*###*Low
+S_NORMAL*###*Normal
+S_HIGH*###*High
+S_VERYHIGH*###*Very high
+S_VERYSHORT*###*Very short
+S_SHORT*###*Short
+S_LONG*###*Long
+S_VERYLONG*###*Very long
+S_ON*###*On
+S_OFF*###*Off
+S_RESOLUTION_NATIVE*###*Native
+S_RESOLUTION_800x600*###*800x600
+S_RESOLUTION_1024x768*###*1024x768
+S_RESOLUTION_1176x664*###*1176x664
+S_RESOLUTION_1280x720*###*1280x720
+S_RESOLUTION_1280x800*###*1280x800
+S_RESOLUTION_1280x1024*###*1280x1024
+S_RESOLUTION_1360x768*###*1360x768
+S_RESOLUTION_1366x768*###*1366x768
+S_RESOLUTION_1440x900*###*1440x900
+S_RESOLUTION_1536x864*###*1536x864
+S_RESOLUTION_1600x900*###*1600x900
+S_RESOLUTION_1600x1200*###*1600x1200
+S_RESOLUTION_1680x1050*###*1680x1050
+S_RESOLUTION_1768x992*###*1768x992
+S_RESOLUTION_1920x1080*###*1920x1080
+S_RESOLUTION_1920x1200*###*1920x1200
+S_RESOLUTION_2560x1080*###*2560x1080
+S_RESOLUTION_2560x1440*###*2560x1440
+S_RESOLUTION_3440x1440*###*3440x1440
+S_RESOLUTION_3840x1080*###*3840x1080
+S_RESOLUTION_3840x2160*###*3840x2160
+S_RESOLUTION_5120x1440*###*5120x1440
+S_RESOLUTIONRATIO_16x9*###*16:9
+S_RESOLUTIONRATIO_16x10*###*16:10
+S_RESOLUTIONRATIO_4x3*###*4:3
+S_RESOLUTIONRATIO_21x9*###*21:9
+S_RESOLUTIONRATIO_32x9*###*32:9
+S_RESOLUTIONRATIO_5x4*###*5:4
+S_RESOLUTIONRATIO_3x2*###*3:2
+S_DISPLAYMODE_FULLSCREEN_WINDOWED*###*Fullscreen Windowed
+S_DISPLAYMODE_MAXIMIZED_WINDOW*###*Maximized Window
+S_DISPLAYMODE_EXCLUSIVE_FULLSCREEN*###*Exclusive Fullscreen
+S_DISPLAYMODE_WINDOWED*###*Windowed
+S_FASTEST*###*Fastest
+S_FAST*###*Fast
+S_SIMPLE*###*Simple
+S_GOOD*###*Good
+S_BEAUTIFUL*###*Beautiful
+S_FANTASTIC*###*Fantastic
+S_CUSTOM*###*Custom
+S_AA_FXAA*###*FXAA
+S_AA_SMAA*###*SMAA
+S_AA_TAA*###*TAA
+T_FLASHLIGHT*###*Flashlight
+T_GRINDER*###*Angle grinder
+T_AXE*###*Axe
+T_HAMMER*###*Hammer
+T_WRENCHPISTOL*###*Wrench Pistol
+T_SHOVEL*###*Shovel
+T_METALDETECTOR*###*Metal Detector
+T_RUSTREMOVAL*###*Rust Removal Tool
+T_WATERHOSE*###*Pressure washer
+T_PAINTGUN*###*Paint gun
+T_PRIMERGUN*###*Primer gun
+T_SANDBLASTER*###*Sand blaster
+T_WELDER*###*Welder
+X_CANDIG_INFO*###*You have selected an area to start the excavation process.
+X_CANNOTDIG_INFO*###*The area you have selected is not suitable for the excavation process.
+X_CANNOTDIG_REASON_TITLE*###*Reason:
+X_CANNOTDIG_REASON_TERRAIN*###*The terrain is not fit for excavation.
+X_CANNOTDIG_REASON_OBSTACLES*###*There are obstacles in the area: {0}
+X_CANNOTDIG_REASON_TANK*###*The tank has been already dug out.
+X_SUMMARY_DESC*###*You have clicked Return to workshop button.
+X_STATE_NOTSTARTED*###*Not started
+X_STATE_STARTED*###*Started
+X_STATE_TANKFOUND*###*Tank found
+X_STATE_EXCAVATIONREQUIRED*###*Excavation required
+X_STATE_TANKDUGOUT*###*Tank dug out
+X_STATE_EXTRACTED*###*Extracted
+X_CANNOT_EXTRACT_TITLE*###*Cannot extract tank
+X_CANNOT_EXTRACT_WATERINTANK*###*There is water inside the tank. Please pump it out.
+X_CANNOT_EXTRACT_TANKNOTCLEANED*###*The tank is not clean.\nCurrent state: {0}%\nRequired state: {1}%
+X_CANNOT_EXTRACT_TANKNOTDUGOUT*###*The tank has not yet been fully dug out. Return to the tablet and order further digging in this location.
+X_CANNOT_CLEAN_TITLE*###*Cannot clean tank
+X_CANNOT_CLEAN_TANKCLEANED*###*The tank is already clean.
+X_RETURNTOMISSIONAREA*###*Return to mission area
+R_TABLET_TITLE*###*Tablet
+R_TABLET_DESC*###*Quick access to workshop tablet
+R_INVENTORY_TITLE*###*Inventory
+R_INVENTORY_DESC*###*Browse and select equipment and tools
+R_STORAGE_TITLE*###*Storage
+R_STORAGE_DESC*###*Browse, search and sell parts
+R_RESET_TOOLS_TITLE*###*Reset tools
+R_RESET_TOOLS_DESC*###*Reset tools to its initial state
+R_RESET_PLAYER_TITLE*###*Reset position
+R_RESET_PLAYER_DESC*###*Reset position to it initial state
+R_MOVETANK_TITLE*###*Move tank
+R_MOVETANK_DESC*###*Move tank to different locations
+R_GETINSIDE_TITLE*###*Get inside
+R_GETINSIDE_DESC*###*Get inside to restore interior parts
+R_SELECTCREWSLOT_TITLE*###*{0} slot
+R_SELECTCREWSLOT_DESC*###*Take selected crew slot
+R_OVERVIEWMODE_TITLE*###*Overview mode
+R_OVERVIEWMODE_DESC*###*Enter tank overview mode
+R_INTERACTIONMODETOGGLE_TITLE*###*{0} mode
+R_INTERACTIONMODETOGGLE_DESC*###*Switch to {0} mode
+R_ASSEMBLYMODE*###*Assembly
+R_DISASSEMBLYMODE*###*Disassembly
+R_MOVETANKTOAREA_TITLE*###*Move tank to {0}
+R_MOVETANKTOAREA_DESC*###*Select an area to move the tank
+R_MOVETANKTOSLOT_TITLE*###*Move tank to {0}
+R_MOVETANKTOSLOT_DESC*###*Select a slot to move the tank
+R_MOVETANKTOSLOT_TAKEN*###*Slot is taken by: {0}
+R_MOVEMODULEOPEN_TITLE*###*Module menu
+R_MOVEMODULEOPEN_DESC*###*Opens menu with tank modules
+R_MOVEMODULESELECTMODULE_TITLE*###*Select module: {0}
+R_MOVEMODULESELECTMODULE_DESC*###*Opens menu with stands for selected module
+R_MOVEMODULETOSTAND_TITLE*###*Select stand: {0}
+R_MOVEMODULETOSTAND_DESC*###*Move selected module to selected stand
+R_MOVEMODULEBACKTOTANK_TITLE*###*Module back to tank
+R_MOVEMODULEBACKTOTANK_DESC*###*Move the module back
+R_BACKOUT_TITLE*###*Back
+R_BACKOUT_DESC*###*Return to the previous menu
+R_NEXT_TITLE*###*Next
+R_NEXT_DESC*###*Move to next menu
+R_MOVETO_TANKGRAVEYARD_DESC*###*Move to tank graveyard.
+R_MOVETO_WORKSHOP_DESC*###*Move back to workshop.
+R_TANK_STATUS_TITLE*###*Tank status menu
+R_TANK_STATUS_DESC*###*Opens the tank status radial menu
+R_TANK_ANALISYS_TITLE*###*Tank analysis
+R_TANK_ANALISYS_DESC*###*Opens the tank analysis menu
+R_TANK_INTERIOROPTIONS_TITLE*###*Interior options
+R_TANK_INTERIOROPTIONS_DESC*###*Show options for tank interior
+R_TANK_TESTDRIVE_SHOWOPTIONS_TITLE*###*Test drive options
+R_TANK_TESTDRIVE_SHOWOPTIONS_DESC*###*Open test drive options
+R_TANK_TESTDRIVE_START_TITLE*###*Test drive
+R_TANK_TESTDRIVE_START_DESC*###*Starts test drive mode
+R_TANK_TESTDRIVE_FLUIDMENU_TITLE*###*Fluid Menu
+R_TANK_TESTDRIVE_FLUIDMENU_DESC*###*Opens menu with fluid filling options
+R_TANK_TESTDRIVE_FLUID_MENU_TITLE*###*Open {0} container menu
+R_TANK_TESTDRIVE_FLUID_MENU_DESC*###*Opens selected fluid type menu
+R_TANK_TESTDRIVE_FLUID_FILL_TITLE*###*Fill {0} container n. 
+R_TANK_TESTDRIVE_FLUID_FILL_DESC*###*Begins the fluid filling process
+R_TANK_PROVINGGROUNDS_START_TITLE*###*Proving Grounds
+R_TANK_PROVINGGROUNDS_START_DESC*###*Starts proving grounds mode
+R_TANK_MANAGER_DESC*###*Opens the tank manager menu
+R_EXTERIORVISUALSTOGGLE_TITLE*###*Tank exterior
+R_EXTERIORVISUALSTOGGLE_DESC*###*Toggle visibily of tank exterior parts
+R_EXAMINEMODETOGGLE_TITLE*###*Examine mode
+R_EXAMINEMODETOGGLE_DESC*###*Toggle examine mode
+R_EXTRACTIONTANKTOTRAILER_TITLE*###*Tank on trailer
+R_EXTRACTIONTANKTOTRAILER_DESC*###*Load the tank onto the truck trailer
+R_EXTRACTION_CLEANTANK_TITLE*###*Clean tank
+R_EXTRACTION_CLEANTANK_DESC*###*Order tank cleaning for 500 $.
+R_EXTRACTION_BACKTOBASE_DESC*###*Leave extraction mission.
+R_VEHICLEENTEREXITTOGGLE_TITLE*###*{0} vehicle
+R_VEHICLEENTEREXITTOGGLE_DESC*###*Enter or exit the vehicle
+R_ENTER*###*Enter
+R_EXIT*###*Exit
+R_VEHICLETOGGLEENGINE_TITLE*###*Toggle engine
+R_VEHICLETOGGLEENGINE_DESC*###*Toggle vehicle engine on or off
+R_VEHICLETOGGLELIGHTS_TITLE*###*Toggle lights
+R_VEHICLETOGGLELIGHTS_DESC*###*Toggle vehicle lights on or off
+R_VEHICLETOWINGSERVICE_TITLE*###*Call towing service
+R_VEHICLETOWINGSERVICE_DESC*###*Towing service tows vehicle out
+R_VEHICLEHOOKMAGNETOMETER_TITLE*###*Hook magnetometer
+R_VEHICLEHOOKMAGNETOMETER_DESC*###*Hooks a magnetometer on or off this vehicle.
+R_VEHICLERADIOTOGGLE_TITLE*###*Toggle Radio
+R_VEHICLERADIOTOGGLE_DESC*###*Toggles the car radio on or off
+R_USABLE_PICKUP_TITLE*###*Pick up
+R_USABLE_PICKUP_DESC*###*Picks up this item
+R_USABLE_USE_TITLE*###*Use
+R_USABLE_USE_DESC*###*Uses this usable item
+R_RADIO_NEXT_TITLE*###*Next song
+R_RADIO_NEXT_DESC*###*Next Song
+R_RADIO_PREVIOUS_TITLE*###*Previous song
+R_RADIO_PREVIOUS_DESC*###*Selects previous song
+R_RADIO_STATIONS_TITLE*###*Select station
+R_RADIO_STATIONS_DESC*###*Opens up a station selection menu
+R_RADIO_STATIONS_TOGGLE_TITLE*###*Turn on/off radio
+R_RADIO_STATIONS_TOGGLE_DESC*###*Turn on or off radio
+R_TOOLBELT_DESC*###*Opens tool belt menu
+W_TANKCREW_COMMANDER*###*Commander
+W_TANKCREW_GUNNER*###*Gunner
+W_TANKCREW_LOADER*###*Loader
+W_TANKCREW_DRIVER*###*Driver
+W_TANKCREW_RADIOOPERATOR*###*Radio operator
+W_CANNOT_BUYTANK_TITLE*###*Cannot buy tank
+W_CANNOT_MOVETOMUSEUM_TITLE*###*Cannot move tank to museum
+W_CANNOT_MOVETOMUSEUM_REASON_UNASSEMBLED*###*The tank is not assembled enough. Try to assemble it at least in 80%
+W_CANNOT_MOVETOMUSEUM_REASON_NOTREPAIRED*###*The tank is not repaired enough. Try to repair it at least in 80%
+W_CANNOT_ACCEPTNEWJOB_TITLE*###*Cannot accept new job
+W_CANNOT_STARTEXTRACTION_TITLE*###*Cannot start extraction mission
+W_CANNOT_REASON_NOSLOTS*###*There are no free tank slots available. Free a tank slot first.
+W_CANNOT_REASON_TOOLS*###*Not all required tools/vehicles are unlocked. You need to unlock {0} first in Upgrade Panel.
+W_CANNOT_REASON_MAXACTIVE*###*The maximum number of active contracts equals 3
+D_JOBTO*###*To:
+D_JOBTITLE*###*Title:
+D_JOBLOCATION*###*Location:
+D_JOB_MONEY_POTENTIAL*###*Potential money:
+D_JOB_MONEY_RECEIVED*###*Received money:
+D_JOBREPUTATION*###*Reputation:
+D_JOB_TIME_MAX*###*Max time:
+D_JOB_TIME_REMAINING*###*Remaining time:
+D_JOB_TIME_AVAILABILITY*###*Availability time:
+D_JOB_REQUIRED_ASSEMBLY*###*Required assembly:
+D_JOB_REQUIRED_REPAIRS*###*Required repairs:
+D_JOB_REQUIRED_CONDITION*###*Required condition:
+D_JOB_REQUIRED_TESTRUN*###*Test run completed
+D_JOB_RENOVATE_MODULE*###*Module renovation: {0}
+D_TANK_COMPLETION_ASSEMBLY*###*Tank assembly completion:
+D_TANK_COMPLETION_REPAIRS*###*Tank repairs completion:
+D_TANK_CONDITION*###*Tank overall condition
+D_JOBNODATA*###*No data available
+D_JOBTYPE*###*Type:
+D_JOBPURPOSE*###*Purpose:
+D_TANK_STATUS_REPAIRS*###*Tank repairs:
+D_TANK_STATUS_ASSEMBLY*###*Tank assembly:
+D_TANK_STATUS_CLEANED*###*Cleaned:
+D_TANK_STATUS_RUSTREMOVAL*###*Rust removal:
+D_TANK_STATUS_SANDING*###*Sanding:
+D_TANK_STATUS_PRIMER*###*Primer:
+D_TANK_STATUS_PAINT*###*Paint:
+D_TANK_STATUS_TOOLPROOF*###*Replaceable only
+D_ELEMENT_STATUS_CLEANED*###*Cleaned
+D_ELEMENT_STATUS_FINISHED*###*Finished
+T_LIST_TITLE*###*Tutorials List
+T_HELPLABELS*###*{0} - Open Tutorial List | {1} - Highlight interesting objects 
+T_TUTORIALLIST*###*Open Tutorial List
+T_HIGHLIGHT*###*Highlight interesting objects 
+T_RESET*###*Reset
+T_TUTORIAL*###*Tutorial
+T_DISABLE*###*Disable
+T_INSTRUCTION_GUI_DESKTOP_TITLE*###*Desktop Panel
+T_INSTRUCTION_GUI_DESKTOP_DESC*###*This panel allows to open:\n\n- E-mail manager (manage new contracts)\n- Organizer (manage current contracts)\n- Tank Part Shop (buy tank parts or tank blueprints)\n- Bank (take loans)
+T_INSTRUCTION_GUI_EMAIL_TITLE*###*E-mail Panel
+T_INSTRUCTION_GUI_EMAIL_DESC*###*This panel allows to manage received e-mails.\n\nPlayer can open the e-mails by clicking on them (on the mail list).\nWhen e-mail is selected, player can accept a contract or decline it. Additionaly, player can filter the e-mails by their state (f.e. all archived e-mails filter). By pressing X button on e-mail player can delete this e-mail.
+T_INSTRUCTION_GUI_ORGANIZER_TITLE*###*Organizer Panel
+T_INSTRUCTION_GUI_ORGANIZER_DESC*###*This panel allows to manage currently active contracts.\n\nPlayer can terminate any contract at any time. If the contract is an extraction mission, player can start the mission here.\n\nRemember, that terminating a contract before reaching it’s goals will result in a fee.
+T_INSTRUCTION_GUI_PARTSSHOP_TITLE*###*Parts Shop Panel
+T_INSTRUCTION_GUI_PARTSSHOP_DESC*###*This panel allows to buy new parts for selected tank.\n\nPlayer can select a tank mark he’s interested in, then select available parts of the tank. Additionaly, player can filter the parts by their module (f.e. only wheels parts).\n\nPlayer also can buy tank blueprints that can be used in crafting panel to craft new parts.
+T_INSTRUCTION_GUI_BANK_TITLE*###*Bank Panel
+T_INSTRUCTION_GUI_BANK_DESC*###*This panel allows to take a bank loan of selected amount. To take a loan, player sets a loan amount and clicks the Take Loan button. At any point player can pay off the loan here with Pay Off Loan button, when he has enough money to do it.
+T_INSTRUCTION_GUI_UPGRADE_TITLE*###*Upgrade Panel
+T_INSTRUCTION_GUI_UPGRADE_DESC*###*This panel allows to unlock various upgrades of 3 types:\n\n- Tools (new tools and vehicles, f.e. grinder)\n- Business (f.e. paint room)\n- Passives (f.e. cheaper prices in parts shop).\n\nTo unlock an upgrade, select an upgrade and then press Unlock button.
+T_INSTRUCTION_GUI_CUSTOMIZER_TITLE*###*Customizer Panel
+T_INSTRUCTION_GUI_CUSTOMIZER_DESC*###*This panel allows to customize various elements of a room (f.e. museum room). Available rooms to customize:\n- Workshop\n- Office Room\n- Crafting Room\n- Paint Room\n- Museum Room\n\nAvailable Customizations:\n- room walls/roof/floor materials\n- room posters\n- (museum) stands\n- (museum) prop stands
+T_INSTRUCTION_GUI_RADIAL_TITLE*###*Radial Panel
+T_INSTRUCTION_GUI_RADIAL_DESC*###*This panel shows various options when player presses Middle Mouse Button while looking at object (f.e. at a tank).
+T_INSTRUCTION_GUI_PAINTROOM_TITLE*###*Paint Room Panel
+T_INSTRUCTION_GUI_PAINTROOM_DESC*###*This panel allows to customize the visuals of currently stationed tank in the paint room. Using various options player can:\n- change tank color\n- apply tank decals\n- switch tank camouflage\n\nPlayer can reset the changes by click on Reset button (this option will revert all changes and return the tank visuals to it’s factory/default state).\n\nRemember, to be able to change the visuals of the tank the tank needs to be renovated (have the paint applied with paint gun).
+T_INSTRUCTION_GUI_CRAFTING_TITLE*###*Crafting Panel
+T_INSTRUCTION_GUI_CRAFTING_DESC*###*This panel allows to craft new parts of selected tank (if the player had previously bought tank blueprints in the tank parts shop). Player can craft items by:\n- selecting a tank mark (f.e. Tiger I)\n- selecting parts he wants to craft (player can select the same part multiple times)\n- if player has enough crafting parts, and the player clicks on Craft Parts button, the parts will be crafted
+T_INSTRUCTION_GUI_STORAGE_TITLE*###*Storage Panel
+T_INSTRUCTION_GUI_STORAGE_DESC*###*This panel allows to control the tank parts the player had:\n- disassembled from a tank\n- crafted in crafting panel\n- bought in tank parts shop\n\nWhen player selects a tank mark all free parts that are compatible with this tank are listed.\n\nAvailable options for selects parts:\n- Recycle (dispose selected parts and get crafting parts in exchange)\n- Sell (dispose selected parts and get money in exchange)\n- Repair (send selected parts to be repaired)
+T_INSTRUCTION_GUI_ASSEMBLY_TITLE*###*Assembly Panel
+T_INSTRUCTION_GUI_ASSEMBLY_DESC*###*This panel allows to select a part that the player wants to install in place of currently selected tank part. The parts listed in this panel are of the same type as the selected tank part. Additionaly, parts that are compatible but originaly are from other tanks will also be listed here.
+T_INSTRUCTION_GUI_EXTRACTION_MAP_TITLE*###*Extraction Map
+T_INSTRUCTION_GUI_EXTRACTION_MAP_DESC*###*This panel allows the player to control the extraction mission by:\n- switching between contracting out excavation works at selected map location or controlling drone movement (only available when the player has drone unlocked)\n- switching between satellite map and ground penetrating radar scan (only available if player has magnetometer or drone)
+T_INSTRUCTION_USABLE_TITLE*###*Usable objects
+T_INSTRUCTION_USABLE_DESC*###*There are various usable objects in Tank Mechanic Simulator. Some of them are pickable (like tools, lamps etc.), some are toggles (like doors, radio), some are panel openers (like upgrade panel, paint room panel, crafting panel etc.) To highlight all interesting usables in area, press {0}.
+T_INSTRUCTION_TOOLS_HAMMER_TITLE*###*Hammer
+T_INSTRUCTION_TOOLS_HAMMER_DESC*###*Hammer allows to disassemble tank part with a single direct hit on it. Any tank part that is targeted by the player (with the pointer) that is hit by the hammer (after clicking left mouse button) will fall off.\n\nRemember, each struck tank part condition gets decreased on hit.
+T_INSTRUCTION_TOOLS_RUSTREMOVAL_TITLE*###*Rust Removal Tool
+T_INSTRUCTION_TOOLS_RUSTREMOVAL_DESC*###*Rust Removal tool allows to remove rust from tank parts, in order to renovate the tank.\n\nRenovation Scheme:\n- Rust Removal\n- Sand Blasting\n- Applying Primer Paint\n- Applying Standard Paint\n\nIf player targets a tank part while holding the tool, and the tool is on (toggled on or off by pressing left mouse button) the rust will decrease.\n\nAll parts in close vicinity to the targeted tank part area de-rusted (the pointer is the place, where a sphere is casted, all parts that are touched by this sphere are de-rusting). This is useful when player wants to remove rust from hard-to-reach tank parts.
+T_INSTRUCTION_TOOLS_SANDBLASTER_TITLE*###*Sand Blaster
+T_INSTRUCTION_TOOLS_SANDBLASTER_DESC*###*Sand Blaster tool allows to blast sand with very high pressure against targeted tank parts, in order to renovate the tank.\n\nRenovation Scheme:\n- Rust Removal\n- Sand Blasting\n- Applying Primer Paint\n- Applying Standard Paint\n\nIf player targets a tank part while holding the tool, and the tool is on (toggled on or off by pressing left mouse button) the sand will be blasted.\n\nAll parts in close vicinity to the targeted tank part are sand blasted (the pointer is the place, where a sphere is casted, all parts that are touched by this sphere are sand blasted). This is useful when player wants to sand blast hard-to-reach tank parts.
+T_INSTRUCTION_TOOLS_PAINTGUN_TITLE*###*Paint Gun
+T_INSTRUCTION_TOOLS_PAINTGUN_DESC*###*Paint gun tool allows to paint the targeted tank part, in order to renovate the tank.\n\nRenovation Scheme:\n- Rust Removal\n- Sand Blasting\n- Applying Primer Paint\n- Applying Standard Paint\n\nIf player targets a tank part while holding the tool, and the tool is on (toggled on or off by pressing left mouse button) the paint or primer will be applied (depending on current paint mode - toggled by pressing {0} key).\n\nAll parts in close vicinity to the targeted tank parts are painted (the pointer is the place, where a sphere is casted, all parts that are touched by this sphere are painted). This is useful when player wants to paint hard-to-reach tank parts.
+T_INSTRUCTION_TOOLS_GRINDER_TITLE*###*Grinder
+T_INSTRUCTION_TOOLS_GRINDER_DESC*###*Grinder tool allows to grind (de-rust) or cut (disassemble) the targeted tank part, depending on current grinder mode, switchable by pressing {0} key.\n\nIf player targets a tank part while holding the tool, and the tool is on (by holding left mouse button) the part gets cut or grinded.
+T_INSTRUCTION_TOOLS_MAGNETOMETER_TITLE*###*Magnetometer
+T_INSTRUCTION_TOOLS_MAGNETOMETER_DESC*###*Magnetometer allows to scan the ground during the extraction missions, providing that the player had previously unlocked this tool in the upgrade panel.\n\nHow to use:\n- Pick the magnetometer by clicking on it\n- Move around the area where you want to scan the ground\n- The display mounted in the magnetometer shows any metal object it scans\n\nWhen you’re finished with scanning, go to the tablet and switch the map mode, from satellite to GPR scan. The scan should show the results (path and found objects) of your scanning.
+T_INSTRUCTION_TOOLS_SHOVEL_TITLE*###*Shovel
+T_INSTRUCTION_TOOLS_SHOVEL_DESC*###*Shovel allows to dig a small hole in terrains during extraction missions. It is one of the essential tools required to start an extraction mission. The shovel might be a useful tool to use when tou’re not sure if you’ve found a tank - might be cheaper to dig a hole first, before calling in big tools (excavation from tablet).
+T_INSTRUCTION_TOOLS_METALDETECTOR_TITLE*###*Metal Detector
+T_INSTRUCTION_TOOLS_METALDETECTOR_DESC*###*Metal detector allows to detect any metal object hidden under the ground. When player has the metal detector in hand and a metal object is close, the metal detector will make a notification sound. The frequency of the sound is higher as the player is closer to the detected metal object.
+T_INSTRUCTION_TOOLS_WATERHOSE_TITLE*###*Pressure washer
+T_INSTRUCTION_TOOLS_WATERHOSE_DESC*###*Pressure washer allows player to clean the tank from mud and dirt. This is required to put the tank on truck trailer on extraction mission.
+T_INSTRUCTION_TOOLS_PUMP_TITLE*###*Pump
+T_INSTRUCTION_TOOLS_PUMP_DESC*###*Pump allows player to pump out the water and mud from the surroundings of the tank. This is required to clean the tank with the pressure washer on extraction mission.
+T_INSTRUCTION_AREA_WORKSHOP_TITLE*###*Workshop Area
+T_INSTRUCTION_AREA_WORKSHOP_DESC*###*Welcome to your workshop!\n\nIn this area player can renovate the tank, that is currently stationed inside the area (or tanks, if player unlocks level 2 of the workshop with multiple tank slots).
+T_INSTRUCTION_AREA_YARD_TITLE*###*Yard Area
+T_INSTRUCTION_AREA_YARD_DESC*###*In this area player can park tanks (the area has more tank slots than workshop area does).\n\nAdditionaly, there are trash/scrap molds in this area, allowing the player to grind some crafting parts after clicking on them (untill depletion).
+T_INSTRUCTION_AREA_MUSEUM_TITLE*###*Museum Area
+T_INSTRUCTION_AREA_MUSEUM_DESC*###*In this area player can put tanks and found collectibles from extraction missions on display (to gain reputation, spent in upgrade panel).
+T_INSTRUCTION_AREA_TESTDRIVEYARD_TITLE*###*Test Drive Yard Area
+T_INSTRUCTION_AREA_TESTDRIVEYARD_DESC*###*In this area player can put tanks to the test by driving them around the special obstacle course. Player can get inside the tank using the radial menu, as well as start or stop the tank engine.
+T_INSTRUCTION_AREA_TANKGRAVEYARD_TITLE*###*Tank Grave Yard Area
+T_INSTRUCTION_AREA_TANKGRAVEYARD_DESC*###*In this area player can find tanks to buy or find scrap parts.\n\nTanks found here are mostly in very bad shape, much worse state than any contract tank is.
+T_INSTRUCTION_AREA_EXTRACTION_TITLE*###*Extraction Area
+T_INSTRUCTION_AREA_EXTRACTION_DESC*###*This is the area where the extraction mission gets done. Player’s task is to find a tank with tools such as:\n- Shovel\n- Metal Detector\n- Magnetometer\n- Drone\n- Vehicles (off-road car or quad)\n\nScheme to complete the extraction mission:\n- check map (tablet in selected vehicle)\n- get to the probable tank area\n- use metal detector or magnetometer\drone to pin point the position of the tank (use {0} key to put map markers)\n- use shovel to find the tank position\n- when tank is found, call for excavation in the tablet\n- when tank is dug out, pump out the water/mud out with the pump (turn it on and get the pipe inside the mud)\n- clean the tank with ressure washer\n- load the tank onto the trailer (with radial menu)\n- return to workshop (from pause menu)
+T_INSTRUCTION_TESTDRIVE_TITLE*###*Test Drive
+T_INSTRUCTION_TESTDRIVE_DESC*###*To put the tank to the test drive few requirements must be fulfilled:\n- Tank modules: engine and turret have to be mounted\n- Tank parts have to be fixed and mounted from modules:\n- Engine\n- Tracks\n- Wheels\n- Fuel system\n- Gearbox\n\nTo start the test drive, approach a tank and open radial menu on it. Select Test Drive Options, then select Start Test Drive.\n\nTo start the tank engine these parts need to be mounted and fixed first:\n- Engine\n- Fuel system\n- Gearbox\n\nAdditionaly, to start the engine, fluids need to be filled:\n- Coolant\n- Fuel\n- Oil\n\nTo start the engine approach the tank, open radial menu, select Test Drive Options and select Start Engine. To fill fluids, select Fill Fluids radial option in the Test Drive Options radial menu.
+T_INSTRUCTION_FLUIDS_TITLE*###*Fluids
+T_INSTRUCTION_FLUIDS_DESC*###*To start the tank engine, it requires all fluids to be filled. Oil, coolant and fuel container can be filled individually using the radial menu.\n\nHow to fill the fluids:\n- Select a fluid containter you want to fill (from radial menu, first select a fluid type, then container - when there are more than 1 containers available)\n- With container selected, hold left mouse button to fill the container\n With container selected, click right mouse button to switch currently selected fluid containter (that is of the same type)
+T_INSTRUCTION_STANDS_TITLE*###*Stands
+T_INSTRUCTION_STANDS_DESC*###*Some tank modules require to place them on special stands in order to be able to renovate them. To renovate engine or turret interior:\n- Approach the tank and open radial menu\n- Select Open Tank Modules Options\n- Select the module you want to move\n- Select the stand\n\nWith module on stand you can finally renovate it.
+T_INSTRUCTION_DISASSEMBLY_TITLE*###*Disassembly
+T_INSTRUCTION_DISASSEMBLY_DESC*###*To disassemble tank parts you need to:\n- Target a tank part\n- While aiming with pointer at the tank part, press and hold right mouse button\n- If the tank part has any screws, all of them need to be also unscrewed\n\nAll disassembled parts are put in the Storage panel.
+T_INSTRUCTION_ASSEMBLY_TITLE*###*Assembly
+T_INSTRUCTION_ASSEMBLY_DESC*###*To assemble tank parts you need to:\n- Switch to Assembly mode (using the radial menu while pointing at the tank)\n- Target a disassembled part\n- Click and hold right mouse button while aiming at the tank part\n- When Assembly Panel shows up, select a part you want to mount\n\nMounted parts are removed from the Storage Panel.
+T_INSTRUCTION_SCREWS_TITLE*###*Screws
+T_INSTRUCTION_SCREWS_DESC*###*Some tank parts have screws attached to them. If you want to disassemble or assemble such part, the screws need to be unscrewed or screwed in with the part. Some screws are rusted, and need special treatment when interacting with them. To be able to remove rusted screws, player can use:\n- Hammer (direct hit)\n- Grinder (cutting mode)\n- Wrench pistol (standard right mouse button interaction)
+T_INSTRUCTION_TANKINTERIOR_TITLE*###*Tank Interior
+T_INSTRUCTION_TANKINTERIOR_DESC*###*While inside the tank, player can switch his current position with radial menu (most of tanks have the same set of crew positions):\n- Commander\n- Gunner\n- Loader\n- Driver\n- Radio Operator
+T_INSTRUCTION_OFFROADVEHICLE_TITLE*###*Offroad Vehicle
+T_INSTRUCTION_OFFROADVEHICLE_DESC*###*Offroad vehicle allows player to roam around the extraction missions. The vehicle has place for all required tools on extraction mission.\n\nTo pick up tools from the trunk or put tools inside, approach the vehicle and left click the tool in a trunk, or approach the vehicle with a tool and drop the tool. If the tool hits the vehicle, the tool will be added to the trunk of the vehicle.
+T_INSTRUCTION_DRONE_TITLE*###*Drone
+T_INSTRUCTION_DRONE_DESC*###*Drone allows player to scan the ground on extraction missions. If the player has the drone unlocked, the drone will appear on the extraction missions. To control the drone:\n- Approach the tablet in the offroad vehicle\n- Open the tablet and click the Drone Control Mode button (switches the controls between drone controls and excavations)\n- Click left mouse button on the tablet map to order the drone to fly to the designated location\n- Check drone scan results in the GPR Map mode
+T_INSTRUCTION_MAPMARKERS_TITLE*###*Map Markers
+T_INSTRUCTION_MAPMARKERS_DESC*###*Map markers allow player to map any position on the map during extraction missions. To put a marker, press M key. This will place a marker on your map and a little flag directly where the player is standing.
+T_DEMO_WELCOME_01*###*Welcome to the demo version of Tank Mechanic Simulator. We hope that you will have a good time with our game :) 
+T_DEMO_WELCOME_02*###*In the demo you can expect 3 tanks ready to be extracted or repaired.\n- German legendary PzKpfw VI Tiger I Ausf. H1\n- American famous  M4A3E8 Sherman\n- Soviet steel beast KV-1. 
+T_STORY_OBJECTIVE_ASSEMBLEPART_TITLE*###*Assemble highlighted parts
+T_STORY_OBJECTIVE_ASSEMBLEPART_DESC*###*Click and hold RMB on selected part to assemble it.
+T_STORY_OBJECTIVE_BUY_FINALIZE_TITLE*###*Accept Checkout
+T_STORY_OBJECTIVE_BUY_FINALIZE_DESC*###*Click highlighted button to accept the transaction and buy previously selected tank parts.
+T_STORY_OBJECTIVE_BUY_PARTS_TITLE*###*Buy parts
+T_STORY_OBJECTIVE_BUY_PARTS_DESC*###*To buy a new tank part, select it from the list, then click Checkout button.
+T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_TITLE*###*Check missing parts
+T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_DESC*###*Find greyed out parts on the list. These are missing parts that you need to buy and assemble. Remember their names and close this menu.
+T_STORY_OBJECTIVE_DISASSEMBLEPART_TITLE*###*Disassemble highlighted parts
+T_STORY_OBJECTIVE_DISASSEMBLEPART_DESC*###*Click and hold RMB on selected part to disassemble it.
+T_STORY_OBJECTIVE_FINISHCONTRACT_TITLE*###*Finish contract
+T_STORY_OBJECTIVE_FINISHCONTRACT_DESC*###*Select contract from the list and click the highlighted button to finish the contract.
+T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_TITLE*###*Finish contract
+T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_DESC*###*Open organizer Menu and finish the contract.
+T_STORY_OBJECTIVE_MOVE_TANK_TITLE*###*Move tank
+T_STORY_OBJECTIVE_MOVE_TANK_DESC*###*Reposition the tank to the Workshop. To do this, approach the tank and open the radial menu (MMB) while looking at tank.
+T_STORY_OBJECTIVE_MOVE_TOTANK_TITLE*###*Switch rooms
+T_STORY_OBJECTIVE_MOVE_TOTANK_DESC*###*Move to tank {0}. It is positioned in room: {1}.
+T_STORY_OBJECTIVE_OPEN_RADIALMENU_TITLE*###*Open Radial Menu
+T_STORY_OBJECTIVE_OPEN_RADIALMENU_DESC*###*Click MMB to open Radial Menu.
+T_STORY_OBJECTIVE_OPEN_STORAGEMENU_TITLE*###*Open Storage Menu
+T_STORY_OBJECTIVE_OPEN_STORAGEMENU_DESC*###*Select highlighted radial menu option to open Storage Menu.
+T_STORY_OBJECTIVE_OPEN_TANKANALISYS_TITLE*###*Open Tank Analysis Menu
+T_STORY_OBJECTIVE_OPEN_TANKANALISYS_DESC*###*Approach tank and open the Radial Menu with MMB, while looking at tank.
+T_STORY_OBJECTIVE_OPEN_PC_TITLE*###*Open computer
+T_STORY_OBJECTIVE_OPEN_PC_DESC*###*Approach and click LMB on highlighted PC.
+T_STORY_OBJECTIVE_OPEN_ORGANIZER_TITLE*###*Open Organizer Menu
+T_STORY_OBJECTIVE_OPEN_ORGANIZER_DESC*###*Select highlighted button to open Organizer Menu.
+T_STORY_OBJECTIVE_OPEN_SHOP_TITLE*###*Open Shop Menu
+T_STORY_OBJECTIVE_OPEN_SHOP_DESC*###*Select highlighted button to open Shop Menu.
+T_STORY_OBJECTIVE_ORDERREPAIRS_TITLE*###*Order repairs
+T_STORY_OBJECTIVE_ORDERREPAIRS_DESC*###*Click the highlighted button to order the selected parts for a repairs.
+T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_TITLE*###*Repair parts
+T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_DESC*###*Select (LMB) parts that you want to repair, and then click highlited button.
+T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_TITLE*###*Select part
+T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_DESC*###*Approach and select (click LMB) any of the highlighted tank parts.
+T_STORY_OBJECTIVE_SELECT_RADIALOPTION_TITLE*###*Select option
+T_STORY_OBJECTIVE_SELECT_RADIALOPTION_DESC*###*Select highlighted option to proceed.
+T_STORY_OBJECTIVE_SELECTTANK_STORAGE_TITLE*###*Select tank from list
+T_STORY_OBJECTIVE_SELECTTANK_STORAGE_DESC*###*Click highlighted button to open tank list. Select {0}.
+T_STORY_OBJECTIVE_SELECTTANK_SHOP_TITLE*###*Select tank
+T_STORY_OBJECTIVE_SELECTTANK_SHOP_DESC*###*Select the highlighted tank to open tank part menu for selected tank.
+T_STORY_OBJECTIVE_START_EXTRACTION_TITLE*###*Start Extraction mission
+T_STORY_OBJECTIVE_START_EXTRACTION_DESC*###*Click highlighted button to start the extraction mission.
+T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_TITLE*###*Switch to disassembly mode
+T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_DESC*###*In order to disassemble a tank part, you need to be in disassembly mode.
+T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_TITLE*###*Switch to assembly mode
+T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_DESC*###*In order to assemble a tank part, you need to be in assembly mode.
+T_STORY_OBJECTIVE_WAITFORREPAIRS_TITLE*###*Wait for repairs
+T_STORY_OBJECTIVE_WAITFORREPAIRS_DESC*###*Now wait untill the parts are repaired. You can close the storage menu and work during repairs.
+T_STORY_OBJECTIVE_SKIPTUTORIAL*###*Skip tutorial
+J_STORY_TITLE_01*###*New start
+J_STORY_TITLE_02*###*Shopping time
+J_STORY_TITLE_03*###*Find and extract tank
+J_STORY_TITLE_04*###*Tank requires de-rusting
+J_STORY_TITLE_05*###*Help us with sand blasting
+J_STORY_TITLE_06*###*Put primer on our tank
+J_STORY_TITLE_07*###*Repair and test the tank
+J_STORY_TITLE_08*###*Fix and put the tank into museum
+J_STORY_TITLE_09*###*Take the tank to proving grounds
+J_STORY_DESC_01*###*I have heard, that you have taken over the tank business after your father. I’m sending my condolences, he was my dear friend.\n\n Now, I want to help you start, here is my proposition:\n- disassemble and repair broken parts in my KV-1, then assemble the repaired parts back.\nGood luck.
+J_STORY_DESC_02*###*Nice job!\n\nI have another tank, this time to be assembled.\nYou need to buy missing parts for my T34-76 in the online shop, and then assemble them.\nGood luck.
+J_STORY_DESC_03*###*Great work!\n\nI don’t have any tanks for you right now.\nBut I know about a place, where you can find and dig out a tank – it will be yours.\nGood luck.
+J_STORY_DESC_04*###*Your uncle, Tom, has recommended you to us.\nWe would like to order de-rusting of the turret and hull exterior.\nWith respect,
+J_STORY_DESC_05*###*We have a bigger request.\nWe would like to order to de-rust as well as sand blast the exterior of the tank.\n\nGood luck.
+J_STORY_DESC_06*###*We would like to order a tank repairs\nFinal goal would be to apply primer to the whole tank.Additionally, we would like you to replace parts that cannot be repaired by tools.\n\nWith respect,
+J_STORY_DESC_07*###*I see that you are doing well, congrats :)\nI would like to ask you for a little favor.\nOne of the tank from my collection requires its drive system and engine to be fixed. Afterwards, take the tank to a test drive, please.\n\nWIth regards,
+J_STORY_DESC_08*###*You’ve done great with last tank, but I have yet another request.\nI would like you to renovate this tank fully, and put it in your museum for some time.\n\nJust remember to give it back to me ;)\n\nWith regards,
+J_STORY_DESC_09*###*I have a nice treat for you.\nI want to to mount the missing tank parts and then take the tank to the Proving Grounds.\n\nHave fun.
+J_NAME_1*###*Alexander
+J_NAME_2*###*Adam
+J_NAME_3*###*Sebastian
+J_NAME_4*###*Miro
+J_NAME_5*###*Lech
+J_NAME_6*###*John
+J_NAME_7*###*Ivan
+J_NAME_8*###*Igor
+J_NAME_9*###*Robert
+J_NAME_10*###*Mike
+J_NAME_11*###*Peter
+J_NAME_12*###*Pat
+J_NAME_13*###*Peter
+J_NAME_14*###*Mark
+J_NAME_15*###*Scott
+J_NAME_16*###*Fred
+J_NAME_17*###*Bill
+J_NAME_18*###*Bob
+J_NAME_19*###*Jason
+J_NAME_20*###*Greg
+J_NAME_21*###*Adrian
+J_NAME_22*###*Chris
+J_NAME_23*###*Natalie
+J_NAME_24*###*Joanne
+J_NAME_25*###*Susan
+J_NAME_26*###*Evelin
+J_NAME_27*###*Ann
+J_NAME_28*###*Tania
+J_NAME_29*###*Maria
+J_NAME_30*###*Stephanie
+J_NAME_31*###*Uncle Tom
+J_NAME_32*###*Tanks Inc.
+J_TUTORIAL_TITLE*###*Your first contract
+J_TUTORIAL_DESC*###*Dear nephew,\n\ncongratulations on opening the museum.\nI know your business will be successful.\nAs you know, I have a {0} waiting for renovation.\nI would like to hire you for this job.\nAre you interested?\n\nYour {1}
+J_DESC_REPAIR_1*###*Hey,\n\nI have a {0} in need of renovation.\n\nCan you help me?\n\nSincerely,\n{1}
+J_DESC_REPAIR_2*###*Hello there,\n\nI have available {0} and it need some renovation to be in perfect condition.\n\nLet me know. Bye\n{1} 
+J_DESC_REPAIR_3*###*Hey!\n\nNeed urgent help with {0} Let me know quickly, this is really urgent!\n\n{1} 
+J_DESC_REPAIR_4*###*Very nice {0} need few things to be replaced 
+J_DESC_EXTRACT_1*###*Hey,\n\nwe have run into information, that there is a tank ready to be extracted.\n\nAre you interested?\n\nSincerely,\n{0}
+J_DESC_EXTRACT_2*###*Hey there,\n\nwe know where a hidden tank is!\n\nWe won’t make it though, can you help us?\n\n{0}
+J_DESC_EXTRACT_3*###*Dear Sir or Madame,\n\nthere is an abandoned World War II tank in our national park.\n\nWe ask for help in extraction of this tank.\n\nWith regards,\n{0}
+J_TITLE_REPAIR_1*###*Repair contract offer
+J_TITLE_REPAIR_2*###*Need some help with renovation
+J_TITLE_REPAIR_3*###*NEED HELP! 
+J_TITLE_REPAIR_4*###*Nice tank need some work 
+J_TITLE_EXTRACT_1*###*Tank extraction opportunity
+J_TITLE_EXTRACT_2*###*We have found a tank!
+J_TITLE_EXTRACT_3*###*Grab your shovel, we found something.
+J_TITLE_EXTRACT_4*###*Info about tank
+J_TITLE_EXTRACT_5*###*Forgotten tank
+STEAM_ABOUT_GAME_1*###*Tank Mechanic Simulator is a game about World War II tanks, their crews and their contribution in military history. 
+STEAM_ABOUT_GAME_2*###*As a tank museum owner your task is to recover destroyed or abandoned tanks and renovate them. 
+STEAM_ABOUT_GAME_3*###*Use your offroad vehicle to locate forgotten tanks. With final area found, determine the exact position of the tank by using special equipment like metal detector. Set up excavation area and extract the tank!
+STEAM_ABOUT_GAME_4*###*Transport freshly extracted tank to your warehouse. Then start working on renovation process. Detach rusted elements and replace them with new parts. Buy them or fix them by yourself!
+STEAM_ABOUT_GAME_5*###*Tank Mechanic Simulator contain physical terrain deformation system, player will have to mind where and how does he want to travel and excavate.
+STEAM_ABOUT_GAME_6*###*"Perform the entire renovation program starting from:
+[*###*] cleaning tank from mud
+[*###*] removing rust
+[*###*] sand blasting the tank
+[*###*] placing a primer coat
+[*###*] painting tank with final paint "
+STEAM_ABOUT_GAME_7*###*You can excavate even when the night comes! The game extraction missions have full night and day cycle implemented.
