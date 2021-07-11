@@ -105,7 +105,7 @@ E_CANISTER*###*연료통
 E_CANISTERS*###*연료통
 E_CANNONBASE*###*포방패
 E_CANNONBASEATTACHMENT*###*포방패 부착물
-E_CANNONBASEHOLDER*###*포탑 지지대 홀더
+E_CANNONBASEHOLDER*###*포방패 홀더
 E_CANNONBRAKE*###*주포 반동 브레이크
 E_CAP*###*뚜껑
 E_CARBURETOR*###*카뷰레터
@@ -270,7 +270,7 @@ E_GUDGEONPIN*###*피스톤 연결 핀
 E_GUN*###*주포 장전대
 E_GUN_2*###*주포
 E_GUN_CRADLE*###*주포 지지대
-E_GUN_INTERIOR_MANTLET*###*내부 주포 포방패
+E_GUN_INTERIOR_MANTLET*###*내부 주포 지지대
 E_GUNATTACHMENT*###*주포 부착물
 E_GUNBRAKE*###*포구 제퇴기
 E_GUNCOVER*###*주포 덮개
