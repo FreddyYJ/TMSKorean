@@ -204,7 +204,7 @@ E_COVER_PROPELLERSHAFT_INSP*###*차축 점검용 덮개
 E_COVER_PUSHRODS*###*푸쉬로드 덮개
 E_COVER_EXHAUSTMANIFOLD*###*배기구 배니폴드 덮개
 E_COVER_SEAT*###*좌석 덮개
-E_COVER_DIFFERENTIAL*###*차이 덮개(수정요)
+E_COVER_DIFFERENTIAL*###*차동 장치 덮개(수정요)
 E_COVER_FINALDRIVE*###*차축 덮개(수정요)
 E_COVER_FINALDRIVE_PLUG*###*차축 덮개 플러그(수정요)
 E_COVER_STEERING*###*조향 체계 덮개
@@ -231,140 +231,140 @@ E_COVERS_FUEL*###*연료 탱크 덮개
 E_COVERS_RADIATOR*###*라디에이터 덮개
 E_COVERS_TRANSMISSION_INSP*###*변속기 점검용 덮개
 E_COVERS_OPTICS*###*조준경 덮개
-E_CRANKSHAFT*###*Crankshaft
-E_CRANKSHAFT_BEARING_CAP*###*Crankshaft bearing cap
-E_CRANKCASE_FRONT*###*Front crankcase
-E_CRANKCASE_REAR*###*Rear crankcase
-E_CRANKCASE_BREATHER*###*Crankcase breather
-E_CRATE*###*Crate
-E_CROSSBEAM*###*Crossbeam
-E_CYLINDER*###*Cylinder
-E_DASHBOARD*###*Dashboard
-E_DIFFERENTIAL_GEARS*###*Differential gears
-E_DIFFERENTIAL_HOUSING*###*Differential housing
-E_DIFFERENTIAL_CONNECTOR*###*Differential connector
-E_DIFFERENTIAL_PLATE*###*Differential plate
-E_DIFFERENTIAL_BOLT*###*Differential bolt
-E_DIFFERENTIAL_SHAFT*###*Differential shaft
-E_DIFFUSER*###*Diffuser
-E_DIPSTICK*###*Dipstick
-E_DISTRIBUTOR*###*Fuel distributor
-E_DOOR*###*Door
-E_DOOR_DRIVER*###*Driver's door
-E_DOOR_DRIVER_HATCH*###*Driver's door hatch
-E_DOOR_DRIVER_SIGHT*###*Driver's door sight
-E_DOOR_ASSISTANT*###*Assistant's door
-E_DOOR_ASSISTANT_HATCH*###*Assistant's door hatch
-E_DOOR_ASSISTANT_SIGHT*###*Assistant's door sight
-E_DOOR_REAR*###*Rear door
-E_DRIVER_SIGHT*###*Driver sight
-E_DRIVERASSISTANTPERISCOPE*###*Driver Assistant's periscope
-E_DRIVERPERISCOPE*###*Driver's periscope
-E_DRIVECHAIN*###*Drive chain
-E_DRIVE_GEAR*###*Drive gear
-E_DRUMBRAKE*###*Drum brake
-E_DUALTRACKSUPPORTROLLER*###*Horizontal volute spring
-E_ELECTROSTARTER*###*Electro starter
-E_ELECTRICAL_BOX*###*Electrical box
-E_ELECTRICAL_TERMINAL*###*Electrical terminal
-E_ELECTRICAL_MOTOR*###*Electrical motor
-E_ELECTRICAL_DISTRIBUTOR*###*Electrical distributor
-E_ELEVATING_HANDWHEEL*###*Elevating handwheel
-E_ELEVATING_LOCK*###*Elevation lock
-E_ELEVATING_GEAR*###*Elevating mechanism gear
-E_ENGINE*###*Hydraulic traverse unit
-E_ENGINE_ELBOW*###*Hydraulic traverse elbow
-E_ENGINE_BASE*###*Hydraulic traverse base
-E_ENGINE_SHAFT*###*Hydraulic traverse shaft
-E_ENGINE_COWL*###*Engine cowl
-E_ENGINEHATCH*###*Engine hatch
-E_ENGINEHATCH_FRAME*###*Engine hatch frame
-E_ENGINEHATCH_LARGE*###*Large engine hatch
-E_ENGINEHATCH_SMALL*###*Small engine hatch
-E_ENGINEHATCH_REAR*###*Rear engine hatch
-E_ENGINE_HOOD*###*Engine hood
-E_ENGINE_BRACKET*###*Engine bracket
-E_ENGINEMOUNT*###*Engine mount
-E_ENV_PIPES*###*Environmental system pipes
-E_ENV_MOTOR*###*Environmental system motor
-E_ENV_FILTER*###*Environmental system filter
-E_ENV_INTAKE*###*Environmental system intake
-E_EQUILIBRATOR*###*Gun equilibrator
-E_EQUILIBRATORSPRING*###*Equilibrator spring
-E_EXHAUST*###*Exhaust
-E_EXHAUSTMUFFLER*###*Muffler
-E_EXHAUSTLEFT*###*Left muffler
-E_EXHAUSTRIGHT*###*Right muffler
-E_EXHAUSTMANIFOLD*###*Exhaust manifold
-E_EXHAUSTMANIFOLD_LEFT*###*Left exhaust manifold
-E_EXHAUSTMANIFOLD_RIGHT*###*Right exhaust manifold
-E_EXHAUSTPIPE*###*Exhaust pipe
-E_EXHAUSTPIPE_LEFT*###*Left exhaust pipe
-E_EXHAUSTPIPE_RIGHT*###*Right exhaust pipe
-E_EXHAUSTPIPECOVER*###*Exhaust pipe cover
-E_EXHAUSTDEFLECTOR*###*Exhaust deflector
-E_EXHAUSTTIP*###*Exhaust tip
-E_EXHAUSTELBOW*###*Exhaust elbow
-E_EXHAUSTCOOLANTRES*###*Exhaust coolant reservoir
-E_EXTINGUISHER*###*Extinguisher
-E_FAN*###*Fan
-E_FANS*###*Fans
-E_FAN_HUB*###*Fan hub
-E_FAN_SHROUD*###*Fan shroud
-E_FAN_DRIVE*###*Fan drive
-E_FASTENING*###*Fastening
-E_FENDER*###*Fender
-E_FILTER_BASE*###*Filter base
-E_FIRE_EXT*###*Fire extinguishing system
-E_FIRE_EXT_PIPES*###*Fire extinguishing system pipes
-E_FIRE_EXT_HANDLE*###*Fire extinguishing system handle
-E_FIRE_EXT_VALVE*###*Fire extinguishing system valve
-E_FIRE_CONTROL*###*Firing controls
-E_FOOTREST*###*Footrest
-E_FRONTCOVER*###*Front cover
-E_FRONTDRIVEWHEEL*###*Front drive wheel
-E_FINALDRIVE*###*Final drive
-E_FLAG_HOLE*###*Signal flag hole cover
-E_FLAME_TRAP*###*Flame trap
-E_FLOOR*###*Floor
-E_FLOOR_TURRET*###*Turret floor
-E_FLOOR_FRAME*###*Floor frame
-E_FLYWHEEL*###*Flywheel
-E_FRONTLIGHT*###*Front headlight
-E_FRONTLIGHT_COVER*###*Front light cover
-E_FRONTLIGHT_MOUNT*###*Front light mount
-E_FRONTLIGHT_SPARE*###*Spare front light
-E_FRONTMOUNT*###*Front mount
-E_FRONTPLATE*###*Front armour plate
-E_FRONTSPRINGARM*###*Front spring arm
-E_FUEL_CAP*###*Fuel tank cap
-E_FUEL_CAP_COVER*###*Fuel tank cap cover
-E_FUELCANISTERSLOT*###*Fuel canister holder
-E_FUELFILLER*###*Fuel filler
-E_FUELFILLER_SLEEVE*###*Fuel filer sleeve
-E_FUELFILTER*###*Fuel filter
-E_FUELGAGESENDINGUNIT_LEFT*###*Left fuel gage sending unit
-E_FUELGAGESENDINGUNIT_RIGHT*###*Right fuel gage sending unit
-E_FUELHOSE*###*Fuel hose
-E_FUELHOSES*###*Fuel hoses
-E_FUELPUMP*###*Fuel pump
-E_FUELPUMPHOSE*###*Fuel pump hose
-E_FUELTANK*###*Fuel tank
-E_FUELTANK_LEFT*###*Left fuel tank
-E_FUELTANK_RIGHT*###*Right fuel tank
-E_FUELTANK_HORIZONTRAL*###*Horizontal fuel tank
-E_FUELTANK_VERTICAL*###*Vertical fuel tank
-E_FUELTANK_OUTER*###*Outer fuel tank
-E_FUELTANK_HATCH*###*Fuel tank hatch
-E_FUELTANK_BASE*###*Fuel tank base
-E_FUELTANK_OIL_LEFT*###*Left fuel/oil tank
-E_FUELTANK_STRAP*###*Fuel tank strap
-E_FUELTANK_DRAIN*###*Fuel tank drain cover
-E_FUELGAUGE_COVER*###*Fuel gauge cover
-E_FUEL_SHUT_OFF_LINES*###*Fuel shut off lines
-E_FUEL_SHUT_OFF_VALVES*###*Fuel shut off valves
-E_FUEL_INJECTOR*###*Fuel injector
-E_FUEL_INJECTOR_ARM*###*Fuel injector arm
+E_CRANKSHAFT*###*크랭크샤프트
+E_CRANKSHAFT_BEARING_CAP*###*크랭크샤프트 베어링 뚜껑
+E_CRANKCASE_FRONT*###*전방 크랭크 케이스
+E_CRANKCASE_REAR*###*후방 크랭크 케이스
+E_CRANKCASE_BREATHER*###*크랭크 케이스 환풍구
+E_CRATE*###*상자
+E_CROSSBEAM*###*대들보
+E_CYLINDER*###*실린더
+E_DASHBOARD*###*계기판
+E_DIFFERENTIAL_GEARS*###*차동 장치
+E_DIFFERENTIAL_HOUSING*###*차동 장치 하우징
+E_DIFFERENTIAL_CONNECTOR*###*차동 장치 커넥터
+E_DIFFERENTIAL_PLATE*###*차동 장치 판
+E_DIFFERENTIAL_BOLT*###*차동 장치 볼트
+E_DIFFERENTIAL_SHAFT*###*차동 장치 샤프트
+E_DIFFUSER*###*디퓨저(수정요)
+E_DIPSTICK*###*계량봉
+E_DISTRIBUTOR*###*연료 배급기
+E_DOOR*###*문
+E_DOOR_DRIVER*###*조종수 문
+E_DOOR_DRIVER_HATCH*###*조종수 문 해치
+E_DOOR_DRIVER_SIGHT*###*조종수 문 관측창
+E_DOOR_ASSISTANT*###*무전수 문
+E_DOOR_ASSISTANT_HATCH*###*무전수 문 해치
+E_DOOR_ASSISTANT_SIGHT*###*무전수 문 관측창
+E_DOOR_REAR*###*후방 문
+E_DRIVER_SIGHT*###*조종수 관측창
+E_DRIVERASSISTANTPERISCOPE*###*조종수/무전수 잠망경
+E_DRIVERPERISCOPE*###*Driver조종수 잠망경
+E_DRIVECHAIN*###*구동 체인
+E_DRIVE_GEAR*###*구동 기어
+E_DRUMBRAKE*###*브레이크 드럼
+E_DUALTRACKSUPPORTROLLER*###*가로 소용돌이형 스프링
+E_ELECTROSTARTER*###*전기 스타터
+E_ELECTRICAL_BOX*###*전자기기 상자
+E_ELECTRICAL_TERMINAL*###*전자기기 제어기(수정요)
+E_ELECTRICAL_MOTOR*###*전기 모터
+E_ELECTRICAL_DISTRIBUTOR*###*전기 분배기
+E_ELEVATING_HANDWHEEL*###*부앙 손잡이
+E_ELEVATING_LOCK*###*부앙 고정기
+E_ELEVATING_GEAR*###*부앙 체계 기어
+E_ENGINE*###*엔진오일 공급장치(수정요)
+E_ENGINE_ELBOW*###*엔진오일 공급장치 팔꿈치
+E_ENGINE_BASE*###*엔진오일 공급장치 베이스
+E_ENGINE_SHAFT*###*엔진오일 공급장치 샤프트
+E_ENGINE_COWL*###*엔진 뚜껑
+E_ENGINEHATCH*###*엔진 해치
+E_ENGINEHATCH_FRAME*###*엔진 해치 프레임
+E_ENGINEHATCH_LARGE*###*대형 엔진 해치
+E_ENGINEHATCH_SMALL*###*소형 엔진 해치
+E_ENGINEHATCH_REAR*###*후방 엔진 해치
+E_ENGINE_HOOD*###*엔진 후드
+E_ENGINE_BRACKET*###*엔진 지지대(수정요)
+E_ENGINEMOUNT*###*엔진 마운트
+E_ENV_PIPES*###*환풍기 파이프
+E_ENV_MOTOR*###*환풍기 모터
+E_ENV_FILTER*###*환풍기 필터
+E_ENV_INTAKE*###*환풍기 흡기 장치
+E_EQUILIBRATOR*###*주포 안정기
+E_EQUILIBRATORSPRING*###*안정기 스프링
+E_EXHAUST*###*배기구
+E_EXHAUSTMUFFLER*###*배기구 머플러
+E_EXHAUSTLEFT*###*좌측 머플러
+E_EXHAUSTRIGHT*###*우측 머플러
+E_EXHAUSTMANIFOLD*###*배기 매니폴드
+E_EXHAUSTMANIFOLD_LEFT*###*좌측 배기 매니폴드
+E_EXHAUSTMANIFOLD_RIGHT*###*우측 배기 매니폴드
+E_EXHAUSTPIPE*###*배기 파이프
+E_EXHAUSTPIPE_LEFT*###*좌측 배기 파이프
+E_EXHAUSTPIPE_RIGHT*###*우측 배기 파이프
+E_EXHAUSTPIPECOVER*###*배기 파이프 덮개
+E_EXHAUSTDEFLECTOR*###*배기 디플렉터
+E_EXHAUSTTIP*###*배기구 끝
+E_EXHAUSTELBOW*###*배기구 팔꿈치
+E_EXHAUSTCOOLANTRES*###*배기 냉각수 탱크
+E_EXTINGUISHER*###*소화기
+E_FAN*###*환풍기
+E_FANS*###*환풍기
+E_FAN_HUB*###*환풍기 허브
+E_FAN_SHROUD*###*환풍기 덮개
+E_FAN_DRIVE*###*환풍기 구동장치
+E_FASTENING*###*잠금장치(수정요)
+E_FENDER*###*펜더
+E_FILTER_BASE*###*필터 베이스
+E_FIRE_EXT*###*소화 체계
+E_FIRE_EXT_PIPES*###*소화 체계 파이프
+E_FIRE_EXT_HANDLE*###*소화 체계 손잡이
+E_FIRE_EXT_VALVE*###*소화 체계 밸브
+E_FIRE_CONTROL*###*화재 제어기
+E_FOOTREST*###*발걸이
+E_FRONTCOVER*###*전방 덮개
+E_FRONTDRIVEWHEEL*###*전방 구동휠
+E_FINALDRIVE*###*최종 구동축
+E_FLAG_HOLE*###*신호기 구멍 덮개
+E_FLAME_TRAP*###*화염방사기
+E_FLOOR*###*바닥
+E_FLOOR_TURRET*###*포탑 바닥
+E_FLOOR_FRAME*###*바닥 프레임
+E_FLYWHEEL*###*플라이휠
+E_FRONTLIGHT*###*전방 헤드라이트
+E_FRONTLIGHT_COVER*###*전방 헤드라이트 덮개
+E_FRONTLIGHT_MOUNT*###*전방 헤드라이트 마운트
+E_FRONTLIGHT_SPARE*###*비상용 헤드라이트
+E_FRONTMOUNT*###*전방 마운트
+E_FRONTPLATE*###*전면 장갑판
+E_FRONTSPRINGARM*###*전방 스프링 암
+E_FUEL_CAP*###*연료 탱크 뚜껑
+E_FUEL_CAP_COVER*###*연료 탱크 뚜껑 덮개
+E_FUELCANISTERSLOT*###*연료통 보관함
+E_FUELFILLER*###*연료 공급기
+E_FUELFILLER_SLEEVE*###*연료 공급기 뚜껑(수정요)
+E_FUELFILTER*###*연료 필터
+E_FUELGAGESENDINGUNIT_LEFT*###*좌측 연료 공급 장치
+E_FUELGAGESENDINGUNIT_RIGHT*###*우측 연료 공급 장치
+E_FUELHOSE*###*연료 호스
+E_FUELHOSES*###*연료 호스
+E_FUELPUMP*###*연료 펌프
+E_FUELPUMPHOSE*###*연료 펌프 호스
+E_FUELTANK*###*연료 탱크
+E_FUELTANK_LEFT*###*좌측 연료 탱크
+E_FUELTANK_RIGHT*###*우측 연료 탱크
+E_FUELTANK_HORIZONTRAL*###*가로 연료 탱크
+E_FUELTANK_VERTICAL*###*세로 연료 탱크
+E_FUELTANK_OUTER*###*외부 연료 탱크
+E_FUELTANK_HATCH*###*연료 탱크 해치
+E_FUELTANK_BASE*###*연료 탱크 베이스
+E_FUELTANK_OIL_LEFT*###*좌측 연료/오일 탱크
+E_FUELTANK_STRAP*###*연료 탱크 스트랩
+E_FUELTANK_DRAIN*###*연료 탱크 배수기 뚜껑
+E_FUELGAUGE_COVER*###*연료 계기판 뚜껑
+E_FUEL_SHUT_OFF_LINES*###*연료 차단 전선
+E_FUEL_SHUT_OFF_VALVES*###*연료 차단 벨브
+E_FUEL_INJECTOR*###*연료 분사기
+E_FUEL_INJECTOR_ARM*###*연료 분사기 암
 E_GASMASK_BOX*###*Gas mask container
 E_GASPEDAL*###*Gas pedal
 E_GEARBOXMAINBODY*###*Gearbox
