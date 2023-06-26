@@ -229,7 +229,7 @@ E_COVERS_GEARBOX_INSP*###*변속기 점검용 덮개
 E_COVERS_FANS*###*환풍기 덮개(수정요)
 E_COVERS_FUEL*###*연료 탱크 덮개
 E_COVERS_RADIATOR*###*라디에이터 덮개
-E_COVERS_TRANSMISSION_INSP*###*변속기 점검용 덮개
+E_COVERS_TRANSMISSION_INSP*###*변속기 점검용 덮개(수정요)
 E_COVERS_OPTICS*###*조준경 덮개
 E_CRANKSHAFT*###*크랭크샤프트
 E_CRANKSHAFT_BEARING_CAP*###*크랭크샤프트 베어링 뚜껑
@@ -365,88 +365,88 @@ E_FUEL_SHUT_OFF_LINES*###*연료 차단 전선
 E_FUEL_SHUT_OFF_VALVES*###*연료 차단 벨브
 E_FUEL_INJECTOR*###*연료 분사기
 E_FUEL_INJECTOR_ARM*###*연료 분사기 암
-E_GASMASK_BOX*###*Gas mask container
-E_GASPEDAL*###*Gas pedal
-E_GEARBOXMAINBODY*###*Gearbox
-E_GEARCOVER*###*Gear cover
-E_GEARMECHANISM*###*Elevating gear mechanism
-E_GEARMECHANISM_ARM*###*Elevating gear arm
-E_GEAR*###*Tools
-E_GEAR_SELECTOR*###*Gear selectors
-E_GEARS*###*Gear
-E_GEARELEMENT*###*Gear element
-E_GEAR_REDUCTION*###*Reduction gear
-E_GEAR_RATIO_SELECTOR*###*Gear ratio selector
-E_GEAR_FINALDRIVE*###*Final drive gear
-E_GENERATOR*###*Generator
-E_GENERATOR_REGULATOR*###*Generator regulator
-E_GENERATOR_REGULATOR_AUX*###*Auxiliary generator regulator
-E_GENERATOR_PULLEY*###*Generator pulley
-E_GENERATOR_HOLDER*###*Generator holder
-E_GOVERNOR*###*Injection pump governor
-E_GOVERNOR_CARB*###*Carburetor governor
-E_GREASE_LINE*###*Grease lines
-E_GRENADELAUNCHER*###*Grenade launcher
-E_GRENADELAUNCHER_LEFT*###*Left grenade launcher
-E_GRENADELAUNCHER_RIGHT*###*Right grenade launcher
-E_GRILLE*###*Grille
-E_GRILLE_FLAP*###*Grille flap
-E_GROUSERS*###*Track grousers
-E_GUDGEONPIN*###*Gudgeon pin
-E_GUN*###*Gun breech
-E_GUN_2*###*Gun
-E_GUN_CRADLE*###*Cannon cradle
+E_GASMASK_BOX*###*방독면 보관함
+E_GASPEDAL*###*가스 페달
+E_GEARBOXMAINBODY*###*변속기
+E_GEARCOVER*###*기어 덮개
+E_GEARMECHANISM*###*부앙 기어 체계
+E_GEARMECHANISM_ARM*###*부앙 기어 암
+E_GEAR*###*도구
+E_GEAR_SELECTOR*###*기어 셀렉터
+E_GEARS*###*기어
+E_GEARELEMENT*###*기어 부품
+E_GEAR_REDUCTION*###*감속 기어
+E_GEAR_RATIO_SELECTOR*###*기어비 셀렉터
+E_GEAR_FINALDRIVE*###*최종 구동 기어
+E_GENERATOR*###*발전기
+E_GENERATOR_REGULATOR*###*발전기 조절기
+E_GENERATOR_REGULATOR_AUX*###*보조 발전기 조절기
+E_GENERATOR_PULLEY*###*발전기 풀리
+E_GENERATOR_HOLDER*###*발전기 홀더
+E_GOVERNOR*###*주입 펌프 제어기(수정요)
+E_GOVERNOR_CARB*###*카뷰레터 제어기(수정요)
+E_GREASE_LINE*###*윤활 전선
+E_GRENADELAUNCHER*###*유탄 발사기
+E_GRENADELAUNCHER_LEFT*###*좌측 유탄 발사기
+E_GRENADELAUNCHER_RIGHT*###*우측 유탄 발사기
+E_GRILLE*###*그릴
+E_GRILLE_FLAP*###*그릴 날개
+E_GROUSERS*###*궤도 그라우저
+E_GUDGEONPIN*###*고정핀(수정요)
+E_GUN*###*포미
+E_GUN_2*###*주포
+E_GUN_CRADLE*###*주포 고정대
 E_GUN_INTERIOR_MANTLET*###*Gun interior mantlet
-E_GUNATTACHMENT*###*Gun attachment
-E_GUNBRAKE*###*Muzzle brake
-E_GUNCOVER*###*Gun cover
-E_GUNPORT*###*Gun port
-E_GUNSOCKET*###*Gun socket
-E_GUNNEROPTICS*###*Gunner optics
-E_GUNNEROPTICSATTACHMENT*###*Gunner optics attachment
-E_GUNTRAVELLOCK*###*Gun travel lock
-E_GUNCOUNTERBALANCE*###*Gun counterbalance
-E_HAMMER*###*Hammer
-E_HANDBRAKE*###*Handbrake
-E_HANDCRANK*###*Hand crank
-E_HANDCRANK_PORT*###*Hand crank port
-E_HANDLEFANCLUTCH*###*Fan clutch handle
-E_HANDLE*###*Handle
-E_HANDLES*###*Handles
-E_HANDRAIL*###*Handrail
-E_HANDWHEEL_ELEVATING*###*Elevating handwheel
-E_HANDWHEEL_TRAVERSE*###*Traverse handwheel
-E_HATCH*###*Hatch
-E_HATCH_AMMO*###*Ammo hatch
-E_HATCH_AMMO_LOCK*###*Ammo hatch lock
-E_HATCH_BRAKEDRUMS*###*Brake drum hatch
-E_HATCH_COMMANDER*###*Commander's hatch
-E_HATCH_COMMANDER_COVER*###*Commander's hatch cover
-E_HATCH_COMMANDER_FLAP*###*Commander's hatch
-E_HATCH_DRIVER*###*Driver's hatch
-E_HATCH_DRIVERASSISTANT*###*Assistant's hatch
-E_HATCH_EVACUATION*###*Evacuation hatch
-E_HATCH_GEARBOX*###*Gearbox hatch
-E_HATCH_GUNNER*###*Gunner's hatch
-E_HATCH_LOADER*###*Loader hatch
-E_HATCH_LOADER_LEFT*###*Left Loader's hatch
-E_HATCH_LOADER_RIGHT*###*Right Loader's hatch
-E_HATCH_RADIOOPERATOR*###*Radio operator's hatch
-E_HATCH_ROOF*###*Roof hatch
-E_HATCH_REAR*###*Rear hatch
-E_HATCH_PERISCOPE*###*Periscope hatch
-E_HATCH_FAN*###*Fan hatch
-E_HATCH_BASKET*###*Basket hatch
-E_HATCH_BASE*###*Hatch base
-E_HATCH_SPRING*###*Hatch spring
-E_HATCH_PIN*###*Hatch axle pin
-E_HEATER_DUCT*###*Heater duct
-E_HINGE*###*Hinge
-E_HOUSINGCOVER*###*Engine head
-E_HOOK*###*Hook
-E_HORN*###*Horn
-E_HULLMG*###*Hull MG
-E_HYDRAULIC_TRAVERSE*###*Hydraulic traverse foot control
+E_GUNATTACHMENT*###*포방패
+E_GUNBRAKE*###*포구 제퇴기
+E_GUNCOVER*###*주포 덮개
+E_GUNPORT*###*주포 구멍(수정요)
+E_GUNSOCKET*###*주포 구멍(수정요)
+E_GUNNEROPTICS*###*포수 조준기
+E_GUNNEROPTICSATTACHMENT*###*포수 조준기 부착물
+E_GUNTRAVELLOCK*###*주포 고정장치
+E_GUNCOUNTERBALANCE*###*주포 평형기
+E_HAMMER*###*해머
+E_HANDBRAKE*###*핸드브레이크
+E_HANDCRANK*###*수동 크랭크
+E_HANDCRANK_PORT*###*수동 크랭크 구멍
+E_HANDLEFANCLUTCH*###*환풍기 날(수정요)
+E_HANDLE*###*손잡이
+E_HANDLES*###*손잡이
+E_HANDRAIL*###*난간
+E_HANDWHEEL_ELEVATING*###*부앙 손잡이
+E_HANDWHEEL_TRAVERSE*###*회전 손잡이
+E_HATCH*###*해치
+E_HATCH_AMMO*###*탄약고 해치
+E_HATCH_AMMO_LOCK*###*탄약고 해치 자물쇠
+E_HATCH_BRAKEDRUMS*###*브레이크 드럼 해치
+E_HATCH_COMMANDER*###*전차장 해치
+E_HATCH_COMMANDER_COVER*###*전차장 해치 덮개
+E_HATCH_COMMANDER_FLAP*###*전차장 해치
+E_HATCH_DRIVER*###*조종수 해치
+E_HATCH_DRIVERASSISTANT*###*무전수 해치
+E_HATCH_EVACUATION*###*탈출용 해치
+E_HATCH_GEARBOX*###*변속기 해치
+E_HATCH_GUNNER*###*포수 해치
+E_HATCH_LOADER*###*장전수 해치
+E_HATCH_LOADER_LEFT*###*좌측 장전수 해치
+E_HATCH_LOADER_RIGHT*###*우측 장전수 해치
+E_HATCH_RADIOOPERATOR*###*무전수 해치
+E_HATCH_ROOF*###*지붕 해치
+E_HATCH_REAR*###*후면 해치
+E_HATCH_PERISCOPE*###*잠망경 해치
+E_HATCH_FAN*###*환풍기 해치
+E_HATCH_BASKET*###*보관함 해치
+E_HATCH_BASE*###*해치 베이스
+E_HATCH_SPRING*###*해치 스프링
+E_HATCH_PIN*###*해치 축 핀(수정요)
+E_HEATER_DUCT*###*히터 도관
+E_HINGE*###*경첩
+E_HOUSINGCOVER*###*엔진 헤드
+E_HOOK*###*고리
+E_HORN*###*경적
+E_HULLMG*###*차체 기관총
+E_HYDRAULIC_TRAVERSE*###*유압 회전 발판
 E_IDLER*###*Idler wheel
 E_IDLER_ARM*###*Idler wheel arm
 E_IDLER_POST_BRACE*###*Idler post brace
