@@ -17,8 +17,8 @@ L_KOREAN*###*한국어
 L_CHINESE*###*简体中文
 L_JAPANESE*###*日本語
 E_PLACEHOLDER*###*플레이스 홀더(수정요)
-E_ACCESSORYGEARCOVER*###*악세서리 기어 덮개(수정요)
-E_ACCESSORYGEARSUPPORT*###*악세서리 기어 지지대(수정요)
+E_ACCESSORYGEARCOVER*###*기어 덮개
+E_ACCESSORYGEARSUPPORT*###*기어 지지대
 E_AIRCLEANER*###*공기청정기
 E_AIRFAN*###*환풍기
 E_AIRFILTER*###*공기 필터
@@ -36,11 +36,11 @@ E_AIRINTAKEMANIFOLD*###*흡기 매니폴드
 E_AIRFILTERCOVER*###*공기 필터 덮개
 E_AIRTRANSMISSION*###*공기 전달기
 E_AIR_COMPRESSOR*###*공기 압축기
-E_AIR_COMPRESSOR_SHIELD*###*공기 압축기 보호 장갑(수정요)
+E_AIR_COMPRESSOR_SHIELD*###*공기 압축기 보호 장갑
 E_AIR_HEATER*###*공기 히터
 E_AIR_TANKS*###*공기 탱크
-E_AIRSTART_VALVE*###*에어 스타트 벨브
-E_AIRSTART_LINES*###*에어 스타트 전선
+E_AIRSTART_VALVE*###*공기 스타트 벨브
+E_AIRSTART_LINES*###*공기 스타트 전선
 E_AMMOBOX*###*탄약 상자
 E_AMMOBOX_MG*###*기관총 탄약 상자
 E_AMMOBOX_STRAP*###*탄약 상자 스트랩
@@ -51,7 +51,7 @@ E_AMMORACK_TURRET*###*포탑 탄약 적재함
 E_ANTENNA*###*안테나
 E_ANTENNA_REST*###*안테나 받침대
 E_ANTENNA_MOUNT*###*안테나 마운트
-E_ANTENNA_DEFLECT*###*안테나 변류기(수정요)
+E_ANTENNA_DEFLECT*###*안테나 변류기
 E_ARMOR_PLATE_TURRET_LEFT*###*포탑 좌측 장갑판
 E_ARMOR_PLATE_TURRET_RIGHT*###*포탐 우측 장갑판
 E_ARMOR_PLATE_FRONT*###*전방 장갑판
@@ -64,7 +64,7 @@ E_AUXILIARY_EXHAUSTPIPE*###*보조 발전기 배기 파이프
 E_AUXILIARY_FRAME*###*보조 발전기 프레임
 E_AUXILIARY_COVER*###*보조 발전기 덮개
 E_AXE*###*도끼
-E_AXLE*###*차축(수정요)
+E_AXLE*###*구동축
 E_AXLE_DRIVE_FRONT*###*전방 구동축
 E_AXLE_DRIVE_REAR*###*후방 구동축
 E_AXLE_DRIVE_MIDDLE*###*중앙 구동축
@@ -83,7 +83,7 @@ E_BACKREST_COMMANDER*###*전차장 등받이
 E_BALANCE_SHAFT*###*균형축
 E_BASE*###*포탑 지지대(수정요)
 E_BASESEAT*###*포탑 지지대 좌석(수정요)
-E_BASKET*###*포탑 바구니
+E_BASKET*###*포탑 바닥
 E_BASKET_CASE*###*바구니
 E_BATTERYBOX*###*베터리 상자
 E_BATTERYFRAME*###*베터리 프레임
@@ -94,20 +94,20 @@ E_BATTERIES*###*베터리들
 E_BEARING_BALL*###*볼 베어링
 E_BLOWER*###*송풍기
 E_BODY*###*엔진 본체
-E_BOGIE_FRAME*###*차륜 프레임(수정요)
-E_BOGIE_ARM*###*차륜 암(수정요)
-E_BOGIE_LEVERS*###*차륜 레버(수정요)
-E_BOGIE_FRAME_BRACKET*###*차륜 프레임 받침대(수정요)
-E_BOGIE_TUBE_CROSS*###*차륜 교차 튜브(수정요)
-E_BOGIE_LEAF_SPRING*###*이중 판 스프링 차륜(수정요)
+E_BOGIE_FRAME*###*차륜 프레임
+E_BOGIE_ARM*###*차륜 암
+E_BOGIE_LEVERS*###*차륜 레버
+E_BOGIE_FRAME_BRACKET*###*차륜 프레임 받침대
+E_BOGIE_TUBE_CROSS*###*차륜 교차 튜브
+E_BOGIE_LEAF_SPRING*###*이중 판 스프링 차륜
 E_BOLT*###*볼트
 E_BOX*###*상자
 E_BOX_LID*###*상자 뚜껑
 E_BOX_DOOR*###*상자 문
 E_BUFFER*###*완충기
-E_BRACKET*###*받침대
+E_BRACKET*###*지지대
 E_BRACKETBOLT*###*받침대 볼트
-E_BRACKETCAP*###*설치용 받침대 뚜껑(수정요)
+E_BRACKETCAP*###*배기구 받침대
 E_BRACKETPEDAL*###*페달 받침대
 E_BRACKET_FENDER*###*머드가드 받침대
 E_BRACKET_SHROUD*###*환풍기 덮개 받침대
@@ -135,14 +135,14 @@ E_CANISTERS*###*기름통
 E_CANISTER_HOLDER_TRAY*###*기름통 보관 선반
 E_CANISTER_HOLDER_ARM*###*기름통 지지대
 E_CANNONBASE*###*포방패
-E_CANNONBASEATTACHMENT*###*주포 지지 부착물(수정요)
+E_CANNONBASEATTACHMENT*###*주포 지지 부착물
 E_CANNONBASEHOLDER*###*포방패 지지대
 E_CANNONBRAKE*###*주포 반동 제동기
 E_CANNONFRAME*###*주포 프레임
 E_CANNON_PEDAL*###*주포 발사 페달
-E_CANNON_SHIELD*###*포방패(수정요)
+E_CANNON_SHIELD*###*주포 충돌 방지 장치
 E_CANNON_STOP*###*주포 완충기
-E_CANTEEN*###*반합
+E_CANTEEN*###*수통
 E_CANTEENS*###*반합
 E_CANVAS*###*방수포
 E_CAP*###*뚜껑
@@ -154,11 +154,11 @@ E_CARBURETOR_MOUNT*###*카뷰레터 마운트
 E_CARBURETOR_CONTROLS*###*카뷰레터 제어기
 E_CARTRIDGE_CAP*###*탄피 뚜껑
 E_CARTRIDGE_BAG*###*탄피 가방
-E_CASE*###*보관함(수정요)
-E_CASE_LARGE*###*대형 보관함(수정요)
-E_CASE_BOX*###*폐보관함 상자(수정요)
+E_CASE*###*보관함
+E_CASE_LARGE*###*대형 보관함
+E_CASE_BOX*###*상자
 E_CHAIN*###*체인
-E_CHEST*###*금고(수정요)
+E_CHEST*###*상자
 E_CLAMP_ROPE*###*견인줄 클램프
 E_CLAMPINGDEVICE*###*클램프 장치(수정요)
 E_CLUTCH*###*클러치
@@ -169,10 +169,10 @@ E_CLUTCH_HOUSING*###*클러치 하우징
 E_CLUTCH_PEDAL*###*클러치 페달
 E_CLUTCH_SHAFT*###*클러치 샤프트
 E_CLUTCH_PRESSURE*###*클러치 압력판
-E_COCKPIT*###*콕핏(수정요)
+E_COCKPIT*###*조종 체계
 E_COFFER*###*금고
 E_COIL_STEERING*###*조향 케이블 릴
-E_COLLAR*###*변속기 깃(수정요)
+E_COLLAR*###*변속기 깃
 E_COMMANDERPERISCOPE*###*전차장 잠망경
 E_COMMANDERCUPOLA*###*전차장 큐폴라
 E_COMMANDERCUPOLA_RING*###*전차장 큐폴라 링
@@ -204,9 +204,9 @@ E_COVER_PROPELLERSHAFT_INSP*###*차축 점검용 덮개
 E_COVER_PUSHRODS*###*푸쉬로드 덮개
 E_COVER_EXHAUSTMANIFOLD*###*배기구 배니폴드 덮개
 E_COVER_SEAT*###*좌석 덮개
-E_COVER_DIFFERENTIAL*###*차동 장치 덮개(수정요)
-E_COVER_FINALDRIVE*###*차축 덮개(수정요)
-E_COVER_FINALDRIVE_PLUG*###*차축 덮개 플러그(수정요)
+E_COVER_DIFFERENTIAL*###*차동 장치 덮개
+E_COVER_FINALDRIVE*###*구동축 덮개
+E_COVER_FINALDRIVE_PLUG*###*차축 덮개 플러그
 E_COVER_STEERING*###*조향 체계 덮개
 E_COVER_VIEWER*###*관측창 덮개
 E_COVER_VALVES*###*벨브 덮개
@@ -217,7 +217,7 @@ E_COVER_TENSION*###*완충 체계 덮개
 E_COVER_RING*###*포탑링 덮개
 E_COVER_MUFFLER*###*배기구 덮개
 E_COVER_GRENADE*###*유탄 발사기 덮개
-E_COVER_TRAVERSE*###*횡단 체계 덮갳(수정요)
+E_COVER_TRAVERSE*###*횡단 체계 덮개(수정요)
 E_COVER_DIRECT_VISION*###*관측창 덮개(수정요)
 E_COVER_GRILLE*###*그릴 덮개
 E_COVER_BRAKES*###*브레이크 덮개
@@ -226,7 +226,7 @@ E_COVER_GROUSERS*###*그라우저 보관함 덮개(수정요)
 E_COVERS_ENGINE*###*엔진 덮개
 E_COVERS_ENGINE_INSP*###*엔진 점검용 덮개
 E_COVERS_GEARBOX_INSP*###*변속기 점검용 덮개
-E_COVERS_FANS*###*환풍기 덮개(수정요)
+E_COVERS_FANS*###*환풍기 덮개
 E_COVERS_FUEL*###*연료 탱크 덮개
 E_COVERS_RADIATOR*###*라디에이터 덮개
 E_COVERS_TRANSMISSION_INSP*###*변속기 점검용 덮개(수정요)
@@ -237,7 +237,7 @@ E_CRANKCASE_FRONT*###*전방 크랭크 케이스
 E_CRANKCASE_REAR*###*후방 크랭크 케이스
 E_CRANKCASE_BREATHER*###*크랭크 케이스 환풍구
 E_CRATE*###*상자
-E_CROSSBEAM*###*대들보
+E_CROSSBEAM*###*교차 빔
 E_CYLINDER*###*실린더
 E_DASHBOARD*###*계기판
 E_DIFFERENTIAL_GEARS*###*차동 장치
@@ -246,7 +246,7 @@ E_DIFFERENTIAL_CONNECTOR*###*차동 장치 커넥터
 E_DIFFERENTIAL_PLATE*###*차동 장치 판
 E_DIFFERENTIAL_BOLT*###*차동 장치 볼트
 E_DIFFERENTIAL_SHAFT*###*차동 장치 샤프트
-E_DIFFUSER*###*디퓨저(수정요)
+E_DIFFUSER*###*디퓨저
 E_DIPSTICK*###*계량봉
 E_DISTRIBUTOR*###*연료 배급기
 E_DOOR*###*문
@@ -259,23 +259,23 @@ E_DOOR_ASSISTANT_SIGHT*###*무전수 문 관측창
 E_DOOR_REAR*###*후방 문
 E_DRIVER_SIGHT*###*조종수 관측창
 E_DRIVERASSISTANTPERISCOPE*###*조종수/무전수 잠망경
-E_DRIVERPERISCOPE*###*Driver조종수 잠망경
+E_DRIVERPERISCOPE*###*조종수 잠망경
 E_DRIVECHAIN*###*구동 체인
 E_DRIVE_GEAR*###*구동 기어
 E_DRUMBRAKE*###*브레이크 드럼
-E_DUALTRACKSUPPORTROLLER*###*가로 소용돌이형 스프링
+E_DUALTRACKSUPPORTROLLER*###*가로 스프링
 E_ELECTROSTARTER*###*전기 스타터
-E_ELECTRICAL_BOX*###*전자기기 상자
-E_ELECTRICAL_TERMINAL*###*전자기기 제어기(수정요)
+E_ELECTRICAL_BOX*###*전자기기 지지대
+E_ELECTRICAL_TERMINAL*###*전자기기 제어기
 E_ELECTRICAL_MOTOR*###*전기 모터
 E_ELECTRICAL_DISTRIBUTOR*###*전기 분배기
 E_ELEVATING_HANDWHEEL*###*부앙 손잡이
 E_ELEVATING_LOCK*###*부앙 고정기
 E_ELEVATING_GEAR*###*부앙 체계 기어
-E_ENGINE*###*엔진오일 공급장치(수정요)
-E_ENGINE_ELBOW*###*엔진오일 공급장치 팔꿈치
-E_ENGINE_BASE*###*엔진오일 공급장치 베이스
-E_ENGINE_SHAFT*###*엔진오일 공급장치 샤프트
+E_ENGINE*###*엔진오일 공급기
+E_ENGINE_ELBOW*###*엔진오일 공급기 팔꿈치
+E_ENGINE_BASE*###*엔진오일 공급기 베이스
+E_ENGINE_SHAFT*###*엔진오일 공급기 샤프트
 E_ENGINE_COWL*###*엔진 뚜껑
 E_ENGINEHATCH*###*엔진 해치
 E_ENGINEHATCH_FRAME*###*엔진 해치 프레임
@@ -283,7 +283,7 @@ E_ENGINEHATCH_LARGE*###*대형 엔진 해치
 E_ENGINEHATCH_SMALL*###*소형 엔진 해치
 E_ENGINEHATCH_REAR*###*후방 엔진 해치
 E_ENGINE_HOOD*###*엔진 후드
-E_ENGINE_BRACKET*###*엔진 지지대(수정요)
+E_ENGINE_BRACKET*###*엔진 지지대
 E_ENGINEMOUNT*###*엔진 마운트
 E_ENV_PIPES*###*환풍기 파이프
 E_ENV_MOTOR*###*환풍기 모터
@@ -307,12 +307,12 @@ E_EXHAUSTTIP*###*배기구 끝
 E_EXHAUSTELBOW*###*배기구 팔꿈치
 E_EXHAUSTCOOLANTRES*###*배기 냉각수 탱크
 E_EXTINGUISHER*###*소화기
-E_FAN*###*환풍기
-E_FANS*###*환풍기
-E_FAN_HUB*###*환풍기 허브
-E_FAN_SHROUD*###*환풍기 덮개
-E_FAN_DRIVE*###*환풍기 구동장치
-E_FASTENING*###*잠금장치(수정요)
+E_FAN*###*라디에이터 팬
+E_FANS*###*라디에이터 팬
+E_FAN_HUB*###*라디에이터 팬 허브
+E_FAN_SHROUD*###*라디에이터 팬 덮개
+E_FAN_DRIVE*###*라디에이터 팬 구동장치
+E_FASTENING*###*고정 장치
 E_FENDER*###*펜더
 E_FILTER_BASE*###*필터 베이스
 E_FIRE_EXT*###*소화 체계
@@ -379,11 +379,11 @@ E_GEAR_REDUCTION*###*감속 기어
 E_GEAR_RATIO_SELECTOR*###*기어비 셀렉터
 E_GEAR_FINALDRIVE*###*최종 구동 기어
 E_GENERATOR*###*발전기
-E_GENERATOR_REGULATOR*###*발전기 조절기
+E_GENERATOR_REGULATOR*###*발전기 제어기
 E_GENERATOR_REGULATOR_AUX*###*보조 발전기 조절기
 E_GENERATOR_PULLEY*###*발전기 풀리
 E_GENERATOR_HOLDER*###*발전기 홀더
-E_GOVERNOR*###*주입 펌프 제어기(수정요)
+E_GOVERNOR*###*주입 펌프 제어기
 E_GOVERNOR_CARB*###*카뷰레터 제어기(수정요)
 E_GREASE_LINE*###*윤활 전선
 E_GRENADELAUNCHER*###*유탄 발사기
@@ -392,11 +392,11 @@ E_GRENADELAUNCHER_RIGHT*###*우측 유탄 발사기
 E_GRILLE*###*그릴
 E_GRILLE_FLAP*###*그릴 날개
 E_GROUSERS*###*궤도 그라우저
-E_GUDGEONPIN*###*고정핀(수정요)
+E_GUDGEONPIN*###*고정핀
 E_GUN*###*포미
 E_GUN_2*###*주포
-E_GUN_CRADLE*###*주포 고정대
-E_GUN_INTERIOR_MANTLET*###*Gun interior mantlet
+E_GUN_CRADLE*###*주포 지지대
+E_GUN_INTERIOR_MANTLET*###*내부 포방패
 E_GUNATTACHMENT*###*포방패
 E_GUNBRAKE*###*포구 제퇴기
 E_GUNCOVER*###*주포 덮개
@@ -411,8 +411,8 @@ E_HANDBRAKE*###*핸드브레이크
 E_HANDCRANK*###*수동 크랭크
 E_HANDCRANK_PORT*###*수동 크랭크 구멍
 E_HANDLEFANCLUTCH*###*환풍기 날(수정요)
-E_HANDLE*###*손잡이
-E_HANDLES*###*손잡이
+E_HANDLE*###*지지대
+E_HANDLES*###*지지대
 E_HANDRAIL*###*난간
 E_HANDWHEEL_ELEVATING*###*부앙 손잡이
 E_HANDWHEEL_TRAVERSE*###*회전 손잡이
@@ -447,16 +447,16 @@ E_HOOK*###*고리
 E_HORN*###*경적
 E_HULLMG*###*차체 기관총
 E_HYDRAULIC_TRAVERSE*###*유압 회전 발판
-E_IDLER*###*Idler wheel
-E_IDLER_ARM*###*Idler wheel arm
-E_IDLER_POST_BRACE*###*Idler post brace
-E_IDLER_SHACKLE*###*Idler shackle
-E_IDLER_SPRING*###*Idler spring
-E_IDLER_STOP_SCREW*###*Idler stop screw
-E_IDLER_STOP_PLATE*###*Idler stop plate
-E_IDLER_WHEEL_SHAFT*###*Idler wheel shaft
-E_IDLERTRUNNIONSUPPORT*###*Idler wheel trunnion support
-E_IDLERWHEELTRUNNION*###*Idle wheel trunnion
+E_IDLER*###*아이들러 휠
+E_IDLER_ARM*###*아이들러 휠 암
+E_IDLER_POST_BRACE*###*아이들러 막대기 지지대
+E_IDLER_SHACKLE*###*아이들러 고정 장치
+E_IDLER_SPRING*###*아이들러 스프링
+E_IDLER_STOP_SCREW*###*아이들러 정지 나사
+E_IDLER_STOP_PLATE*###*아이들러 정지 판(수정요)
+E_IDLER_WHEEL_SHAFT*###*아이들러 휠 샤프트
+E_IDLERTRUNNIONSUPPORT*###*아이들러 휠 트러니언 지지대
+E_IDLERWHEELTRUNNION*###*아이들러 휠 트러니언
 E_IGNITION*###*Ignition magneto
 E_IGNITION_COIL*###*Ignition coil
 E_IGNITION_COIL_WIRE*###*Ignition coil wire
