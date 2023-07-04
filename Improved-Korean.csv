@@ -584,137 +584,137 @@ E_PRYBAR*###*쇠지렛대
 E_PULLEY*###*풀리
 E_PULLEY_CRANKSHAFT*###*크랭크샤프트 풀리
 E_PUSHROD*###*푸쉬로드
-E_RADIATOR*###*Radiator
-E_RADIATOR_CAP*###*Radiator cap
-E_RADIATOR_CAP_COVER*###*Radiator cap cover
-E_RADIATOR_INLETCONNECTOR*###*Radiator inlet connector
-E_RADIATOR_EXHAUST*###*Exhaust radiator
-E_RADIATOR_PIPES*###*Radiator pipes
-E_RADIATOR_DUCT*###*Radiator duct
-E_RADIO*###*Radio
-E_RADIO_TRANSMITTER*###*Radio transmitter
-E_RADIO_RECEIVER*###*Radio receiver
-E_RADIO_CASE*###*Radio case
-E_RADIO_POWER*###*Radio power supply
-E_RADIO_CONNECTOR*###*Radio connector
-E_RADIO_MORSE*###*Telegraph
-E_RADIO_SWITCH*###*Radio switch
-E_RADIO_MOUNT*###*Radio mount
-E_RADIOOPERATOR_SIGHT*###*Radio operator sight
-E_RAILING*###*Railing
-E_REARDRIVEWHEEL*###*Rear drive wheel
-E_RECOILCYLINDERS*###*Recoil cylinders
-E_RECOVERYHOOK*###*Recovery hook
-E_REDUCER*###*Reducer
-E_REDUCTION_DRIVE*###*Reduction drive
-E_ROADWHEEL_WIDE*###*Wide road wheel
-E_ROADWHEEL_NARROW*###*Narrow road wheel
-E_ROADWHEEL*###*Road wheel
-E_ROADWHEEL_SINGLE_OUTER*###*Outer road wheel (I)
-E_ROADWHEEL_SINGLE_INNER*###*Inner road wheel (I)
-E_ROADWHEEL_DOUBLE_OUTER*###*Outer road wheel (II)
-E_ROADWHEEL_DOUBLE_INNER*###*Inner road wheel (II)
-E_ROADWHEELARM*###*Road wheel arm
-E_ROADWHEELARM_FRONT*###*Front road wheel arm
-E_ROD*###*Rod
-E_ROD_TIE*###*Tie rod
-E_ROD_THROTTLE*###*Throttle rod
-E_ROD_CHRISTIE*###*Suspension arm guide rod
-E_ROD_CLUTCH*###*Clutch rods
-E_ROD_BRAKE*###*Brake rods
-E_ROD_STEERING*###*Steering rods
-E_ROD_GEAR*###*Gear selector rods
-E_ROLL*###*Roller wheel
-E_ROLL_DUAL*###*Dual rollers
-E_ROLL_SINGLE*###*Single roller
-E_ROLLSUPPORT*###*Roll wheel support
-E_ROLLSUPPORT_DUAL*###*Dual roll support
-E_ROLLSUPPORT_SINGLE*###*Single roll support
-E_ROLLERBEARING*###*Roller bearing
-E_ROLLER_GUIDE*###*Guide roller
-E_ROLLER_GUIDE_SUPPORT*###*Guide roller support
-E_ROLLER_BEARER*###*Bearer roller
-E_ROOFPLATE*###*Roof armor plate
-E_ROTATIONCONTACTDEVICE*###*Rotation contact device
-E_SINGLEWHEELSPACER*###*Single wheel spacer
-E_DOUBLEWHEELSPACER*###*Double wheel spacer
-E_SAW*###*Saw
-E_SEARCHLIGHT*###*Searchlight
-E_SEAT*###*Seat
-E_SEAT_ASSIST*###*Assistant's seat
-E_SEAT_COMMANDER*###*Commander's seat
-E_SEAT_DRIVER*###*Driver's seat
-E_SEAT_GUNNER*###*Gunner's seat
-E_SEAT_LOADER*###*Loader's seat
-E_SEAT_RADIOOPERATOR*###*Radio operator's seat
-E_SEAT_FRAME*###*Seat frame
-E_SHACKLE*###*Shackle
-E_SHAFT*###*Transmission shaft
-E_SHAFT_DRIVE_FRONT*###*Front drive shaft
-E_SHAFT_DRIVE_REAR*###*Rear drive shaft
-E_SHAFT_DRIVE_MIDDLE*###*Middle drive shaft
-E_SHAFT_JOINT*###*Shaft joint
-E_SHAFT_VALVE*###*Valve arms shaft
-E_SHEARS*###*Shears
-E_SHELF*###*Shelf
-E_SHELL_PORT*###*Shell ejection port
-E_SHOCKABSORBER*###*Shock absorber
-E_SHOCKABSORBER_ARM*###*Shock absorber arm
-E_SHOVEL*###*Shovel
-E_SHOVELS*###*Shovels
-E_SHUTTER*###*Shutter
-E_SIDEPLATE*###*Side armour plate
-E_SIDESKIRT*###*Side skirt
-E_SIDESKIRT_RACK*###*Side skirt rack
-E_SIGHTINGDEVICE*###*Sighting device
-E_SIGHT*###*Sight
-E_SIGHT_ROD*###*Sight rod
-E_SIGHT_ASSISTANT*###*Assistant's sight
-E_SPACER*###*Spacer
-E_SPARKPLUG*###*Sparkplug
-E_SPEAKER*###*Speaker
-E_SPOTLIGHTATTACHMENT*###*Spotlight attachment
-E_SPRINGSEATPIN*###*Spring seat pin
-E_SPRING_VERTICAL*###*Vertical helical spring
-E_SPRING_COIL*###*Coil spring
-E_SPRING_ROD*###*Spring rod
-E_SPRING_GUIDE*###*Spring rod guide
-E_SPRING_SEAT*###*Spring socket
-E_SPROCKET*###*Sprocket wheel
-E_SPROCKETWHEELTRUNNION*###*Sprocket wheel trunnion
-E_SPROCKETWHEEL_COVER*###*Sprocket wheel cover
-E_STAND*###*Engine stand
-E_STARTER*###*Generator
-E_STARTER_WIRES*###*Starter wires
-E_STARTER_PNEUMATIC*###*Pneumatic starter
-E_STARTER_MAGNET*###*Starter electromagnet
-E_STARTER_FUEL*###*Starter fuel tank
-E_STARTER_ENGINE*###*Starter engine
-E_STARTER_CHAIN*###*Starter chain
-E_STABILIZER*###*Stabilizer
-E_STABILIZER_CYLINDER*###*Stabilizer cylinder
-E_STABILIZER_CONTROL*###*Stabilizer control panel
-E_STEERING_KNUCKLE*###*Steering knuckle
-E_STEERING_GEAR*###*Steering gear
-E_STEERING_MECHANISM*###*Steering mechanism
-E_STEERINGCARRIAGE_MOUNT*###*Steering carriage mount
-E_STEERINGCARRIAGE_MECHANISM*###*Hydraulic steering mechanism
-E_STEERINGCARRIAGE_OILTANK*###*Hydraulic oil tank
-E_STEERINGCARRIAGE_PIPE*###*Steering mechanism pipe
-E_STEERINGCARRIAGE_BASE*###*Steering mechanism base
-E_STEERINGWHEEL*###*Steering wheel
-E_STEERINGWHEEL_MOUNT*###*Steering wheel mount
-E_STEP*###*Step
-E_STRAP*###*Strap
-E_SUPERCHARGER*###*Supercharger
-E_SUPERSTRUCTURE*###*Superstructure
-E_SUSPCOVER*###*Suspension cover
-E_SUSPENSION*###*Suspension
-E_SUSPENSIONARM*###*Suspension arm
-E_SUSPENSIONARMPIN*###*Suspension arm pin
-E_SUSPENSIONLEVER*###*Suspension lever
-E_SUSPENSIONMOUNT*###*Suspension mount
-E_SYNCHRO*###*Synchronizator
+E_RADIATOR*###*라디에이터
+E_RADIATOR_CAP*###*라디에이터 뚜껑
+E_RADIATOR_CAP_COVER*###*라디에이터 뚜껑 덮개
+E_RADIATOR_INLETCONNECTOR*###*라디에이터 흡입 커넥터
+E_RADIATOR_EXHAUST*###*라디에이터 배출구
+E_RADIATOR_PIPES*###*라디에이터 파이프
+E_RADIATOR_DUCT*###*라디에이터 관
+E_RADIO*###*무전기
+E_RADIO_TRANSMITTER*###*무전 송신기
+E_RADIO_RECEIVER*###*무전 수신기
+E_RADIO_CASE*###*무전기 케이스
+E_RADIO_POWER*###*무전기 전력 공급 장치
+E_RADIO_CONNECTOR*###*무전기 커넥터
+E_RADIO_MORSE*###*전신
+E_RADIO_SWITCH*###*무전기 스위치
+E_RADIO_MOUNT*###*무전기 마운트
+E_RADIOOPERATOR_SIGHT*###*무전수 관측창
+E_RAILING*###*난간
+E_REARDRIVEWHEEL*###*후방 구동축
+E_RECOILCYLINDERS*###*반동 실린더
+E_RECOVERYHOOK*###*구난용 후크
+E_REDUCER*###*감속기
+E_REDUCTION_DRIVE*###*감속 구동축
+E_ROADWHEEL_WIDE*###*넓은 보기륜
+E_ROADWHEEL_NARROW*###*좁은 보기륜
+E_ROADWHEEL*###*보기륜
+E_ROADWHEEL_SINGLE_OUTER*###*외부 보기륜 1
+E_ROADWHEEL_SINGLE_INNER*###*내부 보기륜 1
+E_ROADWHEEL_DOUBLE_OUTER*###*외부 보기륜 2
+E_ROADWHEEL_DOUBLE_INNER*###*내부 보기륜 2
+E_ROADWHEELARM*###*보기륜 암
+E_ROADWHEELARM_FRONT*###*전방 보기륜 암
+E_ROD*###*로드
+E_ROD_TIE*###*타이 로드
+E_ROD_THROTTLE*###*스로틀 막대기
+E_ROD_CHRISTIE*###*서스펜션 암 가이드 막대기
+E_ROD_CLUTCH*###*클러치 막대기
+E_ROD_BRAKE*###*브레이크 막대기
+E_ROD_STEERING*###*조향 막대기
+E_ROD_GEAR*###*기어 선택 막대기
+E_ROLL*###*롤러 휠
+E_ROLL_DUAL*###*이중 롤러
+E_ROLL_SINGLE*###*단일 롤러
+E_ROLLSUPPORT*###*롤러 휠 보조
+E_ROLLSUPPORT_DUAL*###*이중 롤러 보조
+E_ROLLSUPPORT_SINGLE*###*단일 롤러 보조
+E_ROLLERBEARING*###*롤러 베어링
+E_ROLLER_GUIDE*###*가이드 롤러
+E_ROLLER_GUIDE_SUPPORT*###*가이드 롤러 보조
+E_ROLLER_BEARER*###*베어링 롤러
+E_ROOFPLATE*###*상판 장갑판
+E_ROTATIONCONTACTDEVICE*###*회전축 고정 장치
+E_SINGLEWHEELSPACER*###*단일 휠 스페이서
+E_DOUBLEWHEELSPACER*###*이중 휠 스페이서
+E_SAW*###*톱
+E_SEARCHLIGHT*###*서치라이트
+E_SEAT*###*좌석
+E_SEAT_ASSIST*###*무전수 좌석
+E_SEAT_COMMANDER*###*전차장 좌석
+E_SEAT_DRIVER*###*조종수 좌석
+E_SEAT_GUNNER*###*포수 좌석
+E_SEAT_LOADER*###*장전수 좌석
+E_SEAT_RADIOOPERATOR*###*무전수 좌석
+E_SEAT_FRAME*###*좌석 프레임
+E_SHACKLE*###*샤클
+E_SHAFT*###*변속기 샤프트
+E_SHAFT_DRIVE_FRONT*###*전방 구동 샤프트
+E_SHAFT_DRIVE_REAR*###*후방 구동 샤프트
+E_SHAFT_DRIVE_MIDDLE*###*중앙 구동 샤프트
+E_SHAFT_JOINT*###*샤프트 이음매
+E_SHAFT_VALVE*###*벨브 암 샤프트
+E_SHEARS*###*절단기
+E_SHELF*###*선반
+E_SHELL_PORT*###*탄피 배출 포트
+E_SHOCKABSORBER*###*완충기
+E_SHOCKABSORBER_ARM*###*완충기 암
+E_SHOVEL*###*삽
+E_SHOVELS*###*삽
+E_SHUTTER*###*덮개
+E_SIDEPLATE*###*측면 장갑판
+E_SIDESKIRT*###*사이드 스커트
+E_SIDESKIRT_RACK*###*사이드 스커트 랙
+E_SIGHTINGDEVICE*###*관측 장치
+E_SIGHT*###*관측창
+E_SIGHT_ROD*###*관측창 막대기
+E_SIGHT_ASSISTANT*###*무전수 관측창
+E_SPACER*###*스페이서
+E_SPARKPLUG*###*점화 플러그
+E_SPEAKER*###*스피커
+E_SPOTLIGHTATTACHMENT*###*스포트라이트 부착물
+E_SPRINGSEATPIN*###*스프링 좌석 핀
+E_SPRING_VERTICAL*###*세로 나선형 스프링
+E_SPRING_COIL*###*코일 스프링
+E_SPRING_ROD*###*스프링 막대기
+E_SPRING_GUIDE*###*스프링 막대기 가이드
+E_SPRING_SEAT*###*스프링 소켓
+E_SPROCKET*###*스프로킷
+E_SPROCKETWHEELTRUNNION*###*스프로킷 트러니언
+E_SPROCKETWHEEL_COVER*###*스프로킷 덮개
+E_STAND*###*엔진 거치대
+E_STARTER*###*발전기
+E_STARTER_WIRES*###*스타터 전선
+E_STARTER_PNEUMATIC*###*공기압 스타터
+E_STARTER_MAGNET*###*스타터 전자석
+E_STARTER_FUEL*###*스타터 연료 탱크
+E_STARTER_ENGINE*###*스타터 엔진
+E_STARTER_CHAIN*###*스타터 체인
+E_STABILIZER*###*안정기
+E_STABILIZER_CYLINDER*###*안정기 실린더
+E_STABILIZER_CONTROL*###*안정기 제어판
+E_STEERING_KNUCKLE*###*조향 관절
+E_STEERING_GEAR*###*조향 기어
+E_STEERING_MECHANISM*###*조향 체계
+E_STEERINGCARRIAGE_MOUNT*###*유압 조향 마운트
+E_STEERINGCARRIAGE_MECHANISM*###*유압 조향 체계
+E_STEERINGCARRIAGE_OILTANK*###*유압 오일 탱크
+E_STEERINGCARRIAGE_PIPE*###*조향 체계 파이프
+E_STEERINGCARRIAGE_BASE*###*조향 체계 베이스
+E_STEERINGWHEEL*###*핸들
+E_STEERINGWHEEL_MOUNT*###*핸들 마운트
+E_STEP*###*계단
+E_STRAP*###*스트랩
+E_SUPERCHARGER*###*과급기
+E_SUPERSTRUCTURE*###*상부 구조물
+E_SUSPCOVER*###*서스펜션 덮개
+E_SUSPENSION*###*서스펜션
+E_SUSPENSIONARM*###*서스펜션 암
+E_SUSPENSIONARMPIN*###*서스펜션 암 핀
+E_SUSPENSIONLEVER*###*서스펜션 레버
+E_SUSPENSIONMOUNT*###*서스펜션 마운트
+E_SYNCHRO*###*동기 장치
 E_TACHOMETER_ADAPTER*###*Tachometer adapter
 E_TACHOMETERDRIVE*###*Tachometer drive
 E_TELESCOPE*###*Telescope
