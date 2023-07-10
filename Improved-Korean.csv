@@ -715,258 +715,258 @@ E_SUSPENSIONARMPIN*###*서스펜션 암 핀
 E_SUSPENSIONLEVER*###*서스펜션 레버
 E_SUSPENSIONMOUNT*###*서스펜션 마운트
 E_SYNCHRO*###*동기 장치
-E_TACHOMETER_ADAPTER*###*Tachometer adapter
-E_TACHOMETERDRIVE*###*Tachometer drive
-E_TELESCOPE*###*Telescope
-E_THERMOSTAT*###*Thermostat
-E_TOWINGHOOK*###*Towing hook
-E_TOOLBOX*###*Toolbox
-E_TOOLBAG*###*Tool bag
-E_TORSIONBAR*###*Torsion bar
-E_TORSIONBAR_BRACKET*###*Torsion bar bracket
-E_TORQUE_ROD_UPPER*###*Upper torque rod
-E_TORQUE_ROD_LOWER*###*Lower torque rod
-E_TOWROPE_SIDE*###*Track tow rope
-E_TOWROPE_TOP*###*Top tow rope
-E_TOWROPE_BRACKET*###*Tow rope bracket
-E_TOWROPE*###*Tow rope
-E_TRACKS_BELT*###*Track Belt
-E_TRACKS_FRONT*###*Front track
-E_TRACKS_REAR*###*Rear track
-E_TRANSFER_CASE*###*Transfer case
-E_TRANSMCOVERHATCH*###*Transmission cover hatch
-E_TRANSMISSION*###*Transmission
-E_TRANSMISSION_FRONTCOVER*###*Transmission rear cover
-E_TRANSMISSION_MAINCOVER*###*Transmission main housing
-E_TRANSMISSION_SHAFT*###*Gearbox shaft
-E_TRACKSKID*###*Track skid
-E_TRACKFRAME*###*Track frame
-E_TRACKFRAME_MOUNT*###*Track frame mount
-E_TRACKFRAME_BRACKET*###*Track frame bracket
-E_TRAY*###*Tray
-E_TURRETCONTROL*###*Turret control
-E_TURRETENGINE*###*Turret engine
-E_TURRETHOIST*###*Turret hoist mechanism
-E_TURRETHOIST_GEAR*###*Turret hoist gear
-E_TURRETCONTACT_WIRES*###*Turret connection wires
-E_TURRET_MANTLET*###*Turret mantlet
-E_TURRET_MANTLET_BASE*###*Turret mantlet base
-E_TURRET_ROTATION_PEDAL*###*Turret rotation pedal
-E_TURRET_ROTATION_GEAR*###*Turret rotation gear
-E_TENSIONMECHANISM*###*Tension mechanism
-E_TIMINGCHAIN*###*Timing chain
-E_TIMINGGEAR*###*Timing gear
-E_TIMINGSLEEVE*###*Timing sleeve
-E_TIMINGCOVER_TOP*###*Timing cover
-E_TIMINGCOVER*###*Timing housing
-E_TRAVERSE_MECHANISM*###*Traverse mechanism
-E_TRAVERSE_LOCK*###*Turret rotation lock
-E_TRAVERSE_OIL*###*Traverse mechanism oil tank
-E_TRAVERSE_POWER*###*Power turret traverse
-E_TRAVERSE_SHAFT*###*Turret traverse shaft
-E_TRAVERSE_COMMANDER*###*Commander’s traverse controls
-E_TUBE_BREATH*###*Breather tube case
-E_UNBASE_ENGINE*###*Engine block
-E_UNBASE_HULL_EXTERIOR*###*Hull
-E_UNBASE_HULL_INTERIOR*###*Hull interior
-E_UNBASE_TURRET_EXTERIOR*###*Turret
-E_UNBASE_TURRET_INTERIOR*###*Turret interior
-E_UNBASE_GEARBOX*###*Gearbox base
-E_VBELT*###*V-belt
-E_VALVE*###*Valve
-E_VALVE_ARM*###*Valve arm
-E_VALVE_CUP*###*Valve cup
-E_VALVE_ARM_BRACKET*###*Valve arm bracket
-E_VENTCOVER*###*Fan cover
-E_VENT_DUCT*###*Vent duct
-E_VENT_PIPE*###*Vent pipe
-E_VIBRATIONDAMPER*###*Vibration damper
-E_VIEWER*###*Viewer
-E_VIEWERCOVER*###*Optic cover
-E_VISION*###*Visor
-E_VVSS*###*Vertical volute springs
-E_WATER_BYPASS*###*Water by-pass pipe
-E_WATERMANIFOLD*###*Water manifold
-E_WATEROUTLET*###*Cooling water outlet
-E_WATERPUMP*###*Water pump
-E_WATER_HEATER*###*Water heater
-E_WATER_CONT*###*Water container
-E_WHEEL_CAP*###*Wheel cap
-E_WHEELPLACE*###*Wheel place
-E_SPAREWHEEL*###*Spare wheel
-E_WHEELS*###*Wheel
-E_WHEELTIRE*###*Tire
-E_WHEELRIM*###*Rim
-E_WIRES*###*Wires
-E_WIRES_FRONTLIGHT*###*Front headlight wires
-E_WIRES_HORN*###*Horn wires
-E_WIRES_INT_LIGHT*###*Interior light wires
-E_WIRES_COMPASS*###*Compass wires
-E_WIRES_ANTENNA*###*Antenna wires
-E_WIRES_LAUNCHER*###*Launcher wires
-E_WOODENSHELF*###*Wooden shelf
-E_WRENCH*###*Wrench
-U_PREFIX_SELECT*###*Select
-U_PREFIX_TURN_ON*###*Turn on
-U_PREFIX_TURN_OFF*###*Turn off
-U_PREFIX_ENTER*###*Use
-U_PUMP*###*Pump
-U_PUMP_PIPE*###*Pump pipe
-U_EXCAVATOR*###*Excavator
-U_OFFROADVEHICLE*###*Offroad Vehicle
-U_QUAD*###*Quad
-U_SLEIGH*###*Sleigh
-U_TANK*###*Tank
-U_MAGNETOMETER*###*Magnetometer
-U_DRONE*###*Drone
-U_LAPTOP*###*Laptop
-U_COMPUTER*###*Computer
-U_LAMP*###*Lamp
-U_STEPS*###*Steps
-U_UPGRADEPANEL*###*Upgrade panel
-U_GOTO*###*Go to: {0}
-U_GOTO_NOPARAMETER*###*Go to
-U_WORKSHOP*###*Workshop
-U_MUSEUM*###*Museum
-U_YARD*###*Yard
-U_PARKING*###*Parking
-U_STORAGE*###*Storage
-U_PAINTROOM*###*Paint Room
-U_TANKGRAVEYARD*###*Tank graveyard
-U_TANKWAREHOUSE*###*Tank Warehouse
-U_TRASH*###*Trash
-U_STAND_TURRET*###*Turret Stand
-U_STAND_ENGINE*###*Engine stand
-U_METALOBJECT*###*Metal Object
-U_METALOBJECT_BADGE_GER_ASSAULT*###*Assault Badge
-U_METALOBJECT_BADGE_GER_COMBAT*###*Combat Badge
-U_METALOBJECT_BADGE_GER_IRONCROSS*###*Iron Cross Badge
-U_METALOBJECT_BADGE_GER_KNIGHTCROSS*###*Knight Cross Badge
-U_METALOBJECT_BADGE_GER_WOUNDED*###*Wounded Badge
+E_TACHOMETER_ADAPTER*###*RPM 계기판 어댑터
+E_TACHOMETERDRIVE*###*RPM 계기판 구동축
+E_TELESCOPE*###*망원경
+E_THERMOSTAT*###*온도 조절 장치
+E_TOWINGHOOK*###*견인줄
+E_TOOLBOX*###*도구 상자
+E_TOOLBAG*###*도구 가방
+E_TORSIONBAR*###*토션 바
+E_TORSIONBAR_BRACKET*###*토션 바 브래킷
+E_TORQUE_ROD_UPPER*###*상단 토크 막대기
+E_TORQUE_ROD_LOWER*###*하단 토크 막대기
+E_TOWROPE_SIDE*###*궤도 견인줄
+E_TOWROPE_TOP*###*상단 견인줄
+E_TOWROPE_BRACKET*###*견인줄 브래킷
+E_TOWROPE*###*견인줄
+E_TRACKS_BELT*###*궤도 벨트
+E_TRACKS_FRONT*###*전방 궤도
+E_TRACKS_REAR*###*후방 궤도
+E_TRANSFER_CASE*###*교환축 케이스
+E_TRANSMCOVERHATCH*###*변속기 덮개 해치
+E_TRANSMISSION*###*변속기
+E_TRANSMISSION_FRONTCOVER*###*변속기 후방 덮개
+E_TRANSMISSION_MAINCOVER*###*변속기 주 하우징
+E_TRANSMISSION_SHAFT*###*변속기 샤프트
+E_TRACKSKID*###*궤도 침목
+E_TRACKFRAME*###*궤도 프레임
+E_TRACKFRAME_MOUNT*###*궤도 프레임 마운트
+E_TRACKFRAME_BRACKET*###*궤도 프레임 브래킷
+E_TRAY*###*트레이
+E_TURRETCONTROL*###*포탑 제어기
+E_TURRETENGINE*###*포탑 엔진
+E_TURRETHOIST*###*포탑 회전 메커니즘
+E_TURRETHOIST_GEAR*###*포탑 회전 기어
+E_TURRETCONTACT_WIRES*###*포탑 연결 전선
+E_TURRET_MANTLET*###*포탑 포방패
+E_TURRET_MANTLET_BASE*###*포탑 포방패 베이스
+E_TURRET_ROTATION_PEDAL*###*포탑 회전 페달
+E_TURRET_ROTATION_GEAR*###*포탑 회전 기어
+E_TENSIONMECHANISM*###*탄성 메커니즘
+E_TIMINGCHAIN*###*타이밍 체인
+E_TIMINGGEAR*###*타이밍 기어
+E_TIMINGSLEEVE*###*타이밍 슬리브
+E_TIMINGCOVER_TOP*###*타이밍 덮개
+E_TIMINGCOVER*###*타이밍 하우징
+E_TRAVERSE_MECHANISM*###*회전 메커니즘
+E_TRAVERSE_LOCK*###*포탑 회전 잠금 장치
+E_TRAVERSE_OIL*###*회전 메커니즘 오일 탱크
+E_TRAVERSE_POWER*###*전기 포탑 회전기
+E_TRAVERSE_SHAFT*###*포탑 회전 샤프트
+E_TRAVERSE_COMMANDER*###*전차장용 회전 제어기
+E_TUBE_BREATH*###*호흡기 튜브 케이스
+E_UNBASE_ENGINE*###*엔진 블록
+E_UNBASE_HULL_EXTERIOR*###*차체
+E_UNBASE_HULL_INTERIOR*###*차체 내부
+E_UNBASE_TURRET_EXTERIOR*###*포탑
+E_UNBASE_TURRET_INTERIOR*###*포탑 내부
+E_UNBASE_GEARBOX*###*변속기
+E_VBELT*###*V-벨트
+E_VALVE*###*벨브
+E_VALVE_ARM*###*벨브 암
+E_VALVE_CUP*###*벨브 컵
+E_VALVE_ARM_BRACKET*###*벨브 암 브래킷
+E_VENTCOVER*###*환풍기 덮개
+E_VENT_DUCT*###*통풍구 관
+E_VENT_PIPE*###*통풍구 파이프
+E_VIBRATIONDAMPER*###*진동 완충기
+E_VIEWER*###*관측창
+E_VIEWERCOVER*###*관측창 덮개
+E_VISION*###*바이저
+E_VVSS*###*세로 스프링
+E_WATER_BYPASS*###*냉각수 우회 파이프
+E_WATERMANIFOLD*###*냉각수 매니폴드
+E_WATEROUTLET*###*냉각수 배출구
+E_WATERPUMP*###*냉각수 펌프
+E_WATER_HEATER*###*물 가열기
+E_WATER_CONT*###*냉각수 컨테이너
+E_WHEEL_CAP*###*차륜 뚜껑
+E_WHEELPLACE*###*차륜 고정 장치
+E_SPAREWHEEL*###*비상용 차륜
+E_WHEELS*###*차륜
+E_WHEELTIRE*###*타이어
+E_WHEELRIM*###*휠
+E_WIRES*###*전선
+E_WIRES_FRONTLIGHT*###*전방 전조등 전선
+E_WIRES_HORN*###*경적 전선
+E_WIRES_INT_LIGHT*###*내부 조명 전선
+E_WIRES_COMPASS*###*나침반 전선
+E_WIRES_ANTENNA*###*안테나 전선
+E_WIRES_LAUNCHER*###*발사기 전선
+E_WOODENSHELF*###*목재 선반
+E_WRENCH*###*렌치
+U_PREFIX_SELECT*###*선택
+U_PREFIX_TURN_ON*###*켜기
+U_PREFIX_TURN_OFF*###*끄기
+U_PREFIX_ENTER*###*사용
+U_PUMP*###*펌프
+U_PUMP_PIPE*###*펌프 파이프
+U_EXCAVATOR*###*굴착기
+U_OFFROADVEHICLE*###*오프로드 차량
+U_QUAD*###*ATV
+U_SLEIGH*###*썰매
+U_TANK*###*전차
+U_MAGNETOMETER*###*자기 탐지기
+U_DRONE*###*드론
+U_LAPTOP*###*노트북
+U_COMPUTER*###*컴퓨터
+U_LAMP*###*전등
+U_STEPS*###*계단
+U_UPGRADEPANEL*###*업그레이드 패널
+U_GOTO*###*{0}로 이동
+U_GOTO_NOPARAMETER*###*이동
+U_WORKSHOP*###*작업실
+U_MUSEUM*###*박물관
+U_YARD*###*마당
+U_PARKING*###*주차장
+U_STORAGE*###*창고
+U_PAINTROOM*###*도색실
+U_TANKGRAVEYARD*###*전차 폐차장
+U_TANKWAREHOUSE*###*전차 차고
+U_TRASH*###*쓰레기
+U_STAND_TURRET*###*포탑 스탠드
+U_STAND_ENGINE*###*엔진 스탠드
+U_METALOBJECT*###*금속 물체
+U_METALOBJECT_BADGE_GER_ASSAULT*###*보병 전투 수훈장
+U_METALOBJECT_BADGE_GER_COMBAT*###*근접전투기장
+U_METALOBJECT_BADGE_GER_IRONCROSS*###*철십자 훈장
+U_METALOBJECT_BADGE_GER_KNIGHTCROSS*###*기사 십자 훈장
+U_METALOBJECT_BADGE_GER_WOUNDED*###*부상 훈장
 U_METALOBJECT_GER_MP40*###*MP-40
-U_METALOBJECT_GER_LUGER*###*Luger
+U_METALOBJECT_GER_LUGER*###*루거
 U_METALOBJECT_GER_MG34*###*MG-34 A
 U_METALOBJECT_GER_MG34_TANKCREW*###*MG-34 B
 U_METALOBJECT_GER_MG34_TANKCREW_01*###*MG-34 C
 U_METALOBJECT_GER_MG34_TANKCREW_02*###*MG-34 D
 U_METALOBJECT_GER_MG34_TANKCREW_03*###*MG-34 E
 U_METALOBJECT_GER_MG42*###*MG-42
-U_METALOBJECT_GER_HELMET*###*Wehrmacht Helmet
+U_METALOBJECT_GER_HELMET*###*베흐마흐트 헬멧
 U_METALOBJECT_SOV_DSHK*###*DSHK
 U_METALOBJECT_USSR_PPSH*###*PPSH
 U_METALOBJECT_USSR_TT*###*TT
 U_METALOBJECT_USSR_DT*###*DT
-U_METALOBJECT_USSR_MOSINNAGANT_M38*###*Mosin Nagant M38
-U_METALOBJECT_USSR_MOSINNAGANT_9130*###*Mosin Nagant 91-30
-U_METALOBJECT_USSR_MOSINNAGANT_1891*###*Mosin Nagant 1891
-U_METALOBJECT_USA_COLT1911*###*Colt 1911
-U_METALOBJECT_USA_M2*###*M2 Browning
-U_METALOBJECT_USA_M3GREASEGUN*###*M3 Grease Gun
-U_METALOBJECT_USA_M1919BROWNING*###*M1919 Browning
-U_METALOBJECT_USA_THOMPSON*###*Thompson submachine gun
-U_METALOBJECT_USA_M1CARBINE*###*M1 Carbine
-U_METALOBJECT_USA_M1GARAND*###*M1 Garand
-U_METALOBJECT_USA_BAR*###*Browning Automatic Rifle
-U_METALOBJECT_USA_M1A1BAZOOKA*###*M1A1 Bazooka
-U_METALOBJECT_ENG_STENMKII*###*Sten Mk II
-U_METALOBJECT_ENG_BESA*###*Besa
-U_METALOBJECT_ENG_FAIRBAIRNSYKES*###*Fairbairn–Sykes fighting knife
-U_METALOBJECT_ENG_VICKERS_MMG*###*Vickers MMG
-U_METALOBJECT_BINOC*###*Binoculars
-U_METALOBJECT_PUMPKIN*###*Pumpkin
-U_METALOBJECT_GOOZY*###*Slime
-U_METALOBJECT_SOCK*###*Sock
-U_METALOBJECT_GIFT*###*Gift
-U_METALOBJECT_CANDYCANE*###*Candy Cane
-U_METALOBJECT_SANTAHAT*###*Santa Hat
-U_SKELETON*###*Skeleton
-M_SIDE_GER*###*GER
-M_SIDE_USSR*###*USSR
-M_SIDE_USA*###*USA
-M_SIDE_UK*###*UK
-M_PROP_TYPE_MACHINEGUN*###*Machine gun
-M_PROP_TYPE_PERSONALWEAPON*###*Personal weapon
-M_PROP_TYPE_BADGE*###*Badge
-M_PROP_TYPE_EQUIPMENT*###*Equipment
-M_PROP_TYPE_AMMO*###*Ammo
-M_PROP_RARITY_COMMON*###*Common
-M_PROP_RARITY_RARE*###*Rare
-M_PROP_RARITY_VERYRARE*###*Very rare
-M_PROP_RARITY*###*Rarity
-M_MONEY*###*Money:
-M_TANKMUSEUM*###*Tank museum
-M_ENTER*###*Enter
-M_TANKWIKI*###*Tank wikipedia
-M_TANK_SELECTOR_TITLE*###*Tank:
-M_TANK_SELECTOR_SELECT*###*Select tank...
-M_OTHERS*###*Others
-M_MODES*###*Modes
-M_MOVEMENT*###*Movement
-M_MOVEMENT_FORWARD*###*Move forward
-M_MOVEMENT_BACKWARD*###*Move backward
-M_MOVEMENT_LEFT*###*Move left
-M_MOVEMENT_RIGHT*###*Move right
-M_MOVEMENT_JUMP*###*Jump
-M_MOVEMENT_SPRINT*###*Sprint
-M_MOVEMENT_CROUCH*###*Crouch
-M_MOVEMENT_PRONE*###*Prone
-M_MOVEMENT_STANDING*###*Standing
-M_MOVEMENT_CROUCHING*###*Crouching
-M_SETTINGS*###*Settings
-M_CREDIT*###*Credits
-M_EXIT*###*Exit
-M_CLOSE*###*Close
-M_CREATE*###*Create
-M_DELETEDATA*###*Delete Data
-M_CLEAR*###*Clear
-M_FORCEQUIT*###*Force Quit
-M_CLICKHERETOTYPE*###*Click here to type…
-M_DECISIONSCREENTITLE*###*Decision screen
-M_WARNINGTITLE*###*Warning!
-M_AREYOUSURE*###*Are you sure?
-M_CONFIRMATION*###*Confirmation
-M_WARNINGMESSAGE*###*Warning: {0}
-M_BUGREPORT_WARNINGMESSAGE*###*Warning
-M_BUGREPORT_INFOMESSAGE*###*Info
-M_ERRORMESAGE*###*Error
-M_BUGREPORT_WARNINGMESSAGEDESC*###*You can not send a report. You may have no internet connection.
-M_BUGREPORT_INFOMESSAGEDESC*###*Bug report was sent succesfully!
-M_BUGREPORT_ERRORMESSAGEDESC*###*All bug report fields must be filled!
-M_BUGREPORT_NAMEYOURISSUE*###*Name your issue...
-M_BUGREPORT_DESCRIBEISSUE*###*Describe the issue...
-M_BUGREPORT_REPROSTEPS*###*Reproduction steps
-M_BUGREPORT_REPROSTEPSDESC*###*Please write down a necessary steps to reproduce a bug...
-M_BUGREPORT_SEND*###*Send
-M_BUGREPORT_TITLE*###*Bug title
-M_BUGREPORT_EMAIL*###*Please share your e-mail it will be easier to reply about a bug submission.
-M_CONTINUE*###*Continue
-M_CLICK*###*Click
-M_PRESS*###*Press
-M_TOSELECTELEMENT*###*to select element
-M_TODISASSEMBLE*###*to disassemble
-M_HOLD*###*Hold
-M_YES*###*Yes
-M_NO*###*No
-M_EMPTY*###*Empty
-M_SAVE*###*Save
-M_LOAD*###*Load
-M_GAME*###*Game
-M_MENU*###*Menu
-M_MODE*###*Mode
-M_LEVEL*###*Level
-M_BACK*###*Back
-M_LOADING*###*Loading
-M_SAVING*###*Saving
-M_PLEASEWAIT*###*{0} {1}, please wait…
-M_MANAGERS*###*Managers
-M_FINISHED*###*Finished
-M_SAVES*###*Saves
-M_PLAYER*###*Player
-M_EXTRACTIONAREA*###*Extraction Area
-M_MARKERS*###*Markers
-M_TARGET*###*Target
-M_SPACEBAR*###*SPACEBAR
-M_STOP*###*Stop
+U_METALOBJECT_USSR_MOSINNAGANT_M38*###*모신 나강 M38
+U_METALOBJECT_USSR_MOSINNAGANT_9130*###*모신 나강 91-30
+U_METALOBJECT_USSR_MOSINNAGANT_1891*###*모신 나강 1891
+U_METALOBJECT_USA_COLT1911*###*콯트 1911
+U_METALOBJECT_USA_M2*###*M2 브라우닝
+U_METALOBJECT_USA_M3GREASEGUN*###*M3 그리스 건
+U_METALOBJECT_USA_M1919BROWNING*###*M1919 브라우닝
+U_METALOBJECT_USA_THOMPSON*###*톰슨 기관단총
+U_METALOBJECT_USA_M1CARBINE*###*M1 카빈
+U_METALOBJECT_USA_M1GARAND*###*M1 개런드
+U_METALOBJECT_USA_BAR*###*브라우닝 자동소총
+U_METALOBJECT_USA_M1A1BAZOOKA*###*M1A1 바주카
+U_METALOBJECT_ENG_STENMKII*###*스텐 Mk II
+U_METALOBJECT_ENG_BESA*###*베사
+U_METALOBJECT_ENG_FAIRBAIRNSYKES*###*페어번 사익스 전투 단검
+U_METALOBJECT_ENG_VICKERS_MMG*###*빅커스 중기관총
+U_METALOBJECT_BINOC*###*쌍안경
+U_METALOBJECT_PUMPKIN*###*호박
+U_METALOBJECT_GOOZY*###*슬라임
+U_METALOBJECT_SOCK*###*양말
+U_METALOBJECT_GIFT*###*선물
+U_METALOBJECT_CANDYCANE*###*사탕
+U_METALOBJECT_SANTAHAT*###*산타 모자
+U_SKELETON*###*뼈다귀
+M_SIDE_GER*###*독일
+M_SIDE_USSR*###*소련
+M_SIDE_USA*###*미국
+M_SIDE_UK*###*영국
+M_PROP_TYPE_MACHINEGUN*###*기관총
+M_PROP_TYPE_PERSONALWEAPON*###*개인 화기
+M_PROP_TYPE_BADGE*###*훈장
+M_PROP_TYPE_EQUIPMENT*###*장비
+M_PROP_TYPE_AMMO*###*탄약
+M_PROP_RARITY_COMMON*###*흔함
+M_PROP_RARITY_RARE*###*드묾
+M_PROP_RARITY_VERYRARE*###*매우 드묾
+M_PROP_RARITY*###*희귀도
+M_MONEY*###*돈:
+M_TANKMUSEUM*###*전차 박물관
+M_ENTER*###*들어가기
+M_TANKWIKI*###*전차 백과
+M_TANK_SELECTOR_TITLE*###*전차:
+M_TANK_SELECTOR_SELECT*###*전차 선택...
+M_OTHERS*###*기타
+M_MODES*###*모드
+M_MOVEMENT*###*이동
+M_MOVEMENT_FORWARD*###*앞으로 이동
+M_MOVEMENT_BACKWARD*###*뒤로 이동
+M_MOVEMENT_LEFT*###*왼쪽으로 이동
+M_MOVEMENT_RIGHT*###*오른쪽으로 이동
+M_MOVEMENT_JUMP*###*점프
+M_MOVEMENT_SPRINT*###*달리기
+M_MOVEMENT_CROUCH*###*웅크리기
+M_MOVEMENT_PRONE*###*엎드리기
+M_MOVEMENT_STANDING*###*일어서기
+M_MOVEMENT_CROUCHING*###*웅크리기
+M_SETTINGS*###*설정
+M_CREDIT*###*제작자들
+M_EXIT*###*나가기
+M_CLOSE*###*닫기
+M_CREATE*###*생성
+M_DELETEDATA*###*데이터 삭제
+M_CLEAR*###*삭제
+M_FORCEQUIT*###*강제 종료
+M_CLICKHERETOTYPE*###*여기를 눌러 입력...
+M_DECISIONSCREENTITLE*###*결정 화면
+M_WARNINGTITLE*###*경고!
+M_AREYOUSURE*###*정말입니까?
+M_CONFIRMATION*###*확인
+M_WARNINGMESSAGE*###*경고: {0}
+M_BUGREPORT_WARNINGMESSAGE*###*경고
+M_BUGREPORT_INFOMESSAGE*###*정보
+M_ERRORMESAGE*###*오류
+M_BUGREPORT_WARNINGMESSAGEDESC*###*보고서를 보낼 수 없습니다. 인터넷 연결을 확인하세요.
+M_BUGREPORT_INFOMESSAGEDESC*###*오류 보고서를 전송했습니다!
+M_BUGREPORT_ERRORMESSAGEDESC*###*모든 칸을 채워야 합니다!
+M_BUGREPORT_NAMEYOURISSUE*###*문제를 입력하세요...
+M_BUGREPORT_DESCRIBEISSUE*###*문제를 설명하세요...
+M_BUGREPORT_REPROSTEPS*###*재현 단계
+M_BUGREPORT_REPROSTEPSDESC*###*오류를 재현하기 위한 단계들을 입력하세요...
+M_BUGREPORT_SEND*###*보내기
+M_BUGREPORT_TITLE*###*오류 제목
+M_BUGREPORT_EMAIL*###*이메일을 알려주시면 더 쉽게 답장을 해드릴 수 있습니다.
+M_CONTINUE*###*계속
+M_CLICK*###*클릭
+M_PRESS*###*누르기
+M_TOSELECTELEMENT*###*부품을 선택하려면
+M_TODISASSEMBLE*###*해체하려면
+M_HOLD*###*홀드
+M_YES*###*예
+M_NO*###*아니요
+M_EMPTY*###*비었음
+M_SAVE*###*저장
+M_LOAD*###*불러오기
+M_GAME*###*게임
+M_MENU*###*메뉴
+M_MODE*###*모드
+M_LEVEL*###*단계
+M_BACK*###*뒤로
+M_LOADING*###*불러오는 중
+M_SAVING*###*저장 중
+M_PLEASEWAIT*###*{1} {0}, 기다려 주세요…
+M_MANAGERS*###*관리자
+M_FINISHED*###*완료됨
+M_SAVES*###*저장
+M_PLAYER*###*플레이어
+M_EXTRACTIONAREA*###*발굴 구역
+M_MARKERS*###*마커
+M_TARGET*###*목표
+M_SPACEBAR*###*스페이스바
+M_STOP*###*정지
 M_EXTRACTION_TOGGLE_CONTROLS*###*Toggle drone/excavation
 M_EXTRACTION_TOGGLE_MAP*###*Toggle magnetometer/satalite map
 M_EXTRCATION_NOTIFICTAION*###*Extraction Notification
