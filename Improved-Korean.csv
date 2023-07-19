@@ -967,178 +967,178 @@ M_MARKERS*###*마커
 M_TARGET*###*목표
 M_SPACEBAR*###*스페이스바
 M_STOP*###*정지
-M_EXTRACTION_TOGGLE_CONTROLS*###*Toggle drone/excavation
-M_EXTRACTION_TOGGLE_MAP*###*Toggle magnetometer/satalite map
-M_EXTRCATION_NOTIFICTAION*###*Extraction Notification
-M_EXTRACTION_NOTIFICATION_DESC*###*You have selected an area to start the excavation process.\n\nDo you wish to continue?
-M_EXTRACTION_DIG*###*Dig
-M_EXTRACTION_DRONE*###*Drone
-M_EXTRACTION_DRONE_WAYPOINT_SCHEMES_TITLE*###*Waypoint Schemes
-M_EXTRACTION_SATELITE*###*Satelite
+M_EXTRACTION_TOGGLE_CONTROLS*###*드론/발굴 전환
+M_EXTRACTION_TOGGLE_MAP*###*자기 탐지기/위성 화면 전환
+M_EXTRCATION_NOTIFICTAION*###*발굴 안내
+M_EXTRACTION_NOTIFICATION_DESC*###*발굴을 위한 구역을 지정했습니다.\n\n계속하시겠습니까?
+M_EXTRACTION_DIG*###*발굴
+M_EXTRACTION_DRONE*###*드론
+M_EXTRACTION_DRONE_WAYPOINT_SCHEMES_TITLE*###*웨이포인트
+M_EXTRACTION_SATELITE*###*위성 시점
 M_EXTRACTION_GPR*###*GPR
-M_EXTRACTION_BACKTOBASE*###*Back to Workshop
-M_EXTRACTION_TANKSTATE*###*Tank State:
-M_EXTRACTION_MISSIONSTATE*###*Mission State:
-M_EXTRACTION_MONEYSPENT*###*Money Spent:
-M_EXTRACTION_GPRMAPSCALE*###*Scale
-M_EXTRACTION_ABOVE*###*Above surface
-M_EXTRACTION_GROUND*###*Ground
-M_EXTRACTION_SHALLOW*###*Shallow
-M_EXTRACTION_UNDERGROUND*###*Underground
-M_EXTRACTION_DEEP*###*Deep
-M_EXTRACTION_VERYDEEP*###*Very deep
-M_EXTRACTION_ACTIVECONTROLS*###*Active controls mode:
-M_EXTRACTION_ACTIVEMAP*###*Active map mode:
-M_EXTRACTION_STATUS_CHECKMAP_TITLE*###*Check map
-M_EXTRACTION_STATUS_CHECKMAP_DESC*###*Check map (tablet in selected vehicle)
-M_EXTRACTION_STATUS_FINDTANK_TITLE*###*Find tank
-M_EXTRACTION_STATUS_FINDTANK_DESC*###*Use metal detector, magnetometer or drone if they are unlocked. Mark the place by putting a marker (M).
-M_EXTRACTION_STATUS_DIGTANK_TITLE*###*Dig out tank
-M_EXTRACTION_STATUS_DIGTANK_DESC*###*Use shovel and/or call excavations using tablet.
-M_EXTRACTION_STATUS_EXCAVATETANK_TITLE*###*Excavate tank
-M_EXTRACTION_STATUS_EXCAVATETANK_DESC*###*Return to tablet and call the excavation crew to extract the tank.
-M_EXTRACTION_STATUS_PUMPMUD_TITLE*###*Pump out mud
-M_EXTRACTION_STATUS_PUMPMUD_DESC*###*Start the pump.
-M_EXTRACTION_STATUS_CLEANTANK_TITLE*###*Clean tank
-M_EXTRACTION_STATUS_CLEANTANK_DESC*###*Use pressure washer.\nRequired clean state: {0}%\nCurrent clean state: {1}%
-M_EXTRACTION_STATUS_LOADTANK_TITLE*###*Load tank
-M_EXTRACTION_STATUS_LOADTANK_DESC*###*By opening radial menu on tank to load it on the truck trailer.
-M_EXTRACTION_STATUS_BACKTOBASE_TITLE*###*Back to workshop
-M_EXTRACTION_STATUS_BACKTOBASE_DESC*###*Get back to workshop using radial menu.
-M_EXTRACTION_EXCAVATION_RESULT*###*Excavations result
-M_EXTRACTION_EXCAVATION_SUCCESS*###*We have found something!
-M_EXTRACTION_EXCAVATION_MUD*###*\nWe have ran into water source. Pump it out.
-M_EXTRACTION_EXCAVATION_FAIL*###*Unfortunately, nothing was found.
-M_PROVINGGROUNDS_RESTARTTARGETS*###*Restart Targets
-M_PROVINGGROUNDS_RESTARTTARGETS_DESC*###*Do you want to restart targets position and their state?
-M_PROVINGGROUNDS_RESUPPLY*###*Resupply
-M_PROVINGGROUNDS_RESUPPLY_DESC*###*Do you want to resupply your tank?
-M_PROVINGGROUNDS_SELECTCHALLENGE*###*Select Challenge
-M_PROVINGGROUNDS_SELECTCHALLENGE_DESC*###*Select challenge type you want to play:
-M_PROVINGGROUNDS_SELECTTANK*###*Select Tank
-M_PROVINGGROUNDS_SELECTTANK_DESC*###*Which tank would you like to select?
-M_PROVINGGROUNDS_MISSIONSETTINGS*###*Mission Settings
-M_PROVINGGROUNDS_CURRENTCHALLENGE*###*Current challenge:
-M_PROVINGGROUNDS_CURRENTTANK*###*Current tank:
-M_PROVINGGROUNDS_TIMEOFDAY*###*Time of day:
-M_PROVINGGROUNDS_STATUS_GETINTANK_TITLE*###*Get into tank
-M_PROVINGGROUNDS_STATUS_GETINTANK_DESC*###*Approach the tank and take the driver slot.
-M_PROVINGGROUNDS_STATUS_TAKEPOSITION_TITLE*###*Take position
-M_PROVINGGROUNDS_STATUS_TAKEPOSITION_DESC*###*Move to highlighted area with your tank.
-M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_TITLE*###*Switch to gunner
-M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_DESC*###*In order to shoot, you need to switch to gunner position
-M_PROVINGGROUNDS_STATUS_SHOOTTARGET_TITLE*###*Shoot target
-M_PROVINGGROUNDS_STATUS_SHOOTTARGET_DESC*###*Aim and shoot the highlighted target.
-M_PROVINGGROUNDS_STATUS_OPENTABLET_TITLE*###*Open tablet
-M_PROVINGGROUNDS_STATUS_OPENTABLET_DESC*###*Exit the tank and use the highlighted tablet.
-M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_TITLE*###*Start challenge
-M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_DESC*###*Select and then start a shooting challenge.
-M_LEGEND*###*Legend
-M_LOADING_GAMEMODE*###*Game mode
-M_LOADING_PLAYERDATA*###*Player data
-M_LOADING_TANKS*###*Tanks
-M_MAINMENU*###*Main menu
-M_DATA*###*Data
-M_TANKS*###*Tanks
-M_STATS*###*Stats
-M_UPGRADES*###*Upgrades
+M_EXTRACTION_BACKTOBASE*###*작업실로 복귀
+M_EXTRACTION_TANKSTATE*###*전차 상태:
+M_EXTRACTION_MISSIONSTATE*###*임무 상태:
+M_EXTRACTION_MONEYSPENT*###*지불한 비용:
+M_EXTRACTION_GPRMAPSCALE*###*축척
+M_EXTRACTION_ABOVE*###*지표면 위
+M_EXTRACTION_GROUND*###*지표면
+M_EXTRACTION_SHALLOW*###*얕음
+M_EXTRACTION_UNDERGROUND*###*지하
+M_EXTRACTION_DEEP*###*깊음
+M_EXTRACTION_VERYDEEP*###*매우 깊음
+M_EXTRACTION_ACTIVECONTROLS*###*활성화된 제어 모드:
+M_EXTRACTION_ACTIVEMAP*###*활성화된 맵 모드:
+M_EXTRACTION_STATUS_CHECKMAP_TITLE*###*맵 확인
+M_EXTRACTION_STATUS_CHECKMAP_DESC*###*차량의 태블릿에서 맵을 확인하세요
+M_EXTRACTION_STATUS_FINDTANK_TITLE*###*전차 탐색
+M_EXTRACTION_STATUS_FINDTANK_DESC*###*금속 탐지기를 사용하거나, 해금했다면 자기 탐지기, 드론을 사용해 전차를 찾으세요. 해당 위치에 M키를 이용해 표시를 남기세요.
+M_EXTRACTION_STATUS_DIGTANK_TITLE*###*전차 발굴
+M_EXTRACTION_STATUS_DIGTANK_DESC*###*삽을 사용하거나 태블릿에서 발굴을 요청하세요.
+M_EXTRACTION_STATUS_EXCAVATETANK_TITLE*###*전차 발굴
+M_EXTRACTION_STATUS_EXCAVATETANK_DESC*###*태블릿으로 돌아가 발굴 팀을 요청해 전차를 발굴하세요.
+M_EXTRACTION_STATUS_PUMPMUD_TITLE*###*진흙 제거
+M_EXTRACTION_STATUS_PUMPMUD_DESC*###*펌프를 가동하세요.
+M_EXTRACTION_STATUS_CLEANTANK_TITLE*###*전차 청소
+M_EXTRACTION_STATUS_CLEANTANK_DESC*###*압력 워셔를 사용하세요.\n필요한 청결도: {0}%\n현재 청결도: {1}%
+M_EXTRACTION_STATUS_LOADTANK_TITLE*###*전차 상차
+M_EXTRACTION_STATUS_LOADTANK_DESC*###*방사 메뉴를 열어 전차를 트레일러에 실으세요.
+M_EXTRACTION_STATUS_BACKTOBASE_TITLE*###*작업실로 복귀
+M_EXTRACTION_STATUS_BACKTOBASE_DESC*###*방사 메뉴를 열어 작업실로 복귀하세요.
+M_EXTRACTION_EXCAVATION_RESULT*###*발굴 결과
+M_EXTRACTION_EXCAVATION_SUCCESS*###*무언가를 찾았습니다!
+M_EXTRACTION_EXCAVATION_MUD*###*\n물이 유입되고 있습니다. 펌프로 뽑아내세요.
+M_EXTRACTION_EXCAVATION_FAIL*###*안타깝게도, 아무것도 없었습니다.
+M_PROVINGGROUNDS_RESTARTTARGETS*###*표적 재설정
+M_PROVINGGROUNDS_RESTARTTARGETS_DESC*###*표적들의 위치와 상태를 초기화하시겠습니까?
+M_PROVINGGROUNDS_RESUPPLY*###*재보급
+M_PROVINGGROUNDS_RESUPPLY_DESC*###*전차를 재보급할까요?
+M_PROVINGGROUNDS_SELECTCHALLENGE*###*도전과제 선택
+M_PROVINGGROUNDS_SELECTCHALLENGE_DESC*###*플레이할 도전과제 선택:
+M_PROVINGGROUNDS_SELECTTANK*###*전차 선택
+M_PROVINGGROUNDS_SELECTTANK_DESC*###*무슨 전차를 선택하시겠습니까?
+M_PROVINGGROUNDS_MISSIONSETTINGS*###*임무 설정
+M_PROVINGGROUNDS_CURRENTCHALLENGE*###*현재 도전과제:
+M_PROVINGGROUNDS_CURRENTTANK*###*현재 전차:
+M_PROVINGGROUNDS_TIMEOFDAY*###*현재 시각:
+M_PROVINGGROUNDS_STATUS_GETINTANK_TITLE*###*전차 내부 진입
+M_PROVINGGROUNDS_STATUS_GETINTANK_DESC*###*전차에 다가가 조종수석에 앉으세요.
+M_PROVINGGROUNDS_STATUS_TAKEPOSITION_TITLE*###*위치 설정
+M_PROVINGGROUNDS_STATUS_TAKEPOSITION_DESC*###*표시된 위치로 전차를 이동하세요.
+M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_TITLE*###*포수로 전환
+M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_DESC*###*사격하려면, 포수석으로 전환하세요.
+M_PROVINGGROUNDS_STATUS_SHOOTTARGET_TITLE*###*목표 사격
+M_PROVINGGROUNDS_STATUS_SHOOTTARGET_DESC*###*표시된 목표를 조준하고 사격하세요.
+M_PROVINGGROUNDS_STATUS_OPENTABLET_TITLE*###*태블릿 열기
+M_PROVINGGROUNDS_STATUS_OPENTABLET_DESC*###*전차에서 나가 표시된 태블릿을 사용하세요.
+M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_TITLE*###*도전 과제 시작
+M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_DESC*###*사격 도전 과제를 선택하고 시작하세요.
+M_LEGEND*###*범례
+M_LOADING_GAMEMODE*###*게임 모드
+M_LOADING_PLAYERDATA*###*플레이어 데이터
+M_LOADING_TANKS*###*전차
+M_MAINMENU*###*주 메뉴
+M_DATA*###*데이터
+M_TANKS*###*전차
+M_STATS*###*상태
+M_UPGRADES*###*업그레이드
 M_INHOUSE*###*In-House
-M_OUTSOURCE*###*Outsource
-M_RECYCLE*###*Recycle
-M_SELL*###*Sell
-M_MOUNT*###*Mount
-M_DISMOUNT*###*Dismount
-M_REPAIRS*###*Repairs
-M_SUMMARY*###*Summary
-M_CHECKOUT*###*Checkout
-M_DOCONTINUE*###*Do you wish to continue?
-M_COST*###*Cost of operation:
-M_PROFIT*###*Profit of operation:
-M_TIMEREQUIRED*###*Max time required:
-M_CRAFTINGPARTS*###*Crafting parts gained:
-M_XPGAINED*###*Gained XP:
-M_TOOLS*###*Tools
-M_EQUIPABLES*###*Equipables
-M_METALOBJECTS*###*Metal Objects
-M_APPLY*###*Apply
-M_BACKTOMENU*###*Back To Main Menu
-M_ASSEMBLYMENU*###*Assembly Menu
-M_STORAGEPANEL*###*Storage Panel
+M_OUTSOURCE*###*복원
+M_RECYCLE*###*재활용
+M_SELL*###*판매
+M_MOUNT*###*마운트
+M_DISMOUNT*###*마운트 해제
+M_REPAIRS*###*수리
+M_SUMMARY*###*요약
+M_CHECKOUT*###*결제
+M_DOCONTINUE*###*계속하시겠습니까?
+M_COST*###*작업 비용:
+M_PROFIT*###*작업 수익:
+M_TIMEREQUIRED*###*최대 필요 시간:
+M_CRAFTINGPARTS*###*부품 제작으로 획득:
+M_XPGAINED*###*획득 경험치:
+M_TOOLS*###*도구
+M_EQUIPABLES*###*장비 가능
+M_METALOBJECTS*###*금속 물체
+M_APPLY*###*적용
+M_BACKTOMENU*###*주 메뉴로
+M_ASSEMBLYMENU*###*조립 메뉴
+M_STORAGEPANEL*###*저장 창고 패널
 M_PROPPANEL*###*Props Panel
-M_CRAFTING_PANEL*###*Crafting panel
-M_CRAFTING_PARTS*###*Crafting parts:
-M_CRAFTING_CRAFTELEMENTS*###*Craft Elements
-M_CRAFTING_REPAIRELEMENTS*###*Repair Elements
-M_CRAFTING_REQUIRED_CRAFTINGPARTS*###*Required crafting parts:
-M_CRAFTING_REQUIRED_MONEY*###*Required money:
-M_CRAFTING_BUYBLUEPRINTS*###*BUY TANK BLUEPRINTS
-M_CRAFTING_BUYNEWTANK*###*BUY NEW TANK
-M_CRAFTING_CANNOT_TITLE*###*Cannot craft parts
-M_CRAFTING_CANNOT_DESC*###*You are too low on crafting parts.\nRequired amount: {0}, owned amount: {1}.
-M_CRAFTING_CANNOT_NOBLUEPRINT*###*You do not have the blueprint for this tank.
-M_CRAFTING_BUYBLUEPRINTS_HINT*###*Can be used in crafting panel to craft new parts.
-M_DESCRIPTION*###*Description
-M_DIRECTION*###*DIRECTION
-M_TOTAL*###*Total:
-M_ALL*###*All
-M_HULL*###*Hull
-M_HULLINTERIOR*###*Hull Interior
-M_TURRET*###*Turret
-M_TURRETINTERIOR*###*Turret Interior
-M_WHEELS*###*Wheels
-M_TRACKS*###*Tracks
-M_ENGINE*###*Engine
-M_GEARBOX*###*Gearbox
-M_FUELSYSTEM*###*Fuel System
-M_SELECTALL*###*Select all
-M_ORDERMISSINGPARTS*###*Order missing parts
-M_OUTSOURCEREPAIRS*###*Outsource Repairs
-M_SELLSELECTED*###*Sell
-M_RECYCLESELECTED*###*Recycle
-M_SPAWNINGTANK*###*Spawning tank, please wait…
+M_CRAFTING_PANEL*###*제작 패널
+M_CRAFTING_PARTS*###*제작 중인 부품:
+M_CRAFTING_CRAFTELEMENTS*###*부품 제작
+M_CRAFTING_REPAIRELEMENTS*###*부품 수리
+M_CRAFTING_REQUIRED_CRAFTINGPARTS*###*부품 제작 필요:
+M_CRAFTING_REQUIRED_MONEY*###*필요 비용:
+M_CRAFTING_BUYBLUEPRINTS*###*전차 설계도 구매
+M_CRAFTING_BUYNEWTANK*###*새 전차 구매
+M_CRAFTING_CANNOT_TITLE*###*부품 제작 실패
+M_CRAFTING_CANNOT_DESC*###*부품 조각이 부족합니다.\n필요량: {0}, 보유량: {1}.
+M_CRAFTING_CANNOT_NOBLUEPRINT*###*이 전차의 설계도가 없습니다.
+M_CRAFTING_BUYBLUEPRINTS_HINT*###*새 부품을 제작하려면 제작 패널을 이용하세요.
+M_DESCRIPTION*###*설명
+M_DIRECTION*###*방향
+M_TOTAL*###*총:
+M_ALL*###*모두
+M_HULL*###*차체
+M_HULLINTERIOR*###*차체 내부
+M_TURRET*###*포탑
+M_TURRETINTERIOR*###*포탑 내부
+M_WHEELS*###*기동 계통
+M_TRACKS*###*궤도
+M_ENGINE*###*엔진
+M_GEARBOX*###*변속 계통
+M_FUELSYSTEM*###*연료 체계
+M_SELECTALL*###*모두 선택
+M_ORDERMISSINGPARTS*###*없는 부품 구매
+M_OUTSOURCEREPAIRS*###*부품 수리
+M_SELLSELECTED*###*판매
+M_RECYCLESELECTED*###*재활용
+M_SPAWNINGTANK*###*전차 소환중, 기다리세요...
 M_COSTMODIFIER*###*Cost multiplier:
-M_ANALISYS_BUYTANK*###*Buy tank
-M_ANALISYS_SELLTANK*###*Sell tank
-M_ANALISYS_BUYMISSINGPARTS*###*Buy missing parts
-M_ANALISYS_TITLE*###*Tank Analysis
-M_ANALISYS_DETAILS*###*Tank Details:
-M_ANALISYS_ORIGIN*###*Origin:
-M_ANALISYS_NAME*###*Name:
-M_ANALISYS_OWNER*###*Owner:
-M_ANALISYS_ELEMENT_LIST*###*List of tank elements:
-M_ANALISYS_ELEMENT_NAME*###*Element name
-M_ANALISYS_TANKVALUE*###*Tank Value:
-M_ANALISYS_PAINT_CAMO*###*Paint & Camo
-M_ANALISYS_FACTORY_PAINT*###*Factory Paint
-M_ANALISYS_CONDITION_REPAIRS*###*Tank overall repairs:
-M_ANALISYS_CONDITION_ASSEMBLY*###*Tank overall assembly:
-M_ANALISYS_CONDITION_OVERALL*###*Tank overall condition:
-M_ANALISYS_CONDITION_HULLEXTERIOR*###*Hull exterior condition:
-M_ANALISYS_CONDITION_HULLINTERIOR*###*Hull interior condition:
-M_ANALISYS_CONDITION_TURRETEXTERIOR*###*Turret exterior condition:
-M_ANALISYS_CONDITION_TURRETINTERIOR*###*Turret interior condition:
-M_ANALISYS_CONDITION_GEARBOX*###*Gearbox condition:
-M_ANALISYS_CONDITION_ENGINE*###*Engine condition:
-M_ANALISYS_CONDITION_FUELSYSTEM*###*Fuel system condition:
-M_ANALISYS_CONDITION_TRACKS*###*Tracks condition:
-M_ANALISYS_CONDITION_WHEELS*###*Wheels condition:
-M_PAINTROOM_PANEL*###*Paint Room Panel
-M_PAINTROOM_DECALS*###*Decals
-M_PAINTROOM_DECORATORS*###*Decorators
-M_PAINTROOM_CAMO*###*Camo
-M_PAINTROOM_UNDO*###*Undo
-M_PAINTROOM_RESET*###*Reset
-M_PAINTROOM_PAINT*###*Paint
-M_PAINTROOM_COLOR_PICKER*###*Color Picker
-M_PAINTROOM_COLOR_CAMO*###*Camouflage color
-M_PAINTROOM_COLOR_PALETTE*###*Color Palette
-M_PAINTROOM_COLOR_SWATCHES*###*Color Swatches
-M_PAINTROOM_CONTROLCAMOUFLAGE*###*Camouflage controls
-M_PAINTROOM_CONTROLDECALS*###*Decals controls
-M_PAINTROOM_SELECTIONGRID*###*Selection Grid
-M_PAINTROOM_SCALE*###*Scale
-M_PAINTROOM_ROTATION*###*Rotation
-M_PAINTROOM_STATE*###*State
+M_ANALISYS_BUYTANK*###*전차 구매
+M_ANALISYS_SELLTANK*###*전차 판매
+M_ANALISYS_BUYMISSINGPARTS*###*없는 부품 구매
+M_ANALISYS_TITLE*###*전차 분석
+M_ANALISYS_DETAILS*###*세부 사항:
+M_ANALISYS_ORIGIN*###*국적:
+M_ANALISYS_NAME*###*이름:
+M_ANALISYS_OWNER*###*소유자:
+M_ANALISYS_ELEMENT_LIST*###*전차 부품 목록:
+M_ANALISYS_ELEMENT_NAME*###*부품 이름
+M_ANALISYS_TANKVALUE*###*전차 가치:
+M_ANALISYS_PAINT_CAMO*###*도색과 위장
+M_ANALISYS_FACTORY_PAINT*###*공장 도색
+M_ANALISYS_CONDITION_REPAIRS*###*전차 전체 수리도:
+M_ANALISYS_CONDITION_ASSEMBLY*###*전차 전체 완성도:
+M_ANALISYS_CONDITION_OVERALL*###*전차 전체 상태:
+M_ANALISYS_CONDITION_HULLEXTERIOR*###*차체 외부 상태:
+M_ANALISYS_CONDITION_HULLINTERIOR*###*차체 내부 상태:
+M_ANALISYS_CONDITION_TURRETEXTERIOR*###*포탑 외부 상태:
+M_ANALISYS_CONDITION_TURRETINTERIOR*###*포탑 내부 상태:
+M_ANALISYS_CONDITION_GEARBOX*###*변속 계통 상태:
+M_ANALISYS_CONDITION_ENGINE*###*엔진 상태:
+M_ANALISYS_CONDITION_FUELSYSTEM*###*연료 체계 상태:
+M_ANALISYS_CONDITION_TRACKS*###*궤도 상태:
+M_ANALISYS_CONDITION_WHEELS*###*기동 계통 상태:
+M_PAINTROOM_PANEL*###*도색실 패널
+M_PAINTROOM_DECALS*###*데칼
+M_PAINTROOM_DECORATORS*###*장식
+M_PAINTROOM_CAMO*###*위장
+M_PAINTROOM_UNDO*###*되돌리기
+M_PAINTROOM_RESET*###*초기화
+M_PAINTROOM_PAINT*###*도색
+M_PAINTROOM_COLOR_PICKER*###*색 추출기
+M_PAINTROOM_COLOR_CAMO*###*위장의 색
+M_PAINTROOM_COLOR_PALETTE*###*색 팔레트
+M_PAINTROOM_COLOR_SWATCHES*###*색 미리보기
+M_PAINTROOM_CONTROLCAMOUFLAGE*###*위장 설정
+M_PAINTROOM_CONTROLDECALS*###*데칼 설정
+M_PAINTROOM_SELECTIONGRID*###*선택 그리드
+M_PAINTROOM_SCALE*###*비율
+M_PAINTROOM_ROTATION*###*회전
+M_PAINTROOM_STATE*###*상태
 M_PAINTROOM_PAINTSCHEME*###*Paint Scheme
 M_CUSTOMIZER_LOCKED*###*LOCKED
 M_CUSTOMIZER_WORKSHOP_PANEL*###*Workshop Customizer Panel
