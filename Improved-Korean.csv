@@ -1096,7 +1096,7 @@ M_OUTSOURCEREPAIRS*###*부품 수리
 M_SELLSELECTED*###*판매
 M_RECYCLESELECTED*###*재활용
 M_SPAWNINGTANK*###*전차 소환중, 기다리세요...
-M_COSTMODIFIER*###*Cost multiplier:
+M_COSTMODIFIER*###*비용 계산:
 M_ANALISYS_BUYTANK*###*전차 구매
 M_ANALISYS_SELLTANK*###*전차 판매
 M_ANALISYS_BUYMISSINGPARTS*###*없는 부품 구매
@@ -1139,175 +1139,175 @@ M_PAINTROOM_SELECTIONGRID*###*선택 그리드
 M_PAINTROOM_SCALE*###*비율
 M_PAINTROOM_ROTATION*###*회전
 M_PAINTROOM_STATE*###*상태
-M_PAINTROOM_PAINTSCHEME*###*Paint Scheme
-M_CUSTOMIZER_LOCKED*###*LOCKED
-M_CUSTOMIZER_WORKSHOP_PANEL*###*Workshop Customizer Panel
-M_CUSTOMIZER_MUSEUM_PANEL*###*Museum Customizer Panel
-M_CUSTOMIZER_MUSEUM*###*Museum
-M_CUSTOMIZER_WORKSHOP*###*Workshop
-M_CUSTOMIZER_OFFICE*###*Office
-M_CUSTOMIZER_CRAFTINGROOM*###*Crafting Room
-M_CUSTOMIZER_PAINTROOM*###*Paint Shop
-M_CUSTOMIZER_TURRETSTANDSLOT*###*Turret Stand Slot
-M_CUSTOMIZER_ENGINESTANDSLOT*###*Engine Stand Slot
-M_CUSTOMIZER_FLOOR*###*Floor
-M_CUSTOMIZER_WALLS*###*Walls
-M_CUSTOMIZER_WALL1*###*Wall #1
-M_CUSTOMIZER_WALL2*###*Wall #2
-M_CUSTOMIZER_CEILING*###*Ceiling
-M_CUSTOMIZER_ROOF*###*Roof
-M_CUSTOMIZER_PILLARS*###*Pillars
-M_CUSTOMIZER_AVAILABLECOLLECTABLES*###*Available Collectables
-M_CUSTOMIZER_EXHIBITEDCOLLECTABLES*###*Exhibited Collectables
-M_CUSTOMIZER_COLLECTABLESSTANDS*###*Collectables Stands
-M_CUSTOMIZER_COLLECTABLESSTAND*###*Collectables Stand
-M_CUSTOMIZER_MUSEUMROOM1*###*Museum Room 1
-M_CUSTOMIZER_MUSEUMROOM2*###*Museum Room 2
-M_CUSTOMIZER_WORKSHOPROOM1*###*Workshop Room 1
-M_CUSTOMIZER_WORKSHOPROOM2*###*Workshop Room 2
-M_CUSTOMIZER_TOCHANGECAMERA*###*to change camera
-M_CUSTOMIZER_MATERIALS*###*Materials
-M_CUSTOMIZER_STANDS*###*Stands
-M_CUSTOMIZER_MUSEUMSTANDS*###*Museum Stands
-M_CUSTOMIZER_COLLECTABLES*###*Collectables
-M_CUSTOMIZER_FLAGS*###*Flags
-M_CUSTOMIZER_POSTERS*###*Posters
-M_CUSTOMIZER_POSTER*###*Poster
-M_CUSTOMIZER_MUSEUM_TANKSLOT*###*Tank Slot
-M_CUSTOMIZER_TOSCALEDECAL*###*to scale decal
-M_CUSTOMIZER_TOROTATEDECAL*###*to rotate decal
-M_CUSTOMIZER_TOROTATE_LEFT*###*to rotate left
-M_CUSTOMIZER_TOROTATE_RIGHT*###*to rotate right
-M_CUSTOMIZER_MOVE_UP*###*to move up
-M_CUSTOMIZER_MOVE_DOWN*###*to move down
-M_CUSTOMIZER_ROTATE_UP*###*to rotate up
-M_CUSTOMIZER_ROTATE_DOWN*###*to rotate down
-M_CUSTOMIZER_SCALE_UP*###*to scale up
-M_CUSTOMIZER_SCALE_DOWN*###*to scale down
-M_DESKTOP_TANKMUSEUM*###*Tank Museum
-M_DESKTOP_MAILBOX*###*Mailbox
-M_DESKTOP_ORGANIZER*###*Organizer
-M_DESKTOP_TANKSPARTSHOP*###*Tanks Part Shop
-M_DESKTOP_TANKSSHOP*###*Tanks Shop
-M_DESKTOP_INVENTORYSHOP*###*Inventory Shop
-M_DESKTOP_BANK*###*Bank
-M_DESKTOP_CATEGORIES*###*Categories
-M_DESKTOP_TANKSUMMARY*###*Tank Summary
-M_DESKTOP_CONDITION*###*Condition:
-M_DESKTOP_EXTRA*###*Extras:
-M_DESKTOP_RUSTED*###*Rusted
-M_DESKTOP_DIRTY*###*Dirty
-M_DESKTOP_SANDBLASTED*###*Sandblasted
-M_DESKTOP_PRIMED*###*Primed
-M_DESKTOP_PAINTED*###*Painted
-M_DESKTOP_SHOP_CART*###*Cart
-M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS*###*Renovated tanks
-M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS_DESC*###*Renovated tanks in the museum
-M_DESKTOP_TANKMUSEUM_RENTEDTANKS*###*Rented tanks
-M_DESKTOP_TANKMUSEUM_RENTEDTANKS_DESC*###*Rented tanks to other the museums
-M_DESKTOP_TANKMUSEUM_FINANCIALREPORT*###*Financial report
-M_DESKTOP_TANKMUSEUM_FINANCIALREPORT_DESC*###*Financial report of museum
-M_DESKTOP_TANKMUSEUM_SETTICKETPRICE*###*Set the ticket price ($):
-M_DESKTOP_TANKMUSEUM_SETTICKETPRICE_DESC*###*Please note that if you set the price too high it may affect the number of visitors.
-M_DESKTOP_TANKMUSEUM_TICKETPRICE*###*Ticket price:
-M_DESKTOP_TANKMUSEUM_VISITORSCURRENTLY*###*Museum visitors (currently):
-M_DESKTOP_TANKMUSEUM_VISITORSTOTAL*###*Museum visitors (total):
-M_DESKTOP_TANKMUSEUM_INCOMERENTS*###*Income from rents ($):
-M_DESKTOP_TANKMUSEUM_INCOMETICKETS*###*Income from tickets ($):
-M_DESKTOP_TANKMUSEUM_INCOMESTOTAL*###*Incomes total ($):
-M_DESKTOP_TANKMUSEUM_DAY*###*day
-M_DESKTOP_TANKMUSEUM_TODAY*###*Today
-M_DESKTOP_TANKMUSEUM_REMAININGTIME*###*Remaining time (days):
-M_DESKTOP_TANKMUSEUM_TICKETSALESCHART*###*Ticket sales chart:
-M_DESKTOP_TANKMUSEUM_ACCOUNTINGPERIODS*###*Accounting periods
-M_DESKTOP_TANKMUSEUM_VISITORS*###*Museum visitors
-M_DESKTOP_TANKMUSEUM_NEXTREPORT*###*Next report in:
-M_DESKTOP_MAIL_SUBJECT*###*Subject
-M_DESKTOP_MAIL_FROM*###*From
-M_DESKTOP_MAIL_DATE*###*Date
-M_DESKTOP_MAIL_FOLDERS*###*Folders
-M_DESKTOP_MAIL_CHECKEMAILS*###*Check for new emails
-M_DESKTOP_MAIL_ALL*###*All contracts
-M_DESKTOP_MAIL_AVAILABLE*###*Available contracts
-M_DESKTOP_MAIL_ACTIVE*###*Active contracts
-M_DESKTOP_MAIL_ACCEPT*###*Accept Job
-M_DESKTOP_MAIL_FINISHED*###*Finished contracts
-M_DESKTOP_MAIL_CANCELLED*###*Cancelled contracts
-M_DESKTOP_MAIL_FAILED*###*Failed contracts
-M_DESKTOP_MAIL_ORDER_ACCEPT*###*Accept the order
-M_DESKTOP_MAIL_ORDER_DECLINE*###*Decline the order
-M_DESKTOP_MAIL_OFFER_ACCEPT*###*Accept the offer
-M_DESKTOP_MAIL_OFFER_DECLINE*###*Decline the offer
-M_DESKTOP_ORGANIZER_ACTIVECONTRACTS*###*Active contracts
-M_DESKTOP_BANK_TAKELOAN*###*Take Loan
-M_DESKTOP_BANK_PAYOFFLOAN*###*Pay Off Loan
-M_DESKTOP_BANK_DESCRIPTION*###*Use the slider below to set the loan amount. At one moment you can have only one loan active. Until you pay off current loan, you cannot take another loan.\n\nTo take loan:\nSet the loan amount and click Take Loan button, when the conditions satisfy your needs.\n\nTo pay off loan:\nIf you have enough money you can pay off the loan by pressing the pay-off loan button.
-M_DESKTOP_BANK_SETLOANAMOUNT*###*Set loan amount
-M_DESKTOP_BANK_LOANAMOUNT*###*Loan amount:
-M_DESKTOP_BANK_LOANPERCENTAGE*###*Loan percentage:
-M_DESKTOP_BANK_PAYOFFAMOUNT*###*Pay off amount:
-M_DESKTOP_INVENTORYSHOP_BRANCH_TOOLS*###*Tools
-M_DESKTOP_INVENTORYSHOP_BRANCH_BUSINESS*###*Business
-M_DESKTOP_INVENTORYSHOP_BRANCH_PASSIVE*###*Passive
-M_DESKTOP_INVENTORYSHOP_UPGRADE_UNLOCK*###*Unlock upgrade
-M_DESKTOP_INVENTORYSHOP_UPGRADE_COST*###*Upgrade reputation cost
-M_DESKTOP_INVENTORYSHOP_UPGRADE_REPUTATION*###*Available reputation
-M_DESKTOP_INVENTORYSHOP_UPGRADE_PANEL*###*Upgrade panel
-M_DESKTOP_INVENTORYSHOP_FLASHLIGHT_DESC*###*Flashlight allows you to see your surroundings in areas without light.
-M_DESKTOP_INVENTORYSHOP_SHOVEL_DESC*###*One of the required extraction tools. Allows digging in ground without any money requirement.
-M_DESKTOP_INVENTORYSHOP_METALDETECTOR_DESC*###*One of the required extraction tools. Allows detecting any metal object hidden underneath the ground.
-M_DESKTOP_INVENTORYSHOP_TABLET_DESC*###*Tablet allows you to quickly access the control panel remotely.
-M_DESKTOP_INVENTORYSHOP_ANGLEGRINDER_DESC*###*Angle grinder allows you to merge 2 tools into one - cutting off elements with rusted bolts and grinding the rust off the elements.
-M_DESKTOP_INVENTORYSHOP_PISTOLWRENCH_DESC*###*Pistol wrench allows you to assemble or disassemble element screws faster. It also allows unscrewing rusted bolts.
-M_DESKTOP_INVENTORYSHOP_OFFROADVEHICLE_DESC*###*One of the required extraction vehicles. Allows movement in harsh terrain with all required extraction tools during the extraction mission.
-M_DESKTOP_INVENTORYSHOP_QUAD_DESC*###*Quad allows even faster and more agile movement in the extraction missions.
-M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_TITLE*###*Magnetometer
-M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_DESC*###*Magnetometer allows more ground scanning techniques and features.
-M_DESKTOP_INVENTORYSHOP_DRONE_DESC*###*Drone allows scanning the ground from the air, using magnetometer techniques.
-M_DESKTOP_INVENTORYSHOP_TOOLBELT_TITLE*###*Tool belt
-M_DESKTOP_INVENTORYSHOP_TOOLBELT_DESC*###*Allows to use the workshop tools without picking them up.
-M_DESKTOP_INVENTORYSHOP_PAINTROOM_DESC*###*Paint room allows you to paint the tank, select camouflage patterns, apply decals and decorators onto the tank.
-M_DESKTOP_INVENTORYSHOP_PARKING_I_TITLE*###*Parking level 1
-M_DESKTOP_INVENTORYSHOP_PARKING_II_TITLE*###*Parking level 2
-M_DESKTOP_INVENTORYSHOP_PARKING_I_DESC*###*Parking level 1 allows more tank slots in your warehouse (+2).
-M_DESKTOP_INVENTORYSHOP_PARKING_II_DESC*###*Parking level 2 allows even more tank slots in your warehouse (+4).
-M_DESKTOP_INVENTORYSHOP_MUSEUM_I_TITLE*###*Museum level 1
-M_DESKTOP_INVENTORYSHOP_MUSEUM_II_TITLE*###*Museum level 2
-M_DESKTOP_INVENTORYSHOP_MUSEUM_III_TITLE*###*Museum level 3
-M_DESKTOP_INVENTORYSHOP_MUSEUM_I_DESC*###*Museum level 1 allows you to show your tanks to the public! This museum level has slots for 4 tanks.
-M_DESKTOP_INVENTORYSHOP_MUSEUM_II_DESC*###*Museum level 2 allows even more slots for your tanks to be shown to the public! This museum level has slots for 8 tanks.
-M_DESKTOP_INVENTORYSHOP_MUSEUM_III_DESC*###*Museum level 3 is the final version of first museum room, with 4 more tank slots (12 total).
-M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_TITLE*###*Tank Warehouse
-M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_DESC*###*A place where you can park your tanks, each level has 6 slots. Max unlock level is 100, your level is {0}.
-M_DESKTOP_INVENTORYSHOP_TESTDRIVEYARD_DESC*###*Test drive yard allows you to take your tanks to a test drive on a special obstacle course.
-M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_TITLE*###*Crafting table
-M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_DESC*###*The crafting table allows you to craft new parts for the tanks. Each part has its own crafting parts number requirement.
-M_DESKTOP_INVENTORYSHOP_AUTOPAINT_TITLE*###*Auto-paint
-M_DESKTOP_INVENTORYSHOP_AUTOPAINT_DESC*###*Auto-paint allows you to automaticly paint a tank without the need of manual work with sandblaster or paint gun.
-M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_TITLE*###*Workshop level 2
-M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_DESC*###*Workshop level 2 allows you to have more tanks being repaired at the same time by adding more workspace and tank slots in the warehouse (+2).
-M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_TITLE*###*Proving Grounds
-M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_DESC*###*Allows to take tank to a shooting range
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_I_TITLE*###*Winter 1941 Sale
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_II_TITLE*###*Summer 1942 Sale
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_III_TITLE*###*Autumn 1943 Sale
-M_DESKTOP_INVENTORYSHOP_DISCOUNT_DESC*###*All shop transactions have a discount of: {0} %
-M_DESKTOP_INVENTORYSHOP_QUICKHANDS_TITLE*###*Quick hands
-M_DESKTOP_INVENTORYSHOP_QUICKHANDS_DESC*###*Screwing bolts is now faster by: {0} %
-M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_TITLE*###*Better repairs
-M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_DESC*###*All outsource repairs are done quicker and with lower cost of: {0} %
-M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_TITLE*###*Professional Restorer
-M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_DESC*###*Reputation gained is increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_TITLE*###*Move like Panzerjaeger
-M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_DESC*###*Movement speed increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_TITLE*###*Tools proficiency
-M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_DESC*###*All tools efficiency is increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_RECYCLING_TITLE*###*Recycling
-M_DESKTOP_INVENTORYSHOP_RECYCLING_DESC*###*Crafting parts gained increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_MONEY_TITLE*###*Increased Money
-M_DESKTOP_INVENTORYSHOP_MONEY_DESC*###*Gained money increased by: {0} %
-M_DESKTOP_INVENTORYSHOP_OWNED*###*Owned
-M_DESKTOP_INVENTORYSHOP_EXTRACTIONONLY*###*(extraction missions)
+M_PAINTROOM_PAINTSCHEME*###*저장된 도색
+M_CUSTOMIZER_LOCKED*###*잠김
+M_CUSTOMIZER_WORKSHOP_PANEL*###*작업실 꾸미기 패널
+M_CUSTOMIZER_MUSEUM_PANEL*###*박물관 꾸미기 패널
+M_CUSTOMIZER_MUSEUM*###*박물관
+M_CUSTOMIZER_WORKSHOP*###*작업실
+M_CUSTOMIZER_OFFICE*###*사무실
+M_CUSTOMIZER_CRAFTINGROOM*###*제작실
+M_CUSTOMIZER_PAINTROOM*###*도색실
+M_CUSTOMIZER_TURRETSTANDSLOT*###*포탑 스탠드
+M_CUSTOMIZER_ENGINESTANDSLOT*###*엔진 스탠드
+M_CUSTOMIZER_FLOOR*###*바닥
+M_CUSTOMIZER_WALLS*###*벽
+M_CUSTOMIZER_WALL1*###*벽 #1
+M_CUSTOMIZER_WALL2*###*벽 #2
+M_CUSTOMIZER_CEILING*###*천장
+M_CUSTOMIZER_ROOF*###*지붕
+M_CUSTOMIZER_PILLARS*###*기둥
+M_CUSTOMIZER_AVAILABLECOLLECTABLES*###*가능한 수집품
+M_CUSTOMIZER_EXHIBITEDCOLLECTABLES*###*전시된 수집품
+M_CUSTOMIZER_COLLECTABLESSTANDS*###*수집품 전시대
+M_CUSTOMIZER_COLLECTABLESSTAND*###*수집품 전시대
+M_CUSTOMIZER_MUSEUMROOM1*###*박물관 1
+M_CUSTOMIZER_MUSEUMROOM2*###*박물관 2
+M_CUSTOMIZER_WORKSHOPROOM1*###*작업실 1
+M_CUSTOMIZER_WORKSHOPROOM2*###*작업실 2
+M_CUSTOMIZER_TOCHANGECAMERA*###*카메라 전환
+M_CUSTOMIZER_MATERIALS*###*재질
+M_CUSTOMIZER_STANDS*###*스탠드
+M_CUSTOMIZER_MUSEUMSTANDS*###*박물관 스탠드
+M_CUSTOMIZER_COLLECTABLES*###*수집품
+M_CUSTOMIZER_FLAGS*###*현수막
+M_CUSTOMIZER_POSTERS*###*포스터
+M_CUSTOMIZER_POSTER*###*포스터
+M_CUSTOMIZER_MUSEUM_TANKSLOT*###*전차 슬롯
+M_CUSTOMIZER_TOSCALEDECAL*###*데칼 크기 조정
+M_CUSTOMIZER_TOROTATEDECAL*###*데칼 회전
+M_CUSTOMIZER_TOROTATE_LEFT*###*왼쪽으로 회전
+M_CUSTOMIZER_TOROTATE_RIGHT*###*오른쪽으로 회전
+M_CUSTOMIZER_MOVE_UP*###*위로 이동
+M_CUSTOMIZER_MOVE_DOWN*###*아래로 이동
+M_CUSTOMIZER_ROTATE_UP*###*위로 회전
+M_CUSTOMIZER_ROTATE_DOWN*###*아래로 회전
+M_CUSTOMIZER_SCALE_UP*###*크게
+M_CUSTOMIZER_SCALE_DOWN*###*작게
+M_DESKTOP_TANKMUSEUM*###*전차 박물관
+M_DESKTOP_MAILBOX*###*메일 상자
+M_DESKTOP_ORGANIZER*###*작업 관리
+M_DESKTOP_TANKSPARTSHOP*###*전차 부품 상점
+M_DESKTOP_TANKSSHOP*###*전차 상점
+M_DESKTOP_INVENTORYSHOP*###*도구 상점
+M_DESKTOP_BANK*###*은행
+M_DESKTOP_CATEGORIES*###*카테고리
+M_DESKTOP_TANKSUMMARY*###*전차 요약
+M_DESKTOP_CONDITION*###*상태:
+M_DESKTOP_EXTRA*###*기타:
+M_DESKTOP_RUSTED*###*녹슮
+M_DESKTOP_DIRTY*###*더러움
+M_DESKTOP_SANDBLASTED*###*모래 분사됨
+M_DESKTOP_PRIMED*###*프라이머 도색됨
+M_DESKTOP_PAINTED*###*도색됨
+M_DESKTOP_SHOP_CART*###*장바구니
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS*###*재생된 전차들
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS_DESC*###*박물관에 있는 재생된 전차들
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS*###*대여한 전차들
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS_DESC*###*다른 박물관에 대여한 전차들
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT*###*재무 보고
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT_DESC*###*박물관의 재무 보고
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE*###*입장료 설정 ($):
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE_DESC*###*입장료가 너무 비싸면 방문객 수가 감소합니다.
+M_DESKTOP_TANKMUSEUM_TICKETPRICE*###*입장료:
+M_DESKTOP_TANKMUSEUM_VISITORSCURRENTLY*###*박물관 방문객 (현재):
+M_DESKTOP_TANKMUSEUM_VISITORSTOTAL*###*박물관 방문객 (총합):
+M_DESKTOP_TANKMUSEUM_INCOMERENTS*###*대여 수입 ($):
+M_DESKTOP_TANKMUSEUM_INCOMETICKETS*###*입장료 수입 ($):
+M_DESKTOP_TANKMUSEUM_INCOMESTOTAL*###*총 수입 ($):
+M_DESKTOP_TANKMUSEUM_DAY*###*일
+M_DESKTOP_TANKMUSEUM_TODAY*###*오늘
+M_DESKTOP_TANKMUSEUM_REMAININGTIME*###*남은 시간 (일):
+M_DESKTOP_TANKMUSEUM_TICKETSALESCHART*###*입장료 판매 차트:
+M_DESKTOP_TANKMUSEUM_ACCOUNTINGPERIODS*###*회계 기간
+M_DESKTOP_TANKMUSEUM_VISITORS*###*박물관 방문객
+M_DESKTOP_TANKMUSEUM_NEXTREPORT*###*다음 보고까지 남은 시간:
+M_DESKTOP_MAIL_SUBJECT*###*제목
+M_DESKTOP_MAIL_FROM*###*보낸 사람
+M_DESKTOP_MAIL_DATE*###*날짜
+M_DESKTOP_MAIL_FOLDERS*###*폴더
+M_DESKTOP_MAIL_CHECKEMAILS*###*새 메일 확인
+M_DESKTOP_MAIL_ALL*###*모든 의뢰
+M_DESKTOP_MAIL_AVAILABLE*###*가능한 의뢰
+M_DESKTOP_MAIL_ACTIVE*###*활성화된 의뢰
+M_DESKTOP_MAIL_ACCEPT*###*작업 수락
+M_DESKTOP_MAIL_FINISHED*###*완료한 의뢰
+M_DESKTOP_MAIL_CANCELLED*###*취소한 의뢰
+M_DESKTOP_MAIL_FAILED*###*실패한 의뢰
+M_DESKTOP_MAIL_ORDER_ACCEPT*###*주문 수락
+M_DESKTOP_MAIL_ORDER_DECLINE*###*주문 거절
+M_DESKTOP_MAIL_OFFER_ACCEPT*###*제안 수락
+M_DESKTOP_MAIL_OFFER_DECLINE*###*제안 거절
+M_DESKTOP_ORGANIZER_ACTIVECONTRACTS*###*활성화된 의뢰
+M_DESKTOP_BANK_TAKELOAN*###*대출
+M_DESKTOP_BANK_PAYOFFLOAN*###*대출 상환
+M_DESKTOP_BANK_DESCRIPTION*###*아래 슬라이더를 이용해 대출금을 설정하세요. 대출을 또 받으려면 기존 대출을 모두 상환해야 합니다. 대출을 모두 상환하지 않으면, 또 다른 대출을 받을 수 없습니다.\n\n대출을 받으려면:\n대출금을 설정하고 대출 버튼을 누르세요.\n\n대출을 상환하려면:\n돈이 충분하면 대출 상환 버튼을 누르세요.
+M_DESKTOP_BANK_SETLOANAMOUNT*###*대출금 설정
+M_DESKTOP_BANK_LOANAMOUNT*###*대출금:
+M_DESKTOP_BANK_LOANPERCENTAGE*###*대출 이자
+M_DESKTOP_BANK_PAYOFFAMOUNT*###*상환금:
+M_DESKTOP_INVENTORYSHOP_BRANCH_TOOLS*###*도구
+M_DESKTOP_INVENTORYSHOP_BRANCH_BUSINESS*###*사업
+M_DESKTOP_INVENTORYSHOP_BRANCH_PASSIVE*###*패시브
+M_DESKTOP_INVENTORYSHOP_UPGRADE_UNLOCK*###*업그레이드 해제
+M_DESKTOP_INVENTORYSHOP_UPGRADE_COST*###*필요 경험치
+M_DESKTOP_INVENTORYSHOP_UPGRADE_REPUTATION*###*사용가능한 경험치
+M_DESKTOP_INVENTORYSHOP_UPGRADE_PANEL*###*업그레이드 패널
+M_DESKTOP_INVENTORYSHOP_FLASHLIGHT_DESC*###*플래시라이트는 어두운 곳에서 주변을 볼 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_SHOVEL_DESC*###*필수 발굴 도구 중 하나입니다. 아무 비용 없이 땅을 팔 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_METALDETECTOR_DESC*###*필수 발굴 도구 중 하나입니다. 지하에 숨겨진 모든 금속 물체를 탐지합니다.
+M_DESKTOP_INVENTORYSHOP_TABLET_DESC*###*태블릿은 어디서든지 제어 패널에 접근할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_ANGLEGRINDER_DESC*###*앵글 그라인더는 녹슨 나사와 부품 자르기와 녹 제거의 두 가지 기능을 모두 가지고 있습니다.
+M_DESKTOP_INVENTORYSHOP_PISTOLWRENCH_DESC*###*피스톨 렌치는 나사를 더 빠르게 풀거나 조일 수 있습니다. 녹슨 나사를 풀 수도 있습니다.
+M_DESKTOP_INVENTORYSHOP_OFFROADVEHICLE_DESC*###*필수 발굴용 차량 중 하나입니다. 거친 지형을 필요한 모든 도구를 싣고 이동할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_QUAD_DESC*###*사륜차는 더 빠르고 거친 지형을 이동할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_TITLE*###*자기 탐지기
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_DESC*###*자기 탐지기는 더 뛰어난 지면 스캔 기술을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_DRONE_DESC*###*드론은 자기 탐지 기술을 이용해 공중에서 땅을 스캔합니다.
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_TITLE*###*도구 벨트
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_DESC*###*작업용 도구를 직접 들지 않고 바로 사용할 수 있게 합니다.
+M_DESKTOP_INVENTORYSHOP_PAINTROOM_DESC*###*도색실애서는 전차를 도색하거나, 위장 패턴을 고르고 데칼과 장식을 적용할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_PARKING_I_TITLE*###*주차장 1단계
+M_DESKTOP_INVENTORYSHOP_PARKING_II_TITLE*###*주차장 2단계
+M_DESKTOP_INVENTORYSHOP_PARKING_I_DESC*###*주차장 1단계는 차고에 더 많은 전차 슬롯을 제공합니다 (+2).
+M_DESKTOP_INVENTORYSHOP_PARKING_II_DESC*###*주차장 2단계는 차고에 더욱 많은 전차 슬롯을 제공합니다 (+4).
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_TITLE*###*박물관 1단계
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_TITLE*###*박물관 2단계
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_TITLE*###*박물관 3단계
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_DESC*###*박물관 1단계는 전차를 전시할 수 있는 박물관을 제공합니다! 4개의 전차 슬롯을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_DESC*###*박물관 2단계는 전차를 전시할 수 있는 더 많은 슬롯을 제공합니다! 8개의 전차 슬롯을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_DESC*###*박물관 3단계는 박물관의 첫 번째 방의 최종 버전입니다. 4개의 추가 슬롯을 제공합니다 (총 12개).
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_TITLE*###*전차 차고
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_DESC*###*전차를 주차할 수 있는 차고로, 각 차고마다 6개의 슬롯을 제공합니다. 최대 차고 개수는 100개이며 {0}개의 차고를 소유하고 있습니다.
+M_DESKTOP_INVENTORYSHOP_TESTDRIVEYARD_DESC*###*시험 운전장은 전차를 시험 운전할 수 있는 특별한 장애물 코스를 제공합니다.
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_TITLE*###*제작 테이블
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_DESC*###*제작 테이블은 전차의 새 부품을 제작할 수 있게 해줍니다. 각 부품을 제작할 때에는 정해진 부품 조각들의 필요합니다.
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_TITLE*###*자동 도색
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_DESC*###*자동 도색은 모래 분사기나 도색기 없이 자동으로 전차를 도색할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_TITLE*###*작업실 2단계
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_DESC*###*작업실 2단계는 더 많은 작업 공간과 전차 슬롯을 추가해 동시에 더 많은 전차를 수리할 수 있게 해줍니다 (+2).
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_TITLE*###*사격장
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_DESC*###*전차를 사격할 수 있는 사격장.
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_I_TITLE*###*1941년 겨울 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_II_TITLE*###*1942년 여름 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_III_TITLE*###*1943년 가을 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_DESC*###*모든 상점 할인: {0} %
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_TITLE*###*빠른손
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_DESC*###*나사를 조이는 속도 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_TITLE*###*더 나은 수리
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_DESC*###*모든 부품 수리 속도 증가, 가격 감소: {0} %
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_TITLE*###*프로 수리공
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_DESC*###*경험치 획득 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_TITLE*###*판처예거처럼 움직이기
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_DESC*###*이동 속도 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_TITLE*###*숙달된 도구 사용
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_DESC*###*모든 도구 효율 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_RECYCLING_TITLE*###*재활용
+M_DESKTOP_INVENTORYSHOP_RECYCLING_DESC*###*부품 조각 획득량 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_MONEY_TITLE*###*더 많은 돈
+M_DESKTOP_INVENTORYSHOP_MONEY_DESC*###*돈 획득량 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_OWNED*###*보유함
+M_DESKTOP_INVENTORYSHOP_EXTRACTIONONLY*###*(발굴 임무 전용)
 M_SAVE_NAME*###*Save name
 M_SAVE_COLORSWATCH*###*Save color swatch
 M_SAVE_PAINTSCHEME*###*Save paint scheme
