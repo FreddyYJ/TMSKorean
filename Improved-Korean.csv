@@ -18,7 +18,6 @@ L_CHINESE*###*简体中文
 L_JAPANESE*###*日本語
 E_PLACEHOLDER*###*플레이스 홀더(없음)
 E_ACCESSORYGEARCOVER*###*기어 덮개
-E_ACCESSORYGEARSUPPORT*###*기어 지지대
 E_AIRCLEANER*###*공기청정기
 E_AIRFAN*###*환풍기
 E_AIRFILTER*###*공기 필터
@@ -26,24 +25,14 @@ E_AIRFILTER_MOUNT*###*공기 필터 마운트
 E_AIRFILTER_OUTER_FEIFEL*###*파이펠 외부 공기 필터
 E_AIRFILTER_EXHAUST*###*배기구
 E_AIRFILTER_INHAUST*###*흡기구
-E_AIRFILTER_INHAUST_COVER*###*흡기구 덮개
 E_AIRFILTER_PIPE*###*공기 필터 파이프
-E_AIRFILTER_PRE*###*공기 사전 필터
-E_AIRFILTER_OIL*###*공기 필터 오일 뚜껑
 E_AIRFLOW*###*통풍구
 E_AIRPIPE*###*공기 파이프
 E_AIRINTAKEMANIFOLD*###*흡기 매니폴드
 E_AIRFILTERCOVER*###*공기 필터 덮개
 E_AIRTRANSMISSION*###*공기 전달기
-E_AIR_COMPRESSOR*###*공기 압축기
-E_AIR_COMPRESSOR_SHIELD*###*공기 압축기 보호 장갑
-E_AIR_HEATER*###*공기 히터
-E_AIR_TANKS*###*공기 탱크
-E_AIRSTART_VALVE*###*공기 스타트 벨브
-E_AIRSTART_LINES*###*공기 스타트 전선
 E_AMMOBOX*###*탄약 상자
 E_AMMOBOX_MG*###*기관총 탄약 상자
-E_AMMOBOX_STRAP*###*탄약 상자 스트랩
 E_AMMOMG*###*기관총 탄약
 E_AMMOCONTAINER*###*탄약고
 E_AMMORACK_HULL*###*차체 탄약 적재함
@@ -51,36 +40,29 @@ E_AMMORACK_TURRET*###*포탑 탄약 적재함
 E_ANTENNA*###*안테나
 E_ANTENNA_REST*###*안테나 받침대
 E_ANTENNA_MOUNT*###*안테나 마운트
-E_ANTENNA_DEFLECT*###*안테나 변류기
 E_ARMOR_PLATE_TURRET_LEFT*###*포탑 좌측 장갑판
 E_ARMOR_PLATE_TURRET_RIGHT*###*포탐 우측 장갑판
 E_ARMOR_PLATE_FRONT*###*전방 장갑판
 E_ARMOR_PLATE*###*장갑판
-E_ARMOR_PLATE_REAR*###*후방 장갑판
 E_AUXILIARY_EXHAUST*###*보조 발전기 배기구
 E_AUXILIARY_GENERATOR*###*보조 발전기
 E_AUXILIARY_GENERATORFUELTANK*###*보조 발전기 연료 탱크
 E_AUXILIARY_EXHAUSTPIPE*###*보조 발전기 배기 파이프
 E_AUXILIARY_FRAME*###*보조 발전기 프레임
-E_AUXILIARY_COVER*###*보조 발전기 덮개
-E_AXE*###*도끼
 E_AXLE*###*구동축
 E_AXLE_DRIVE_FRONT*###*전방 구동축
 E_AXLE_DRIVE_REAR*###*후방 구동축
 E_AXLE_DRIVE_MIDDLE*###*중앙 구동축
 E_AXLE_REAR_UBOLT*###*후방 차축 U-볼트
 E_AXLE_REAR_MOUNT*###*후방 차축 마운트
-E_AZIMUTH*###*방위 지시계
 E_BACKLIGHT*###*후방 브레이크등
 E_BACKSHELF*###*후방 선반
 E_BACKTURRETMG*###*포탑 후방 기관총
 E_BARREL*###*포열
-E_BARREL_CLEAN*###*포열 청소 막대기
 E_BOXSHEELS*###*포탑 선반용 상자
 E_BACKREST*###*등받이
 E_BACKREST_FRAME*###*등받이 프레임
 E_BACKREST_COMMANDER*###*전차장 등받이
-E_BALANCE_SHAFT*###*균형축
 E_BASE*###*포탑 지지대(없음)
 E_BASESEAT*###*포탑 지지대 좌석(없음)
 E_BASKET*###*포탑 바닥
@@ -90,33 +72,23 @@ E_BATTERYFRAME*###*베터리 프레임
 E_BATTERY*###*베터리
 E_BATTERY_SHELF*###*베터리 선반
 E_BATTERY_WIRES*###*베터리 전선
-E_BATTERIES*###*베터리들
-E_BEARING_BALL*###*볼 베어링
-E_BLOWER*###*송풍기
 E_BODY*###*엔진 본체
 E_BOGIE_FRAME*###*차륜 프레임
 E_BOGIE_ARM*###*차륜 암
-E_BOGIE_LEVERS*###*차륜 레버
+E_BOGIE_CRAB*###*차륜 지지대(수정)
 E_BOGIE_FRAME_BRACKET*###*차륜 프레임 받침대
 E_BOGIE_TUBE_CROSS*###*차륜 교차 튜브
 E_BOGIE_LEAF_SPRING*###*이중 판 스프링 차륜
-E_BOLT*###*볼트
 E_BOX*###*상자
 E_BOX_LID*###*상자 뚜껑
-E_BOX_DOOR*###*상자 문
 E_BUFFER*###*완충기
 E_BRACKET*###*지지대
 E_BRACKETBOLT*###*받침대 볼트
 E_BRACKETCAP*###*배기구 받침대
 E_BRACKETPEDAL*###*페달 받침대
-E_BRACKET_FENDER*###*머드가드 받침대
-E_BRACKET_SHROUD*###*환풍기 덮개 받침대
-E_BRACKET_RODS*###*조향 막대기 받침대
-E_BRACKET_DEFLECTOR*###*베기 디플렉터 받침대
 E_BRAKEDRUMS*###*브레이크 드럼
 E_BRAKEMECHANISM*###*브레이크 체계
 E_BRAKEPEDAL*###*브레이크 페달
-E_BRAKE_SHAFT*###*브레이크 샤프트
 E_BREECHBLOCK*###*포미 블록
 E_BREECHRING*###*포미 고리
 E_BUMPER*###*범퍼
@@ -129,60 +101,36 @@ E_CAMSHAFT_BEARING*###*캠샤프트 베어링 뚜껑
 E_CAMSHAFT_HOUSING*###*캠샤프트 하우징
 E_CAMSHAFT_HOUSING_LEFT*###*좌측 캠샤프트 하우징
 E_CAMSHAFT_HOUSING_RIGHT*###*우측 캠샤프트 하우징
-E_CAMSHAFT_DRIVE*###*캠샤프트 드라이브
 E_CANISTER*###*기름통
 E_CANISTERS*###*기름통
-E_CANISTER_HOLDER_TRAY*###*기름통 보관 선반
-E_CANISTER_HOLDER_ARM*###*기름통 지지대
 E_CANNONBASE*###*포방패
 E_CANNONBASEATTACHMENT*###*주포 지지 부착물
 E_CANNONBASEHOLDER*###*포방패 지지대
 E_CANNONBRAKE*###*주포 반동 제동기
-E_CANNONFRAME*###*주포 프레임
-E_CANNON_PEDAL*###*주포 발사 페달
-E_CANNON_SHIELD*###*주포 충돌 방지 장치
-E_CANNON_STOP*###*주포 완충기
-E_CANTEEN*###*수통
-E_CANTEENS*###*반합
-E_CANVAS*###*방수포
 E_CAP*###*뚜껑
 E_CARBURETOR*###*카뷰레터
 E_CARBURETOR_FRONT*###*전방 카뷰레터
 E_CARBURETOR_REAR*###*후방 카뷰레터
 E_CARBURETOR_HEATING*###*카뷰레터 가열 전선
-E_CARBURETOR_MOUNT*###*카뷰레터 마운트
-E_CARBURETOR_CONTROLS*###*카뷰레터 제어기
-E_CARTRIDGE_CAP*###*탄피 뚜껑
-E_CARTRIDGE_BAG*###*탄피 가방
 E_CASE*###*보관함
 E_CASE_LARGE*###*대형 보관함
-E_CASE_BOX*###*상자
-E_CHAIN*###*체인
 E_CHEST*###*상자
-E_CLAMP_ROPE*###*견인줄 클램프
 E_CLAMPINGDEVICE*###*클램프 장치(없음)
 E_CLUTCH*###*클러치
 E_CLUTCH_FLANGE*###*클러치 플랜지
-E_CLUTCH_FLANGE_ARM*###*클러치 플랜지 암
 E_CLUTCH_GASKET*###*클러치 하우징 개스킷
 E_CLUTCH_HOUSING*###*클러치 하우징
 E_CLUTCH_PEDAL*###*클러치 페달
-E_CLUTCH_SHAFT*###*클러치 샤프트
-E_CLUTCH_PRESSURE*###*클러치 압력판
 E_COCKPIT*###*조종 체계
 E_COFFER*###*금고
-E_COIL_STEERING*###*조향 케이블 릴
-E_COLLAR*###*변속기 깃
 E_COMMANDERPERISCOPE*###*전차장 잠망경
 E_COMMANDERCUPOLA*###*전차장 큐폴라
 E_COMMANDERCUPOLA_RING*###*전차장 큐폴라 링
 E_COMMANDERCUPOLA_COVER*###*전차장 큐폴라 덮개
 E_COMMANDER_FOOTREST*###*전차장 발걸이
-E_COMPASS*###*나침반
 E_CONNECTINGHOSE*###*연결 호스
 E_CONTROL*###*변속기(없음)
 E_COOLANTFILLER*###*냉각수 주입기
-E_COOLANTFILLER_COVER*###*냉각수 주입기 뚜껑
 E_COOLANT_TANK*###*냉각수 탱크
 E_COOLANT_TANK_SURGE*###*냉각수 서지 탱크
 E_COVER*###*덮개
@@ -192,8 +140,6 @@ E_COVER_TURRET_RIGHT*###*포탑 우측 덮개
 E_COVER_GEARBOX*###*변속기 덮개
 E_COVER_GEARBOX_TOP*###*변속기 상단 덮개
 E_COVER_GEARBOX_FRONT*###*변속기 전면 덮개
-E_COVER_GEARBOX_SIDE*###*변속기 측면 덮개
-E_COVER_GEARBOX_BOTTOM*###*변속기 후면 덮개
 E_COVER_FLYWHEEL*###*플라이휠 덮개
 E_COVER_FUELTANK_LEFT*###*우측 연료 탱크 덮개
 E_COVER_FUELTANK_RIGHT*###*좌측 연료 탱크 덮개
@@ -211,44 +157,20 @@ E_COVER_STEERING*###*조향 체계 덮개
 E_COVER_VIEWER*###*관측창 덮개
 E_COVER_VALVES*###*벨브 덮개
 E_COVER_IGNITION*###*점화 케이블 덮개
-E_COVER_PERISCOPE*###*잠망경 덮개
-E_COVER_REDUCTION*###*감속 기어 덮개
-E_COVER_TENSION*###*완충 체계 덮개
-E_COVER_RING*###*포탑링 덮개
-E_COVER_MUFFLER*###*배기구 덮개
-E_COVER_GRENADE*###*유탄 발사기 덮개
-E_COVER_TRAVERSE*###*회전 체계 덮개
-E_COVER_DIRECT_VISION*###*관측창 덮개
-E_COVER_GRILLE*###*그릴 덮개
-E_COVER_BRAKES*###*브레이크 덮개
-E_COVER_BELT_GENERATOR*###*발전기 벨트 덮개
-E_COVER_GROUSERS*###*그라우저 보관함 덮개
 E_COVERS_ENGINE*###*엔진 덮개
 E_COVERS_ENGINE_INSP*###*엔진 점검용 덮개
-E_COVERS_GEARBOX_INSP*###*변속기 점검용 덮개
 E_COVERS_FANS*###*환풍기 덮개
 E_COVERS_FUEL*###*연료 탱크 덮개
 E_COVERS_RADIATOR*###*라디에이터 덮개
-E_COVERS_TRANSMISSION_INSP*###*변속기 점검용 해치
-E_COVERS_OPTICS*###*조준경 덮개
 E_CRANKSHAFT*###*크랭크샤프트
 E_CRANKSHAFT_BEARING_CAP*###*크랭크샤프트 베어링 뚜껑
-E_CRANKCASE_FRONT*###*전방 크랭크 케이스
-E_CRANKCASE_REAR*###*후방 크랭크 케이스
-E_CRANKCASE_BREATHER*###*크랭크 케이스 환풍구
 E_CRATE*###*상자
 E_CROSSBEAM*###*교차 빔
 E_CYLINDER*###*실린더
 E_DASHBOARD*###*계기판
 E_DIFFERENTIAL_GEARS*###*차동 장치
 E_DIFFERENTIAL_HOUSING*###*차동 장치 하우징
-E_DIFFERENTIAL_CONNECTOR*###*차동 장치 커넥터
-E_DIFFERENTIAL_PLATE*###*차동 장치 판
-E_DIFFERENTIAL_BOLT*###*차동 장치 볼트
-E_DIFFERENTIAL_SHAFT*###*차동 장치 샤프트
-E_DIFFUSER*###*디퓨저
 E_DIPSTICK*###*계량봉
-E_DISTRIBUTOR*###*연료 배급기
 E_DOOR*###*문
 E_DOOR_DRIVER*###*조종수 문
 E_DOOR_DRIVER_HATCH*###*조종수 문 해치
@@ -261,36 +183,21 @@ E_DRIVER_SIGHT*###*조종수 관측창
 E_DRIVERASSISTANTPERISCOPE*###*조종수/무전수 잠망경
 E_DRIVERPERISCOPE*###*조종수 잠망경
 E_DRIVECHAIN*###*구동 체인
-E_DRIVE_GEAR*###*구동 기어
 E_DRUMBRAKE*###*브레이크 드럼
 E_DUALTRACKSUPPORTROLLER*###*가로 스프링
 E_ELECTROSTARTER*###*전기 스타터
 E_ELECTRICAL_BOX*###*전자기기 지지대
 E_ELECTRICAL_TERMINAL*###*전자기기 제어기
-E_ELECTRICAL_MOTOR*###*전기 모터
-E_ELECTRICAL_DISTRIBUTOR*###*전기 분배기
 E_ELEVATING_HANDWHEEL*###*부앙 손잡이
-E_ELEVATING_LOCK*###*부앙 고정기
-E_ELEVATING_GEAR*###*부앙 체계 기어
 E_ENGINE*###*엔진오일 공급기
-E_ENGINE_ELBOW*###*엔진오일 공급기 팔꿈치
-E_ENGINE_BASE*###*엔진오일 공급기 베이스
-E_ENGINE_SHAFT*###*엔진오일 공급기 샤프트
-E_ENGINE_COWL*###*엔진 뚜껑
 E_ENGINEHATCH*###*엔진 해치
 E_ENGINEHATCH_FRAME*###*엔진 해치 프레임
 E_ENGINEHATCH_LARGE*###*대형 엔진 해치
 E_ENGINEHATCH_SMALL*###*소형 엔진 해치
-E_ENGINEHATCH_REAR*###*후방 엔진 해치
 E_ENGINE_HOOD*###*엔진 후드
 E_ENGINE_BRACKET*###*엔진 지지대
 E_ENGINEMOUNT*###*엔진 마운트
-E_ENV_PIPES*###*환풍기 파이프
-E_ENV_MOTOR*###*환풍기 모터
-E_ENV_FILTER*###*환풍기 필터
-E_ENV_INTAKE*###*환풍기 흡기 장치
-E_EQUILIBRATOR*###*주포 안정기
-E_EQUILIBRATORSPRING*###*안정기 스프링
+E_EQUILIBRATORSPRING*###*수평 스프링(수정)
 E_EXHAUST*###*배기구
 E_EXHAUSTMUFFLER*###*배기구 머플러
 E_EXHAUSTLEFT*###*좌측 머플러
@@ -305,7 +212,6 @@ E_EXHAUSTPIPECOVER*###*배기 파이프 덮개
 E_EXHAUSTDEFLECTOR*###*배기 디플렉터
 E_EXHAUSTTIP*###*배기구 끝
 E_EXHAUSTELBOW*###*배기구 팔꿈치
-E_EXHAUSTCOOLANTRES*###*배기 냉각수 탱크
 E_EXTINGUISHER*###*소화기
 E_FAN*###*라디에이터 팬
 E_FANS*###*라디에이터 팬
@@ -314,26 +220,14 @@ E_FAN_SHROUD*###*라디에이터 팬 덮개
 E_FAN_DRIVE*###*라디에이터 팬 구동장치
 E_FASTENING*###*고정 장치
 E_FENDER*###*펜더
-E_FILTER_BASE*###*필터 베이스
-E_FIRE_EXT*###*소화 체계
-E_FIRE_EXT_PIPES*###*소화 체계 파이프
-E_FIRE_EXT_HANDLE*###*소화 체계 손잡이
-E_FIRE_EXT_VALVE*###*소화 체계 밸브
-E_FIRE_CONTROL*###*화재 제어기
-E_FOOTREST*###*발걸이
 E_FRONTCOVER*###*전방 덮개
 E_FRONTDRIVEWHEEL*###*전방 구동휠
 E_FINALDRIVE*###*최종 구동축
-E_FLAG_HOLE*###*신호기 구멍 덮개
-E_FLAME_TRAP*###*화염방사기
 E_FLOOR*###*바닥
-E_FLOOR_TURRET*###*포탑 바닥
-E_FLOOR_FRAME*###*바닥 프레임
 E_FLYWHEEL*###*플라이휠
 E_FRONTLIGHT*###*전방 헤드라이트
 E_FRONTLIGHT_COVER*###*전방 헤드라이트 덮개
 E_FRONTLIGHT_MOUNT*###*전방 헤드라이트 마운트
-E_FRONTLIGHT_SPARE*###*비상용 헤드라이트
 E_FRONTMOUNT*###*전방 마운트
 E_FRONTPLATE*###*전면 장갑판
 E_FRONTSPRINGARM*###*전방 스프링 암
@@ -341,12 +235,10 @@ E_FUEL_CAP*###*연료 탱크 뚜껑
 E_FUEL_CAP_COVER*###*연료 탱크 뚜껑 덮개
 E_FUELCANISTERSLOT*###*연료통 보관함
 E_FUELFILLER*###*연료 공급기
-E_FUELFILLER_SLEEVE*###*주유구 뚜껑
 E_FUELFILTER*###*연료 필터
 E_FUELGAGESENDINGUNIT_LEFT*###*좌측 연료 공급 장치
 E_FUELGAGESENDINGUNIT_RIGHT*###*우측 연료 공급 장치
 E_FUELHOSE*###*연료 호스
-E_FUELHOSES*###*연료 호스
 E_FUELPUMP*###*연료 펌프
 E_FUELPUMPHOSE*###*연료 펌프 호스
 E_FUELTANK*###*연료 탱크
@@ -357,14 +249,6 @@ E_FUELTANK_VERTICAL*###*세로 연료 탱크
 E_FUELTANK_OUTER*###*외부 연료 탱크
 E_FUELTANK_HATCH*###*연료 탱크 해치
 E_FUELTANK_BASE*###*연료 탱크 베이스
-E_FUELTANK_OIL_LEFT*###*좌측 연료/오일 탱크
-E_FUELTANK_STRAP*###*연료 탱크 스트랩
-E_FUELTANK_DRAIN*###*연료 탱크 배수기 뚜껑
-E_FUELGAUGE_COVER*###*연료 계기판 뚜껑
-E_FUEL_SHUT_OFF_LINES*###*연료 차단 전선
-E_FUEL_SHUT_OFF_VALVES*###*연료 차단 벨브
-E_FUEL_INJECTOR*###*연료 분사기
-E_FUEL_INJECTOR_ARM*###*연료 분사기 암
 E_GASMASK_BOX*###*방독면 보관함
 E_GASPEDAL*###*가스 페달
 E_GEARBOXMAINBODY*###*변속기
@@ -372,26 +256,15 @@ E_GEARCOVER*###*기어 덮개
 E_GEARMECHANISM*###*부앙 기어 체계
 E_GEARMECHANISM_ARM*###*부앙 기어 암
 E_GEAR*###*도구
-E_GEAR_SELECTOR*###*기어 셀렉터
 E_GEARS*###*기어
 E_GEARELEMENT*###*기어 부품
-E_GEAR_REDUCTION*###*감속 기어
-E_GEAR_RATIO_SELECTOR*###*기어비 셀렉터
-E_GEAR_FINALDRIVE*###*최종 구동 기어
 E_GENERATOR*###*발전기
 E_GENERATOR_REGULATOR*###*발전기 제어기
-E_GENERATOR_REGULATOR_AUX*###*보조 발전기 조절기
-E_GENERATOR_PULLEY*###*발전기 풀리
-E_GENERATOR_HOLDER*###*발전기 홀더
 E_GOVERNOR*###*주입 펌프 제어기
-E_GOVERNOR_CARB*###*카뷰레터 연결 파이프
-E_GREASE_LINE*###*윤활 전선
 E_GRENADELAUNCHER*###*유탄 발사기
 E_GRENADELAUNCHER_LEFT*###*좌측 유탄 발사기
 E_GRENADELAUNCHER_RIGHT*###*우측 유탄 발사기
-E_GRILLE*###*그릴
-E_GRILLE_FLAP*###*그릴 날개
-E_GROUSERS*###*궤도 그라우저
+E_GRILLE_FLAP*###*그릴 뚜껑
 E_GUDGEONPIN*###*고정핀
 E_GUN*###*포미
 E_GUN_2*###*주포
@@ -410,15 +283,13 @@ E_HAMMER*###*해머
 E_HANDBRAKE*###*핸드브레이크
 E_HANDCRANK*###*수동 크랭크
 E_HANDCRANK_PORT*###*수동 크랭크 구멍
-E_HANDLEFANCLUTCH*###*환풍기 날(없음)
-E_HANDLE*###*지지대
-E_HANDLES*###*지지대
+E_HANDLEFANCLUTCH*###*팬 클러치 손잡이
+E_HANDLES*###*손잡이
 E_HANDRAIL*###*난간
 E_HANDWHEEL_ELEVATING*###*부앙 손잡이
 E_HANDWHEEL_TRAVERSE*###*회전 손잡이
 E_HATCH*###*해치
 E_HATCH_AMMO*###*탄약고 해치
-E_HATCH_AMMO_LOCK*###*탄약고 해치 자물쇠
 E_HATCH_BRAKEDRUMS*###*브레이크 드럼 해치
 E_HATCH_COMMANDER*###*전차장 해치
 E_HATCH_COMMANDER_COVER*###*전차장 해치 덮개
@@ -436,11 +307,6 @@ E_HATCH_ROOF*###*지붕 해치
 E_HATCH_REAR*###*후면 해치
 E_HATCH_PERISCOPE*###*잠망경 해치
 E_HATCH_FAN*###*환풍기 해치
-E_HATCH_BASKET*###*보관함 해치
-E_HATCH_BASE*###*해치 베이스
-E_HATCH_SPRING*###*해치 스프링
-E_HATCH_PIN*###*해치 축 핀(없음)
-E_HEATER_DUCT*###*히터 도관
 E_HINGE*###*경첩
 E_HOUSINGCOVER*###*엔진 헤드
 E_HOOK*###*고리
@@ -453,7 +319,6 @@ E_IDLER_POST_BRACE*###*아이들러 막대기 지지대
 E_IDLER_SHACKLE*###*아이들러 고정 장치
 E_IDLER_SPRING*###*아이들러 스프링
 E_IDLER_STOP_SCREW*###*아이들러 휠 고정 나사
-E_IDLER_STOP_PLATE*###*아이들러 휠 고정 판
 E_IDLER_WHEEL_SHAFT*###*아이들러 휠 샤프트
 E_IDLERTRUNNIONSUPPORT*###*아이들러 휠 트러니언 지지대
 E_IDLERWHEELTRUNNION*###*아이들러 휠 트러니언
@@ -463,26 +328,17 @@ E_IGNITION_COIL_WIRE*###*점화 코일 전선
 E_IGNITION_WIRES*###*점화 전선
 E_INJECTIONPUMP*###*주입 펌프
 E_INJECTIONPUMP_DRIVE*###*주입 펌프 구동 장치
-E_INJECTION_LINES*###*주입 펌프 전선
 E_INERTIASTARTER*###*관성 스타터
 E_INNERSLEEVE*###*안쪽 포열
-E_INSP_COVER*###*점검용 덮개
 E_INSTRUMENTPANEL*###*계기판
 E_INTAKE_SYSTEM*###*흡기 체계
 E_JACK*###*잭
-E_JACK_BOX*###*잭 상자
-E_LAMP_INTERIOR*###*내부 전등
-E_LAUNCHER_FRAME*###*발사기 프레임
-E_LAUNCHER*###*로켓 발사기
-E_LAUNCHER_ARM*###*발사기 암
-E_LAUNCHER_SPRING*###*발사기 리턴스프링
 E_LEAFSPRING*###*리프 스프링
 E_LEAFSPRING_PLATE*###*리프 스프링 판
 E_LEVER*###*레버
 E_LEVER_GEARBOX*###*변속기 레버
 E_LEVER_STEERING*###*조향 레버
 E_LEVER_STEERING_BRACKET*###*조향 레버 지지대
-E_LEVER_SEAT*###*좌석 제어 레버
 E_LEVERS_STEERING*###*조향 레버
 E_LEVERS*###*레버
 E_LINK_DRAG*###*드래그 링크
@@ -497,7 +353,6 @@ E_LOCKERDOOR*###*락커 문
 E_MAGNETO*###*마그네토 발전기
 E_MANIFOLDS*###*매니폴드
 E_MASTERCYLINDER*###*주 실린더
-E_MASTER_SWITCH*###*주 스위치
 E_MARKER*###*위치 표시기
 E_MGFIRINGPEDAL*###*기관총 발사 페달
 E_MG_CRADLE*###*기관총 지지대
@@ -505,18 +360,10 @@ E_MG_MOUNT*###*기관총 받침대
 E_MG_SHIELD*###*기관총 포방패
 E_MG_BASE*###*기관총 베이스
 E_MG_RIM*###*기관총 테두리
-E_MG_AMMORACK*###*기관총 탄약고
-E_MG_SIGHT*###*기관총 조준경
-E_MG_BARREL*###*기관총 여분 총열
-E_MG_PARTS*###*기관총 여분 부품
-E_MG_AMMOTRAY*###*기관총 탄약 선반
 E_MISSILE*###*미사일
 E_MISSILE_SET*###*미사일 묶음
 E_MISSILESTAND*###*미사일 스탠드
 E_MISSILESTOWAGE*###*미사일 보관함
-E_MORTAR_BARREL*###*박격포 포열
-E_MORTAR_BARREL_SPRING*###*박격포 포열 스프링
-E_MORTAR_SPIGOT*###*박격포 포미
 E_MOTORSHIELD*###*모터 덮개
 E_MOTORSHIELD_TURRET*###*포탑 모터 덮개
 E_MOUNTINGBRACKET*###*마운트 지지대
@@ -527,12 +374,7 @@ E_MUDGUARD_SIDE*###*측면 머드가드
 E_MUDCLEANERBLADE*###*진흙 제거 날
 E_MUZZLE_BRAKE_RING*###*포구 제퇴기 링
 E_MOUNT*###*마운트
-E_NET*###*그물
-E_NO_TRACK_MECHANISM*###*무궤도 기동 체계
-E_NO_TRACK_GEAR*###*무궤도 구동 기어
-E_NO_TRACK_COVER*###*무궤도 구동축 덮개
 E_OIL_CAP*###*오일 탱크 뚜껑
-E_OIL_CAP_COVER*###*오일 탱크 뚜껑 덮개
 E_OILCONTAINER*###*오일 탱크
 E_OILCOOLER*###*오일 냉각기
 E_OILCOOLER_LINE*###*오일 냉각기 전선
@@ -542,13 +384,8 @@ E_OILFILTER*###*오일 필터
 E_OILPAN*###*오일 팬
 E_OILPAN_BREATHER*###*오일 팬 환풍
 E_OILPAN_FILTER*###*오일 필터
-E_OILPAN_BAFFLE*###*오일 팬 차폐 장치
-E_OIL_PUMP*###*오일 펌프
 E_OILSUPPLYTANK*###*오일 공급 탱크
-E_OIL_LINE*###*오일 전선
 E_OIL_TEMPERATURE_REGULATOR*###*오일 온도 조절기
-E_OIL_SCREENS*###*오일 주입 칸막이
-E_OIL_STRAINER*###*오일 여과기
 E_OUTERJACKET*###*외부 재킷
 E_OUTERSLEEVE*###*외부 포열
 E_OUTERSLEEVECOVER*###*외부 포열 덮개
@@ -560,37 +397,23 @@ E_PARTITION*###*칸막이
 E_PEDAL*###*페달
 E_PEDALS*###*페달
 E_PERISCOPE*###*잠망경
-E_PERISCOPE_GUNNER*###*포수 잠망경
-E_PERISCOPE_SPARES*###*여분 잠망경
-E_PERISCOPE_SPARE*###*여분 잠망경
-E_PERISCOPE_CONTROL*###*잠망경 제어기
-E_PERISCOPE_BOX*###*잠망경 상자
 E_PICKAXE*###*곡괭이
 E_PIN*###*핀
 E_PIN_FUEL*###*연료 탱크 뚜껑 핀
 E_PISTOLPORT*###*권총 포트
-E_PISTOLPORT_HANDLE*###*권총 포트 손잡이
 E_PISTON*###*피스톤
 E_PISTON_CAP*###*콘로드 뚜껑
 E_PISTON_ROD*###*피스톤 로드
 E_PLATE*###*판
-E_PIPE*###*파이프
-E_PRIMER_PUMP*###*시동 연료 펌프
-E_PROJECTILE_CAP*###*포탄 보관함 뚜껑
 E_PROPELLERSHAFT*###*구동축 샤프트
 E_PROPELLERSHAFT_COVER*###*구동축 샤프트 덮개
 E_PROTECTIVESLEEVE*###*포방패 보호 포열
-E_PRYBAR*###*쇠지렛대
 E_PULLEY*###*풀리
 E_PULLEY_CRANKSHAFT*###*크랭크샤프트 풀리
 E_PUSHROD*###*푸쉬로드
 E_RADIATOR*###*라디에이터
 E_RADIATOR_CAP*###*라디에이터 뚜껑
-E_RADIATOR_CAP_COVER*###*라디에이터 뚜껑 덮개
 E_RADIATOR_INLETCONNECTOR*###*라디에이터 흡입 커넥터
-E_RADIATOR_EXHAUST*###*라디에이터 배출구
-E_RADIATOR_PIPES*###*라디에이터 파이프
-E_RADIATOR_DUCT*###*라디에이터 관
 E_RADIO*###*무전기
 E_RADIO_TRANSMITTER*###*무전 송신기
 E_RADIO_RECEIVER*###*무전 수신기
@@ -598,15 +421,12 @@ E_RADIO_CASE*###*무전기 케이스
 E_RADIO_POWER*###*무전기 전력 공급 장치
 E_RADIO_CONNECTOR*###*무전기 커넥터
 E_RADIO_MORSE*###*전신
-E_RADIO_SWITCH*###*무전기 스위치
-E_RADIO_MOUNT*###*무전기 마운트
 E_RADIOOPERATOR_SIGHT*###*무전수 관측창
 E_RAILING*###*난간
 E_REARDRIVEWHEEL*###*후방 구동축
 E_RECOILCYLINDERS*###*반동 실린더
 E_RECOVERYHOOK*###*구난용 후크
 E_REDUCER*###*감속기
-E_REDUCTION_DRIVE*###*감속 구동축
 E_ROADWHEEL_WIDE*###*넓은 보기륜
 E_ROADWHEEL_NARROW*###*좁은 보기륜
 E_ROADWHEEL*###*보기륜
@@ -619,11 +439,6 @@ E_ROADWHEELARM_FRONT*###*전방 보기륜 암
 E_ROD*###*로드
 E_ROD_TIE*###*타이 로드
 E_ROD_THROTTLE*###*스로틀 막대기
-E_ROD_CHRISTIE*###*서스펜션 암 가이드 막대기
-E_ROD_CLUTCH*###*클러치 막대기
-E_ROD_BRAKE*###*브레이크 막대기
-E_ROD_STEERING*###*조향 막대기
-E_ROD_GEAR*###*기어 선택 막대기
 E_ROLL*###*롤러 휠
 E_ROLL_DUAL*###*이중 롤러
 E_ROLL_SINGLE*###*단일 롤러
@@ -631,15 +446,10 @@ E_ROLLSUPPORT*###*롤러 휠 보조
 E_ROLLSUPPORT_DUAL*###*이중 롤러 보조
 E_ROLLSUPPORT_SINGLE*###*단일 롤러 보조
 E_ROLLERBEARING*###*롤러 베어링
-E_ROLLER_GUIDE*###*가이드 롤러
-E_ROLLER_GUIDE_SUPPORT*###*가이드 롤러 보조
-E_ROLLER_BEARER*###*베어링 롤러
-E_ROOFPLATE*###*상판 장갑판
 E_ROTATIONCONTACTDEVICE*###*회전축 고정 장치
 E_SINGLEWHEELSPACER*###*단일 휠 스페이서
 E_DOUBLEWHEELSPACER*###*이중 휠 스페이서
 E_SAW*###*톱
-E_SEARCHLIGHT*###*서치라이트
 E_SEAT*###*좌석
 E_SEAT_ASSIST*###*무전수 좌석
 E_SEAT_COMMANDER*###*전차장 좌석
@@ -647,22 +457,16 @@ E_SEAT_DRIVER*###*조종수 좌석
 E_SEAT_GUNNER*###*포수 좌석
 E_SEAT_LOADER*###*장전수 좌석
 E_SEAT_RADIOOPERATOR*###*무전수 좌석
-E_SEAT_FRAME*###*좌석 프레임
 E_SHACKLE*###*샤클
 E_SHAFT*###*변속기 샤프트
 E_SHAFT_DRIVE_FRONT*###*전방 구동 샤프트
 E_SHAFT_DRIVE_REAR*###*후방 구동 샤프트
 E_SHAFT_DRIVE_MIDDLE*###*중앙 구동 샤프트
-E_SHAFT_JOINT*###*샤프트 이음매
-E_SHAFT_VALVE*###*벨브 암 샤프트
 E_SHEARS*###*절단기
 E_SHELF*###*선반
-E_SHELL_PORT*###*탄피 배출 포트
 E_SHOCKABSORBER*###*완충기
-E_SHOCKABSORBER_ARM*###*완충기 암
 E_SHOVEL*###*삽
 E_SHOVELS*###*삽
-E_SHUTTER*###*덮개
 E_SIDEPLATE*###*측면 장갑판
 E_SIDESKIRT*###*사이드 스커트
 E_SIDESKIRT_RACK*###*사이드 스커트 랙
@@ -670,16 +474,11 @@ E_SIGHTINGDEVICE*###*관측 장치
 E_SIGHT*###*관측창
 E_SIGHT_ROD*###*관측창 막대기
 E_SIGHT_ASSISTANT*###*무전수 관측창
-E_SPACER*###*스페이서
 E_SPARKPLUG*###*점화 플러그
 E_SPEAKER*###*스피커
 E_SPOTLIGHTATTACHMENT*###*스포트라이트 부착물
 E_SPRINGSEATPIN*###*스프링 좌석 핀
-E_SPRING_VERTICAL*###*세로 나선형 스프링
-E_SPRING_COIL*###*코일 스프링
-E_SPRING_ROD*###*스프링 막대기
-E_SPRING_GUIDE*###*스프링 막대기 가이드
-E_SPRING_SEAT*###*스프링 소켓
+E_SPRING_VOLUTE_VERTICAL*###*세로 나선형 스프링
 E_SPROCKET*###*스프로킷
 E_SPROCKETWHEELTRUNNION*###*스프로킷 트러니언
 E_SPROCKETWHEEL_COVER*###*스프로킷 덮개
@@ -688,12 +487,6 @@ E_STARTER*###*발전기
 E_STARTER_WIRES*###*스타터 전선
 E_STARTER_PNEUMATIC*###*공기압 스타터
 E_STARTER_MAGNET*###*스타터 전자석
-E_STARTER_FUEL*###*스타터 연료 탱크
-E_STARTER_ENGINE*###*스타터 엔진
-E_STARTER_CHAIN*###*스타터 체인
-E_STABILIZER*###*안정기
-E_STABILIZER_CYLINDER*###*안정기 실린더
-E_STABILIZER_CONTROL*###*안정기 제어판
 E_STEERING_KNUCKLE*###*조향 관절
 E_STEERING_GEAR*###*조향 기어
 E_STEERING_MECHANISM*###*조향 체계
@@ -703,10 +496,7 @@ E_STEERINGCARRIAGE_OILTANK*###*유압 오일 탱크
 E_STEERINGCARRIAGE_PIPE*###*조향 체계 파이프
 E_STEERINGCARRIAGE_BASE*###*조향 체계 베이스
 E_STEERINGWHEEL*###*핸들
-E_STEERINGWHEEL_MOUNT*###*핸들 마운트
 E_STEP*###*계단
-E_STRAP*###*스트랩
-E_SUPERCHARGER*###*과급기
 E_SUPERSTRUCTURE*###*상부 구조물
 E_SUSPCOVER*###*서스펜션 덮개
 E_SUSPENSION*###*서스펜션
@@ -717,19 +507,18 @@ E_SUSPENSIONMOUNT*###*서스펜션 마운트
 E_SYNCHRO*###*동기 장치
 E_TACHOMETER_ADAPTER*###*RPM 계기판 어댑터
 E_TACHOMETERDRIVE*###*RPM 계기판 구동축
-E_TELESCOPE*###*망원경
 E_THERMOSTAT*###*온도 조절 장치
 E_TOWINGHOOK*###*견인줄
 E_TOOLBOX*###*도구 상자
 E_TOOLBAG*###*도구 가방
 E_TORSIONBAR*###*토션 바
-E_TORSIONBAR_BRACKET*###*토션 바 브래킷
 E_TORQUE_ROD_UPPER*###*상단 토크 막대기
 E_TORQUE_ROD_LOWER*###*하단 토크 막대기
 E_TOWROPE_SIDE*###*궤도 견인줄
 E_TOWROPE_TOP*###*상단 견인줄
 E_TOWROPE_BRACKET*###*견인줄 브래킷
 E_TOWROPE*###*견인줄
+E_TRACKS*###*궤도
 E_TRACKS_BELT*###*궤도 벨트
 E_TRACKS_FRONT*###*전방 궤도
 E_TRACKS_REAR*###*후방 궤도
@@ -743,16 +532,10 @@ E_TRACKSKID*###*궤도 침목
 E_TRACKFRAME*###*궤도 프레임
 E_TRACKFRAME_MOUNT*###*궤도 프레임 마운트
 E_TRACKFRAME_BRACKET*###*궤도 프레임 브래킷
-E_TRAY*###*트레이
 E_TURRETCONTROL*###*포탑 제어기
 E_TURRETENGINE*###*포탑 엔진
-E_TURRETHOIST*###*포탑 회전 메커니즘
-E_TURRETHOIST_GEAR*###*포탑 회전 기어
-E_TURRETCONTACT_WIRES*###*포탑 연결 전선
 E_TURRET_MANTLET*###*포탑 포방패
 E_TURRET_MANTLET_BASE*###*포탑 포방패 베이스
-E_TURRET_ROTATION_PEDAL*###*포탑 회전 페달
-E_TURRET_ROTATION_GEAR*###*포탑 회전 기어
 E_TENSIONMECHANISM*###*탄성 메커니즘
 E_TIMINGCHAIN*###*타이밍 체인
 E_TIMINGGEAR*###*타이밍 기어
@@ -760,12 +543,6 @@ E_TIMINGSLEEVE*###*타이밍 슬리브
 E_TIMINGCOVER_TOP*###*타이밍 덮개
 E_TIMINGCOVER*###*타이밍 하우징
 E_TRAVERSE_MECHANISM*###*회전 메커니즘
-E_TRAVERSE_LOCK*###*포탑 회전 잠금 장치
-E_TRAVERSE_OIL*###*회전 메커니즘 오일 탱크
-E_TRAVERSE_POWER*###*전기 포탑 회전기
-E_TRAVERSE_SHAFT*###*포탑 회전 샤프트
-E_TRAVERSE_COMMANDER*###*전차장용 회전 제어기
-E_TUBE_BREATH*###*호흡기 튜브 케이스
 E_UNBASE_ENGINE*###*엔진 블록
 E_UNBASE_HULL_EXTERIOR*###*차체
 E_UNBASE_HULL_INTERIOR*###*차체 내부
@@ -775,11 +552,7 @@ E_UNBASE_GEARBOX*###*변속기
 E_VBELT*###*V-벨트
 E_VALVE*###*벨브
 E_VALVE_ARM*###*벨브 암
-E_VALVE_CUP*###*벨브 컵
-E_VALVE_ARM_BRACKET*###*벨브 암 브래킷
 E_VENTCOVER*###*환풍기 덮개
-E_VENT_DUCT*###*통풍구 관
-E_VENT_PIPE*###*통풍구 파이프
 E_VIBRATIONDAMPER*###*진동 완충기
 E_VIEWER*###*관측창
 E_VIEWERCOVER*###*관측창 덮개
@@ -789,21 +562,10 @@ E_WATER_BYPASS*###*냉각수 우회 파이프
 E_WATERMANIFOLD*###*냉각수 매니폴드
 E_WATEROUTLET*###*냉각수 배출구
 E_WATERPUMP*###*냉각수 펌프
-E_WATER_HEATER*###*물 가열기
-E_WATER_CONT*###*냉각수 컨테이너
-E_WHEEL_CAP*###*차륜 뚜껑
 E_WHEELPLACE*###*차륜 고정 장치
-E_SPAREWHEEL*###*비상용 차륜
 E_WHEELS*###*차륜
 E_WHEELTIRE*###*타이어
 E_WHEELRIM*###*휠
-E_WIRES*###*전선
-E_WIRES_FRONTLIGHT*###*전방 전조등 전선
-E_WIRES_HORN*###*경적 전선
-E_WIRES_INT_LIGHT*###*내부 조명 전선
-E_WIRES_COMPASS*###*나침반 전선
-E_WIRES_ANTENNA*###*안테나 전선
-E_WIRES_LAUNCHER*###*발사기 전선
 E_WOODENSHELF*###*목재 선반
 E_WRENCH*###*렌치
 U_PREFIX_SELECT*###*선택
@@ -815,7 +577,6 @@ U_PUMP_PIPE*###*펌프 파이프
 U_EXCAVATOR*###*굴착기
 U_OFFROADVEHICLE*###*오프로드 차량
 U_QUAD*###*ATV
-U_SLEIGH*###*썰매
 U_TANK*###*전차
 U_MAGNETOMETER*###*자기 탐지기
 U_DRONE*###*드론
@@ -846,13 +607,8 @@ U_METALOBJECT_BADGE_GER_WOUNDED*###*부상 훈장
 U_METALOBJECT_GER_MP40*###*MP-40
 U_METALOBJECT_GER_LUGER*###*루거
 U_METALOBJECT_GER_MG34*###*MG-34 A
-U_METALOBJECT_GER_MG34_TANKCREW*###*MG-34 B
-U_METALOBJECT_GER_MG34_TANKCREW_01*###*MG-34 C
-U_METALOBJECT_GER_MG34_TANKCREW_02*###*MG-34 D
-U_METALOBJECT_GER_MG34_TANKCREW_03*###*MG-34 E
 U_METALOBJECT_GER_MG42*###*MG-42
 U_METALOBJECT_GER_HELMET*###*베흐마흐트 헬멧
-U_METALOBJECT_SOV_DSHK*###*DSHK
 U_METALOBJECT_USSR_PPSH*###*PPSH
 U_METALOBJECT_USSR_TT*###*TT
 U_METALOBJECT_USSR_DT*###*DT
@@ -873,13 +629,6 @@ U_METALOBJECT_ENG_BESA*###*베사
 U_METALOBJECT_ENG_FAIRBAIRNSYKES*###*페어번 사익스 전투 단검
 U_METALOBJECT_ENG_VICKERS_MMG*###*빅커스 중기관총
 U_METALOBJECT_BINOC*###*쌍안경
-U_METALOBJECT_PUMPKIN*###*호박
-U_METALOBJECT_GOOZY*###*슬라임
-U_METALOBJECT_SOCK*###*양말
-U_METALOBJECT_GIFT*###*선물
-U_METALOBJECT_CANDYCANE*###*사탕
-U_METALOBJECT_SANTAHAT*###*산타 모자
-U_SKELETON*###*뼈다귀
 M_SIDE_GER*###*독일
 M_SIDE_USSR*###*소련
 M_SIDE_USA*###*미국
@@ -909,39 +658,20 @@ M_MOVEMENT_RIGHT*###*오른쪽으로 이동
 M_MOVEMENT_JUMP*###*점프
 M_MOVEMENT_SPRINT*###*달리기
 M_MOVEMENT_CROUCH*###*웅크리기
-M_MOVEMENT_PRONE*###*엎드리기
-M_MOVEMENT_STANDING*###*일어서기
-M_MOVEMENT_CROUCHING*###*웅크리기
 M_SETTINGS*###*설정
 M_CREDIT*###*제작자들
 M_EXIT*###*나가기
 M_CLOSE*###*닫기
 M_CREATE*###*생성
 M_DELETEDATA*###*데이터 삭제
-M_CLEAR*###*삭제
 M_FORCEQUIT*###*강제 종료
 M_CLICKHERETOTYPE*###*여기를 눌러 입력...
 M_DECISIONSCREENTITLE*###*결정 화면
 M_WARNINGTITLE*###*경고!
-M_AREYOUSURE*###*정말입니까?
 M_CONFIRMATION*###*확인
 M_WARNINGMESSAGE*###*경고: {0}
-M_BUGREPORT_WARNINGMESSAGE*###*경고
-M_BUGREPORT_INFOMESSAGE*###*정보
-M_ERRORMESAGE*###*오류
-M_BUGREPORT_WARNINGMESSAGEDESC*###*보고서를 보낼 수 없습니다. 인터넷 연결을 확인하세요.
-M_BUGREPORT_INFOMESSAGEDESC*###*오류 보고서를 전송했습니다!
-M_BUGREPORT_ERRORMESSAGEDESC*###*모든 칸을 채워야 합니다!
-M_BUGREPORT_NAMEYOURISSUE*###*문제를 입력하세요...
-M_BUGREPORT_DESCRIBEISSUE*###*문제를 설명하세요...
-M_BUGREPORT_REPROSTEPS*###*재현 단계
-M_BUGREPORT_REPROSTEPSDESC*###*오류를 재현하기 위한 단계들을 입력하세요...
-M_BUGREPORT_SEND*###*보내기
-M_BUGREPORT_TITLE*###*오류 제목
-M_BUGREPORT_EMAIL*###*이메일을 알려주시면 더 쉽게 답장을 해드릴 수 있습니다.
 M_CONTINUE*###*계속
 M_CLICK*###*클릭
-M_PRESS*###*누르기
 M_TOSELECTELEMENT*###*부품을 선택하려면
 M_TODISASSEMBLE*###*해체하려면
 M_HOLD*###*홀드
@@ -965,15 +695,12 @@ M_PLAYER*###*플레이어
 M_EXTRACTIONAREA*###*발굴 구역
 M_MARKERS*###*마커
 M_TARGET*###*목표
-M_SPACEBAR*###*스페이스바
-M_STOP*###*정지
 M_EXTRACTION_TOGGLE_CONTROLS*###*드론/발굴 전환
 M_EXTRACTION_TOGGLE_MAP*###*자기 탐지기/위성 화면 전환
 M_EXTRCATION_NOTIFICTAION*###*발굴 안내
 M_EXTRACTION_NOTIFICATION_DESC*###*발굴을 위한 구역을 지정했습니다.\n\n계속하시겠습니까?
 M_EXTRACTION_DIG*###*발굴
 M_EXTRACTION_DRONE*###*드론
-M_EXTRACTION_DRONE_WAYPOINT_SCHEMES_TITLE*###*웨이포인트
 M_EXTRACTION_SATELITE*###*위성 시점
 M_EXTRACTION_GPR*###*GPR
 M_EXTRACTION_BACKTOBASE*###*작업실로 복귀
@@ -1178,12 +905,6 @@ M_CUSTOMIZER_TOSCALEDECAL*###*데칼 크기 조정
 M_CUSTOMIZER_TOROTATEDECAL*###*데칼 회전
 M_CUSTOMIZER_TOROTATE_LEFT*###*왼쪽으로 회전
 M_CUSTOMIZER_TOROTATE_RIGHT*###*오른쪽으로 회전
-M_CUSTOMIZER_MOVE_UP*###*위로 이동
-M_CUSTOMIZER_MOVE_DOWN*###*아래로 이동
-M_CUSTOMIZER_ROTATE_UP*###*위로 회전
-M_CUSTOMIZER_ROTATE_DOWN*###*아래로 회전
-M_CUSTOMIZER_SCALE_UP*###*크게
-M_CUSTOMIZER_SCALE_DOWN*###*작게
 M_DESKTOP_TANKMUSEUM*###*전차 박물관
 M_DESKTOP_MAILBOX*###*메일 상자
 M_DESKTOP_ORGANIZER*###*작업 관리
@@ -1399,7 +1120,6 @@ M_MENU_START*###*Start
 M_MENU_OVERVIEW*###*Overview
 M_MENU_LOCATIONS*###*Locations
 M_MENU_EXTRAS*###*Extras
-M_MENU_ROADMAP*###*Roadmap
 M_MENU_MANUAL*###*Manual
 M_MENU_CREDITS*###*Credits
 M_MENU_GAMECREDITS*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
@@ -1424,7 +1144,6 @@ M_MENU_SUPPORT_TMSDISCORDDESC*###*If you want to meet more Tank Mechanics consid
 M_MENU_SUPPORT_TMSDISCORD*###*Tank Mechanic Simulator Official Discord
 M_MENU_SUPPORT_TMSFEEDBACKDESC*###*If you found a bug or have a suggestion / feature wish / request. Please report it on our tracker page.
 M_MENU_SUPPORT_TMSFEEDBACK*###*Tank Mechanic Simulator Feedback Tracker
-M_MENU_SUPPORT_BUGREPORT*###*Bug report
 M_MENU_POINTS*###*Points:
 M_MENU_ACCEPT*###*Accept
 M_MENU_CANCEL*###*Cancel
@@ -1492,8 +1211,6 @@ M_SETTINGS_OVERALLSETTINGS*###*Overall settings
 M_SETTINGS_ASPECTRATIO*###*Aspect ratio
 M_SETTINGS_RESOLUTION*###*Resolution
 M_SETTINGS_DISPLAYMODE*###*Display mode
-M_SETTINGS_PERISCOPEREFRESHDELAY*###*Periscope refresh delay
-M_SETTINGS_FRAMERATE*###*Framerate
 M_SETTINGS_QUALITY*###*Quality
 M_SETTINGS_VERTICALSYNC*###*Vertical sync
 M_SETTINGS_SHADOWQUALITY*###*Shadow quality
@@ -1510,8 +1227,6 @@ M_SETTINGS_MOTIONBLUR*###*Motion blur
 M_SETTINGS_BLOOM*###*Bloom
 M_SETTINGS_CHROMATICABERRATION*###*Chromatic Aberration
 M_SETTINGS_VIGNETTE*###*Vignette
-M_SETTINGS_PERFORMANCE*###*Performance
-M_SETTINGS_OCCLUSIONCULLING*###*Occlusion Culling
 M_SETTINGS_DEFORMATIONSYSTEM*###*Deformation System
 M_SETTINGS_TESSELATIONFACTOR*###*Tesselation Factor
 M_SETTINGS_TESSELATIONDISTANCE*###*Tesselation Distance
@@ -1533,11 +1248,6 @@ M_SETTINGS_INVERTAXIS_Y_TPP*###*Invert Y Axis (TPP)
 M_SETTINGS_INVERTAXIS_Y_AIM*###*Invert Y Axis (Aiming mode)
 M_SETTINGS_USE_ASSEMBLYMENU*###*Use Assembly Menu
 M_SETTINGS_USE_SIMPLETANKCONTROLS*###*Simple Tank Controls
-M_SETTINGS_USE_BLINKINGLIGHTS*###*Extraction marker light
-M_SETTINGS_USE_LEGACY_TANKRANDOMIZATION*###*Legacy Tank Randomization
-M_SETTINGS_ALLOW_CHRISTMAS*###*Allow Christmas
-M_SETTINGS_ALLOW_HALLOWEEN*###*Allow Halloween
-M_SETTINGS_SHOW_ONLYOWNED*###*Show only owned parts
 M_SETTINGS_BLOCK_SCREWCURSOR*###*Block Screw Cursor
 M_SETTINGS_MOUSESMOOTHING*###*Mouse smoothing
 M_SETTINGS_MOUSESENSITIVITY*###*Mouse sensitivity
@@ -1545,7 +1255,6 @@ M_SETTINGS_CONTROLS_SCHEME_TITLE*###*Control scheme
 M_SETTINGS_CONTROLS_SCHEME_KEYBOARD*###*Mouse & Keyboard
 M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_PS4*###*PlayStation 4 Controller
 M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_XONE*###*Xbox One Controller
-M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_STEAMDECK*###*Steam Deck Controller
 M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_DEFAULT*###*Default Controller
 M_INFO_NOTENOUGHMONEY_TITLE*###*Not enough money
 M_INFO_NOTENOUGHMONEY_DESC*###*You do not have enough money for this operation. You need: {0}$
@@ -1561,7 +1270,6 @@ M_INFO_TESTDRIVE_NOTASSEMBLED*###*{0} is not assembled
 M_INFO_TESTDRIVE_NOTREPAIRED*###*{0} is not repaired
 M_INFO_TESTDRIVE_FLUIDNEEDSFILL*###*{0} is not filled
 M_INFO_TESTDRIVE_NOTMOUNTED*###*{0} is not in the tank
-M_INFO_TESTDRIVE_NOTMOUNTED_TURRET*###*{0} is not on the tank
 M_INFO_PROVINGGROUNDS_CANNOTSTART*###*Cannot start Proving Grounds mode
 M_INFO_CANNOT_CHANGEROOM_TITLE*###*Cannot enter: {0}
 M_INFO_CANNOT_CHANGEROOM_DESC*###*Room has not yet been unlocked.
@@ -1617,7 +1325,6 @@ M_CONSOLE*###*Console
 M_INTRO_DESC*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
 M_INTRO_ANYKEY*###*Press any key…
 M_INTRO_LOADING*###*Loading main menu…
-M_CHECKOUT_MORE*###*Check out these projects
 M_DEMO*###*DEMO VERSION
 M_INFO_DEMO_TITLE*###*Unavailable in demo
 M_INFO_DEMO_DESC*###*This option is not available in demo :(
@@ -1656,23 +1363,6 @@ H_TANK_17*###*M8 Greyhound
 H_TANK_18*###*Little Willie
 H_TANK_19*###*Vickers E
 H_TANK_20*###*PzKpfw II Ausf. C
-H_TANK_21*###*BT-7
-H_TANK_22*###*M18 Hellcat
-H_TANK_23*###*IS-2
-H_TANK_24*###*Churchill Mk III AVRE
-H_TANK_25*###*PzKpfw VI Tiger II Ausf. B (H)
-H_TANK_26*###*PzKpfw VIII Maus
-H_TANK_27*###*Goliath Sd.Kfz.303
-H_TANK_28*###*M4A1 Sherman (Early production)
-H_TANK_29*###*M4 Sherman (Mid production)
-H_TANK_30*###*M4A2 Sherman (Late production)
-H_TANK_31*###*M4A3E2 Jumbo
-H_TANK_32*###*T34 Calliope
-H_TANK_33*###*M4A3 Sherman 105mm
-H_TANK_34*###*M4A1 Sherman (76) W
-H_TANK_35*###*M4A2 Sherman (76) W
-H_TANK_666*###*Little Candy
-H_TANK_2022*###*M4A3E8 Sherman V2
 H_APC_1*###*SdKfz 251/1 Ausf. C
 H_DEMO*###*In demo version you can expect 3 highly detailed tanks ready to be extracted or repaired.
 H_FULL*###*In full game there are more game modes, tools, maps and most importantly, tanks ;)
@@ -1690,7 +1380,6 @@ H_FULL_TEXT_3*###*Overview mode
 H_FULL_TEXT_4*###*Magnetometer
 H_FULL_TEXT_5*###*Test drive
 A_SELECT*###*to select part
-A_SELECT_NEXT*###*to select next part
 A_ASSEMBLE*###*to assemble part
 A_DISASSEMBLE*###*to disassemble part
 A_PICKUP*###*to pick up
@@ -1720,41 +1409,29 @@ P_GUN_M1919BROWNING*###*M1919 Browning (.30-06 Springfield)
 P_GUN_M2BROWNING*###*M2 Browning (.50 BMG)
 P_GUN_20_KWK30L55*###*20 mm KwK 30 L/55
 P_GUN_88_KWK36L56*###*88 mm KwK 36 L/56
-P_GUN_88_KWK43*###*88 mm KwK 43
-P_GUN_128_KWK44L55*###*128mm KwK 44 L/55
 P_GUN_76_GUNM1*###*76 mm gun M1
 P_GUN_50_KWK39L60*###*50 mm KwK 39 L/60
 P_GUN_76_M1941ZIS5*###*76 mm M1941 ZiS-5
 P_GUN_76_M1940F34*###*76 mm M1940 F-34
 P_GUN_90_GUNM3*###*90 mm gun M3
-P_GUN_114_L60_CALLIOPE*###*L60 Calliope
-P_GUN_122_D25T*###*122 mm D-25T
 P_GUN_152_M1938M10*###*152 mm M1938 M-10
 P_GUN_85_D5T*###*85 mm D-5T
 P_GUN_76_M1940L11*###*76 mm M1940 L-11
 P_GUN_75_KWK40L43*###*75 mm KwK 40 L/43
 P_GUN_75_KWK40L48*###*75 mm KwK 40 L/48
 P_GUN_75_KWK42L70*###*75 mm KwK 42 L/70
-P_GUN_75_KWK44L365*###*75 mm KwK 44 L/36.5
 P_GUN_76_GUNM7*###*76 mm gun M7 variant
 P_GUN_37_GUNM6*###*37 mm gun M6 variant
-P_GUN_45_20K*###*45 mm 20-K
 P_GUN_47_OQF_3_PDR*###*47 mm gun OQF 3 PDR
-P_GUN_290_SPIGOTMORTAR*###*290 mm Spigot Mortar
-P_GUN_75_M3*###*75 mm gun M3
 P_EXPLOSIVE_BOMB*###*Bomb
 P_RND_37_M51_AP*###*M51 AP
 P_RND_37_M38A1_HE*###*M37A1 HE
 P_RND_37_M74B1_AP*###*M74B1 AP
 P_RND_37_M63_HE*###*M63 HE
-P_RND_45_BR240SP_AP*###*BR-240SP AP
-P_RND_45_UO243_HE*###*UO_243 HE
 P_RND_47_186R_AP*###*186R AP
 P_RND_47_186R_HE*###*186R HE
 P_RND_88_PZGR39_APCBCHE*###*PzGr.39 APCBC-HE
-P_RND_88_PZGR3943_APHECBC*###*PzGr.39/43 APHECBC
 P_RND_88_SPRGRL45_HE*###*Sprgr.L/45 HE
-P_RND_88_SPRGR43_HE*###*SprGr.43 HE
 P_RND_76_M79_AP*###*M79 AP
 P_RND_76_M42A1_HE*###*M42A1 HE
 P_RND_50_PZGR39_APC*###*PzGr.39 APC
@@ -1763,32 +1440,21 @@ P_RND_76_BR350A_APHEBC*###*BR-350A APHEBC
 P_RND_76_OF350M_HE*###*OF-350M HE
 P_RND_90_M77_AP*###*M77 AP
 P_RND_90_M71_HE*###*M71 HE
-P_RND_114_M8_HE*###*M8 Rocket
-P_RND_122_BR471_APHE*###*BR-471 APHE
-P_RND_122_OF471_HE*###*OF-471 HE
 P_RND_152_G530_AC*###*G-530 AC
 P_RND_152_OF530_HE*###*OF-530 HE
 P_RND_85_BR365K_APHE*###*BR-365K APHE
 P_RND_85_O365K_HE*###*O-365K HE
 P_RND_75_PZGR39_APCBC*###*PzGr.39 APCBC
 P_RND_75_GR38HLB_HEAT*###*Gr.38 HL/B HEAT
-P_RND_75_GR38HLC_HEAT*###*Gr.38 HL/C HEAT
 P_RND_75_PZGR3942_APCBCHE*###*PzGr.39/42 APCBC-HE
 P_RND_75_SPRGR42_HE*###*Sprgr.42 HE
 P_RND_75_SPRGR34_HE*###*Sprgr.34 HE
 P_RND_20_PZGR39_API*###*PzGr.39 API
 P_RND_20_SPRGR39_HE*###*SprGr.39 HE
-P_RND_128_PZGR43_AP*###*PzGr. 43 APHECBC
-P_RND_128_SPRGRL5_HE*###*SprGr. L/5
-P_RND_290_FLYINGDUSTBIN_HE*###*Flying Dustbin
-P_RND_75_M48_HE*###*M48 HE
-P_RND_75_M72_AP*###*M72 AP
-P_RND_75_M61_APCBC*###*M61 APCBC
 P_CMG_762_54_DT*###*7,62x54 mmR
 P_CMG_792_57_MG34*###*7,92x57mm Mauser
 P_CMG_762_63_M1919*###*.30-06 Springfield
 P_CMG_127_99_M2*###*.50 BMG
-P_CMG_127_108_DSHK*###*12.7x108mm
 P_CMG_303_BRITISH*###*.303 British
 P_AMMOTYPE_STANDARD*###*Standard
 P_AMMOTYPE_INCENDIARY*###*Incendiary
@@ -1815,8 +1481,6 @@ C_HINT_TOGGLE*###*Toggle controls hint
 C_TANKCONTROLS*###*Tank controls
 C_TANKCONTROLS_SHOOT_PRIMARY*###*Shoot primary weapon
 C_TANKCONTROLS_SHOOT_SECONDARY*###*Shoot secondary weapon
-C_TANKCONTROLS_TOGGLE_SECONDARY*###*Toggle secondary weapon
-C_TANKCONTROLS_SENSITIVITY_AIMING*###*Aiming sensitivity
 S_VERYLOW*###*Very low
 S_LOW*###*Low
 S_NORMAL*###*Normal
@@ -1862,15 +1526,6 @@ S_DISPLAYMODE_FULLSCREEN_WINDOWED*###*Fullscreen Windowed
 S_DISPLAYMODE_MAXIMIZED_WINDOW*###*Maximized Window
 S_DISPLAYMODE_EXCLUSIVE_FULLSCREEN*###*Exclusive Fullscreen
 S_DISPLAYMODE_WINDOWED*###*Windowed
-S_DISPLAYMODE_FRAMERATE_UNLIMITED*###*Unlimited
-S_DISPLAYMODE_FRAMERATE_30*###*30
-S_DISPLAYMODE_FRAMERATE_60*###*60
-S_DISPLAYMODE_FRAMERATE_90*###*90
-S_PERISCOPE_DELAY_VERYPOOR*###*Very poor 1.0s
-S_PERISCOPE_DELAY_POOR*###*Poor 0.5s
-S_PERISCOPE_DELAY_DEFAULT*###*Default 0.1s
-S_PERISCOPE_DELAY_MEDIUM*###*Medium 0.05s
-S_PERISCOPE_DELAY_REALTIME*###*Realtime 0.0s
 S_FASTEST*###*Fastest
 S_FAST*###*Fast
 S_SIMPLE*###*Simple
@@ -1881,8 +1536,6 @@ S_CUSTOM*###*Custom
 S_AA_FXAA*###*FXAA
 S_AA_SMAA*###*SMAA
 S_AA_TAA*###*TAA
-S_SPECIALKEY_ARGUMENT*###*Special key {0}
-S_SPECIALKEY*###*Special key
 T_FLASHLIGHT*###*Flashlight
 T_GRINDER*###*Angle grinder
 T_AXE*###*Axe
@@ -1976,8 +1629,6 @@ R_TANK_TESTDRIVE_FLUID_FILL_DESC*###*Begins the fluid filling process
 R_TANK_PROVINGGROUNDS_START_TITLE*###*Proving Grounds
 R_TANK_PROVINGGROUNDS_START_DESC*###*Starts proving grounds mode
 R_TANK_MANAGER_DESC*###*Opens the tank manager menu
-R_TANK_PROPMENU_TITLE*###*Props menu
-R_TANK_PROPMENU_DESC*###*Opens the props menu
 R_EXTERIORVISUALSTOGGLE_TITLE*###*Tank exterior
 R_EXTERIORVISUALSTOGGLE_DESC*###*Toggle visibily of tank exterior parts
 R_EXAMINEMODETOGGLE_TITLE*###*Examine mode
@@ -2028,7 +1679,6 @@ W_CANNOT_STARTEXTRACTION_TITLE*###*Cannot start extraction mission
 W_CANNOT_REASON_NOSLOTS*###*There are no free tank slots available. Free a tank slot first.
 W_CANNOT_REASON_TOOLS*###*Not all required tools/vehicles are unlocked. You need to unlock {0} first in Upgrade Panel.
 W_CANNOT_REASON_MAXACTIVE*###*The maximum number of active contracts equals 3
-W_CANNOT_REASON_MAXAVAILABLE*###*The maximum number of available contracts equals 5
 D_JOBTO*###*To:
 D_JOBTITLE*###*Title:
 D_JOBLOCATION*###*Location:
@@ -2158,8 +1808,6 @@ T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_TITLE*###*Check missing parts
 T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_DESC*###*Find greyed out parts on the list. These are missing parts that you need to buy and assemble. Remember their names and close this menu.
 T_STORY_OBJECTIVE_DISASSEMBLEPART_TITLE*###*Disassemble highlighted parts
 T_STORY_OBJECTIVE_DISASSEMBLEPART_DESC*###*Click and hold RMB on selected part to disassemble it.
-T_STORY_OBJECTIVE_REPLACEPART_TITLE*###*Replace highlighted parts
-T_STORY_OBJECTIVE_REPLACEPART_DESC*###*Some parts cannot be repaired with tools, these are mostly made from rubber, are electronic etc. Disassemble and replace them with a new one (from shop or repair through storage menu).
 T_STORY_OBJECTIVE_FINISHCONTRACT_TITLE*###*Finish contract
 T_STORY_OBJECTIVE_FINISHCONTRACT_DESC*###*Select contract from the list and click the highlighted button to finish the contract.
 T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_TITLE*###*Finish contract
@@ -2194,8 +1842,6 @@ T_STORY_OBJECTIVE_SELECTTANK_SHOP_TITLE*###*Select tank
 T_STORY_OBJECTIVE_SELECTTANK_SHOP_DESC*###*Select the highlighted tank to open tank part menu for selected tank.
 T_STORY_OBJECTIVE_START_EXTRACTION_TITLE*###*Start Extraction mission
 T_STORY_OBJECTIVE_START_EXTRACTION_DESC*###*Click highlighted button to start the extraction mission.
-T_STORY_OBJECTIVE_START_TESTDRIVE_TITLE*###*Run a Test Drive
-T_STORY_OBJECTIVE_START_TESTDRIVE_DESC*###*Run a test drive with the tank and finish it to complete the task.
 T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_TITLE*###*Switch to disassembly mode
 T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_DESC*###*In order to disassemble a tank part, you need to be in disassembly mode.
 T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_TITLE*###*Switch to assembly mode
@@ -2221,10 +1867,6 @@ J_STORY_DESC_06*###*We would like to order a tank repairs\nFinal goal would be t
 J_STORY_DESC_07*###*I see that you are doing well, congrats :)\nI would like to ask you for a little favor.\nOne of the tank from my collection requires its drive system and engine to be fixed. Afterwards, take the tank to a test drive, please.\n\nWIth regards,
 J_STORY_DESC_08*###*You've done great with last tank, but I have yet another request.\nI would like you to renovate this tank fully, and put it in your museum for some time.\n\nJust remember to give it back to me ;)\n\nWith regards,
 J_STORY_DESC_09*###*I have a nice treat for you.\nI want to to mount the missing tank parts and then take the tank to the Proving Grounds.\n\nHave fun.
-J_HALLOWEEN_TITLE_01*###*This is Halloween
-J_HALLOWEEN_DESC_01*###*Dear Living Mechanic,\nI need your help. My soul will not rest until this tank is excavated and restored.\nPlease, do everything you can to fix this vehicle. 
-J_CHRISTMAS_TITLE_01*###*Ho Ho Ho
-J_CHRISTMAS_DESC_01*###*Where's my milk and cookies!? OK, never mind... I hear you've been a good mechanic after all, so I've come bearing a gift for you! Unfortunately, it was too big to fit through the chimney. You need to make it bigger - think about it. I'm leaving you the coordinates to the place where I left it. Take a shovel and a metal detector... why am I telling you this? You know what to do! Merry Christmas!
 J_NAME_1*###*Alexander
 J_NAME_2*###*Adam
 J_NAME_3*###*Sebastian
@@ -2257,8 +1899,6 @@ J_NAME_29*###*Maria
 J_NAME_30*###*Stephanie
 J_NAME_31*###*Uncle Tom
 J_NAME_32*###*Tanks Inc.
-J_NAME_HALLOWEEN_01*###*William
-J_NAME_CHRISTMAS_01*###*Santa
 J_TUTORIAL_TITLE*###*Your first contract
 J_TUTORIAL_DESC*###*Dear nephew,\n\ncongratulations on opening the museum.\nI know your business will be successful.\nAs you know, I have a {0} waiting for renovation.\nI would like to hire you for this job.\nAre you interested?\n\nYour {1}
 J_DESC_REPAIR_1*###*Hey,\n\nI have a {0} in need of renovation.\n\nCan you help me?\n\nSincerely,\n{1}
@@ -2282,5 +1922,10 @@ STEAM_ABOUT_GAME_2*###*As a tank museum owner your task is to recover destroyed 
 STEAM_ABOUT_GAME_3*###*Use your offroad vehicle to locate forgotten tanks. With final area found, determine the exact position of the tank by using special equipment like metal detector. Set up excavation area and extract the tank!
 STEAM_ABOUT_GAME_4*###*Transport freshly extracted tank to your warehouse. Then start working on renovation process. Detach rusted elements and replace them with new parts. Buy them or fix them by yourself!
 STEAM_ABOUT_GAME_5*###*Tank Mechanic Simulator contain physical terrain deformation system, player will have to mind where and how does he want to travel and excavate.
-STEAM_ABOUT_GAME_6*###*Perform the entire renovation program starting from: [*] cleaning tank from mud [*] removing rust [*] sand blasting the tank [*] placing a primer coat [*] painting tank with final paint 
+STEAM_ABOUT_GAME_6*###*"Perform the entire renovation program starting from:
+[*###*] cleaning tank from mud
+[*###*] removing rust
+[*###*] sand blasting the tank
+[*###*] placing a primer coat
+[*###*] painting tank with final paint "
 STEAM_ABOUT_GAME_7*###*You can excavate even when the night comes! The game extraction missions have full night and day cycle implemented.
