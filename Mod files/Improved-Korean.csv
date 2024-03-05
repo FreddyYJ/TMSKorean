@@ -1,0 +1,1930 @@
+*###*Improved-Korean
+Flag*###*Flag-IKR
+Language*###*ImpvKorean
+*###*
+L_ENGLISH*###*English
+L_POLISH*###*Polski
+L_SPANISH*###*Español
+L_ITALIAN*###*Italiano
+L_FRENCH*###*Français
+L_RUSSIAN*###*Русский
+L_GERMAN*###*Deutsch
+L_TURKISH*###*Türkçe
+L_HUNGARIAN*###*Magyar
+L_CZECH*###*Čeština
+L_PORTUGESE*###*Português
+L_KOREAN*###*한국어
+L_CHINESE*###*简体中文
+L_JAPANESE*###*日本語
+E_PLACEHOLDER*###*플레이태 홀더(없음)
+E_ACCESSORYGEARCOVER*###*기어 덮개
+E_AIRCLEANER*###*공기청정기
+E_AIRFAN*###*환풍기
+E_AIRFILTER*###*공기 필터
+E_AIRFILTER_MOUNT*###*공기 필터 마운트
+E_AIRFILTER_OUTER_FEIFEL*###*파이펠 외부 공기 필터
+E_AIRFILTER_EXHAUST*###*배기구
+E_AIRFILTER_INHAUST*###*흡기구
+E_AIRFILTER_PIPE*###*공기 필터 파이프
+E_AIRFLOW*###*통풍구
+E_AIRPIPE*###*공기 파이프
+E_AIRINTAKEMANIFOLD*###*흡기 매니폴드
+E_AIRFILTERCOVER*###*공기 필터 덮개
+E_AIRTRANSMISSION*###*공기 전달기
+E_AMMOBOX*###*탄약 상자
+E_AMMOBOX_MG*###*기관총 탄약 상자
+E_AMMOMG*###*기관총 탄약
+E_AMMOCONTAINER*###*탄약고
+E_AMMORACK_HULL*###*차체 탄약 적재함
+E_AMMORACK_TURRET*###*포탑 탄약 적재함
+E_ANTENNA*###*안테나
+E_ANTENNA_REST*###*안테나 받침대
+E_ANTENNA_MOUNT*###*안테나 마운트
+E_ARMOR_PLATE_TURRET_LEFT*###*포탑 좌측 장갑판
+E_ARMOR_PLATE_TURRET_RIGHT*###*포탐 우측 장갑판
+E_ARMOR_PLATE_FRONT*###*전방 장갑판
+E_ARMOR_PLATE*###*장갑판
+E_AUXILIARY_EXHAUST*###*보조 발전기 배기구
+E_AUXILIARY_GENERATOR*###*보조 발전기
+E_AUXILIARY_GENERATORFUELTANK*###*보조 발전기 연료 탱크
+E_AUXILIARY_EXHAUSTPIPE*###*보조 발전기 배기 파이프
+E_AUXILIARY_FRAME*###*보조 발전기 프레임
+E_AXLE*###*구동축
+E_AXLE_DRIVE_FRONT*###*전방 구동축
+E_AXLE_DRIVE_REAR*###*후방 구동축
+E_AXLE_DRIVE_MIDDLE*###*중앙 구동축
+E_AXLE_REAR_UBOLT*###*후방 차축 U-볼트
+E_AXLE_REAR_MOUNT*###*후방 차축 마운트
+E_BACKLIGHT*###*후방 브레이크등
+E_BACKSHELF*###*후방 선반
+E_BACKTURRETMG*###*포탑 후방 기관총
+E_BARREL*###*포열
+E_BOXSHEELS*###*포탑 선반용 상자
+E_BACKREST*###*등받이
+E_BACKREST_FRAME*###*등받이 프레임
+E_BACKREST_COMMANDER*###*전차장 등받이
+E_BASE*###*포탑 지지대(없음)
+E_BASESEAT*###*포탑 지지대 좌석(없음)
+E_BASKET*###*포탑 바닥
+E_BASKET_CASE*###*바구니
+E_BATTERYBOX*###*베터리 상자
+E_BATTERYFRAME*###*베터리 프레임
+E_BATTERY*###*베터리
+E_BATTERY_SHELF*###*베터리 선반
+E_BATTERY_WIRES*###*베터리 전선
+E_BODY*###*엔진 본체
+E_BOGIE_FRAME*###*차륜 프레임
+E_BOGIE_ARM*###*차륜 암
+E_BOGIE_CRAB*###*차륜 지지대(수정)
+E_BOGIE_FRAME_BRACKET*###*차륜 프레임 받침대
+E_BOGIE_TUBE_CROSS*###*차륜 교차 튜브
+E_BOGIE_LEAF_SPRING*###*이중 판 스프링 차륜
+E_BOX*###*상자
+E_BOX_LID*###*상자 뚜껑
+E_BUFFER*###*완충기
+E_BRACKET*###*지지대
+E_BRACKETBOLT*###*받침대 볼트
+E_BRACKETCAP*###*배기구 받침대
+E_BRACKETPEDAL*###*페달 받침대
+E_BRAKEDRUMS*###*브레이크 드럼
+E_BRAKEMECHANISM*###*브레이크 체계
+E_BRAKEPEDAL*###*브레이크 페달
+E_BREECHBLOCK*###*포미 블록
+E_BREECHRING*###*포미 고리
+E_BUMPER*###*범퍼
+E_BUMPER_FRONT*###*전방 범퍼
+E_BUMPER_REAR*###*후방 범퍼
+E_BUMPSPRING*###*서스펜션 스프링
+E_CABLE_IGNITION*###*점화 케이블
+E_CAMSHAFT*###*캠샤프트
+E_CAMSHAFT_BEARING*###*캠샤프트 베어링 뚜껑
+E_CAMSHAFT_HOUSING*###*캠샤프트 하우징
+E_CAMSHAFT_HOUSING_LEFT*###*좌측 캠샤프트 하우징
+E_CAMSHAFT_HOUSING_RIGHT*###*우측 캠샤프트 하우징
+E_CANISTER*###*기름통
+E_CANISTERS*###*기름통
+E_CANNONBASE*###*포방패
+E_CANNONBASEATTACHMENT*###*주포 지지 부착물
+E_CANNONBASEHOLDER*###*포방패 지지대
+E_CANNONBRAKE*###*주포 반동 제동기
+E_CAP*###*뚜껑
+E_CARBURETOR*###*카뷰레터
+E_CARBURETOR_FRONT*###*전방 카뷰레터
+E_CARBURETOR_REAR*###*후방 카뷰레터
+E_CARBURETOR_HEATING*###*카뷰레터 가열 전선
+E_CASE*###*보관함
+E_CASE_LARGE*###*대형 보관함
+E_CHEST*###*상자
+E_CLAMPINGDEVICE*###*클램프 장치(없음)
+E_CLUTCH*###*클러치
+E_CLUTCH_FLANGE*###*클러치 플랜지
+E_CLUTCH_GASKET*###*클러치 하우징 개스킷
+E_CLUTCH_HOUSING*###*클러치 하우징
+E_CLUTCH_PEDAL*###*클러치 페달
+E_COCKPIT*###*조종 체계
+E_COFFER*###*금고
+E_COMMANDERPERISCOPE*###*전차장 잠망경
+E_COMMANDERCUPOLA*###*전차장 큐폴라
+E_COMMANDERCUPOLA_RING*###*전차장 큐폴라 링
+E_COMMANDERCUPOLA_COVER*###*전차장 큐폴라 덮개
+E_COMMANDER_FOOTREST*###*전차장 발걸이
+E_CONNECTINGHOSE*###*연결 호스
+E_CONTROL*###*변속기(없음)
+E_COOLANTFILLER*###*냉각수 주입기
+E_COOLANT_TANK*###*냉각수 탱크
+E_COOLANT_TANK_SURGE*###*냉각수 서지 탱크
+E_COVER*###*덮개
+E_COVER_BATTERY*###*베터리 덮개
+E_COVER_TURRET_LEFT*###*포탑 좌측 덮개
+E_COVER_TURRET_RIGHT*###*포탑 우측 덮개
+E_COVER_GEARBOX*###*변속기 덮개
+E_COVER_GEARBOX_TOP*###*변속기 상단 덮개
+E_COVER_GEARBOX_FRONT*###*변속기 전면 덮개
+E_COVER_FLYWHEEL*###*플라이휠 덮개
+E_COVER_FUELTANK_LEFT*###*우측 연료 탱크 덮개
+E_COVER_FUELTANK_RIGHT*###*좌측 연료 탱크 덮개
+E_COVER_GENERATOR*###*발전기 덮개
+E_COVER_HULL*###*차체 덮개(없음)
+E_COVER_MAIN*###*엔진 주 덮개
+E_COVER_PROPELLERSHAFT_INSP*###*차축 점검용 덮개
+E_COVER_PUSHRODS*###*푸쉬로드 덮개
+E_COVER_EXHAUSTMANIFOLD*###*배기구 배니폴드 덮개
+E_COVER_SEAT*###*좌석 덮개
+E_COVER_DIFFERENTIAL*###*차동 장치 덮개
+E_COVER_FINALDRIVE*###*구동축 덮개
+E_COVER_FINALDRIVE_PLUG*###*차축 덮개 플러그
+E_COVER_STEERING*###*조향 체계 덮개
+E_COVER_VIEWER*###*관측창 덮개
+E_COVER_VALVES*###*벨브 덮개
+E_COVER_IGNITION*###*점화 케이블 덮개
+E_COVERS_ENGINE*###*엔진 덮개
+E_COVERS_ENGINE_INSP*###*엔진 점검용 덮개
+E_COVERS_FANS*###*환풍기 덮개
+E_COVERS_FUEL*###*연료 탱크 덮개
+E_COVERS_RADIATOR*###*라디에이터 덮개
+E_CRANKSHAFT*###*크랭크샤프트
+E_CRANKSHAFT_BEARING_CAP*###*크랭크샤프트 베어링 뚜껑
+E_CRATE*###*상자
+E_CROSSBEAM*###*교차 빔
+E_CYLINDER*###*실린더
+E_DASHBOARD*###*계기판
+E_DIFFERENTIAL_GEARS*###*차동 장치
+E_DIFFERENTIAL_HOUSING*###*차동 장치 하우징
+E_DIPSTICK*###*계량봉
+E_DOOR*###*문
+E_DOOR_DRIVER*###*조종수 문
+E_DOOR_DRIVER_HATCH*###*조종수 문 해치
+E_DOOR_DRIVER_SIGHT*###*조종수 문 관측창
+E_DOOR_ASSISTANT*###*무전수 문
+E_DOOR_ASSISTANT_HATCH*###*무전수 문 해치
+E_DOOR_ASSISTANT_SIGHT*###*무전수 문 관측창
+E_DOOR_REAR*###*후방 문
+E_DRIVER_SIGHT*###*조종수 관측창
+E_DRIVERASSISTANTPERISCOPE*###*조종수/무전수 잠망경
+E_DRIVERPERISCOPE*###*조종수 잠망경
+E_DRIVECHAIN*###*구동 체인
+E_DRUMBRAKE*###*브레이크 드럼
+E_DUALTRACKSUPPORTROLLER*###*가로 스프링
+E_ELECTROSTARTER*###*전기 스타터
+E_ELECTRICAL_BOX*###*전자기기 지지대
+E_ELECTRICAL_TERMINAL*###*전자기기 제어기
+E_ELEVATING_HANDWHEEL*###*부앙 손잡이
+E_ENGINE*###*엔진오일 공급기
+E_ENGINEHATCH*###*엔진 해치
+E_ENGINEHATCH_FRAME*###*엔진 해치 프레임
+E_ENGINEHATCH_LARGE*###*대형 엔진 해치
+E_ENGINEHATCH_SMALL*###*소형 엔진 해치
+E_ENGINE_HOOD*###*엔진 후드
+E_ENGINE_BRACKET*###*엔진 지지대
+E_ENGINEMOUNT*###*엔진 마운트
+E_EQUILIBRATORSPRING*###*수평 스프링(수정)
+E_EXHAUST*###*배기구
+E_EXHAUSTMUFFLER*###*배기구 머플러
+E_EXHAUSTLEFT*###*좌측 머플러
+E_EXHAUSTRIGHT*###*우측 머플러
+E_EXHAUSTMANIFOLD*###*배기 매니폴드
+E_EXHAUSTMANIFOLD_LEFT*###*좌측 배기 매니폴드
+E_EXHAUSTMANIFOLD_RIGHT*###*우측 배기 매니폴드
+E_EXHAUSTPIPE*###*배기 파이프
+E_EXHAUSTPIPE_LEFT*###*좌측 배기 파이프
+E_EXHAUSTPIPE_RIGHT*###*우측 배기 파이프
+E_EXHAUSTPIPECOVER*###*배기 파이프 덮개
+E_EXHAUSTDEFLECTOR*###*배기 디플렉터
+E_EXHAUSTTIP*###*배기구 끝
+E_EXHAUSTELBOW*###*배기구 팔꿈치
+E_EXTINGUISHER*###*소화기
+E_FAN*###*라디에이터 팬
+E_FANS*###*라디에이터 팬
+E_FAN_HUB*###*라디에이터 팬 허브
+E_FAN_SHROUD*###*라디에이터 팬 덮개
+E_FAN_DRIVE*###*라디에이터 팬 구동장치
+E_FASTENING*###*고정 장치
+E_FENDER*###*펜더
+E_FRONTCOVER*###*전방 덮개
+E_FRONTDRIVEWHEEL*###*전방 구동휠
+E_FINALDRIVE*###*최종 구동축
+E_FLOOR*###*바닥
+E_FLYWHEEL*###*플라이휠
+E_FRONTLIGHT*###*전방 헤드라이트
+E_FRONTLIGHT_COVER*###*전방 헤드라이트 덮개
+E_FRONTLIGHT_MOUNT*###*전방 헤드라이트 마운트
+E_FRONTMOUNT*###*전방 마운트
+E_FRONTPLATE*###*전면 장갑판
+E_FRONTSPRINGARM*###*전방 스프링 암
+E_FUEL_CAP*###*연료 탱크 뚜껑
+E_FUEL_CAP_COVER*###*연료 탱크 뚜껑 덮개
+E_FUELCANISTERSLOT*###*연료통 보관함
+E_FUELFILLER*###*연료 공급기
+E_FUELFILTER*###*연료 필터
+E_FUELGAGESENDINGUNIT_LEFT*###*좌측 연료 공급 장치
+E_FUELGAGESENDINGUNIT_RIGHT*###*우측 연료 공급 장치
+E_FUELHOSE*###*연료 호스
+E_FUELPUMP*###*연료 펌프
+E_FUELPUMPHOSE*###*연료 펌프 호스
+E_FUELTANK*###*연료 탱크
+E_FUELTANK_LEFT*###*좌측 연료 탱크
+E_FUELTANK_RIGHT*###*우측 연료 탱크
+E_FUELTANK_HORIZONTRAL*###*가로 연료 탱크
+E_FUELTANK_VERTICAL*###*세로 연료 탱크
+E_FUELTANK_OUTER*###*외부 연료 탱크
+E_FUELTANK_HATCH*###*연료 탱크 해치
+E_FUELTANK_BASE*###*연료 탱크 베이스
+E_GASMASK_BOX*###*방독면 보관함
+E_GASPEDAL*###*가스 페달
+E_GEARBOXMAINBODY*###*변속기
+E_GEARCOVER*###*기어 덮개
+E_GEARMECHANISM*###*부앙 기어 체계
+E_GEARMECHANISM_ARM*###*부앙 기어 암
+E_GEAR*###*도구
+E_GEARS*###*기어
+E_GEARELEMENT*###*기어 부품
+E_GENERATOR*###*발전기
+E_GENERATOR_REGULATOR*###*발전기 제어기
+E_GOVERNOR*###*주입 펌프 제어기
+E_GRENADELAUNCHER*###*유탄 발사기
+E_GRENADELAUNCHER_LEFT*###*좌측 유탄 발사기
+E_GRENADELAUNCHER_RIGHT*###*우측 유탄 발사기
+E_GRILLE_FLAP*###*그릴 뚜껑
+E_GUDGEONPIN*###*고정핀
+E_GUN*###*포미
+E_GUN_2*###*주포
+E_GUN_CRADLE*###*주포 지지대
+E_GUN_INTERIOR_MANTLET*###*내부 포방패
+E_GUNATTACHMENT*###*포방패
+E_GUNBRAKE*###*포구 제퇴기
+E_GUNCOVER*###*주포 덮개
+E_GUNPORT*###*주포 구멍(없음)
+E_GUNSOCKET*###*주포 구멍(없음)
+E_GUNNEROPTICS*###*포수 조준기
+E_GUNNEROPTICSATTACHMENT*###*포수 조준기 부착물
+E_GUNTRAVELLOCK*###*주포 고정장치
+E_GUNCOUNTERBALANCE*###*주포 평형기
+E_HAMMER*###*해머
+E_HANDBRAKE*###*핸드브레이크
+E_HANDCRANK*###*수동 크랭크
+E_HANDCRANK_PORT*###*수동 크랭크 구멍
+E_HANDLEFANCLUTCH*###*팬 클러치 손잡이
+E_HANDLES*###*손잡이
+E_HANDRAIL*###*난간
+E_HANDWHEEL_ELEVATING*###*부앙 손잡이
+E_HANDWHEEL_TRAVERSE*###*회전 손잡이
+E_HATCH*###*해치
+E_HATCH_AMMO*###*탄약고 해치
+E_HATCH_BRAKEDRUMS*###*브레이크 드럼 해치
+E_HATCH_COMMANDER*###*전차장 해치
+E_HATCH_COMMANDER_COVER*###*전차장 해치 덮개
+E_HATCH_COMMANDER_FLAP*###*전차장 해치
+E_HATCH_DRIVER*###*조종수 해치
+E_HATCH_DRIVERASSISTANT*###*무전수 해치
+E_HATCH_EVACUATION*###*탈출용 해치
+E_HATCH_GEARBOX*###*변속기 해치
+E_HATCH_GUNNER*###*포수 해치
+E_HATCH_LOADER*###*장전수 해치
+E_HATCH_LOADER_LEFT*###*좌측 장전수 해치
+E_HATCH_LOADER_RIGHT*###*우측 장전수 해치
+E_HATCH_RADIOOPERATOR*###*무전수 해치
+E_HATCH_ROOF*###*지붕 해치
+E_HATCH_REAR*###*후면 해치
+E_HATCH_PERISCOPE*###*잠망경 해치
+E_HATCH_FAN*###*환풍기 해치
+E_HINGE*###*경첩
+E_HOUSINGCOVER*###*엔진 헤드
+E_HOOK*###*고리
+E_HORN*###*경적
+E_HULLMG*###*차체 기관총
+E_HYDRAULIC_TRAVERSE*###*유압 회전 발판
+E_IDLER*###*아이들러 휠
+E_IDLER_ARM*###*아이들러 휠 암
+E_IDLER_POST_BRACE*###*아이들러 막대기 지지대
+E_IDLER_SHACKLE*###*아이들러 고정 장치
+E_IDLER_SPRING*###*아이들러 스프링
+E_IDLER_STOP_SCREW*###*아이들러 휠 고정 나사
+E_IDLER_WHEEL_SHAFT*###*아이들러 휠 샤프트
+E_IDLERTRUNNIONSUPPORT*###*아이들러 휠 트러니언 지지대
+E_IDLERWHEELTRUNNION*###*아이들러 휠 트러니언
+E_IGNITION*###*점화 마그네토
+E_IGNITION_COIL*###*점화 코일
+E_IGNITION_COIL_WIRE*###*점화 코일 전선
+E_IGNITION_WIRES*###*점화 전선
+E_INJECTIONPUMP*###*주입 펌프
+E_INJECTIONPUMP_DRIVE*###*주입 펌프 구동 장치
+E_INERTIASTARTER*###*관성 스타터
+E_INNERSLEEVE*###*안쪽 포열
+E_INSTRUMENTPANEL*###*계기판
+E_INTAKE_SYSTEM*###*흡기 체계
+E_JACK*###*잭
+E_LEAFSPRING*###*리프 스프링
+E_LEAFSPRING_PLATE*###*리프 스프링 판
+E_LEVER*###*레버
+E_LEVER_GEARBOX*###*변속기 레버
+E_LEVER_STEERING*###*조향 레버
+E_LEVER_STEERING_BRACKET*###*조향 레버 지지대
+E_LEVERS_STEERING*###*조향 레버
+E_LEVERS*###*레버
+E_LINK_DRAG*###*드래그 링크
+E_LINK_DRAG_BRACKET*###*드래그 링크 지지대
+E_LOADERSPERISCOPE*###*장전수 잠망경
+E_LOADER_CUPOLA*###*장전수 큐폴라
+E_LOCK*###*손잡이 고정장치
+E_LOCK_UPPER*###*상단 막대기 고정 장치
+E_LOCK_LOWER*###*하단 막대기 고정 장치
+E_LOCKER*###*락커
+E_LOCKERDOOR*###*락커 문
+E_MAGNETO*###*마그네토 발전기
+E_MANIFOLDS*###*매니폴드
+E_MASTERCYLINDER*###*주 실린더
+E_MARKER*###*위치 표시기
+E_MGFIRINGPEDAL*###*기관총 발사 페달
+E_MG_CRADLE*###*기관총 지지대
+E_MG_MOUNT*###*기관총 받침대
+E_MG_SHIELD*###*기관총 포방패
+E_MG_BASE*###*기관총 베이스
+E_MG_RIM*###*기관총 테두리
+E_MISSILE*###*미사일
+E_MISSILE_SET*###*미사일 묶음
+E_MISSILESTAND*###*미사일 스탠드
+E_MISSILESTOWAGE*###*미사일 보관함
+E_MOTORSHIELD*###*모터 덮개
+E_MOTORSHIELD_TURRET*###*포탑 모터 덮개
+E_MOUNTINGBRACKET*###*마운트 지지대
+E_MUDGUARD*###*머드가드
+E_MUDGUARD_BACK*###*후방 머드가드
+E_MUDGUARD_FRONT*###*전방 머드가드
+E_MUDGUARD_SIDE*###*측면 머드가드
+E_MUDCLEANERBLADE*###*진흙 제거 날
+E_MUZZLE_BRAKE_RING*###*포구 제퇴기 링
+E_MOUNT*###*마운트
+E_OIL_CAP*###*오일 탱크 뚜껑
+E_OILCONTAINER*###*오일 탱크
+E_OILCOOLER*###*오일 냉각기
+E_OILCOOLER_LINE*###*오일 냉각기 전선
+E_OILFILLER*###*오일 주입기
+E_OILFILLER_TUBE*###*오일 주입 튜브
+E_OILFILTER*###*오일 필터
+E_OILPAN*###*오일 팬
+E_OILPAN_BREATHER*###*오일 팬 환풍
+E_OILPAN_FILTER*###*오일 필터
+E_OILSUPPLYTANK*###*오일 공급 탱크
+E_OIL_TEMPERATURE_REGULATOR*###*오일 온도 조절기
+E_OUTERJACKET*###*외부 재킷
+E_OUTERSLEEVE*###*외부 포열
+E_OUTERSLEEVECOVER*###*외부 포열 덮개
+E_OUTERSLEEVEJACKET*###*외부 포열 재킷
+E_PANEL*###*제어판
+E_PANEL_STAND*###*패널 스탠드
+E_PANEL_CASE*###*패널 케이스
+E_PARTITION*###*칸막이
+E_PEDAL*###*페달
+E_PEDALS*###*페달
+E_PERISCOPE*###*잠망경
+E_PICKAXE*###*곡괭이
+E_PIN*###*핀
+E_PIN_FUEL*###*연료 탱크 뚜껑 핀
+E_PISTOLPORT*###*권총 포트
+E_PISTON*###*피스톤
+E_PISTON_CAP*###*콘로드 뚜껑
+E_PISTON_ROD*###*피스톤 로드
+E_PLATE*###*판
+E_PROPELLERSHAFT*###*구동축 샤프트
+E_PROPELLERSHAFT_COVER*###*구동축 샤프트 덮개
+E_PROTECTIVESLEEVE*###*포방패 보호 포열
+E_PULLEY*###*풀리
+E_PULLEY_CRANKSHAFT*###*크랭크샤프트 풀리
+E_PUSHROD*###*푸쉬로드
+E_RADIATOR*###*라디에이터
+E_RADIATOR_CAP*###*라디에이터 뚜껑
+E_RADIATOR_INLETCONNECTOR*###*라디에이터 흡입 커넥터
+E_RADIO*###*무전기
+E_RADIO_TRANSMITTER*###*무전 송신기
+E_RADIO_RECEIVER*###*무전 수신기
+E_RADIO_CASE*###*무전기 케이스
+E_RADIO_POWER*###*무전기 전력 공급 장치
+E_RADIO_CONNECTOR*###*무전기 커넥터
+E_RADIO_MORSE*###*전신
+E_RADIOOPERATOR_SIGHT*###*무전수 관측창
+E_RAILING*###*난간
+E_REARDRIVEWHEEL*###*후방 구동축
+E_RECOILCYLINDERS*###*반동 실린더
+E_RECOVERYHOOK*###*구난용 후크
+E_REDUCER*###*감속기
+E_ROADWHEEL_WIDE*###*넓은 보기륜
+E_ROADWHEEL_NARROW*###*좁은 보기륜
+E_ROADWHEEL*###*보기륜
+E_ROADWHEEL_SINGLE_OUTER*###*외부 보기륜 1
+E_ROADWHEEL_SINGLE_INNER*###*내부 보기륜 1
+E_ROADWHEEL_DOUBLE_OUTER*###*외부 보기륜 2
+E_ROADWHEEL_DOUBLE_INNER*###*내부 보기륜 2
+E_ROADWHEELARM*###*보기륜 암
+E_ROADWHEELARM_FRONT*###*전방 보기륜 암
+E_ROD*###*로드
+E_ROD_TIE*###*타이 로드
+E_ROD_THROTTLE*###*스로틀 막대기
+E_ROLL*###*롤러 휠
+E_ROLL_DUAL*###*이중 롤러
+E_ROLL_SINGLE*###*단일 롤러
+E_ROLLSUPPORT*###*롤러 휠 보조
+E_ROLLSUPPORT_DUAL*###*이중 롤러 보조
+E_ROLLSUPPORT_SINGLE*###*단일 롤러 보조
+E_ROLLERBEARING*###*롤러 베어링
+E_ROTATIONCONTACTDEVICE*###*회전축 고정 장치
+E_SINGLEWHEELSPACER*###*단일 휠 스페이서
+E_DOUBLEWHEELSPACER*###*이중 휠 스페이서
+E_SAW*###*톱
+E_SEAT*###*좌석
+E_SEAT_ASSIST*###*무전수 좌석
+E_SEAT_COMMANDER*###*전차장 좌석
+E_SEAT_DRIVER*###*조종수 좌석
+E_SEAT_GUNNER*###*포수 좌석
+E_SEAT_LOADER*###*장전수 좌석
+E_SEAT_RADIOOPERATOR*###*무전수 좌석
+E_SHACKLE*###*샤클
+E_SHAFT*###*변속기 샤프트
+E_SHAFT_DRIVE_FRONT*###*전방 구동 샤프트
+E_SHAFT_DRIVE_REAR*###*후방 구동 샤프트
+E_SHAFT_DRIVE_MIDDLE*###*중앙 구동 샤프트
+E_SHEARS*###*절단기
+E_SHELF*###*선반
+E_SHOCKABSORBER*###*완충기
+E_SHOVEL*###*삽
+E_SHOVELS*###*삽
+E_SIDEPLATE*###*측면 장갑판
+E_SIDESKIRT*###*사이드 스커트
+E_SIDESKIRT_RACK*###*사이드 스커트 랙
+E_SIGHTINGDEVICE*###*관측 장치
+E_SIGHT*###*관측창
+E_SIGHT_ROD*###*관측창 막대기
+E_SIGHT_ASSISTANT*###*무전수 관측창
+E_SPARKPLUG*###*점화 플러그
+E_SPEAKER*###*스피커
+E_SPOTLIGHTATTACHMENT*###*스포트라이트 부착물
+E_SPRINGSEATPIN*###*스프링 좌석 핀
+E_SPRING_VOLUTE_VERTICAL*###*세로 나선형 스프링
+E_SPROCKET*###*스프로킷
+E_SPROCKETWHEELTRUNNION*###*스프로킷 트러니언
+E_SPROCKETWHEEL_COVER*###*스프로킷 덮개
+E_STAND*###*엔진 거치대
+E_STARTER*###*발전기
+E_STARTER_WIRES*###*스타터 전선
+E_STARTER_PNEUMATIC*###*공기압 스타터
+E_STARTER_MAGNET*###*스타터 전자석
+E_STEERING_KNUCKLE*###*조향 관절
+E_STEERING_GEAR*###*조향 기어
+E_STEERING_MECHANISM*###*조향 체계
+E_STEERINGCARRIAGE_MOUNT*###*유압 조향 마운트
+E_STEERINGCARRIAGE_MECHANISM*###*유압 조향 체계
+E_STEERINGCARRIAGE_OILTANK*###*유압 오일 탱크
+E_STEERINGCARRIAGE_PIPE*###*조향 체계 파이프
+E_STEERINGCARRIAGE_BASE*###*조향 체계 베이스
+E_STEERINGWHEEL*###*핸들
+E_STEP*###*계단
+E_SUPERSTRUCTURE*###*상부 구조물
+E_SUSPCOVER*###*서스펜션 덮개
+E_SUSPENSION*###*서스펜션
+E_SUSPENSIONARM*###*서스펜션 암
+E_SUSPENSIONARMPIN*###*서스펜션 암 핀
+E_SUSPENSIONLEVER*###*서스펜션 레버
+E_SUSPENSIONMOUNT*###*서스펜션 마운트
+E_SYNCHRO*###*동기 장치
+E_TACHOMETER_ADAPTER*###*RPM 계기판 어댑터
+E_TACHOMETERDRIVE*###*RPM 계기판 구동축
+E_THERMOSTAT*###*온도 조절 장치
+E_TOWINGHOOK*###*견인줄
+E_TOOLBOX*###*도구 상자
+E_TOOLBAG*###*도구 가방
+E_TORSIONBAR*###*토션 바
+E_TORQUE_ROD_UPPER*###*상단 토크 막대기
+E_TORQUE_ROD_LOWER*###*하단 토크 막대기
+E_TOWROPE_SIDE*###*궤도 견인줄
+E_TOWROPE_TOP*###*상단 견인줄
+E_TOWROPE_BRACKET*###*견인줄 브래킷
+E_TOWROPE*###*견인줄
+E_TRACKS*###*궤도
+E_TRACKS_BELT*###*궤도 벨트
+E_TRACKS_FRONT*###*전방 궤도
+E_TRACKS_REAR*###*후방 궤도
+E_TRANSFER_CASE*###*교환축 케이스
+E_TRANSMCOVERHATCH*###*변속기 덮개 해치
+E_TRANSMISSION*###*변속기
+E_TRANSMISSION_FRONTCOVER*###*변속기 후방 덮개
+E_TRANSMISSION_MAINCOVER*###*변속기 주 하우징
+E_TRANSMISSION_SHAFT*###*변속기 샤프트
+E_TRACKSKID*###*궤도 침목
+E_TRACKFRAME*###*궤도 프레임
+E_TRACKFRAME_MOUNT*###*궤도 프레임 마운트
+E_TRACKFRAME_BRACKET*###*궤도 프레임 브래킷
+E_TURRETCONTROL*###*포탑 제어기
+E_TURRETENGINE*###*포탑 엔진
+E_TURRET_MANTLET*###*포탑 포방패
+E_TURRET_MANTLET_BASE*###*포탑 포방패 베이스
+E_TENSIONMECHANISM*###*탄성 메커니즘
+E_TIMINGCHAIN*###*타이밍 체인
+E_TIMINGGEAR*###*타이밍 기어
+E_TIMINGSLEEVE*###*타이밍 슬리브
+E_TIMINGCOVER_TOP*###*타이밍 덮개
+E_TIMINGCOVER*###*타이밍 하우징
+E_TRAVERSE_MECHANISM*###*회전 메커니즘
+E_UNBASE_ENGINE*###*엔진 블록
+E_UNBASE_HULL_EXTERIOR*###*차체
+E_UNBASE_HULL_INTERIOR*###*차체 내부
+E_UNBASE_TURRET_EXTERIOR*###*포탑
+E_UNBASE_TURRET_INTERIOR*###*포탑 내부
+E_UNBASE_GEARBOX*###*변속기
+E_VBELT*###*V-벨트
+E_VALVE*###*벨브
+E_VALVE_ARM*###*벨브 암
+E_VENTCOVER*###*환풍기 덮개
+E_VIBRATIONDAMPER*###*진동 완충기
+E_VIEWER*###*관측창
+E_VIEWERCOVER*###*관측창 덮개
+E_VISION*###*바이저
+E_VVSS*###*세로 스프링
+E_WATER_BYPASS*###*냉각수 우회 파이프
+E_WATERMANIFOLD*###*냉각수 매니폴드
+E_WATEROUTLET*###*냉각수 배출구
+E_WATERPUMP*###*냉각수 펌프
+E_WHEELPLACE*###*차륜 고정 장치
+E_WHEELS*###*차륜
+E_WHEELTIRE*###*타이어
+E_WHEELRIM*###*휠
+E_WOODENSHELF*###*목재 선반
+E_WRENCH*###*렌치
+U_PREFIX_SELECT*###*선택
+U_PREFIX_TURN_ON*###*켜기
+U_PREFIX_TURN_OFF*###*끄기
+U_PREFIX_ENTER*###*사용
+U_PUMP*###*펌프
+U_PUMP_PIPE*###*펌프 파이프
+U_EXCAVATOR*###*굴착기
+U_OFFROADVEHICLE*###*오프로드 차량
+U_QUAD*###*ATV
+U_TANK*###*전차
+U_MAGNETOMETER*###*자기 탐지기
+U_DRONE*###*드론
+U_LAPTOP*###*노트북
+U_COMPUTER*###*컴퓨터
+U_LAMP*###*전등
+U_STEPS*###*계단
+U_UPGRADEPANEL*###*업그레이드 패널
+U_GOTO*###*{0}로 이동
+U_GOTO_NOPARAMETER*###*이동
+U_WORKSHOP*###*작업실
+U_MUSEUM*###*박물관
+U_YARD*###*마당
+U_PARKING*###*주차장
+U_STORAGE*###*창고
+U_PAINTROOM*###*도색실
+U_TANKGRAVEYARD*###*전차 폐차장
+U_TANKWAREHOUSE*###*전차 차고
+U_TRASH*###*쓰레기
+U_STAND_TURRET*###*포탑 스탠드
+U_STAND_ENGINE*###*엔진 스탠드
+U_METALOBJECT*###*금속 물체
+U_METALOBJECT_BADGE_GER_ASSAULT*###*보병 전투 수훈장
+U_METALOBJECT_BADGE_GER_COMBAT*###*근접전투기장
+U_METALOBJECT_BADGE_GER_IRONCROSS*###*철십자 훈장
+U_METALOBJECT_BADGE_GER_KNIGHTCROSS*###*기사 십자 훈장
+U_METALOBJECT_BADGE_GER_WOUNDED*###*부상 훈장
+U_METALOBJECT_GER_MP40*###*MP-40
+U_METALOBJECT_GER_LUGER*###*루거
+U_METALOBJECT_GER_MG34*###*MG-34 A
+U_METALOBJECT_GER_MG42*###*MG-42
+U_METALOBJECT_GER_HELMET*###*베흐마흐트 헬멧
+U_METALOBJECT_USSR_PPSH*###*PPSH
+U_METALOBJECT_USSR_TT*###*TT
+U_METALOBJECT_USSR_DT*###*DT
+U_METALOBJECT_USSR_MOSINNAGANT_M38*###*모신 나강 M38
+U_METALOBJECT_USSR_MOSINNAGANT_9130*###*모신 나강 91-30
+U_METALOBJECT_USSR_MOSINNAGANT_1891*###*모신 나강 1891
+U_METALOBJECT_USA_COLT1911*###*콯트 1911
+U_METALOBJECT_USA_M2*###*M2 브라우닝
+U_METALOBJECT_USA_M3GREASEGUN*###*M3 그리스 건
+U_METALOBJECT_USA_M1919BROWNING*###*M1919 브라우닝
+U_METALOBJECT_USA_THOMPSON*###*톰슨 기관단총
+U_METALOBJECT_USA_M1CARBINE*###*M1 카빈
+U_METALOBJECT_USA_M1GARAND*###*M1 개런드
+U_METALOBJECT_USA_BAR*###*브라우닝 자동소총
+U_METALOBJECT_USA_M1A1BAZOOKA*###*M1A1 바주카
+U_METALOBJECT_ENG_STENMKII*###*스텐 Mk II
+U_METALOBJECT_ENG_BESA*###*베사
+U_METALOBJECT_ENG_FAIRBAIRNSYKES*###*페어번 사익스 전투 단검
+U_METALOBJECT_ENG_VICKERS_MMG*###*빅커스 중기관총
+U_METALOBJECT_BINOC*###*쌍안경
+M_SIDE_GER*###*독일
+M_SIDE_USSR*###*소련
+M_SIDE_USA*###*미국
+M_SIDE_UK*###*영국
+M_PROP_TYPE_MACHINEGUN*###*기관총
+M_PROP_TYPE_PERSONALWEAPON*###*개인 화기
+M_PROP_TYPE_BADGE*###*훈장
+M_PROP_TYPE_EQUIPMENT*###*장비
+M_PROP_TYPE_AMMO*###*탄약
+M_PROP_RARITY_COMMON*###*흔함
+M_PROP_RARITY_RARE*###*드묾
+M_PROP_RARITY_VERYRARE*###*매우 드묾
+M_PROP_RARITY*###*희귀도
+M_MONEY*###*돈:
+M_TANKMUSEUM*###*전차 박물관
+M_ENTER*###*들어가기
+M_TANKWIKI*###*전차 백과
+M_TANK_SELECTOR_TITLE*###*전차:
+M_TANK_SELECTOR_SELECT*###*전차 선택...
+M_OTHERS*###*기타
+M_MODES*###*모드
+M_MOVEMENT*###*이동
+M_MOVEMENT_FORWARD*###*앞으로 이동
+M_MOVEMENT_BACKWARD*###*뒤로 이동
+M_MOVEMENT_LEFT*###*왼쪽으로 이동
+M_MOVEMENT_RIGHT*###*오른쪽으로 이동
+M_MOVEMENT_JUMP*###*점프
+M_MOVEMENT_SPRINT*###*달리기
+M_MOVEMENT_CROUCH*###*웅크리기
+M_SETTINGS*###*설정
+M_CREDIT*###*제작자들
+M_EXIT*###*나가기
+M_CLOSE*###*닫기
+M_CREATE*###*생성
+M_DELETEDATA*###*데이터 삭제
+M_FORCEQUIT*###*강제 종료
+M_CLICKHERETOTYPE*###*여기를 눌러 입력...
+M_DECISIONSCREENTITLE*###*결정 화면
+M_WARNINGTITLE*###*경고!
+M_CONFIRMATION*###*확인
+M_WARNINGMESSAGE*###*경고: {0}
+M_CONTINUE*###*계속
+M_CLICK*###*클릭
+M_TOSELECTELEMENT*###*부품을 선택하려면
+M_TODISASSEMBLE*###*해체하려면
+M_HOLD*###*홀드
+M_YES*###*예
+M_NO*###*아니요
+M_EMPTY*###*비었음
+M_SAVE*###*저장
+M_LOAD*###*불러오기
+M_GAME*###*게임
+M_MENU*###*메뉴
+M_MODE*###*모드
+M_LEVEL*###*단계
+M_BACK*###*뒤로
+M_LOADING*###*불러오는 중
+M_SAVING*###*저장 중
+M_PLEASEWAIT*###*{1} {0}, 기다려 주세요…
+M_MANAGERS*###*관리자
+M_FINISHED*###*완료됨
+M_SAVES*###*저장
+M_PLAYER*###*플레이어
+M_EXTRACTIONAREA*###*발굴 구역
+M_MARKERS*###*마커
+M_TARGET*###*목표
+M_EXTRACTION_TOGGLE_CONTROLS*###*드론/발굴 전환
+M_EXTRACTION_TOGGLE_MAP*###*자기 탐지기/위성 화면 전환
+M_EXTRCATION_NOTIFICTAION*###*발굴 안내
+M_EXTRACTION_NOTIFICATION_DESC*###*발굴을 위한 구역을 지정했습니다.\n\n계속하시겠습니까?
+M_EXTRACTION_DIG*###*발굴
+M_EXTRACTION_DRONE*###*드론
+M_EXTRACTION_SATELITE*###*위성 시점
+M_EXTRACTION_GPR*###*GPR
+M_EXTRACTION_BACKTOBASE*###*작업실로 복귀
+M_EXTRACTION_TANKSTATE*###*전차 상태:
+M_EXTRACTION_MISSIONSTATE*###*임무 상태:
+M_EXTRACTION_MONEYSPENT*###*지불한 비용:
+M_EXTRACTION_GPRMAPSCALE*###*축척
+M_EXTRACTION_ABOVE*###*지표면 위
+M_EXTRACTION_GROUND*###*지표면
+M_EXTRACTION_SHALLOW*###*얕음
+M_EXTRACTION_UNDERGROUND*###*지하
+M_EXTRACTION_DEEP*###*깊음
+M_EXTRACTION_VERYDEEP*###*매우 깊음
+M_EXTRACTION_ACTIVECONTROLS*###*활성화된 제어 모드:
+M_EXTRACTION_ACTIVEMAP*###*활성화된 맵 모드:
+M_EXTRACTION_STATUS_CHECKMAP_TITLE*###*맵 확인
+M_EXTRACTION_STATUS_CHECKMAP_DESC*###*차량의 태블릿에서 맵을 확인하세요
+M_EXTRACTION_STATUS_FINDTANK_TITLE*###*전차 탐색
+M_EXTRACTION_STATUS_FINDTANK_DESC*###*금속 탐지기를 사용하거나, 해금했다면 자기 탐지기, 드론을 사용해 전차를 찾으세요. 해당 위치에 M키를 이용해 표시를 남기세요.
+M_EXTRACTION_STATUS_DIGTANK_TITLE*###*전차 발굴
+M_EXTRACTION_STATUS_DIGTANK_DESC*###*삽을 사용하거나 태블릿에서 발굴을 요청하세요.
+M_EXTRACTION_STATUS_EXCAVATETANK_TITLE*###*전차 발굴
+M_EXTRACTION_STATUS_EXCAVATETANK_DESC*###*태블릿으로 돌아가 발굴 팀을 요청해 전차를 발굴하세요.
+M_EXTRACTION_STATUS_PUMPMUD_TITLE*###*진흙 제거
+M_EXTRACTION_STATUS_PUMPMUD_DESC*###*펌프를 가동하세요.
+M_EXTRACTION_STATUS_CLEANTANK_TITLE*###*전차 청소
+M_EXTRACTION_STATUS_CLEANTANK_DESC*###*압력 워셔를 사용하세요.\n필요한 청결도: {0}%\n현재 청결도: {1}%
+M_EXTRACTION_STATUS_LOADTANK_TITLE*###*전차 상차
+M_EXTRACTION_STATUS_LOADTANK_DESC*###*방사 메뉴를 열어 전차를 트레일러에 실으세요.
+M_EXTRACTION_STATUS_BACKTOBASE_TITLE*###*작업실로 복귀
+M_EXTRACTION_STATUS_BACKTOBASE_DESC*###*방사 메뉴를 열어 작업실로 복귀하세요.
+M_EXTRACTION_EXCAVATION_RESULT*###*발굴 결과
+M_EXTRACTION_EXCAVATION_SUCCESS*###*무언가를 찾았습니다!
+M_EXTRACTION_EXCAVATION_MUD*###*\n물이 유입되고 있습니다. 펌프로 뽑아내세요.
+M_EXTRACTION_EXCAVATION_FAIL*###*안타깝게도, 아무것도 없었습니다.
+M_PROVINGGROUNDS_RESTARTTARGETS*###*표적 재설정
+M_PROVINGGROUNDS_RESTARTTARGETS_DESC*###*표적들의 위치와 상태를 초기화하시겠습니까?
+M_PROVINGGROUNDS_RESUPPLY*###*재보급
+M_PROVINGGROUNDS_RESUPPLY_DESC*###*전차를 재보급할까요?
+M_PROVINGGROUNDS_SELECTCHALLENGE*###*도전과제 선택
+M_PROVINGGROUNDS_SELECTCHALLENGE_DESC*###*플레이할 도전과제 선택:
+M_PROVINGGROUNDS_SELECTTANK*###*전차 선택
+M_PROVINGGROUNDS_SELECTTANK_DESC*###*무슨 전차를 선택하시겠습니까?
+M_PROVINGGROUNDS_MISSIONSETTINGS*###*임무 설정
+M_PROVINGGROUNDS_CURRENTCHALLENGE*###*현재 도전과제:
+M_PROVINGGROUNDS_CURRENTTANK*###*현재 전차:
+M_PROVINGGROUNDS_TIMEOFDAY*###*현재 시각:
+M_PROVINGGROUNDS_STATUS_GETINTANK_TITLE*###*전차 내부 진입
+M_PROVINGGROUNDS_STATUS_GETINTANK_DESC*###*전차에 다가가 조종수석에 앉으세요.
+M_PROVINGGROUNDS_STATUS_TAKEPOSITION_TITLE*###*위치 설정
+M_PROVINGGROUNDS_STATUS_TAKEPOSITION_DESC*###*표시된 위치로 전차를 이동하세요.
+M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_TITLE*###*포수로 전환
+M_PROVINGGROUNDS_STATUS_SWITCHTOGUNNER_DESC*###*사격하려면, 포수석으로 전환하세요.
+M_PROVINGGROUNDS_STATUS_SHOOTTARGET_TITLE*###*목표 사격
+M_PROVINGGROUNDS_STATUS_SHOOTTARGET_DESC*###*표시된 목표를 조준하고 사격하세요.
+M_PROVINGGROUNDS_STATUS_OPENTABLET_TITLE*###*태블릿 열기
+M_PROVINGGROUNDS_STATUS_OPENTABLET_DESC*###*전차에서 나가 표시된 태블릿을 사용하세요.
+M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_TITLE*###*도전 과제 시작
+M_PROVINGGROUNDS_STATUS_STARTCHALLENGE_DESC*###*사격 도전 과제를 선택하고 시작하세요.
+M_LEGEND*###*범례
+M_LOADING_GAMEMODE*###*게임 모드
+M_LOADING_PLAYERDATA*###*플레이어 데이터
+M_LOADING_TANKS*###*전차
+M_MAINMENU*###*주 메뉴
+M_DATA*###*데이터
+M_TANKS*###*전차
+M_STATS*###*상태
+M_UPGRADES*###*업그레이드
+M_INHOUSE*###*In-House
+M_OUTSOURCE*###*복원
+M_RECYCLE*###*재활용
+M_SELL*###*판매
+M_MOUNT*###*마운트
+M_DISMOUNT*###*마운트 해제
+M_REPAIRS*###*수리
+M_SUMMARY*###*요약
+M_CHECKOUT*###*결제
+M_DOCONTINUE*###*계속하시겠습니까?
+M_COST*###*작업 비용:
+M_PROFIT*###*작업 수익:
+M_TIMEREQUIRED*###*최대 필요 시간:
+M_CRAFTINGPARTS*###*부품 제작으로 획득:
+M_XPGAINED*###*획득 경험치:
+M_TOOLS*###*도구
+M_EQUIPABLES*###*장비 가능
+M_METALOBJECTS*###*금속 물체
+M_APPLY*###*적용
+M_BACKTOMENU*###*주 메뉴로
+M_ASSEMBLYMENU*###*조립 메뉴
+M_STORAGEPANEL*###*저장 창고 패널
+M_PROPPANEL*###*전시물 패널
+M_CRAFTING_PANEL*###*제작 패널
+M_CRAFTING_PARTS*###*제작 중인 부품:
+M_CRAFTING_CRAFTELEMENTS*###*부품 제작
+M_CRAFTING_REPAIRELEMENTS*###*부품 수리
+M_CRAFTING_REQUIRED_CRAFTINGPARTS*###*부품 제작 필요:
+M_CRAFTING_REQUIRED_MONEY*###*필요 비용:
+M_CRAFTING_BUYBLUEPRINTS*###*전차 설계도 구매
+M_CRAFTING_BUYNEWTANK*###*새 전차 구매
+M_CRAFTING_CANNOT_TITLE*###*부품 제작 실패
+M_CRAFTING_CANNOT_DESC*###*부품 조각이 부족합니다.\n필요량: {0}, 보유량: {1}.
+M_CRAFTING_CANNOT_NOBLUEPRINT*###*이 전차의 설계도가 없습니다.
+M_CRAFTING_BUYBLUEPRINTS_HINT*###*새 부품을 제작하려면 제작 패널을 이용하세요.
+M_DESCRIPTION*###*설명
+M_DIRECTION*###*방향
+M_TOTAL*###*총:
+M_ALL*###*모두
+M_HULL*###*차체
+M_HULLINTERIOR*###*차체 내부
+M_TURRET*###*포탑
+M_TURRETINTERIOR*###*포탑 내부
+M_WHEELS*###*기동 계통
+M_TRACKS*###*궤도
+M_ENGINE*###*엔진
+M_GEARBOX*###*변속 계통
+M_FUELSYSTEM*###*연료 체계
+M_SELECTALL*###*모두 선택
+M_ORDERMISSINGPARTS*###*없는 부품 구매
+M_OUTSOURCEREPAIRS*###*부품 수리
+M_SELLSELECTED*###*판매
+M_RECYCLESELECTED*###*재활용
+M_SPAWNINGTANK*###*전차 소환중, 기다리세요...
+M_COSTMODIFIER*###*비용 계산:
+M_ANALISYS_BUYTANK*###*전차 구매
+M_ANALISYS_SELLTANK*###*전차 판매
+M_ANALISYS_BUYMISSINGPARTS*###*없는 부품 구매
+M_ANALISYS_TITLE*###*전차 분석
+M_ANALISYS_DETAILS*###*세부 사항:
+M_ANALISYS_ORIGIN*###*국적:
+M_ANALISYS_NAME*###*이름:
+M_ANALISYS_OWNER*###*소유자:
+M_ANALISYS_ELEMENT_LIST*###*전차 부품 목록:
+M_ANALISYS_ELEMENT_NAME*###*부품 이름
+M_ANALISYS_TANKVALUE*###*전차 가치:
+M_ANALISYS_PAINT_CAMO*###*도색과 위장
+M_ANALISYS_FACTORY_PAINT*###*공장 도색
+M_ANALISYS_CONDITION_REPAIRS*###*전차 전체 수리도:
+M_ANALISYS_CONDITION_ASSEMBLY*###*전차 전체 완성도:
+M_ANALISYS_CONDITION_OVERALL*###*전차 전체 상태:
+M_ANALISYS_CONDITION_HULLEXTERIOR*###*차체 외부 상태:
+M_ANALISYS_CONDITION_HULLINTERIOR*###*차체 내부 상태:
+M_ANALISYS_CONDITION_TURRETEXTERIOR*###*포탑 외부 상태:
+M_ANALISYS_CONDITION_TURRETINTERIOR*###*포탑 내부 상태:
+M_ANALISYS_CONDITION_GEARBOX*###*변속 계통 상태:
+M_ANALISYS_CONDITION_ENGINE*###*엔진 상태:
+M_ANALISYS_CONDITION_FUELSYSTEM*###*연료 체계 상태:
+M_ANALISYS_CONDITION_TRACKS*###*궤도 상태:
+M_ANALISYS_CONDITION_WHEELS*###*기동 계통 상태:
+M_PAINTROOM_PANEL*###*도색실 패널
+M_PAINTROOM_DECALS*###*데칼
+M_PAINTROOM_DECORATORS*###*장식
+M_PAINTROOM_CAMO*###*위장
+M_PAINTROOM_UNDO*###*되돌리기
+M_PAINTROOM_RESET*###*초기화
+M_PAINTROOM_PAINT*###*도색
+M_PAINTROOM_COLOR_PICKER*###*색 추출기
+M_PAINTROOM_COLOR_CAMO*###*위장의 색
+M_PAINTROOM_COLOR_PALETTE*###*색 팔레트
+M_PAINTROOM_COLOR_SWATCHES*###*색 미리보기
+M_PAINTROOM_CONTROLCAMOUFLAGE*###*위장 설정
+M_PAINTROOM_CONTROLDECALS*###*데칼 설정
+M_PAINTROOM_SELECTIONGRID*###*선택 그리드
+M_PAINTROOM_SCALE*###*비율
+M_PAINTROOM_ROTATION*###*회전
+M_PAINTROOM_STATE*###*상태
+M_PAINTROOM_PAINTSCHEME*###*저장된 도색
+M_CUSTOMIZER_LOCKED*###*잠김
+M_CUSTOMIZER_WORKSHOP_PANEL*###*작업실 꾸미기 패널
+M_CUSTOMIZER_MUSEUM_PANEL*###*박물관 꾸미기 패널
+M_CUSTOMIZER_MUSEUM*###*박물관
+M_CUSTOMIZER_WORKSHOP*###*작업실
+M_CUSTOMIZER_OFFICE*###*사무실
+M_CUSTOMIZER_CRAFTINGROOM*###*제작실
+M_CUSTOMIZER_PAINTROOM*###*도색실
+M_CUSTOMIZER_TURRETSTANDSLOT*###*포탑 스탠드
+M_CUSTOMIZER_ENGINESTANDSLOT*###*엔진 스탠드
+M_CUSTOMIZER_FLOOR*###*바닥
+M_CUSTOMIZER_WALLS*###*벽
+M_CUSTOMIZER_WALL1*###*벽 #1
+M_CUSTOMIZER_WALL2*###*벽 #2
+M_CUSTOMIZER_CEILING*###*천장
+M_CUSTOMIZER_ROOF*###*지붕
+M_CUSTOMIZER_PILLARS*###*기둥
+M_CUSTOMIZER_AVAILABLECOLLECTABLES*###*가능한 수집품
+M_CUSTOMIZER_EXHIBITEDCOLLECTABLES*###*전시된 수집품
+M_CUSTOMIZER_COLLECTABLESSTANDS*###*수집품 전시대
+M_CUSTOMIZER_COLLECTABLESSTAND*###*수집품 전시대
+M_CUSTOMIZER_MUSEUMROOM1*###*박물관 1
+M_CUSTOMIZER_MUSEUMROOM2*###*박물관 2
+M_CUSTOMIZER_WORKSHOPROOM1*###*작업실 1
+M_CUSTOMIZER_WORKSHOPROOM2*###*작업실 2
+M_CUSTOMIZER_TOCHANGECAMERA*###*카메라 전환
+M_CUSTOMIZER_MATERIALS*###*재질
+M_CUSTOMIZER_STANDS*###*스탠드
+M_CUSTOMIZER_MUSEUMSTANDS*###*박물관 스탠드
+M_CUSTOMIZER_COLLECTABLES*###*수집품
+M_CUSTOMIZER_FLAGS*###*현수막
+M_CUSTOMIZER_POSTERS*###*포스터
+M_CUSTOMIZER_POSTER*###*포스터
+M_CUSTOMIZER_MUSEUM_TANKSLOT*###*전차 슬롯
+M_CUSTOMIZER_TOSCALEDECAL*###*데칼 크기 조정
+M_CUSTOMIZER_TOROTATEDECAL*###*데칼 회전
+M_CUSTOMIZER_TOROTATE_LEFT*###*왼쪽으로 회전
+M_CUSTOMIZER_TOROTATE_RIGHT*###*오른쪽으로 회전
+M_DESKTOP_TANKMUSEUM*###*전차 박물관
+M_DESKTOP_MAILBOX*###*메일 상자
+M_DESKTOP_ORGANIZER*###*작업 관리
+M_DESKTOP_TANKSPARTSHOP*###*전차 부품 상점
+M_DESKTOP_TANKSSHOP*###*전차 상점
+M_DESKTOP_INVENTORYSHOP*###*도구 상점
+M_DESKTOP_BANK*###*은행
+M_DESKTOP_CATEGORIES*###*카테고리
+M_DESKTOP_TANKSUMMARY*###*전차 요약
+M_DESKTOP_CONDITION*###*상태:
+M_DESKTOP_EXTRA*###*기타:
+M_DESKTOP_RUSTED*###*녹슮
+M_DESKTOP_DIRTY*###*더러움
+M_DESKTOP_SANDBLASTED*###*모래 분사됨
+M_DESKTOP_PRIMED*###*프라이머 도색됨
+M_DESKTOP_PAINTED*###*도색됨
+M_DESKTOP_SHOP_CART*###*장바구니
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS*###*복원된 전차들
+M_DESKTOP_TANKMUSEUM_RENOVATEDTANKS_DESC*###*박물관에 있는 복원된 전차들
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS*###*대여한 전차들
+M_DESKTOP_TANKMUSEUM_RENTEDTANKS_DESC*###*다른 박물관에 대여한 전차들
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT*###*재무 보고
+M_DESKTOP_TANKMUSEUM_FINANCIALREPORT_DESC*###*박물관의 재무 보고
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE*###*입장료 설정 ($):
+M_DESKTOP_TANKMUSEUM_SETTICKETPRICE_DESC*###*입장료 비싸면 방문객 감소
+M_DESKTOP_TANKMUSEUM_TICKETPRICE*###*입장료:
+M_DESKTOP_TANKMUSEUM_VISITORSCURRENTLY*###*박물관 방문객 (현재):
+M_DESKTOP_TANKMUSEUM_VISITORSTOTAL*###*박물관 방문객 (총합):
+M_DESKTOP_TANKMUSEUM_INCOMERENTS*###*대여 수입 ($):
+M_DESKTOP_TANKMUSEUM_INCOMETICKETS*###*입장료 수입 ($):
+M_DESKTOP_TANKMUSEUM_INCOMESTOTAL*###*총 수입 ($):
+M_DESKTOP_TANKMUSEUM_DAY*###*일
+M_DESKTOP_TANKMUSEUM_TODAY*###*오늘
+M_DESKTOP_TANKMUSEUM_REMAININGTIME*###*남은 시간 (일):
+M_DESKTOP_TANKMUSEUM_TICKETSALESCHART*###*입장료 판매 차트:
+M_DESKTOP_TANKMUSEUM_ACCOUNTINGPERIODS*###*회계 기간
+M_DESKTOP_TANKMUSEUM_VISITORS*###*박물관 방문객
+M_DESKTOP_TANKMUSEUM_NEXTREPORT*###*다음 보고까지 남은 시간:
+M_DESKTOP_MAIL_SUBJECT*###*제목
+M_DESKTOP_MAIL_FROM*###*보낸 사람
+M_DESKTOP_MAIL_DATE*###*날짜
+M_DESKTOP_MAIL_FOLDERS*###*폴더
+M_DESKTOP_MAIL_CHECKEMAILS*###*새 메일 확인
+M_DESKTOP_MAIL_ALL*###*모든 의뢰
+M_DESKTOP_MAIL_AVAILABLE*###*가능한 의뢰
+M_DESKTOP_MAIL_ACTIVE*###*활성화된 의뢰
+M_DESKTOP_MAIL_ACCEPT*###*작업 수락
+M_DESKTOP_MAIL_FINISHED*###*완료한 의뢰
+M_DESKTOP_MAIL_CANCELLED*###*취소한 의뢰
+M_DESKTOP_MAIL_FAILED*###*실패한 의뢰
+M_DESKTOP_MAIL_ORDER_ACCEPT*###*주문 수락
+M_DESKTOP_MAIL_ORDER_DECLINE*###*주문 거절
+M_DESKTOP_MAIL_OFFER_ACCEPT*###*제안 수락
+M_DESKTOP_MAIL_OFFER_DECLINE*###*제안 거절
+M_DESKTOP_ORGANIZER_ACTIVECONTRACTS*###*활성화된 의뢰
+M_DESKTOP_BANK_TAKELOAN*###*대출
+M_DESKTOP_BANK_PAYOFFLOAN*###*대출 상환
+M_DESKTOP_BANK_DESCRIPTION*###*아래 슬라이더를 이용해 대출금을 설정하세요. 대출을 또 받으려면 기존 대출을 모두 상환해야 합니다. 대출을 모두 상환하지 않으면, 또 다른 대출을 받을 수 없습니다.\n\n대출을 받으려면:\n대출금을 설정하고 대출 버튼을 누르세요.\n\n대출을 상환하려면:\n돈이 충분하면 대출 상환 버튼을 누르세요.
+M_DESKTOP_BANK_SETLOANAMOUNT*###*대출금 설정
+M_DESKTOP_BANK_LOANAMOUNT*###*대출금:
+M_DESKTOP_BANK_LOANPERCENTAGE*###*대출 이자
+M_DESKTOP_BANK_PAYOFFAMOUNT*###*상환금:
+M_DESKTOP_INVENTORYSHOP_BRANCH_TOOLS*###*도구
+M_DESKTOP_INVENTORYSHOP_BRANCH_BUSINESS*###*사업
+M_DESKTOP_INVENTORYSHOP_BRANCH_PASSIVE*###*패시브
+M_DESKTOP_INVENTORYSHOP_UPGRADE_UNLOCK*###*업그레이드 해제
+M_DESKTOP_INVENTORYSHOP_UPGRADE_COST*###*필요 경험치
+M_DESKTOP_INVENTORYSHOP_UPGRADE_REPUTATION*###*사용가능한 경험치
+M_DESKTOP_INVENTORYSHOP_UPGRADE_PANEL*###*업그레이드 패널
+M_DESKTOP_INVENTORYSHOP_FLASHLIGHT_DESC*###*플래시라이트는 어두운 곳에서 주변을 볼 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_SHOVEL_DESC*###*필수 발굴 도구 중 하나입니다. 아무 비용 없이 땅을 팔 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_METALDETECTOR_DESC*###*필수 발굴 도구 중 하나입니다. 지하에 숨겨진 모든 금속 물체를 탐지합니다.
+M_DESKTOP_INVENTORYSHOP_TABLET_DESC*###*태블릿은 어디서든지 제어 패널에 접근할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_ANGLEGRINDER_DESC*###*앵글 그라인더는 녹슨 나사와 부품 자르기와 녹 제거의 두 가지 기능을 모두 가지고 있습니다.
+M_DESKTOP_INVENTORYSHOP_PISTOLWRENCH_DESC*###*피스톨 렌치는 나사를 더 빠르게 풀거나 조일 수 있습니다. 녹슨 나사를 풀 수도 있습니다.
+M_DESKTOP_INVENTORYSHOP_OFFROADVEHICLE_DESC*###*필수 발굴용 차량 중 하나입니다. 거친 지형을 필요한 모든 도구를 싣고 이동할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_QUAD_DESC*###*사륜차는 더 빠르고 거친 지형을 이동할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_TITLE*###*자기 탐지기
+M_DESKTOP_INVENTORYSHOP_MAGNETOMETER_DESC*###*자기 탐지기는 더 뛰어난 지면 스캔 기술을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_DRONE_DESC*###*드론은 자기 탐지 기술을 이용해 공중에서 땅을 스캔합니다.
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_TITLE*###*도구 벨트
+M_DESKTOP_INVENTORYSHOP_TOOLBELT_DESC*###*작업용 도구를 직접 들지 않고 바로 사용할 수 있게 합니다.
+M_DESKTOP_INVENTORYSHOP_PAINTROOM_DESC*###*도색실애서는 전차를 도색하거나, 위장 패턴을 고르고 데칼과 장식을 적용할 수 있습니다.
+M_DESKTOP_INVENTORYSHOP_PARKING_I_TITLE*###*주차장 1단계
+M_DESKTOP_INVENTORYSHOP_PARKING_II_TITLE*###*주차장 2단계
+M_DESKTOP_INVENTORYSHOP_PARKING_I_DESC*###*주차장 1단계는 차고에 더 많은 전차 슬롯을 제공합니다 (+2).
+M_DESKTOP_INVENTORYSHOP_PARKING_II_DESC*###*주차장 2단계는 차고에 더욱 많은 전차 슬롯을 제공합니다 (+4).
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_TITLE*###*박물관 1단계
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_TITLE*###*박물관 2단계
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_TITLE*###*박물관 3단계
+M_DESKTOP_INVENTORYSHOP_MUSEUM_I_DESC*###*박물관 1단계는 전차를 전시할 수 있는 박물관을 제공합니다! 4개의 전차 슬롯을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_II_DESC*###*박물관 2단계는 전차를 전시할 수 있는 더 많은 슬롯을 제공합니다! 8개의 전차 슬롯을 제공합니다.
+M_DESKTOP_INVENTORYSHOP_MUSEUM_III_DESC*###*박물관 3단계는 박물관의 첫 번째 방의 최종 버전입니다. 4개의 추가 슬롯을 제공합니다 (총 12개).
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_TITLE*###*전차 차고
+M_DESKTOP_INVENTORYSHOP_TANKWAREHOUSE_DESC*###*전차를 주차할 수 있는 차고로, 각 차고마다 6개의 슬롯을 제공합니다. 최대 차고 개수는 100개이며 {0}개의 차고를 소유하고 있습니다.
+M_DESKTOP_INVENTORYSHOP_TESTDRIVEYARD_DESC*###*시험 운전장은 전차를 시험 운전할 수 있는 특별한 장애물 코스를 제공합니다.
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_TITLE*###*제작 테이블
+M_DESKTOP_INVENTORYSHOP_CRAFTINGTABLE_DESC*###*제작 테이블은 전차의 새 부품을 제작할 수 있게 해줍니다. 각 부품을 제작할 때에는 정해진 부품 조각들의 필요합니다.
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_TITLE*###*자동 도색
+M_DESKTOP_INVENTORYSHOP_AUTOPAINT_DESC*###*자동 도색은 모래 분사기나 도색기 없이 자동으로 전차를 도색할 수 있게 해줍니다.
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_TITLE*###*작업실 2단계
+M_DESKTOP_INVENTORYSHOP_WAREHOUSE_II_DESC*###*작업실 2단계는 더 많은 작업 공간과 전차 슬롯을 추가해 동시에 더 많은 전차를 수리할 수 있게 해줍니다 (+2).
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_TITLE*###*사격장
+M_DESKTOP_INVENTORYSHOP_PROVINGGROUNDS_DESC*###*전차를 사격할 수 있는 사격장.
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_I_TITLE*###*1941년 겨울 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_II_TITLE*###*1942년 여름 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_III_TITLE*###*1943년 가을 할인
+M_DESKTOP_INVENTORYSHOP_DISCOUNT_DESC*###*모든 상점 할인: {0} %
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_TITLE*###*빠른손
+M_DESKTOP_INVENTORYSHOP_QUICKHANDS_DESC*###*나사를 조이는 속도 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_TITLE*###*더 나은 수리
+M_DESKTOP_INVENTORYSHOP_BETTERREPAIRS_DESC*###*모든 부품 수리 속도 증가, 가격 감소: {0} %
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_TITLE*###*프로 수리공
+M_DESKTOP_INVENTORYSHOP_PROFESSIONALRESTORER_DESC*###*경험치 획득 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_TITLE*###*판처예거처럼 움직이기
+M_DESKTOP_INVENTORYSHOP_MOVELIKEPANZERJAEGER_DESC*###*이동 속도 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_TITLE*###*숙달된 도구 사용
+M_DESKTOP_INVENTORYSHOP_TOOLSPROFICIENCY_DESC*###*모든 도구 효율 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_RECYCLING_TITLE*###*재활용
+M_DESKTOP_INVENTORYSHOP_RECYCLING_DESC*###*부품 조각 획득량 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_MONEY_TITLE*###*더 많은 돈
+M_DESKTOP_INVENTORYSHOP_MONEY_DESC*###*돈 획득량 증가: {0} %
+M_DESKTOP_INVENTORYSHOP_OWNED*###*보유함
+M_DESKTOP_INVENTORYSHOP_EXTRACTIONONLY*###*(발굴 임무 전용)
+M_SAVE_NAME*###*세이브 이름
+M_SAVE_COLORSWATCH*###*색 저장
+M_SAVE_PAINTSCHEME*###*페인트 저장
+M_SAVE_TYPE_FILENAME*###*파일 이름 입력
+M_SAVE_AUTO*###*자동 저장
+M_SAVE_CUSTOM*###*커스텀 세이브
+M_SAVE_QUICK*###*빠른 저장
+M_LOAD_QUICK*###*빠른 불러오기
+M_MANUAL_1_TITLE*###*뛰어난 전차 복원가가 되는 법
+M_MANUAL_2_TITLE*###*게임의 흐름
+M_MANUAL_3_TITLE*###*전차 복원 과정
+M_MANUAL_4_TITLE*###*상호작용 시스템
+M_MANUAL_5_TITLE*###*삽으로 파기
+M_MANUAL_6_TITLE*###*금속 탐지
+M_MANUAL_7_TITLE*###*자기 탐지기
+M_MANUAL_8_TITLE*###*드론
+M_MANUAL_9_TITLE*###*오프로드 차량
+M_MANUAL_10_TITLE*###*사륜 오토바이
+M_MANUAL_11_TITLE*###*그라인더
+M_MANUAL_12_TITLE*###*해머
+M_MANUAL_13_TITLE*###*녹 제거 도구
+M_MANUAL_14_TITLE*###*렌치
+M_MANUAL_1_FIELD_1*###*의뢰 수락
+M_MANUAL_1_FIELD_2*###*전차 복원
+M_MANUAL_1_FIELD_3*###*수익
+M_MANUAL_2_FIELD_1*###*이메일을 확인해 의뢰 요청 확인
+M_MANUAL_2_FIELD_2*###*아무 의뢰 수락/거부
+M_MANUAL_2_FIELD_3*###*의뢰의 종류
+M_MANUAL_2_FIELD_4*###*작업실에서 전차 복원
+M_MANUAL_2_FIELD_5*###*의뢰 완료
+M_MANUAL_3_FIELD_1*###*모든 전차 부품 해체
+M_MANUAL_3_FIELD_2*###*전차 부품 수리
+M_MANUAL_3_FIELD_3*###*없는 전차 부품 구매/제작
+M_MANUAL_3_FIELD_4*###*모든 부품 조립
+M_MANUAL_3_FIELD_5*###*녹 제거 도구로 전차에 쌓인 녹 제거
+M_MANUAL_3_FIELD_6*###*프라이머/도색/위장 적용
+M_MANUAL_3_FIELD_7*###*복원 과정 완료
+M_MANUAL_4_FIELD_1*###*상호작용 가능한 물체 줍기
+M_MANUAL_4_FIELD_2*###*상호작용 가능한 물체 놓기
+M_MANUAL_4_FIELD_3*###*전차 부품 선택
+M_MANUAL_4_FIELD_4*###*전차 부품 해체
+M_MANUAL_4_FIELD_5*###*물체 이동
+M_MANUAL_4_FIELD_6*###*상호작용 메뉴 (방사 메뉴)
+M_MANUAL_5_FIELD_1*###*삽 줍기
+M_MANUAL_5_FIELD_2*###*파기
+M_MANUAL_6_FIELD_1*###*금속 탐지기 줍기
+M_MANUAL_6_FIELD_2*###*탐지
+M_MANUAL_7_FIELD_1*###*자기 탐지기 줍기
+M_MANUAL_7_FIELD_2*###*전차가 있을 만한 위치 스캔
+M_MANUAL_8_FIELD_1*###*태블릿을 사용해 드론 조종
+M_MANUAL_8_FIELD_2*###*구역을 드론으로 스캔해 전차 탐색
+M_MANUAL_11_FIELD_1*###*그라인더 줍기
+M_MANUAL_11_FIELD_2*###*그라인드
+M_MANUAL_11_FIELD_3*###*그라인드 모드 전환
+M_MANUAL_12_FIELD_1*###*해머 줍기
+M_MANUAL_12_FIELD_2*###*때릴 시간
+M_MANUAL_12_FIELD_3*###*부품이 떨어질 때까지 때리기
+M_MANUAL_13_FIELD_1*###*녹 제거 도구 줍기
+M_MANUAL_13_FIELD_2*###*녹 제거
+M_MANUAL_14_FIELD_1*###*렌치 줍기
+M_MANUAL_14_FIELD_2*###*나사 제거
+M_MANUAL_INFO_1*###*각 의뢰는 전차 전체를 복원하거나 특정 부품을 수리하면 완료할 수 있습니다.
+M_MANUAL_INFO_2*###*의뢰를 완료하면, 의뢰의 종류에 따라 복원한 전차는 당신 것이 될 수도, 의뢰인에게 돌려줘야 할 수도 있습니다.
+M_MANUAL_INFO_3*###*의뢰를 완료하면 전차는 의뢰자에게 반환됩니다.
+M_MANUAL_INFO_4*###*전차를 박물관에 전시하세요.
+M_MANUAL_INFO_5*###*전차를 판매하세요.
+M_MANUAL_INFO_6*###*아무 물체를 조준하세요.
+M_MANUAL_INFO_7*###*마우스 좌클릭
+M_MANUAL_INFO_8*###*마우스 우클릭
+M_MANUAL_INFO_9*###*아무 전차 부품을 조준하세요.
+M_MANUAL_INFO_10*###*마우스 우클릭 유지
+M_MANUAL_INFO_11*###*아무 지표면을 조준하세요.
+M_MANUAL_INFO_12*###*금속 탐지기를 사용할 때는 계기판의 바늘과 탐지기 소리에 집중하세요.
+M_MANUAL_INFO_13*###*금속 물체 없음
+M_MANUAL_INFO_14*###*금속 물체 탐지됨
+M_MANUAL_INFO_15*###*금속 물체가 매우 가까움
+M_MANUAL_INFO_16*###*지도를 클릭해 드론을 해당 위치에 보내세요.
+M_MANUAL_INFO_17*###*범례
+M_MANUAL_INFO_18*###*그라인드 모드를 전환하려면 X(기본값)를 누르세요.
+M_MANUAL_INFO_19*###*자르기
+M_MANUAL_INFO_20*###*그라인드해서 녹 제거
+M_MANUAL_INFO_21*###*전차 부품이 선택되어 있는 경우
+M_MANUAL_INFO_22*###*렌치가 있으면 나사를 더 빨리 풀 수 있습니다. 녹슨 나사도 풀 수 있게 됩니다.
+M_MANUAL_INFO_23*###*나사를 조준하세요.
+M_MANUAL_REPEAT*###*반복
+M_MANUAL_BEFORE*###*이전으로
+M_MANUAL_AFTER*###*다음으로
+M_MENU_START*###*시작
+M_MENU_OVERVIEW*###*개요
+M_MENU_LOCATIONS*###*위치
+M_MENU_EXTRAS*###*기타
+M_MENU_MANUAL*###*메뉴얼
+M_MENU_CREDITS*###*제작자
+M_MENU_GAMECREDITS*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
+M_MENU_SETTINGS*###*설정
+M_MENU_PATCHNOTES*###*패치 노트
+M_MENU_CHECKOUT*###*이 프로젝트들은 어떠신가요?
+M_MENU_EXIT*###*나가기
+M_MENU_PROFILES*###*프로필
+M_MENU_PROFILE_NEW*###*새 프로필
+M_MENU_PROFILE_DELETE*###*정말로 프로필 {0}을(를) 삭제하시겠습니까?
+M_MENU_PROFILE_MONEY*###*돈: {0}
+M_MENU_PROFILE_REPUTATION*###*평판: {0}
+M_MENU_PROFILE_TANKS*###*전차: {0}
+M_MENU_PROFILE_LASTSAVEDATE*###*마지막 저장: {0}
+M_MENU_PROFILE_DEFAULT*###*기본 프로필
+M_MENU_PROFILE_RESET*###*정말로 프로필 {0}을(를) 초기화하시겠습니까?
+M_MENU_SUPPORT*###*지원
+M_MENU_SUPPORT_STEAMCOMMUNITYDESC*###*만약 피드백이나 건의할 것이 있다면, 저희 스팀 토론 페이지를 방문해 주세요:
+M_MENU_SUPPORT_STEAMCLICK*###*스팀 토론 페이지 열기
+M_MENU_SUPPORT_MAILDESC*###*아니면 저희에게 직접 알려 주셔도 됩니다. 저희는 항상 여러분의 코멘트나 평가를 환영합니다.
+M_MENU_SUPPORT_TMSDISCORDDESC*###*만약 더 많은 전차 작업자들을 만나고 싶다면, 저희 공식 Tank Mechanic Simulator 디스코드에 참가하세요:
+M_MENU_SUPPORT_TMSDISCORD*###*Tank Mechanic Simulator 공식 디스코드
+M_MENU_SUPPORT_TMSFEEDBACKDESC*###*만약 버그를 찾거나 원하는 것이 있다면, 저희 트래커 패이지에 신고해 주세요.
+M_MENU_SUPPORT_TMSFEEDBACK*###*Tank Mechanic Simulator 피드백 트래커
+M_MENU_POINTS*###*포인트:
+M_MENU_ACCEPT*###*수락
+M_MENU_CANCEL*###*취소
+M_MENU_QUIT_QUESTION*###*나가고 싶으신가요?
+M_OVERVIEW_TITLE*###*목차
+M_OVERVIEW_VEHICLES*###*차량
+M_OVERVIEW_INSPECTOR*###*배경
+M_OVERVIEW_LIGHTING*###*조명
+M_OVERVIEW_LIGHTINGCAMERA*###*조명과 카메라
+M_OVERVIEW_DIRLIGHT*###*직접 조명
+M_OVERVIEW_ROTATION*###*회전
+M_OVERVIEW_INTERIORLIGHTS*###*내부 조명
+M_OVERVIEW_BOTTOMHINT*###*스페이스바를 눌러 UI 전환
+M_OVERVIEW_INTERFACE*###*인터페이스
+M_OVERVIEW_CAMERA*###*카메라
+M_OVERVIEW_CAMERAFOV*###*시야각
+M_OVERVIEW_TURNON*###*켜기/끄기
+M_OVERVIEW_SEARCHBYNAME*###*이름으로 검색....
+M_OVERVIEW_MATERIALS*###*재료(수정)
+M_OVERVIEW_OBJECTS*###*물체
+M_OVERVIEW_ENVIRONMENT*###*환경
+M_OVERVIEW_LANDSCAPE*###*지면
+M_OVERVIEW_MUD*###*진흙
+M_OVERVIEW_TOGGLE*###*전환
+M_OVERVIEW_PROPS*###*바닥 물체
+M_OVERVIEW_EXTRACTION*###*발굴
+M_OVERVIEW_WORKSHOP*###*작업실
+M_OVERVIEW_MUSEUM*###*박물관
+M_OVERVIEW_TRANSPARENT*###*투명도
+M_OVERVIEW_MUDTORUST*###*진흙을 녹으로
+M_OVERVIEW_RUSTTODIRT*###*녹을 먼지로
+M_OVERVIEW_DIRTTOSANDING*###*흙을 샌딩으로
+M_OVERVIEW_SANDINGTOPRIMER*###*샌딩에서 프라이머로
+M_OVERVIEW_PRIMERTOPAINT*###*프라이머에서 도색으로
+M_OVERVIEW_TANKMODULES*###*전차 모듈
+M_OVERVIEW_DRIVE*###*구동 체계
+M_OVERVIEW_WHEELS*###*기동 계통
+M_OVERVIEW_TRACKS*###*궤도
+M_OVERVIEW_HULLEXTERIOR*###*차체 외부
+M_OVERVIEW_HULLINTERIOR*###*차체 내부
+M_OVERVIEW_TURRETEXTERIOR*###*포탑 외부
+M_OVERVIEW_TURRETINTERIOR*###*포탑 내부
+M_OVERVIEW_TANKS*###*전차
+M_OVERVIEW_WW2*###*2차 세계 대전
+M_OVERVIEW_ENG*###*영국
+M_OVERVIEW_GER*###*독일
+M_OVERVIEW_USA*###*미국
+M_OVERVIEW_SOV*###*소련
+M_LOCATIONS_TITLE*###*위치 선택
+M_LOCATIONS_BEGIN*###*시작
+M_LOCATIONS_BASICINFO*###*기본 정보:
+M_LOCATIONS_PLACE*###*위치:
+M_LOCATIONS_VEHICLETYPE*###*차량 종류:
+M_LOCATIONS_VEHICLEBRAND*###*차량 브랜드:
+M_LOCATIONS_UNKNOWN*###*알려지지 않음
+M_LOCATIONS_SELECTVEHICLE*###*차량 선택
+M_LOCATIONS_SELECTVEHICLE_DESC*###*이 위치에서 사용할 차량을 선택하세요.
+M_SETTINGS_SOFTPARTICLES*###*부드러운 입자
+M_SETTINGS_TEXTURESTREAMING*###*텍스쳐 스트리밍
+M_SETTINGS_VIDEO*###*비디오
+M_SETTINGS_AUDIO*###*음성
+M_SETTINGS_GAME*###*게임
+M_SETTINGS_DISPLAY*###*디스플레이
+M_SETTINGS_OVERALLSETTINGS*###*전체 설정
+M_SETTINGS_ASPECTRATIO*###*종횡비
+M_SETTINGS_RESOLUTION*###*해상도
+M_SETTINGS_DISPLAYMODE*###*디스플레이 모드
+M_SETTINGS_QUALITY*###*품질
+M_SETTINGS_VERTICALSYNC*###*수직 동기화
+M_SETTINGS_SHADOWQUALITY*###*그림자 품질
+M_SETTINGS_TEXTUREQUALITY*###*텍스쳐 품질
+M_SETTINGS_LOD*###*세부 표현 수준
+M_SETTINGS_SHADOWDISTANCE*###*그림자 거리
+M_SETTINGS_SHADOWRESOLUTION*###*그림자 해상도
+M_SETTINGS_POSTPROCESS*###*후처리
+M_SETTINGS_AO*###*앰비언트 오클루젼
+M_SETTINGS_AA*###*안티에일리어싱
+M_SETTINGS_AF*###*이방성 필터링
+M_SETTINGS_SCREENSPACEREFLECTIONS*###*화면 공간 반사
+M_SETTINGS_MOTIONBLUR*###*모션 블러
+M_SETTINGS_BLOOM*###*블룸
+M_SETTINGS_CHROMATICABERRATION*###*색수차
+M_SETTINGS_VIGNETTE*###*흐림 처리
+M_SETTINGS_DEFORMATIONSYSTEM*###*변형 시스템
+M_SETTINGS_TESSELATIONFACTOR*###*테셀레이션 계수
+M_SETTINGS_TESSELATIONDISTANCE*###*테셀레이션 거리
+M_SETTINGS_TERRAINSETTINGS*###*지표면 설정
+M_SETTINGS_TERRAINQUALITY*###*지표면 품질
+M_SETTINGS_TREEDISTANCE*###*나무 거리
+M_SETTINGS_DETAILSDISTANCE*###*세부 처리 거리
+M_SETTINGS_SOUNDSETTINGS*###*음성 설정
+M_SETTINGS_MASTERVOLUME*###*전체 음량
+M_SETTINGS_MUSIC*###*음악
+M_SETTINGS_EFFECTS*###*효과음
+M_SETTINGS_LANGUAGESETTINGS*###*언어 설정
+M_SETTINGS_SELECTLANGUAGE*###*언어 선택
+M_SETTINGS_OTHER*###*기타
+M_SETTINGS_PAUSEWHENMINIMIZED*###*화면이 최소화되면 게임 일시정지
+M_SETTINGS_USEHEADBOB*###*머리 흔들림 사용
+M_SETTINGS_INVERTAXIS_Y_FPP*###*Y축 반전 (1인칭)
+M_SETTINGS_INVERTAXIS_Y_TPP*###*Y축 반전 (3인칭)
+M_SETTINGS_INVERTAXIS_Y_AIM*###*Y축 반전 (조준 시점)
+M_SETTINGS_USE_ASSEMBLYMENU*###*조립 메뉴 사용
+M_SETTINGS_USE_SIMPLETANKCONTROLS*###*단순화된 전차 조종
+M_SETTINGS_BLOCK_SCREWCURSOR*###*나사 커서 방지
+M_SETTINGS_MOUSESMOOTHING*###*부드러운 마우스
+M_SETTINGS_MOUSESENSITIVITY*###*마우스 감도
+M_SETTINGS_CONTROLS_SCHEME_TITLE*###*조작법
+M_SETTINGS_CONTROLS_SCHEME_KEYBOARD*###*마우스와 키보드
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_PS4*###*플레이스테이션 4 컨트롤러
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_XONE*###*Xbox One 컨트롤러
+M_SETTINGS_CONTROLS_SCHEME_CONTROLLER_DEFAULT*###*기본 컨트롤러
+M_INFO_NOTENOUGHMONEY_TITLE*###*돈이 부족합니다
+M_INFO_NOTENOUGHMONEY_DESC*###*돈이 부족합니다. 필요한 돈: {0}$
+M_INFO_CANNOTDELETE_LASTPROFILE_TITLE*###*프로필 삭제 불가
+M_INFO_CANNOTDELETE_LASTPROFILE_DESC*###*마지막 프로필은 삭제할 수 없습니다!
+M_INFO_EMPTYNAME_TITLE*###*프로필 생성 불가
+M_INFO_EMPTYNAME_DESC*###*이름 없이 새 프로필을 생성할 수 없습니다.
+M_INFO_CONTRACT_LITTLETIME_TITLE*###*시간 임박
+M_INFO_CONTRACT_LITTLETIME_DESC*###*의뢰 중 하나의 기한이 거의 다 되었습니다.
+M_INFO_TESTDRIVE_ENGINE_CANNOTSTART*###*엔진 시동 불가
+M_INFO_TESTDRIVE_CANNOTSTART*###*시운전을 시작할 수 없습니다.
+M_INFO_TESTDRIVE_NOTASSEMBLED*###*{0}이(가) 조립되지 않음
+M_INFO_TESTDRIVE_NOTREPAIRED*###*{0}이(가) 수리되지 않음
+M_INFO_TESTDRIVE_FLUIDNEEDSFILL*###*{0}이(가) 채워지지 않음
+M_INFO_TESTDRIVE_NOTMOUNTED*###*{0}이(가) 전차 안에 없음
+M_INFO_PROVINGGROUNDS_CANNOTSTART*###*사격장 진입 불가
+M_INFO_CANNOT_CHANGEROOM_TITLE*###*{0} 진입 불가
+M_INFO_CANNOT_CHANGEROOM_DESC*###*아직 해금되지 않았습니다.
+M_INFO_CANNOT_STARTPAINTROOM_TITLE*###*도색실 패널 사용 불가
+M_INFO_CANNOT_STARTPAINTROOM_DESC*###*도색실이 비었습니다. 전차를 먼저 가져오세요.
+M_INFO_ROOM_EMPTY*###*방이 비었습니다.
+M_INFO_CANNOT_MOVEMODULE_TITLE*###*모듈 이동 불가
+M_INFO_CANNOT_MOVEMODULE_DESC*###*전차가 ㅇ업실 밖에 있습니다.
+M_INFO_ASSEMBLY_NOPARTSAVAILABLE_TITLE*###*사용가능한 부품 없음
+M_INFO_ASSEMBLY_NOPARTSAVAILABLE_DESC*###*호환되는 부품이 없습니다. 먼저 호환되는 부품을 구매하거나(전차 부품 상점) 제작하세요(제작 테이블).
+M_INFO_DELETEDATA_DESC*###*이 옵션은 모든 데이터를 삭제하고 처음부터 다시 시작합니다.
+M_INFO_UNLOCK_TABLET_TITLE*###*태블릿 사용 불가
+M_INFO_UNLOCK_TABLET_DESC*###*업그레이드 메뉴에서 먼저 해금해야 합니다.
+M_INFO_UNLOCK_CRAFTING_TITLE*###*제작 메뉴 사용 불가
+M_INFO_UNLOCK_CRAFTING_DESC*###*업그레이드 메뉴에서 먼저 해금해야 합니다.
+M_INFO_TOOLBELT_TITLE*###*도구 벨트 해금됨
+M_INFO_TOOLBELT_DESC*###*이제 작업실의 도구를 언제든지 사용할 수 있습니다. 기본값으로, 키보드의 3~7 숫자키를 이용해 사용할 수 있습니다.
+M_INFO_KEYTAKEN_TITLE*###*다른 키 선택
+M_INFO_KEYTAKEN_DESC*###*선택한 키는 이미 {0}에(게) 할당되어 있습니다.
+M_INFO_MEMORY*###*텍스쳐 메모리가 4GB를 초과했습니다. 시스템 불안정을 피하기 위해, 모드나 스팀 작업마당 모드를 삭제하세요.
+M_ANALISYS_FUELSYSTEM*###*연료 체계
+M_ANALISYS_GEARBOX*###*변속기
+M_ANALISYS_ENGINE*###*엔진
+M_ANALISYS_TRACKS*###*궤도
+M_ANALISYS_WHEELS*###*기동 계통
+M_ANALISYS_TURRET*###*포탑
+M_ANALISYS_FLUID_OIL*###*엔진오일
+M_ANALISYS_FLUID_FUEL*###*연료
+M_ANALISYS_FLUID_COOLANT*###*냉각수
+M_ANALISYS_LEVEL*###*{0}:
+M_POPUP_MODE_GRINDER_CUTTING*###*자르기 모드
+M_POPUP_MODE_GRINDER_GRINDING*###*그라인드 모드
+M_POPUP_MODE_PAINTGUN_PAINTING*###*도색 모드
+M_POPUP_MODE_PAINTGUN_PRIMER*###*프라이머 모드
+M_POPUP_WARNING_MODULENOTONSTAND*###*이 부품을 해체하거나 조립하려면 스탠드에 해당 모듈을 거치해야 합니다.
+M_RADIOMENU_RADIOSTATIONS*###*라디오
+M_RADIOMENU_NOWPLAYING*###*재생중:
+M_ORGANIZER_ORDERSUMMARY*###*의뢰 요약
+M_ORGANIZER_OFFERSUMMARY*###*제안 요약
+M_ORGANIZER_JOBSUMMARY*###*작업 요약
+M_ORGANIZER_STARTEXTRACTION*###*발굴 시작
+M_ORGANIZER_FINISHORDER*###*의뢰 완료
+M_ORGANIZER_FINISHOFFER*###*제안 완료
+M_ORGANIZER_FINISHJOB*###*작업 완료
+M_ORGANIZER_WARNING_TITLE*###*경고
+M_ORGANIZER_WARNING_DESC*###*이 의뢰를 지금 종료하면, 벌금을 내야 합니다. 계속하시겠습니까?
+M_ORGANIZER_VEHICLESELECTOR_TITLE*###*이 임무에서 사용할 차량을 선택하세요
+M_ORGANIZER_WARNING_FINEAMOUNT*###*벌금
+M_ORGANIZER_CHECKLIST*###*작업 목록
+M_ORGANIZER_TASK_CHECKINITIAL*###*초기 상태로 복원하세요.
+M_TANKMANAGER_TITLE*###*전차 관리자
+M_CONSOLE*###*콘솔
+M_INTRO_DESC*###*Tank Mechanic Simulator. Developed by DeGenerals S.A. Published by PlayWay S.A. All rights reserved.
+M_INTRO_ANYKEY*###*아무 키나 누르세요…
+M_INTRO_LOADING*###*메인 메뉴 로딩중…
+M_DEMO*###*체험판
+M_INFO_DEMO_TITLE*###*체험판에서는 불가능
+M_INFO_DEMO_DESC*###*체험판에서는 이용할 수 없습니다 :(
+M_TUTORIAL_STATUS_TOOLS*###*사용할 수 있는 도구들:\n{0}\n{1}
+M_TUTORIAL_STATUS_REMOVERUST*###*전차에서 녹을 제거하세요
+M_TUTORIAL_STATUS_SANDBLAST*###*전차에 모래를 분사하세요
+M_TUTORIAL_STATUS_PRIMER*###*전차에 프라이머를 칠하세요
+M_TUTORIAL_STATUS_PAINT*###*전차에 페인트를 칠하세요
+M_TUTORIAL_EMAIL_CHECK_DESC*###*컴퓨터를 열고 이메일을 확인하세요
+M_TUTORIAL_EMAIL_ACCEPT_DESC*###*이메일을 선택하고 의뢰를 수락하세요
+M_TUTORIAL_FINISH_DESC*###*컴퓨터를 열고 작업 관리에서 의뢰를 완료하세요
+H_INTERACTION_BASICS*###*선택/줍기: 마우스 좌클릭. 조립/해체/줍기: 마우스 우클릭. 방사 메뉴 열기 - 마우스 휠 클릭.
+H_CONTRACTS_FINISH*###*의뢰를 완료해 돈과 평판을 얻으세요.
+H_CONTRACTS_EMAIL*###*이메일에서 새 의뢰 검색 버튼을 이용해 언제든지 새 의뢰를 받을 수 있습니다.
+H_EXTRACTION_MAP*###*태블릿을 이용해 발굴을 요청하세요 (지도를 마우스 좌클릭)
+H_EXTRACTION_TANK*###*전차를 발굴하면, 압력 워셔로 전차를 닦고 방사 메뉴를 이용해 전차를 트레일러에 실은 후(전차를 바라보면서 마우스 휠 클릭) 태블릿에서 작업장으로 돌아갈 수 있습니다.
+H_ACTIVECONTRACTS*###*동시에 최대 3개의 의뢰를 수행할 수 있습니다.
+H_TANK_1*###*6호 전차 H1형 티거 I
+H_TANK_2*###*M4A3E8 셔먼
+H_TANK_3*###*3호 전차 M형
+H_TANK_4*###*KV-1
+H_TANK_5*###*M26 퍼싱
+H_TANK_6*###*KV-2
+H_TANK_7*###*T-34/85
+H_TANK_8*###*T-34/76
+H_TANK_9*###*3호 전차 J형
+H_TANK_10*###*3호 돌격포 40 G형
+H_TANK_11*###*4호 전차 G형
+H_TANK_12*###*M10 GMC
+H_TANK_13*###*5호 전차 판터 A형
+H_TANK_14*###*SdKfz 251/1 C형
+H_TANK_15*###*M3 하프트랙
+H_TANK_16*###*M20 다목적 장갑 차량
+H_TANK_17*###*M8 그레이하운드
+H_TANK_18*###*리틀 윌리
+H_TANK_19*###*빅커스 E
+H_TANK_20*###*2호 전차 C형
+H_APC_1*###*SdKfz 251/1 C형
+H_DEMO*###*체험판에서는 발굴하거나 수리할 수 있는 3대의 전차들이 준비되어 있습니다.
+H_FULL*###*정식 버전에서는 더 많은 게임 모드, 도구, 맵과 가장 중요한 전차들이 준비되어 있습니다 ;)
+H_DEMO_WHATISIN*###*체험판에는 무엇이 있을까요?
+H_DEMO_TEXT_1*###*발굴 임무들
+H_DEMO_TEXT_2*###*도색실
+H_DEMO_TEXT_3*###*해금 시스템
+H_DEMO_TEXT_4*###*발굴 임무에서 다양한 차량들
+H_DEMO_TEXT_5*###*전차 박물관
+H_DEMO_TEXT_6*###*전차 차고
+H_FULL_WHATISIN*###*정식 버전에는 무엇이 있을까요?
+H_FULL_TEXT_1*###*사격장
+H_FULL_TEXT_2*###*제작 테이블
+H_FULL_TEXT_3*###*개요 모드
+H_FULL_TEXT_4*###*자기 탐지기
+H_FULL_TEXT_5*###*시운전
+A_SELECT*###*부품 선택
+A_ASSEMBLE*###*부품 조립
+A_DISASSEMBLE*###*부품 해체
+A_PICKUP*###*줍기
+A_USE*###*사용
+A_HOLD*###*홀드
+A_MENU*###*방사 메뉴
+A_DROP*###*떨어뜨리기
+A_HAMMER*###*때리기
+A_GRINDER*###*그라인드
+A_CUT*###*자르기
+A_ENTER*###*들어가기
+A_PLACE*###*설치
+A_FILL*###*채우기
+A_DIG*###*파기
+A_CONTAINER*###*탱크 전환
+A_OPEN*###*열기
+A_CLOSE*###*닫기
+A_OPEN_MENU*###*패널 열기
+A_TOGGLE*###*전환
+A_TOGGLE_RUSTREMOVAL*###*녹 제거 전환
+A_TOGGLE_SANDBLASTER*###*모래 분사기 전환
+A_TOGGLE_PAINTGUN*###*페인트건 전환
+A_TOGGLE_WATERHOSE*###*압력 워서 전환
+P_GUN_MG34*###*MG 34 (7,92x57mm 마우저)
+P_GUN_DT*###*DT (7,62x54 mmR)
+P_GUN_M1919BROWNING*###*M1919 브라우닝 (.30-06 스프링필드)
+P_GUN_M2BROWNING*###*M2 브라우닝 (.50 BMG)
+P_GUN_20_KWK30L55*###*20 mm KwK 30 L/55
+P_GUN_88_KWK36L56*###*88 mm KwK 36 L/56
+P_GUN_76_GUNM1*###*76 mm gun M1
+P_GUN_50_KWK39L60*###*50 mm KwK 39 L/60
+P_GUN_76_M1941ZIS5*###*76 mm M1941 ZiS-5
+P_GUN_76_M1940F34*###*76 mm M1940 F-34
+P_GUN_90_GUNM3*###*90 mm gun M3
+P_GUN_152_M1938M10*###*152 mm M1938 M-10
+P_GUN_85_D5T*###*85 mm D-5T
+P_GUN_76_M1940L11*###*76 mm M1940 L-11
+P_GUN_75_KWK40L43*###*75 mm KwK 40 L/43
+P_GUN_75_KWK40L48*###*75 mm KwK 40 L/48
+P_GUN_75_KWK42L70*###*75 mm KwK 42 L/70
+P_GUN_76_GUNM7*###*76 mm gun M7형
+P_GUN_37_GUNM6*###*37 mm gun M6형
+P_GUN_47_OQF_3_PDR*###*47 mm gun OQF 3 PDR
+P_EXPLOSIVE_BOMB*###*폭탄
+P_RND_37_M51_AP*###*M51 철갑탄
+P_RND_37_M38A1_HE*###*M37A1 고폭탄
+P_RND_37_M74B1_AP*###*M74B1 철갑탄
+P_RND_37_M63_HE*###*M63 고폭탄
+P_RND_47_186R_AP*###*186R 철갑탄
+P_RND_47_186R_HE*###*186R 고폭탄
+P_RND_88_PZGR39_APCBCHE*###*PzGr.39 저저항피모철갑유탄
+P_RND_88_SPRGRL45_HE*###*Sprgr.L/45 고폭탄
+P_RND_76_M79_AP*###*M79 철갑탄
+P_RND_76_M42A1_HE*###*M42A1 고폭탄
+P_RND_50_PZGR39_APC*###*PzGr.39 피모철갑탄
+P_RND_50_SPRGR38_HE*###*Sprgr.38 고폭탄
+P_RND_76_BR350A_APHEBC*###*BR-350A 피모철갑유탄
+P_RND_76_OF350M_HE*###*OF-350M 고폭탄
+P_RND_90_M77_AP*###*M77 철갑탄
+P_RND_90_M71_HE*###*M71 고폭탄
+P_RND_152_G530_AC*###*G-530 대콘크리트탄
+P_RND_152_OF530_HE*###*OF-530 고폭탄
+P_RND_85_BR365K_APHE*###*BR-365K 철갑유탄
+P_RND_85_O365K_HE*###*O-365K 고폭탄
+P_RND_75_PZGR39_APCBC*###*PzGr.39 저저항피모철갑탄
+P_RND_75_GR38HLB_HEAT*###*Gr.38 HL/B 성형작약탄
+P_RND_75_PZGR3942_APCBCHE*###*PzGr.39/42 저저항피모철갑유탄
+P_RND_75_SPRGR42_HE*###*Sprgr.42 고폭탄
+P_RND_75_SPRGR34_HE*###*Sprgr.34 고폭탄
+P_RND_20_PZGR39_API*###*PzGr.39 피모철갑탄
+P_RND_20_SPRGR39_HE*###*SprGr.39 고폭탄
+P_CMG_762_54_DT*###*7,62x54 mmR
+P_CMG_792_57_MG34*###*7,92x57mm 마우저
+P_CMG_762_63_M1919*###*.30-06 스프링필드
+P_CMG_127_99_M2*###*.50 BMG
+P_CMG_303_BRITISH*###*.303 브리티시
+P_AMMOTYPE_STANDARD*###*표준
+P_AMMOTYPE_INCENDIARY*###*소이탄
+C_PLACEMARKER*###*마커 설치
+C_SHOWCONTROLS*###*컨트롤 보기
+C_OFFROADVEHICLE_THROTTLE*###*스로틀
+C_OFFROADVEHICLE_GEARREDUCTION*###*기어 감소
+C_OFFROADVEHICLE_BRAKE*###*브레이크
+C_OFFROADVEHICLE_TURNLEFT*###*좌회전
+C_OFFROADVEHICLE_TURNRIGHT*###*우회전
+C_OFFROADVEHICLE_HANDBRAKE*###*핸드브레이크
+C_OFFROADVEHICLE_EXITVEHICLE*###*차량 나가기
+C_OFFROADVEHICLE_FREECAMERA*###*자유 시점
+C_OFFROADVEHICLE_SWITCHAMMOTYPE*###*탄종 전환
+C_OFFROADVEHICLE_TOGGLECAMERA*###*카메라 전환
+C_OFFROADVEHICLE_TOGGLELIGHTS*###*조명 전환
+C_OFFROADVEHICLE_TOGGLERADIO*###*라디오 전환
+C_OFFROADVEHICLE_TOGGLEWINDSCREEN*###*앞유리 전환
+C_GRINDER_TOGGLECONTROLMODE*###*그라인드 모드 전환
+C_PAINTGUN_TOGGLEPAINTMODE*###*도색 모드 전환
+C_GPR_TOGGLEMODE*###*GPR 화면 모드 전환
+C_COMPASS_TOGGLE*###*나침반 전환
+C_HINT_TOGGLE*###*컨트롤 정보 전환
+C_TANKCONTROLS*###*전차 조종법
+C_TANKCONTROLS_SHOOT_PRIMARY*###*주무장 사격
+C_TANKCONTROLS_SHOOT_SECONDARY*###*부무장 사격
+S_VERYLOW*###*매우 낮음
+S_LOW*###*낮음
+S_NORMAL*###*보통
+S_HIGH*###*높음
+S_VERYHIGH*###*매우 높음
+S_VERYSHORT*###*매우 짧음
+S_SHORT*###*짧음
+S_LONG*###*긺
+S_VERYLONG*###*매우 긺
+S_ON*###*켜기
+S_OFF*###*끄기
+S_RESOLUTION_NATIVE*###*시스템 설정
+S_RESOLUTION_800x600*###*800x600
+S_RESOLUTION_1024x768*###*1024x768
+S_RESOLUTION_1176x664*###*1176x664
+S_RESOLUTION_1280x720*###*1280x720
+S_RESOLUTION_1280x800*###*1280x800
+S_RESOLUTION_1280x1024*###*1280x1024
+S_RESOLUTION_1360x768*###*1360x768
+S_RESOLUTION_1366x768*###*1366x768
+S_RESOLUTION_1440x900*###*1440x900
+S_RESOLUTION_1536x864*###*1536x864
+S_RESOLUTION_1600x900*###*1600x900
+S_RESOLUTION_1600x1200*###*1600x1200
+S_RESOLUTION_1680x1050*###*1680x1050
+S_RESOLUTION_1768x992*###*1768x992
+S_RESOLUTION_1920x1080*###*1920x1080
+S_RESOLUTION_1920x1200*###*1920x1200
+S_RESOLUTION_2560x1080*###*2560x1080
+S_RESOLUTION_2560x1440*###*2560x1440
+S_RESOLUTION_3440x1440*###*3440x1440
+S_RESOLUTION_3840x1080*###*3840x1080
+S_RESOLUTION_3840x2160*###*3840x2160
+S_RESOLUTION_5120x1440*###*5120x1440
+S_RESOLUTIONRATIO_16x9*###*16:9
+S_RESOLUTIONRATIO_16x10*###*16:10
+S_RESOLUTIONRATIO_4x3*###*4:3
+S_RESOLUTIONRATIO_21x9*###*21:9
+S_RESOLUTIONRATIO_32x9*###*32:9
+S_RESOLUTIONRATIO_5x4*###*5:4
+S_RESOLUTIONRATIO_3x2*###*3:2
+S_DISPLAYMODE_FULLSCREEN_WINDOWED*###*전체화면 창모드
+S_DISPLAYMODE_MAXIMIZED_WINDOW*###*윈도우 최대화
+S_DISPLAYMODE_EXCLUSIVE_FULLSCREEN*###*전체화면
+S_DISPLAYMODE_WINDOWED*###*창모드
+S_FASTEST*###*가장 빠름
+S_FAST*###*빠름
+S_SIMPLE*###*단순
+S_GOOD*###*좋음
+S_BEAUTIFUL*###*아름다움
+S_FANTASTIC*###*환상적임
+S_CUSTOM*###*커스텀
+S_AA_FXAA*###*FXAA
+S_AA_SMAA*###*SMAA
+S_AA_TAA*###*TAA
+T_FLASHLIGHT*###*플래시라이트
+T_GRINDER*###*그라인더
+T_AXE*###*도끼
+T_HAMMER*###*해머
+T_WRENCHPISTOL*###*렌치
+T_SHOVEL*###*삽
+T_METALDETECTOR*###*금속 탐지기
+T_RUSTREMOVAL*###*녹 제거 도구
+T_WATERHOSE*###*압력 워셔
+T_PAINTGUN*###*페인트총
+T_PRIMERGUN*###*프라이머 총
+T_SANDBLASTER*###*모래 분사기
+T_WELDER*###*용접기
+X_CANDIG_INFO*###*발굴 작업을 위한 구역을 선택했습니다.
+X_CANNOTDIG_INFO*###*선택한 구역은 발굴할 수 없습니다.
+X_CANNOTDIG_REASON_TITLE*###*이유:
+X_CANNOTDIG_REASON_TERRAIN*###*빌굴할 수 있는 지형이 아닙니다.
+X_CANNOTDIG_REASON_OBSTACLES*###*구역에 장애물이 있습니다: {0}
+X_CANNOTDIG_REASON_TANK*###*전차가 이미 발굴되었습니다.
+X_SUMMARY_DESC*###*작업실로 돌아가기 버튼을 눌렀습니다.
+X_STATE_NOTSTARTED*###*시작되지 않음
+X_STATE_STARTED*###*시작됨
+X_STATE_TANKFOUND*###*전차 발견
+X_STATE_EXCAVATIONREQUIRED*###*발굴 필요
+X_STATE_TANKDUGOUT*###*전차 발굴됨
+X_STATE_EXTRACTED*###*전차 상차됨
+X_CANNOT_EXTRACT_TITLE*###*전차 상차 불가
+X_CANNOT_EXTRACT_WATERINTANK*###*전차 안에 물이 있습니다. 펌프로 뽑아내세요.
+X_CANNOT_EXTRACT_TANKNOTCLEANED*###*전차를 청소하지 않았습니다.\n현재 상태: {0}%\n필요한 상태: {1}%
+X_CANNOT_EXTRACT_TANKNOTDUGOUT*###*전차를 완전히 파내지 않았습니다. 태블릿으로 돌아가 발굴 팀을 부르세요.
+X_CANNOT_CLEAN_TITLE*###*전차 청소 불가
+X_CANNOT_CLEAN_TANKCLEANED*###*전차가 이미 깨끗합니다.
+X_RETURNTOMISSIONAREA*###*임무 지역으로 복귀
+R_TABLET_TITLE*###*태블릿
+R_TABLET_DESC*###*작업실 태블릿에 접근
+R_INVENTORY_TITLE*###*인벤토리
+R_INVENTORY_DESC*###*장비와 도구 찾기/선택
+R_STORAGE_TITLE*###*창고
+R_STORAGE_DESC*###*부품 찾기와 판매
+R_RESET_TOOLS_TITLE*###*도구 초기화
+R_RESET_TOOLS_DESC*###*도구들을 초기 위치로 초기화
+R_RESET_PLAYER_TITLE*###*위치 초기화
+R_RESET_PLAYER_DESC*###*캐릭터 위치를 초기 위치로 초기화
+R_MOVETANK_TITLE*###*전차 이동
+R_MOVETANK_DESC*###*전차를 다른 위치로 이동
+R_GETINSIDE_TITLE*###*들어가기
+R_GETINSIDE_DESC*###*내부 부품을 교체하기 위해 내부로 이동
+R_SELECTCREWSLOT_TITLE*###*{0}
+R_SELECTCREWSLOT_DESC*###*선택한 승무원 좌석로 이동
+R_OVERVIEWMODE_TITLE*###*개요 모드
+R_OVERVIEWMODE_DESC*###*전차 개요 모드에 진입
+R_INTERACTIONMODETOGGLE_TITLE*###*{0} 모드
+R_INTERACTIONMODETOGGLE_DESC*###*{0} 모드로 전환
+R_ASSEMBLYMODE*###*조립
+R_DISASSEMBLYMODE*###*해체
+R_MOVETANKTOAREA_TITLE*###*{0}(으)로 전차 이동
+R_MOVETANKTOAREA_DESC*###*전차를 이동할 위치 선택
+R_MOVETANKTOSLOT_TITLE*###*{0}(으)로 전차 이동
+R_MOVETANKTOSLOT_DESC*###*전차를 이동할 슬롯 선택
+R_MOVETANKTOSLOT_TAKEN*###*{0}이(가) 슬롯에 있음
+R_MOVEMODULEOPEN_TITLE*###*모듈 메뉴
+R_MOVEMODULEOPEN_DESC*###*전차 모듈 메뉴 열기
+R_MOVEMODULESELECTMODULE_TITLE*###*{0} 모듈 선택
+R_MOVEMODULESELECTMODULE_DESC*###*선택한 모듈에 맞는 스탠드 메뉴 열기
+R_MOVEMODULETOSTAND_TITLE*###*{0} 스탠드 선택
+R_MOVEMODULETOSTAND_DESC*###*선택한 모듈을 선택한 스탠드로 이동
+R_MOVEMODULEBACKTOTANK_TITLE*###*모듈 전차로 이동
+R_MOVEMODULEBACKTOTANK_DESC*###*모듈을 원래대로 복귀
+R_BACKOUT_TITLE*###*뒤로
+R_BACKOUT_DESC*###*이전 메뉴로
+R_NEXT_TITLE*###*다음
+R_NEXT_DESC*###*다음 메뉴로
+R_MOVETO_TANKGRAVEYARD_DESC*###*전차 폐차장으로 이동
+R_MOVETO_WORKSHOP_DESC*###*작업실로 이동
+R_TANK_STATUS_TITLE*###*전차 상태 메뉴
+R_TANK_STATUS_DESC*###*전차 상태 방사 메뉴 열기
+R_TANK_ANALISYS_TITLE*###*전차 분석
+R_TANK_ANALISYS_DESC*###*전차 분석 열기
+R_TANK_INTERIOROPTIONS_TITLE*###*내부 옵션
+R_TANK_INTERIOROPTIONS_DESC*###*전차 내부 옵션 선택
+R_TANK_TESTDRIVE_SHOWOPTIONS_TITLE*###*시운전 옵션
+R_TANK_TESTDRIVE_SHOWOPTIONS_DESC*###*전차 시운전 옵션 선택
+R_TANK_TESTDRIVE_START_TITLE*###*시운전
+R_TANK_TESTDRIVE_START_DESC*###*시운전 시작
+R_TANK_TESTDRIVE_FLUIDMENU_TITLE*###*유체 메뉴
+R_TANK_TESTDRIVE_FLUIDMENU_DESC*###*유체 채우기 메뉴 열기
+R_TANK_TESTDRIVE_FLUID_MENU_TITLE*###*{0} 저장 탱크 메뉴 열기
+R_TANK_TESTDRIVE_FLUID_MENU_DESC*###*선택한 유체 메뉴 열기
+R_TANK_TESTDRIVE_FLUID_FILL_TITLE*###*{0} 저장 탱크 채우기
+R_TANK_TESTDRIVE_FLUID_FILL_DESC*###*유체 채우기 시작
+R_TANK_PROVINGGROUNDS_START_TITLE*###*사격장
+R_TANK_PROVINGGROUNDS_START_DESC*###*사격장 시작
+R_TANK_MANAGER_DESC*###*전차 관리자 열기
+R_EXTERIORVISUALSTOGGLE_TITLE*###*전차 외부
+R_EXTERIORVISUALSTOGGLE_DESC*###*전차 외부 부품 보기 전환
+R_EXAMINEMODETOGGLE_TITLE*###*검사 모드
+R_EXAMINEMODETOGGLE_DESC*###*검사 모드 전환
+R_EXTRACTIONTANKTOTRAILER_TITLE*###*트레일러에 싣기
+R_EXTRACTIONTANKTOTRAILER_DESC*###*트레일러에 전차 싣기
+R_EXTRACTION_CLEANTANK_TITLE*###*전차 청소
+R_EXTRACTION_CLEANTANK_DESC*###*500 $로 전차를 청소합니다.
+R_EXTRACTION_BACKTOBASE_DESC*###*발굴 임무 떠나기.
+R_VEHICLEENTEREXITTOGGLE_TITLE*###*{0}
+R_VEHICLEENTEREXITTOGGLE_DESC*###*차량 탑승/하차
+R_ENTER*###*타기
+R_EXIT*###*내리기
+R_VEHICLETOGGLEENGINE_TITLE*###*엔진 전환
+R_VEHICLETOGGLEENGINE_DESC*###*엔진 시동 켜기/끄기
+R_VEHICLETOGGLELIGHTS_TITLE*###*조명 전환
+R_VEHICLETOGGLELIGHTS_DESC*###*조명 켜기/끄기
+R_VEHICLETOWINGSERVICE_TITLE*###*견인 서비스 요청
+R_VEHICLETOWINGSERVICE_DESC*###*차량을 견인해 끌어내기
+R_VEHICLEHOOKMAGNETOMETER_TITLE*###*자기 탐지기 사용
+R_VEHICLEHOOKMAGNETOMETER_DESC*###*차량에서 자기 탐지기 사용/해제
+R_VEHICLERADIOTOGGLE_TITLE*###*라디오 전환
+R_VEHICLERADIOTOGGLE_DESC*###*자동차 라디오 켜기/끄기
+R_USABLE_PICKUP_TITLE*###*줍기
+R_USABLE_PICKUP_DESC*###*이 아이템 줍기
+R_USABLE_USE_TITLE*###*사용
+R_USABLE_USE_DESC*###*이 아이템 사용
+R_RADIO_NEXT_TITLE*###*다음 음악
+R_RADIO_NEXT_DESC*###*다음 음악
+R_RADIO_PREVIOUS_TITLE*###*이전 음악
+R_RADIO_PREVIOUS_DESC*###*이전 음악
+R_RADIO_STATIONS_TITLE*###*라디오 방송국 선택
+R_RADIO_STATIONS_DESC*###*라디오 선택 메뉴 열기
+R_RADIO_STATIONS_TOGGLE_TITLE*###*라디오 켜기/끄기
+R_RADIO_STATIONS_TOGGLE_DESC*###*라디오 켜기/끄기
+R_TOOLBELT_DESC*###*도구 벨트 열기
+W_TANKCREW_COMMANDER*###*전차장
+W_TANKCREW_GUNNER*###*포수
+W_TANKCREW_LOADER*###*장전수
+W_TANKCREW_DRIVER*###*조종수
+W_TANKCREW_RADIOOPERATOR*###*무전수
+W_CANNOT_BUYTANK_TITLE*###*전차 구매 불가
+W_CANNOT_MOVETOMUSEUM_TITLE*###*전차 박물관으로 이동 불가
+W_CANNOT_MOVETOMUSEUM_REASON_UNASSEMBLED*###*전차를 충분히 조립하지 않았습니다. 최소한 {0}%이상 조립하세요.
+W_CANNOT_MOVETOMUSEUM_REASON_NOTREPAIRED*###*전차를 충분히 수리하지 않았습니다. 최소한 {0}%이상 수리하세요.
+W_CANNOT_ACCEPTNEWJOB_TITLE*###*새 작업 수락 불가
+W_CANNOT_STARTEXTRACTION_TITLE*###*발굴 임무 시작 불가
+W_CANNOT_REASON_NOSLOTS*###*빈 전차 슬롯이 없습니다. 먼저 전차 슬롯을 비우세요.
+W_CANNOT_REASON_TOOLS*###*필요한 도구/차량을 전부 해금하지 않았습니다. 업그레이드 패널에서 {0}을(를) 먼저 해금해야 합니다.
+W_CANNOT_REASON_MAXACTIVE*###*동시에 활성화할 수 있는 의뢰는 최대 3개입니다.
+D_JOBTO*###*에게:
+D_JOBTITLE*###*제목:
+D_JOBLOCATION*###*위치:
+D_JOB_MONEY_POTENTIAL*###*잠재적인 매출:
+D_JOB_MONEY_RECEIVED*###*실제 매출:
+D_JOBREPUTATION*###*평판:
+D_JOB_TIME_MAX*###*기한:
+D_JOB_TIME_REMAINING*###*남은 시간:
+D_JOB_TIME_AVAILABILITY*###*가능한 시간:
+D_JOB_REQUIRED_ASSEMBLY*###*필요 조립 상태:
+D_JOB_REQUIRED_REPAIRS*###*필요 수리 상태:
+D_JOB_REQUIRED_CONDITION*###*필요 조건:
+D_JOB_REQUIRED_TESTRUN*###*시운전 완료
+D_JOB_RENOVATE_MODULE*###*모듈 복원: {0}
+D_TANK_COMPLETION_ASSEMBLY*###*전차 조립 완료:
+D_TANK_COMPLETION_REPAIRS*###*전차 수리 완료:
+D_TANK_CONDITION*###*전차 전체 상태
+D_JOBNODATA*###*데이터 없음
+D_JOBTYPE*###*종류:
+D_JOBPURPOSE*###*목표:
+D_TANK_STATUS_REPAIRS*###*전차 수리 완료:
+D_TANK_STATUS_ASSEMBLY*###*전차 조립 완료:
+D_TANK_STATUS_CLEANED*###*청소 완료:
+D_TANK_STATUS_RUSTREMOVAL*###*녹 제거 완료:
+D_TANK_STATUS_SANDING*###*샌딩 완료:
+D_TANK_STATUS_PRIMER*###*프라이머 완료:
+D_TANK_STATUS_PAINT*###*도색 완료:
+D_TANK_STATUS_TOOLPROOF*###*수리 불가
+D_ELEMENT_STATUS_CLEANED*###*청소 완료
+D_ELEMENT_STATUS_FINISHED*###*완료됨
+T_LIST_TITLE*###*튜토리얼 목록
+T_HELPLABELS*###*{0} - 튜토리얼 목록 열기 | {1} - 중요한 물체 하이라이트
+T_TUTORIALLIST*###*튜토리얼 목록 열기
+T_HIGHLIGHT*###*중요한 물체 하이라이트
+T_RESET*###*초기화
+T_TUTORIAL*###*튜토리얼
+T_DISABLE*###*비활성화
+T_INSTRUCTION_GUI_DESKTOP_TITLE*###*데스크탑 패널
+T_INSTRUCTION_GUI_DESKTOP_DESC*###*이 패널에서는:\n\n- 이메일 관리자 (새 의뢰 관리)\n- 작업 관리 (현재 의뢰 관리)\n- 전차 부품 상점 (전차 부품이나 설계도 구입)\n- 은행 (대출)
+T_INSTRUCTION_GUI_EMAIL_TITLE*###*이메일 패널
+T_INSTRUCTION_GUI_EMAIL_DESC*###*이 패널에서는 도착한 이메일을 관리할 수 있습니다.\n\n이메일은 클릭해서 열어 볼 수 있습니다 (메일 목록에서).\n이메일을 선택하면, 의뢰를 수락하거나 거절할 수 있습니다. 또, 이메일을 필터링할 수 있습니다 (예: 완료한 의뢰). X버튼을 누르면 이메일을 삭제할 수 있습니다.
+T_INSTRUCTION_GUI_ORGANIZER_TITLE*###*작업 관리 패널
+T_INSTRUCTION_GUI_ORGANIZER_DESC*###*이 패널에서는 현재 활성화된 의뢰들을 관리할 수 있습니다.\n\n언제든지 아무 의뢰나 종료할 수 있습니다. 의뢰가 발굴 임무면, 발굴을 이 패널에서 시작할 수 있습니다.\n\n기억하세요, 성공 요건을 갖추지 못한 의뢰를 종료하면 벌금을 물게 됩니다.
+T_INSTRUCTION_GUI_PARTSSHOP_TITLE*###*부품 상점 패널
+T_INSTRUCTION_GUI_PARTSSHOP_DESC*###*이 패널에서는 전차에 필요한 부품을 구매할 수 있습니다.\n\n관심이 있는 전차를 먼저 선택한 후, 원하는 부품을 구매할 수 있습니다. 또, 각 모듈에 해당하는 부품만 필터링해서 볼 수 있습니다 (예: 기동 계통만).\n\n또 부품을 제작하는데 필요한 전차 설계도도 구매할 수 있습니다.
+T_INSTRUCTION_GUI_BANK_TITLE*###*은행 패널
+T_INSTRUCTION_GUI_BANK_DESC*###*이 패널에서는 은행 대출을 받을 수 있습니다.\n\n대출을 받기 위해서는, 먼저 대출을 원하는 만큼 설정하고 대출 버튼을 누릅니다. 돈이 충분하다면, 언제든지 상환 버튼을 눌러 대출을 상환할 수 있습니다.
+T_INSTRUCTION_GUI_UPGRADE_TITLE*###*업그레이드 패널
+T_INSTRUCTION_GUI_UPGRADE_DESC*###*이 패널에서는 3종류의 다양한 업그레이드들을 해금할 수 있습니다:\n\n- 도구 (새 도구나 차량, 예: 그라인더)\n- 운영 (예: 도색실)\n- 패시브 (예: 부품 상점 할인).\n\n업그레이드를 해금하려면, 원하는 업그레이드를 선택한 후 해금 버튼을 누르세요.
+T_INSTRUCTION_GUI_CUSTOMIZER_TITLE*###*커스터마이즈 패널
+T_INSTRUCTION_GUI_CUSTOMIZER_DESC*###*이 패널에서는 다양한 방들을 커스터마이즈 할 수 있습니다 (예: 박물관). 가능한 방들:\n- 작업실\n- 사무실\n- 제작실\n- 도색실\n- 박물관\n\가능한 커스텀:\n- 벽/천장/바닥 재질\n- 포스터\n- (박물관) 스탠드\n- (박물관) 전시물 스탠드
+T_INSTRUCTION_GUI_RADIAL_TITLE*###*방사 패널
+T_INSTRUCTION_GUI_RADIAL_DESC*###*이 패널은 플레이어가 사용할 수 있는 다양한 기능들을 보여줍니다 (예: 전차에게 사용할 수 있는 기능들).
+T_INSTRUCTION_GUI_PAINTROOM_TITLE*###*도색 패널
+T_INSTRUCTION_GUI_PAINTROOM_DESC*###*이 패널은 도색실에 있는 전차의 외관을 꾸밀 수 있습니다. 다양한 기능들:\n- 전차 색 변경\n- 데칼 적용\n- 위장 변경\n\n초기화 버튼으로 전차의 초기 상태로 돌아갈 수 있습니다 (전차 외관을 기본값으로 모두 변경합니다).\n\n기억하세요, 전차 외관을 바꾸려면 전차를 완벽히 복원해야 합니다 (도색까지).
+T_INSTRUCTION_GUI_CRAFTING_TITLE*###*제작 패널
+T_INSTRUCTION_GUI_CRAFTING_DESC*###*이 패널에서는 전차 부품을 제작할 수 있습니다 (전차 부품 상점에서 설계도를 구매한 경우). 부품을 제작하려면:\n- 전차 선택 (예: 티거 I)\n- 제작하려는 부품 선택 (같은 부품 여러개 제작 가능)\n- 제작용 조각이 충분하다면, 제작 버튼을 눌러 부품을 제작할 수 있습니다.
+T_INSTRUCTION_GUI_STORAGE_TITLE*###*창고 패널
+T_INSTRUCTION_GUI_STORAGE_DESC*###*이 패널에서는 플레이어가 가지고 있는 부품들을 관리할 수 있습니다:\n- 전차에서 해체한 부품\n- 제작 패널에서 제작한 부품\n- 전차 부품 상점에서 구매한 부품\n\n전차를 선택하면 이 전차와 호환되는 모든 부품들이 표시됩니다.\n\n부품으로 할 수 있는 것들:\n- 재활용 (부품을 파괴해 제작용 조각 획득)\n- 판매 (부품을 판매해 돈 획득)\n- 수리 (부품 수리)
+T_INSTRUCTION_GUI_ASSEMBLY_TITLE*###*조립 패널
+T_INSTRUCTION_GUI_ASSEMBLY_DESC*###*이 패널에서는 현재 선택된 부품에 다른 부품을 조립할 수 있습니다. 이 패널에 표시된 부품들은 현재 선택된 부품과 호환되는 부품들입니다. 또, 호환되지만 다른 전차에서 온 부품도 여기에 표시됩니다.
+T_INSTRUCTION_GUI_EXTRACTION_MAP_TITLE*###*발굴 맵
+T_INSTRUCTION_GUI_EXTRACTION_MAP_DESC*###*이 패널에서는 다음과 같은 기능을 수행할 수 있습니다:\n- 발굴 작업 요청과 드론 조종 전환 (드론을 해금했을 때만)\n- 위성 지도와 지표 관통 스캔 지도 (자기 탐지기나 드론을 해금했을 때만)
+T_INSTRUCTION_USABLE_TITLE*###*사용가능한 물체들
+T_INSTRUCTION_USABLE_DESC*###*Tank Mechanic Simulator에는 사용할 수 있는 다양한 물체들이 있습니다. 일부 물체는 주울 수 있고 (도구, 전등 등), 일부는 상호작용할 수 있으며 (문이나 라디오), 일부는 패널을 열 수 있습니다 (업그레이드 패널, 도색 패널, 제작 패널 등). 구역에 모든 사용가능한 물체들을 하이라이트하려면 {0}을(를) 사용하세요.
+T_INSTRUCTION_TOOLS_HAMMER_TITLE*###*해머
+T_INSTRUCTION_TOOLS_HAMMER_DESC*###*해머는 전차 부품을 한 번에 해체할 때 사용합니다. 플레이어가 (마우스로) 조준한 아무 전차 부품이든지 해머로 때리면 (마우스 좌클릭으로) 전차에서 떨어집니다.\n\n기억하세요, 해머로 때린 부품의 내구도는 감소합니다.
+T_INSTRUCTION_TOOLS_RUSTREMOVAL_TITLE*###*녹 제거 도구
+T_INSTRUCTION_TOOLS_RUSTREMOVAL_DESC*###*녹 제거 도구는 전차를 복원하면서 전차의 녹을 제거합니다.\n\n복원 순서:\n- 녹 제거\n- 모래 분사\n- 프라이머 칠하기\n- 도색\n\n이 도구를 든 상태로 전차를 조준한 후, 도구가 켜져 있으면 (마우스 좌클릭) 녹이 제거됩니다.\n\n일정 범위 내에 있는 모든 부품의 녹이 제거됩니다 (조준한 위치 기준으로, 구가 생성되어 이 구 안에 있는 모든 부품들의 녹이 제거됩니다). 이 기능은 플레이어가 도달하기 힘든 부품의 녹을 제거하기에 유용합니다.
+T_INSTRUCTION_TOOLS_SANDBLASTER_TITLE*###*모래 분사기
+T_INSTRUCTION_TOOLS_SANDBLASTER_DESC*###*모래 분사기는 전차를 복원하면서 전차에 매우 강한 압력으로 모래를 분사합니다.\n\n복원 순서:\n- 녹 제거\n- 모래 분사\n- 프라이머 칠하기\n- 도색\n\n이 도구를 든 상태로 전차를 조준한 후, 도구가 켜져 있으면 (마우스 좌클릭) 모래가 분사됩니다.\n\n일정 범위 내에 있는 모든 부품에 모래가 분사됩니다 (조준한 위치 기준으로, 구가 생성되어 이 구 안에 있는 모든 부품들에 모래를 분사합니다). 이 기능은 플레이어가 도달하기 힘든 부품에 모래를 분사하기에 유용합니다.
+T_INSTRUCTION_TOOLS_PAINTGUN_TITLE*###*도색 총
+T_INSTRUCTION_TOOLS_PAINTGUN_DESC*###*도색 총은 전차를 복원하면서 전차에 프라이머나 페인트를 칠합니다.\n\n복원 순서:\n- 녹 제거\n- 모래 분사\n- 프라이머 칠하기\n- 도색\n\n이 도구를 든 상태로 전차를 조준한 후, 도구가 켜져 있으면 (마우스 좌클릭) 프라이머나 페인트를 분사합니다 (현재 도색 모드에 따라 - {0} 키로 전환).\n\n일정 범위 내에 있는 모든 부품에 페인트를 분사합니다 (조준한 위치 기준으로, 구가 생성되어 이 구 안에 있는 모든 부품들을 도색합니다). 이 기능은 플레이어가 도달하기 힘든 부품을 도색하기에 유용합니다.
+T_INSTRUCTION_TOOLS_GRINDER_TITLE*###*그라인더
+T_INSTRUCTION_TOOLS_GRINDER_DESC*###*그라인더는 조준한 부품의 녹을 제거하거나 (녹 제거 모드) 자를 (해체 모드) 때 유용합니다. 그라인더 모드는 {0} 키를 이용해 전환합니다.\n\n도구를 들고 부품을 조준한 후 도구가 켜져 있으면 (마우스 좌클릭을 눌러) 부품이 잘리거나 녹이 제거됩니다.
+T_INSTRUCTION_TOOLS_MAGNETOMETER_TITLE*###*자기 탐지기
+T_INSTRUCTION_TOOLS_MAGNETOMETER_DESC*###*자기 탐지기는 발굴 임무 도중 지표를 스캔할 수 있습니다. 업그레이드 패널에서 자기 탐지기를 해금해야 합니다.\n\n사용법:\n- 자기 탐지기를 클릭해 줍기\n- 스캔하고자 하는 지역을 이동하며 스캔\n- 자기 탐지기의 디스플레이에 모든 금속 물체가 표시됨\n\n스캔을 끝내면, 태블릿으로 가서 맵 모드를 위성 모드에서 GPR 모드로 전환하세요. 이 화면에서 스캔 결과를 보여줍니다.
+T_INSTRUCTION_TOOLS_SHOVEL_TITLE*###*삽
+T_INSTRUCTION_TOOLS_SHOVEL_DESC*###*삽은 발굴 임무 도중 지표면에 작은 구멍을 만듭니다. 삽은 발굴을 시작할 때 필수적인 도구 중 하나입니다. 삽은 당신이 전차를 찾았는지 불확실할 때 유용합니다 - 큰 도구(태블릿에서 발굴 요청)를 사용하기 전에 삽을 사용하면 비용을 절약할 수 있습니다.
+T_INSTRUCTION_TOOLS_METALDETECTOR_TITLE*###*금속 탐지기
+T_INSTRUCTION_TOOLS_METALDETECTOR_DESC*###*금속 탐지기는 땅 속에 숨겨진 모든 금속 물체를 탐지할 수 있습니다. 금속 탐지기를 손에 든 상태로 근처에 금속 물체가 있으면, 금속 탐지기가 소리를 냅니다. 금속 물체가 더 가까울수록 소리가 더 빠르게 납니다.
+T_INSTRUCTION_TOOLS_WATERHOSE_TITLE*###*압력 워셔
+T_INSTRUCTION_TOOLS_WATERHOSE_DESC*###*압셕 워셔로 전차에 묻은 진흙과 먼지를 제거할 수 있습니다. 발굴 도중 전차를 트레일러에 싣기 전에 반드시 필요합니다.
+T_INSTRUCTION_TOOLS_PUMP_TITLE*###*펌프
+T_INSTRUCTION_TOOLS_PUMP_DESC*###*펌프는 전차 주변의 물과 진흙을 뽑아낼 때 필요합니다. 발굴 도중 전차에 압력 워셔를 사용하기 전에 필요합니다.
+T_INSTRUCTION_AREA_WORKSHOP_TITLE*###*작업실
+T_INSTRUCTION_AREA_WORKSHOP_DESC*###*작업실에 어서요세요!\n\n이 구역에서는 구역에 있는 전차를 복원할 수 있습니다. (작업실 레벨 2를 해금하면 여러 전차 슬롯을 제공합니다)
+T_INSTRUCTION_AREA_YARD_TITLE*###*마당
+T_INSTRUCTION_AREA_YARD_DESC*###*이 구역에 전차를 보관합니다 (작업실보다 훨씬 더 많은 전차를 보관합니다).\n\n또 이 구역에는 쓰레기장/폐차장이 있어서, 쓰레기를 클릭해 제작 부품을 획득할 수 있습니다.
+T_INSTRUCTION_AREA_MUSEUM_TITLE*###*박물관
+T_INSTRUCTION_AREA_MUSEUM_DESC*###*이 구역에는 전차와 발굴 도중 찾은 수집품들을 전시할 수 있습니다 (평판 점수를 얻어 업그레이드에 사용하세요).
+T_INSTRUCTION_AREA_TESTDRIVEYARD_TITLE*###*시운전 구역
+T_INSTRUCTION_AREA_TESTDRIVEYARD_DESC*###*이 구역에서는 특별한 장애물 코스에서 전차를 운전할 수 있습니다. 방사 메뉴를 이용해 전차 안에 탑승하거나 엔진 시동을 켜거나 끌 수 있습니다.
+T_INSTRUCTION_AREA_TANKGRAVEYARD_TITLE*###*폐차장
+T_INSTRUCTION_AREA_TANKGRAVEYARD_DESC*###*이 구역에서는 버려진 전차를 구매하거나 제작 부품을 획득할 수 있습니다.\n\n여기에서 찾은 전차의 상태는 의뢰로 받은 전차의 상태보다 훨씬 나쁩니다.
+T_INSTRUCTION_AREA_EXTRACTION_TITLE*###*발굴 구역
+T_INSTRUCTION_AREA_EXTRACTION_DESC*###*이 구역에서 발굴 임무를 진행합니다. 여러분은 다음과 같은 도구들을 이용해 전차를 찾아야 합니다:\n- 삽\n- 금속 탐지기\n- 자기 탐지기\n- 드론\n- 차량 (오프로드 차량이나 사륜 오토바이)\n\n발굴을 완료하는 법:\n- 맵 확인 (차량에 있는 태블릿)\n- 적절한 전차 구역으로 이동\n- 금속 탐지기나 자기 탐지기 사용/드론으로 전차가 있는 곳 표시 ({0} 키로 맵에 표시)\n- 삽으로 전차 위치 확인\n- 전차를 찾으면 태블릿에서 발굴 요청\n- 전차를 파내면 펌프로 물과 진흙 퍼내기 (전원을 켜고 파이프를 물에 넣기)\n- 압력 워셔로 전차 청소\n- 트레일러에 전차 싣기 (방사 메뉴)\n- 작업실로 복귀 (일시정지 메뉴)
+T_INSTRUCTION_TESTDRIVE_TITLE*###*시운전
+T_INSTRUCTION_TESTDRIVE_DESC*###*전차를 시운전하기 전에 몇 가지 조건이 있습니다:\n- 전차 모듈: 엔진과 포탑 조립 완료\n- 이 모듈들의 부품 모두 수리 및 조립 완료:\n- 엔진\n- 궤도\n- 기동 계통\n- 연료 체계\n- 변속기\n\n시운전을 시작하려면 전차에 접근해 방사 메뉴를 엽니다. 시운전을 선택하고, 시운전 시작을 선택합니다.\n\n엔진 시동을 켜려면 이 모듈들을 모두 수리하고 조립해야 합니다:\n- 엔진\n- 연료 체계\n- 변속기\n\n또 엔진 시동을 켜려면 여러 유체들을 채워야 합니다:\n- 냉각수\n- 연료\n- 엔진오일\n\n엔진 시동을 켜려면, 방사 메뉴에서 시운전을 선택하고, 엔진 시작을 선택하세요. 유체를 채우려면 시운전 방사 메뉴에서 유체 채우기를 선택합니다.
+T_INSTRUCTION_FLUIDS_TITLE*###*유체
+T_INSTRUCTION_FLUIDS_DESC*###*전차 엔진 시동을 켜려면, 모든 유체를 채워야 합니다. 방사 메뉴에서 냉각수, 연료, 엔진오일을 각각 채울 수 있습니다.\n\n유체를 채우는 법:\n- 채우려는 유체의 통을 선택 (방사 메뉴에서, 유체 종류를 선택하고, 유체의 통이 여러 개면 통 선택)\n- 통을 선택하면, 마우스 좌클릭으로 유체 채우기\n 통을 선택하고 마우스 우클릭하면 같은 유체의 다른 통으로 전환합니다.
+T_INSTRUCTION_STANDS_TITLE*###*스탠드
+T_INSTRUCTION_STANDS_DESC*###*특정 전차 모듈을 복원하려면 특별한 스탠드에 거치해야 합니다. 엔진이나 포탑 내부를 복원하려면:\n- 전차에 접근해 방사 메뉴\n- 전차 모듈 열기 선택\n- 이동하려는 모듈 선택\n- 스탠드 선택\n\n모듈을 스탠드에 거치하면 복원을 시작할 수 있습니다.
+T_INSTRUCTION_DISASSEMBLY_TITLE*###*해체
+T_INSTRUCTION_DISASSEMBLY_DESC*###*전차 부품을 해체하려면:\n- 전차 부품 조준\n- 마우스 우클릭 홀드\n- 부품에 나사가 있으면 모든 나사 해제 필요\n\n헤체한 모든 부품은 창고 패널으로 이동합니다.
+T_INSTRUCTION_ASSEMBLY_TITLE*###*조립
+T_INSTRUCTION_ASSEMBLY_DESC*###*전차 부품을 조립하려면:\n- 조립 모드로 전환 (전차를 조준하면서 방사 메뉴에서 전환)\n- 해체된 부품 조준\n- 마우스 우클릭 홀드\n- 조립 패널이 열리면, 조립할 부품 선택\n\n조립한 부품은 창고 패널에서 제거됩니다.
+T_INSTRUCTION_SCREWS_TITLE*###*나사
+T_INSTRUCTION_SCREWS_DESC*###*일부 부품은 나사가 있습니다. 그 부품들은 해체하거나 조립할 때, 나사를 풀거나 조여야 합니다. 일부 나사들은 녹슬어서, 특별한 조치를 취해야 합니다. 녹슨 나사를 제거하려면:\n- 해머 (바로 때리기)\n- 그라인더 (자르기 모드)\n- 렌치 (마우스 우클릭)
+T_INSTRUCTION_TANKINTERIOR_TITLE*###*전차 내부
+T_INSTRUCTION_TANKINTERIOR_DESC*###*전차 내부에서는 방사 메뉴에서 현재 좌석을 이동할 수 있습니다 (전차들은 대부분 비슷한 승무원들이 탑승합니다):\n- 전차장\n- 포수\n- 장전수\n- 조종수\n- 무전수
+T_INSTRUCTION_OFFROADVEHICLE_TITLE*###*오프로드 차량
+T_INSTRUCTION_OFFROADVEHICLE_DESC*###*오프로드 차량을 타고 발굴 구역을 돌아다닐 수 있습니다. 차량에는 발굴에 필요한 모든 도구들이 있습니다.\n\n도구를 줍거나 내려놓으려면, 차량에 접근해서 도구를 마우스 좌클릭하거나, 차량에 접근해 도구를 내려놓으세요. 도구가 차량에 닿으면, 도구는 자동으로 차량에 실립니다.
+T_INSTRUCTION_DRONE_TITLE*###*드론
+T_INSTRUCTION_DRONE_DESC*###*드론은 발굴 도중 지표를 스캔합니다. 드론을 해금하면, 발굴 현장에 드론이 나타납니다. 드론 조종:\n- 오프로드 차량에서 태블릿 선택\n- 태블릿을 열어 드론 조종 모드 선택 (발굴 모드와 드론 조종 모드 전환)\n- 태블릿의 맵에서 위치를 선택해 드론 이동\n- GPR 모드에서 스캔 결과 확인
+T_INSTRUCTION_MAPMARKERS_TITLE*###*맵 마커
+T_INSTRUCTION_MAPMARKERS_DESC*###*맵 마커는 발굴 도중 어디든지 표시를 남길 수 있게 합니다. 표시를 남기려면 M키를 누르세요. 이러면 맵에 표시를 남기고 그 위치에는 작은 깃발을 설치합니다.
+T_DEMO_WELCOME_01*###*Tank Mechanic Simulator의 체험판에 오신 것을 환영합니다. 저희 게임과 함께 좋은 시간 보내세요 :)
+T_DEMO_WELCOME_02*###*체험판에는 발굴하거나 수리할 수 있는 3대의 전차가 준비되어 있습니다.\n- 독일의 전설적인 6호 전차 티거 I H1형\n- 미국의 유명한 M4A3E8 셔먼\n- 소련의 철제 괴물 KV-1.
+T_STORY_OBJECTIVE_ASSEMBLEPART_TITLE*###*하이라이트된 부품 조립
+T_STORY_OBJECTIVE_ASSEMBLEPART_DESC*###*선택된 부품에 마우스 우클릭해서 부품을 조립하세요.
+T_STORY_OBJECTIVE_BUY_FINALIZE_TITLE*###*결제
+T_STORY_OBJECTIVE_BUY_FINALIZE_DESC*###*하이라이트된 버튼을 클릭해 결제하고 선택한 전차 부품들을 구매하세요.
+T_STORY_OBJECTIVE_BUY_PARTS_TITLE*###*부품 구매
+T_STORY_OBJECTIVE_BUY_PARTS_DESC*###*새 전차 부품을 구매하려면, 목록에서 선택한 후 결제 버튼을 누르세요.
+T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_TITLE*###*없는 부품 확인
+T_STORY_OBJECTIVE_CHECKMISSING_ANALISYS_DESC*###*목록에서 회색 표시된 부품을 찾으세요. 이 부품들은 없는 부품들로, 새로 구매해서 조립해야 합니다. 이 이름을 기억한 후 메뉴를 닫으세요.
+T_STORY_OBJECTIVE_DISASSEMBLEPART_TITLE*###*하이라이트된 부품 해체
+T_STORY_OBJECTIVE_DISASSEMBLEPART_DESC*###*선택된 부품을 마우스 우클릭해서 부품을 해체하세요.
+T_STORY_OBJECTIVE_FINISHCONTRACT_TITLE*###*의뢰 완료
+T_STORY_OBJECTIVE_FINISHCONTRACT_DESC*###*목록에서 의뢰를 선택한 후 하이라이트된 버튼을 눌러 의뢰를 완료하세요.
+T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_TITLE*###*의뢰 완료
+T_STORY_OBJECTIVE_FINISHCONTRACT_GENERAL_DESC*###*작업 관리 메뉴를 열고 의뢰를 완료하세요.
+T_STORY_OBJECTIVE_MOVE_TANK_TITLE*###*전차 이동
+T_STORY_OBJECTIVE_MOVE_TANK_DESC*###*전차를 다시 작업실로 옮기세요. 전차에 접근해서 전차를 바라보고 방사 메뉴 (마우스 휠 클릭)을 누르세요.
+T_STORY_OBJECTIVE_MOVE_TOTANK_TITLE*###*방 이동
+T_STORY_OBJECTIVE_MOVE_TOTANK_DESC*###*전차 {0}(으)로 이동하세요. {1}에 위치해 있습니다.
+T_STORY_OBJECTIVE_OPEN_RADIALMENU_TITLE*###*방사 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_RADIALMENU_DESC*###*마우스 휠 클릭으로 방사 메뉴를 여세요.
+T_STORY_OBJECTIVE_OPEN_STORAGEMENU_TITLE*###*창고 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_STORAGEMENU_DESC*###*하이라이트된 방사 메뉴 버튼을 눌러 창고 메뉴를 여세요.
+T_STORY_OBJECTIVE_OPEN_TANKANALISYS_TITLE*###*전차 분석 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_TANKANALISYS_DESC*###*전차에 다가가 전차를 바라보며 마우스 휠 클릭으로 방사 메뉴를 여세요.
+T_STORY_OBJECTIVE_OPEN_PC_TITLE*###*컴퓨터 열기
+T_STORY_OBJECTIVE_OPEN_PC_DESC*###*하이라이트된 PC에 다가가 마우스 좌클릭하세요.
+T_STORY_OBJECTIVE_OPEN_ORGANIZER_TITLE*###*작업 관리 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_ORGANIZER_DESC*###*하이라이트된 버튼을 눌러 작업 관리 메뉴를 여세요.
+T_STORY_OBJECTIVE_OPEN_SHOP_TITLE*###*상점 메뉴 열기
+T_STORY_OBJECTIVE_OPEN_SHOP_DESC*###*하이라이트된 버튼을 눌러 상점 메뉴를 여세요.
+T_STORY_OBJECTIVE_ORDERREPAIRS_TITLE*###*수리 주문
+T_STORY_OBJECTIVE_ORDERREPAIRS_DESC*###*하이라이트된 버튼을 눌러 선택한 부품들을 수리 요청하세요.
+T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_TITLE*###*부품 수리
+T_STORY_OBJECTIVE_REPAIRPARTS_STORAGE_DESC*###*수리하려는 부품을 선택 (마우스 좌클릭)한 후 하이라이트된 버튼을 눌러 수리하세요.
+T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_TITLE*###*부품 선택
+T_STORY_OBJECTIVE_SELECTHIGHLIGHTED_PART_DESC*###*아무 하이라이트된 전차 부품에 다가가 선택(마우스 좌클릭)하세요.
+T_STORY_OBJECTIVE_SELECT_RADIALOPTION_TITLE*###*선택
+T_STORY_OBJECTIVE_SELECT_RADIALOPTION_DESC*###*하이라이트된 버튼을 선택하세요.
+T_STORY_OBJECTIVE_SELECTTANK_STORAGE_TITLE*###*목록에서 전차 선택
+T_STORY_OBJECTIVE_SELECTTANK_STORAGE_DESC*###*하이라이트된 버튼을 눌러 전차 목록을 여세요. {0}을(를) 선택하세요.
+T_STORY_OBJECTIVE_SELECTTANK_SHOP_TITLE*###*전차 선택
+T_STORY_OBJECTIVE_SELECTTANK_SHOP_DESC*###*하이라이트된 전차를 선택해 전차 부품 메뉴를 여세요.
+T_STORY_OBJECTIVE_START_EXTRACTION_TITLE*###*발굴 임무 시작
+T_STORY_OBJECTIVE_START_EXTRACTION_DESC*###*하이라이트된 버튼을 눌러 발굴 임무를 시작하세요.
+T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_TITLE*###*해체 모드로 전환
+T_STORY_OBJECTIVE_SWITCHTODISASSEMBLY_DESC*###*전차 부품을 해체하려면, 해체 모드여야 합니다.
+T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_TITLE*###*조립 모드로 전환
+T_STORY_OBJECTIVE_SWITCHTOASSEMBLY_DESC*###*전차 부품을 조립하려면, 조립 모드여야 합니다.
+T_STORY_OBJECTIVE_WAITFORREPAIRS_TITLE*###*수리 대기
+T_STORY_OBJECTIVE_WAITFORREPAIRS_DESC*###*이제 부품이 수리될 때까지 기다리세요. 창고 메뉴를 닫고 다른 작업을 해도 됩니다.
+T_STORY_OBJECTIVE_SKIPTUTORIAL*###*튜토리얼 건너뛰기
+J_STORY_TITLE_01*###*새로운 시작
+J_STORY_TITLE_02*###*쇼핑 시간
+J_STORY_TITLE_03*###*전차 탐색과 발굴
+J_STORY_TITLE_04*###*전차의 녹 제거
+J_STORY_TITLE_05*###*모래 분사
+J_STORY_TITLE_06*###*프라이머
+J_STORY_TITLE_07*###*수리 및 시운전
+J_STORY_TITLE_08*###*박물관 이동
+J_STORY_TITLE_09*###*사격장 이동
+J_STORY_DESC_01*###*내가 듣기로, 네 아버지를 이어 네가 전차 사업을 이어받았다고 하더구나. 네 아버지는 내 친한 친구였으니까, 깊은 조의를 보낸다.\n\n 이제, 네가 일어설 수 있게 도와주고자, 내가 제안을 하나 하지 - 내 KV-1을 분해하고 고장난 부품을 수리해서 다시 조립해다오.\n행운을 빈다.
+J_STORY_DESC_02*###*잘했다!\n\n내게 다른 전차가 있는데, 이제는 조립을 부탁한다.\n온라인 상점에서 내 T-34/76의 없어진 부품을 사서 조립해다오.\n이번에도 행운을 빈다.
+J_STORY_DESC_03*###*이번에도 잘했다!\n\n이제 내겐 너를 위한 전차가 없구나.\n하지만 네가 전차를 파낼 수 있는 지역을 알고 있단다. 이 전차는 네 것이야.\n행운을 빈다.
+J_STORY_DESC_04*###*당신의 삼촌, 톰은 당신을 저희에게 추천했습니다.\n전차의 포탑과 차체 외부의 녹 제거를 주문하고 싶습니다.\n존경을 담아,
+J_STORY_DESC_05*###*저희에게 더 큰 요청이 있습니다.\n전차 외부의 녹을 제거하고, 또 모래 분사도 요청하고 싶습니다.\n\n행운을 빕니다.
+J_STORY_DESC_06*###*저희는 전차 의뢰를 주문하고 싶습니다.\n최종 목표는 전차 전체에 프라이머를 칠하는 것입니다. 또, 도구로 수리할 수 없는 부품들을 교체해 주세요.\n\n존경을 담아,
+J_STORY_DESC_07*###*네가 잘 해내고 있는 것 같구나, 축하한다 :)\n네게 작은 부탁을 하려고 한다.\n내 컬렉션에 있는 전차 중 하나에 기동 계통과 엔진 수리가 필요하단다. 또, 전차의 시운전도 부탁한다.\n\n행운을 담아,
+J_STORY_DESC_08*###*넌 이전 작업을 잘 해주었지만, 또 다른 부탁이 있다.\n이 전차를 완전히 복원해주고, 박물관에 한동안 전시해 주겠니?\n\n나중에 돌려주기만 하면 된단다 ;)\n\n행운을 담아,
+J_STORY_DESC_09*###*너에게 줄 좋은 기회가 생겼다.\n이 전차에 없어진 부품을 조립하고 사격장에 가져가 봐라.\n\n즐거운 시간 되렴.
+J_NAME_1*###*알렉산더
+J_NAME_2*###*애덤
+J_NAME_3*###*세바스찬
+J_NAME_4*###*미로
+J_NAME_5*###*렉
+J_NAME_6*###*존
+J_NAME_7*###*이반
+J_NAME_8*###*이고르
+J_NAME_9*###*로버트
+J_NAME_10*###*마이크
+J_NAME_11*###*피터
+J_NAME_12*###*패트
+J_NAME_13*###*피터
+J_NAME_14*###*마크
+J_NAME_15*###*스콧
+J_NAME_16*###*프레드
+J_NAME_17*###*빌
+J_NAME_18*###*밥
+J_NAME_19*###*제이슨
+J_NAME_20*###*그렉
+J_NAME_21*###*아드리안
+J_NAME_22*###*크리스
+J_NAME_23*###*나탈리
+J_NAME_24*###*조안
+J_NAME_25*###*수잔
+J_NAME_26*###*에벌린
+J_NAME_27*###*앤
+J_NAME_28*###*타니아
+J_NAME_29*###*마리아
+J_NAME_30*###*스테파니
+J_NAME_31*###*톰 삼촌
+J_NAME_32*###*(주)전차
+J_TUTORIAL_TITLE*###*첫 의뢰
+J_TUTORIAL_DESC*###*조카에게,\n\n박물관 개관을 축하한다.\n네 사업은 반드시 성공할 거라고 확신한다.\n알다시피, 나에게 복원할 {0}이(가) 있단다.\n이 작업을 위해 너를 고용하고 싶구나.\n관심 있니?\n\n네 {1}이(가)
+J_DESC_REPAIR_1*###*저기요,\n\n제게 복원해야 할 {0}이(가) 있습니다.\n\n도와주실 수 있나요?\n\n진심을 담아,\n{1}
+J_DESC_REPAIR_2*###*안녕하세요,\n\n저에게 {0}이(가) 있는데, 완벽하게 복원해 주세요.\n\n답장 주세요. 안녕히 계세요.\n{1}
+J_DESC_REPAIR_3*###*안녕하세요!\n\n급하게 도움이 필요한 {0}이(가) 있습니다.\n빨리 답장 주세요, 엄청 급하거든요!\n\n{1}
+J_DESC_REPAIR_4*###*아주 뛰어난 {0}(에)게 약간의 도움이 필요합니다.
+J_DESC_EXTRACT_1*###*저기요,\n\n저희가 얻은 정보에, 발굴할 전차가 있다고 합니다.\n\n관심 있으신가요?\n\n진심을 담아,\n{0}
+J_DESC_EXTRACT_2*###*안녕하세요,\n\n저희가 숨겨진 전차가 어디 있는지 알고 있어요!\n\n저희끼리 작업하기는 어려워서, 도와주실 수 있나요?\n\n{0}
+J_DESC_EXTRACT_3*###*안녕하세요,\n\n저희 국립공원에 파괴된 2차 세계 대전 당시의 전차가 있습니다.\n\n이 전차의 발굴 지원을 요청합니다.\n\n진심을 담아,\n{0}
+J_TITLE_REPAIR_1*###*수리 의뢰
+J_TITLE_REPAIR_2*###*복원 도움 필요
+J_TITLE_REPAIR_3*###*도와주세요!
+J_TITLE_REPAIR_4*###*뛰어난 전차에 도움이 필요합니다
+J_TITLE_EXTRACT_1*###*전차 발굴 기회
+J_TITLE_EXTRACT_2*###*저희가 전차를 찾았어요!
+J_TITLE_EXTRACT_3*###*삽을 집으세요, 저희가 무언가를 찾았습니다.
+J_TITLE_EXTRACT_4*###*전차 정보
+J_TITLE_EXTRACT_5*###*잊혀진 전차
+STEAM_ABOUT_GAME_1*###*Tank Mechanic Simulator는 2차 세계 대전 당시의 전차, 승무원 그리고 그들이 전쟁사에 기여한 것들에 대한 게임입니다.
+STEAM_ABOUT_GAME_2*###*전차 박물관 관장으로서 당신의 일은 파괴되거나 버려진 전차를 구해서 복원하는 것입니다.
+STEAM_ABOUT_GAME_3*###*오프로드 차량을 타고 잊혀진 전차를 찾으세요. 최종 장소를 찾으면, 금속 탐지기와 같은 도구들을 이용해 전차의 정확한 위치를 파악하세요. 발굴 구역을 설정하고 전차를 발굴하세요!
+STEAM_ABOUT_GAME_4*###*갓 발굴한 전차를 차고로 수송하세요. 그리고 복원 작업을 시작하세요. 녹슨 부품을 분해하고 새 부품으로 교체하세요. 부품을 구매하거나 직접 수리하세요!
+STEAM_ABOUT_GAME_5*###*Tank Mechanic Simulator는 물리적인 지표면 변형 시스템을 가지고 있어서, 어디로 이동해서 발굴할지 신중히 선택해야 합니다.
+STEAM_ABOUT_GAME_6*###*"다음 순서로 전체 복원을 진행하세요:
+[*###*] 전차에서 진흙 제거
+[*###*] 녹 제거
+[*###*] 모래 분사
+[*###*] 프라이머 코팅
+[*###*] 최종 도색"
+STEAM_ABOUT_GAME_7*###*밤에도 발굴을 진행할 수 있습니다! 발굴 임무에는 완전한 밤과 낮 사이클이 구현되어 있습니다.
